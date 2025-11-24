@@ -1,0 +1,13 @@
+Dealer: 1104 Extension 610 first desk.
+Client: Hello?
+Dealer: Hello.
+Client: Hello.
+Dealer: Yeah.
+Client: Uh... Good morning sir, buy two future one ninety three eight zero.
+Dealer: Buy two Nifty future, right sir?
+Client: Yeah.
+Dealer: Okay, at what price sir?
+Client: Current market. Okay, current market.
+Dealer: Okay. Buy two Nifty future at market, order placed sir.
+Client: Okay.
+Dealer: Okay.

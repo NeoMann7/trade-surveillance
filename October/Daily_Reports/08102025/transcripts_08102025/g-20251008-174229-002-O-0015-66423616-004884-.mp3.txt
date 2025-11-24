@@ -1,0 +1,47 @@
+Dealer: Hello?
+Client: Hello?
+Dealer: Ha ji bolye.
+Client: Ek to na Hindustan Lever hai, haa.
+Dealer: Hmm.
+Client: Upar mein 2620 ka call buy karo, abhi current rate jo chal raha hai woh.
+Dealer: Buy, kon sa, Hindustan Lever?
+Client: Hindustan Lever 2620 ka call, buy.
+Dealer: Ek minute... 2620 ka call. Buy...
+Client: Hmm.
+Dealer: Hindustan Lever. Ek minute... haan ji.
+Client: Ek minute.
+Dealer: Kitne... quantity?
+Client: Haan ek lot.
+Dealer: Ek lot.
+Client: Theek hai.
+Dealer: Theek hai. 2620 ka call...
+Client: Hmm.
+Dealer: Buy ek lot.
+Client: Ek aur order hai, hmm.
+Dealer: Haan ji.
+Client: ITC 430 ka call.
+Dealer: ITC.
+Client: Buy, abhi jo current rate chal raha hai woh.
+Dealer: 430 ka call.
+Client: Hmm.
+Dealer: Ek lot?
+Client: Ek lot.
+Dealer: Theek hai.
+Client: Hmm.
+Dealer: Aur kya order hai?
+Client: Bas yehi do hain.
+Dealer: ITC 430 ka call buy...
+Client: Hmm.
+Dealer: Aur Hindustan Lever 2620 ka call buy. Ek minute...
+Client: Hmm.
+Dealer: Ek lot each.
+Client: Hmm.
+Dealer: Hindustan Lever 2620 call, market order pe buy, ek lot. Aur ITC 430 ka call, market order pe buy, ek lot.
+Client: Haan ji.
+Dealer: Theek hai?
+Client: Hmm.
+Dealer: Done.
+Client: Theek hai.
+Dealer: Ok.
+Client: Thank you.
+Dealer: Welcome.

@@ -1,0 +1,11 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes sir.
+Client: Ha, main Rakesh Aggarwal bol raha hu.
+Dealer: Ha, boliye.
+Client: Pehle woh Dushyant ji baith the the na.
+Dealer: Ha, woh actually break pe gaye hain sir. Uh, bataye na main team se hi baat kar rahi hu.
+Client: Nahi nahi woh toh main samajh gaya aap team se hi baat kar rahi hain. Kyunki hum unko pata tha toh ki maine woh ek naam tha ki jab tak nahi aaya tab tak woh lagata toh woh laga rahe hain ye nahi laga rahe hain woh theek hai.
+Dealer: Woh abhi hai na five minutes mein aa jayenge. Rakesh Aggarwal ji na, main sir unse bata deti hu aapko ek baar call back karne ke liye theek hai sir?
+Client: Okay, thank you.
+Dealer: Okay, yeah, thank you sir.

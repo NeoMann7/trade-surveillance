@@ -1,0 +1,8 @@
+Dealer: Hello?
+Client: Haan sir, good morning.
+Dealer: Good morning.
+Client: Ye, Auropharma 1097.10 chal raha hai aur Sequent 196.30 40 chal raha hai.
+Dealer: Dono paanch paanch lakh ka le lo.
+Client: Dono paanch paanch lakh. Thoda price upar niche karke le lo na.
+Dealer: Haan.
+Client: Theek hai. Okay.

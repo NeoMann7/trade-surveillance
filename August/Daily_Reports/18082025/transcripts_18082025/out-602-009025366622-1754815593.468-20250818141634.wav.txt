@@ -1,0 +1,27 @@
+Dealer: Hello.
+Client: Hello.
+Client: Sir, ye trade, aapka rate.
+Dealer: Ha, ek saal.
+Client: 24,450 ka put aapne becha hai, 1275 quantity. Selling price 10 rupees. 06 paise.
+Dealer: Sir ko de diya?
+Client: Haan, de diya.
+Client: Phir call. 25,350 ka call.
+Dealer: Aap bataiye Piyush.
+Client: 25,350 ka call, 900 quantity sell hua hai.
+Dealer: Ek minute. 25,350 ka call.
+Client: 900 quantity sell hua, hmm 13 rupees 22 paise.
+Dealer: Hmm?
+Client: 13 rupees 22 paise.
+Dealer: Theek hai.
+Client: Aur put aapko bol diya na? Put waapas bolun?
+Dealer: Boliye maine aapko wait karne ke liye bola aap bolte gaye toh main kuch Okay, okay.
+Client: Okay, okay. 24,450 ka put, 1275 quantity sell hua hai.
+Dealer: Ek minute, line pe rukiye. Line pe rukiye, mujhe type karna padega bhaiya. Aise nahi hai ki aap bol diye toh automatically AI se nahi hota hai. 24,450 ka put.
+Client: 1275 quantity sell hua hai.
+Dealer: 1275 quantity. Ha.
+Client: 10.06 paise.
+Dealer: Bas yahi do trade hai bhaiya?
+Client: Sorry?
+Dealer: Yahi do trade hai?
+Client: Haan, yahi do hai.
+Dealer: Okay, thank you.

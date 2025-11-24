@@ -1,0 +1,19 @@
+Dealer: Hello?
+Client: Uh, good morning ma'am. Bolo.
+Client: Yes, morning.
+Dealer: Ha, kahan?
+Client: Yes. Yes, yes, yes. You can, uh, buy Indigo.
+Dealer: Okay. How much quantity? Right now we don't have fund. So, ye liquid ETF tha mere isme. Around we have around 173 quantity.
+Client: Log gir gaya na.
+Client: Okay. Yeah, that should be enough.
+Dealer: Ha. So, so, ye sell karna hai na? Liquid ETF?
+Client: Yes.
+Client: Yeah, yeah, yeah.
+Dealer: Okay, so what I'll do, just once after market open...
+Client: Where are you taking the liquidity from?
+Dealer: No, no, no. You, you're holding the liquid ETF 173. Toh kaise, hum ye sell karke, we'll get fund around 1,73,000. So, uska buy karna hai na aapko?
+Client: 173?
+Client: Ha, ha, correct, correct.
+Dealer: So what we'll do, once market will open, I'll sell the liquid ETF of your 173 quantity at market. Whatever fund available rahega accordingly, I'll buy the Indigo at market rate and will give you the confirmation after that, okay?
+Client: Okay, okay, fine.
+Dealer: Okay, ma'am. Bye.

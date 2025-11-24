@@ -1,0 +1,21 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Haan ji.
+Client: Aur kya haal hai?
+Dealer: Aur kya haal hai?
+Client: Woh Subhash baat kar raha hoon.
+Dealer: Haan Subhash yeh mere client C ka ek order dala hua hai NIT ka.
+Client: Hmm.
+Dealer: 50. Konse client ka? Varun Agarwal ji ka kya?
+Dealer: Varun Agarwal.
+Client: Achha unka 50 order nahi buy hua tha abhi teen char char paanch din se continuous dal raha hoon main 50,000 baaki 140 mein hai.
+Client: Kya rate pe aaj kuch trade hua hai?
+Dealer: Nahi abhi tak toh kuch aaya nahi hai. Trade hua hai but 142 mein ek hi lot hua tha trade kisi aur ka.
+Client: 142.
+Dealer: Hmm.
+Dealer: Maine unko inform kiya tha toh unhone bola rehne do apne.
+Client: Hello?
+Dealer: Haan theek hai kar diya na.
+Client: Haan maine unko inform kiya tha toh unhone bola apne ko koi ghayi nahi hai 140 mein rehne do means every day rakho jab tak aata nahi hai.
+Client: Theek hai.
+Dealer: Hmm. Okay.

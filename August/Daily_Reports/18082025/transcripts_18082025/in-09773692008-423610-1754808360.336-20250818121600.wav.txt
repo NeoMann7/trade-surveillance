@@ -1,0 +1,10 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Haan Karam ji?
+Client: karna baki hai?
+Dealer: Haan haan.
+Client: kar diya hai maine advice di hai.
+Dealer: Haan mujhe mail mila abhi main check karta hu jaise hi fund update hota hai na, toh main trade kar leta hu.
+Client: Hmm.
+Dealer: Theek hai na?
+Dealer: Theek hai, main confirmation bhejta hu fir.

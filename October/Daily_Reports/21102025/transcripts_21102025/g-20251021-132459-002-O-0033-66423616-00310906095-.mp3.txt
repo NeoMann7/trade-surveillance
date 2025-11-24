@@ -1,0 +1,13 @@
+Dealer: हेलो?
+Client: अह, निफ्टी सेलिंग्स लिखो।
+Dealer: निफ्टी सेलिंग लिखूं?
+Client: 200 ही।
+Dealer: अरे आवाज नहीं आ रही थी मुझे। ओहो। 200 ही?
+Client: हां।
+Dealer: अरे आवाज नहीं आ रही थी मुझे। ओहो। हां जी।
+Client: 200 ही।
+Dealer: ओहो।
+Client: 200 ही?
+Dealer: यस। बोलिए मुझे। क्या बोल रहे थे?
+Client: 200 ही।
+Dealer: The person you are calling is currently busy. Please.

@@ -1,0 +1,34 @@
+Client: Hello.
+Client: Ha Piyush.
+Dealer: Piyush lunch ke liye gaya hai sir.
+Client: Achha. Aate hi usko bolna Aditya Gupta ka phone tha milaega.
+Dealer: Theek hai sir.
+Client: Okay.
+Dealer: Hello.
+Client: Haan Piyush, kya bolte ho?
+Dealer: Haan sir bataiye.
+Client: Achha abhi 19300 ka put sold hai na?
+Dealer: 19300 ka put sold hai sir.
+Client: Aur 19550 ka call sold hai?
+Dealer: Haan sir 19550 ka call sold hai.
+Client: Achha ek 19500 ka put buy karna hai.
+Dealer: 19500 ka put sir?
+Client: Haan.
+Client: Buy karna hai.
+Dealer: Theek hai sir 19500 ka put buy.
+Client: Aur 19350 ka call sold hai na?
+Dealer: 19350 ka call sir. Sorry.
+Client: Sold hai na?
+Dealer: 19350 ka call sold hai. Hmm.
+Client: Theek hai ek 19400 ka call sell kar de.
+Dealer: 19400 ka call sell karna hai sir?
+Client: Haan.
+Dealer: Theek hai 19400 ka call sell.
+Client: Bas itna kar de.
+Dealer: Aur kitne lot mein sir?
+Client: Woh 100 lot kar de.
+Dealer: 100 lot 19400 ka call sell. Aur 19500 ka put buy kitne lot mein?
+Client: Woh bhi 100.
+Dealer: Theek hai sir.
+Client: Okay. Thank you.
+Dealer: Thank you.

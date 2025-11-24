@@ -1,0 +1,10 @@
+Dealer: Hello.
+Client: Hello. Haan sir, Vicky. Haan.
+Dealer: Arvind bhai.
+Client: Achcha wo log mal puro 500 ma avi gyo che haan. Etle apni total average aivi che 499.77. Last ma 500 ma sellers 500 ma mal aavto hato. Pachi 49 wara je hata ne emne modify karine 500 karine laai lidho che mal.
+Dealer: Theek che. Total matlab 7.5 thousand pura aavi gaya na?
+Client: Haan, 7.5 thousand quantity 499.77 ni average. Hu tamne mail par reply karu chu have.
+Dealer: Theek che chal se.
+Client: Hain ne?
+Dealer: Okay okay sir. Haan.
+Client:

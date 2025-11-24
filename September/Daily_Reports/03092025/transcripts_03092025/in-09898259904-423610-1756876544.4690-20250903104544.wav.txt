@@ -1,0 +1,91 @@
+Dealer: Hello.
+Dealer: Hello, haan boliye sir.
+Client: Haan, main Rakesh Agarwal bol raha hoon.
+Dealer: Boliye Rakesh ji.
+Client: Abhijeet bol rahe ho?
+Dealer: Nahi nahi, Abhijeet nahi bol raha hoon sir, Piyush bol raha hoon. Boliye. Abhijeet has left.
+Client: Left kar diya kya unhone?
+Dealer: Yes, yes sir.
+Client: Uh, mera to kya hai, main aapko account number kaise samjhaun? Mera, mera Rakesh, Rakesh Kumar Ram Swaroop Agarwal ek, Neeta, aur ek Shubham ke naam se hai toh teen account hai.
+Dealer: Apki voice clear nahi aa rahi hai sir.
+Client: Main yeh keh raha hoon ki ek Shubham ke naam se, Shubham Rakesh Agarwal, ek Neeta Rakesh Agarwal hai, aur Rakesh Kumar Ram Swaroop Agarwal, yeh teen account hain mere.
+Dealer: Yeh aapke teen account hai, yahi number registered hai kya teenon account mein?
+Client: Haan.
+Dealer: Yeh mobile number, apna boliye number boliye.
+Client: 9898
+Dealer: 9898
+Client: 25
+Dealer: 25
+Client: 99
+Dealer: 99
+Client: 04
+Dealer: Yeh Rakesh Agarwal na?
+Client: Haan ji.
+Dealer: Ek minute.
+Dealer: Theek hai, aur dusra kon, kiska kya naam bole dusra sir aapne?
+Client: Uh, Shubham Rakesh Agarwal.
+Dealer: Ek minute.
+Dealer: Shubham Rakesh Agarwal na?
+Client: Haan.
+Dealer: NEWLNM00133. Ek minute.
+Dealer: Nahi sir, isme aapka number alag registered hai.
+Client: Number.
+Dealer: 79.
+Client: Haan woh order mein hi deta hoon, teenon account ko, us time kya tha jab account khulwana tha, sabka alag alag photo photo chahiye thi na aapko online verification ke sath mein.
+Dealer: Kis saal mein, kaun sa account bol rahe ho aap sir?
+Client: Neeta Rakesh Agarwal.
+Dealer: Neeta Rakesh Agarwal, NEWLNM00134.
+Client: Bhai, sir ka bhao to dekh ke batate hai mujhe.
+Dealer: Haan boliye na sir, ek minute.
+Client: Kya hai?
+Dealer: Yeah, bhi alag hai aapka.
+Client: Haa, kiska bol rahe ho? Kaun si?
+Dealer: Kaun si? Bolye kaun si?
+Client: Southern Gas, S O U T H E R N.
+Dealer: Southern S O D.
+Client: S O U T H South, S O U T H E R N.
+Dealer: E R N. Southern.
+Client: Gas.
+Dealer: Nahi aa raha hai aisa to.
+Client: Apka NSE hai ya BSE hai?
+Dealer: Dono mein hai.
+Client: BSE mein hai yeh.
+Dealer: BSE mein. Ek minute.
+Dealer: S O U.
+Dealer: Uh.
+Dealer: S O U.
+Client: T H E R N.
+Dealer: Haan haan.
+Dealer: Yeh yahi hai na sir, iska bhao ₹26.25 ka circuit hai.
+Client: Haan.
+Dealer: Yeh Z Z South Gas hai. Z S O U T G A S. Yahi na?
+Client: Z.
+Dealer: Z S O U.
+Client: Z par yaha par to money control mein S se dikhata hai.
+Dealer: Yeh iska iska upper circuit mein hai bhao ₹26.25 paise. Yahi hai kya?
+Client: Haan.
+Dealer: Isi mein rakhna hai, right na? Isme yeh Z S O U T G Gas likha hai, South Gas, Z South Gas.
+Client: Haan.
+Dealer: Boliye kya karna hai?
+Client: 500 500 share rakh do.
+Dealer: Kitna?
+Client: 500.
+Dealer: Buy karna hai?
+Client: Haan.
+Client: Teenon account mein.
+Dealer: Ek mein hi rakh sakta hoon sir, yeh aapka jo registered number hai.
+Client: Sir, main fir dono account sir ko bol deta hoon Nikhil sir ko aur main dono account mein, kyunki main hi sab trading account karta hoon.
+Dealer: ₹26.25 paise mein yeh rakh deta hoon main aapka, NEWLNM00135 na? Ek minute 135, ek minute. Rakesh Kumar. Ram Swaroop, yahi na? Rakesh.
+Client: Rakesh Kumar Ram Swaroop Agarwal.
+Dealer: Isme rakh sakta hoon main ₹26.25 paise mein, kyunki yeh usme yahi number hai aap jo number se phone kar rahe ho.
+Client: Aur baaki do?
+Dealer: Baaki do sir, registered number se karna padega.
+Client: Hain?
+Dealer: Baaki do sir, registered number se phone karna padega.
+Client: Theek hai, main Nikhil sir ko bol deta hoon, yeh dono account close hi karwa deta hoon.
+Dealer: Nahi sir woh baat nahi. Isme rakhu?
+Client: Keh, abhi isme rakh do. Haan, isme rakh do.
+Dealer: 500 share ₹26.25 paise mein buy karne, barabar na?
+Client: Haan.
+Dealer: Theek hai.
+Client: Hmm.

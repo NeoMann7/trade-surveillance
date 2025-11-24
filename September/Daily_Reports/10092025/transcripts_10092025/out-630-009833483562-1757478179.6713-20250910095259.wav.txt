@@ -1,0 +1,6 @@
+Dealer: Hello?
+Client: Hello Nipun sir. Sir, the rate, the best rate would be between 682 to 685.
+Dealer: Okay.
+Client: Okay. So, uh, Bluejet OFS, I'll be putting around for the amount of 10 lakh. And, uh, it will be 682 or 685, between that. Okay?
+Dealer: Yes sir.
+Client: Yeah, thank you.

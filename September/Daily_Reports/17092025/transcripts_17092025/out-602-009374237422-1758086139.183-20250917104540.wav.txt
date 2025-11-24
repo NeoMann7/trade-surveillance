@@ -1,0 +1,25 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello.
+Client: Ha.
+Dealer: Vikram bhai.
+Client: Ha chal se.
+Dealer: Hello.
+Client: Ha bolo.
+Dealer: Achha Maggi do k chhe ne ahia desk no pick chhe ek Aurobindo Pharma.
+Client: Ha.
+Dealer: Ane Sequent.
+Client: Ha.
+Dealer: Tamare a karvu hoy investment to jo jo.
+Client: Na long term chhe ke khali athva aadi char panch divas ma.
+Dealer: Na athvadiya mate nathi. Uh chhe time frame chhe eno.
+Client: Ho.
+Client: A Aurobindo Pharma ane biju kai kidhu?
+Dealer: Aurobindo Pharma chhe je 1095, 96 chalu chhe e chhe ane Sequent 196.50 chalu chhe.
+Client: Sequent ha ha.
+Dealer: Ane Aurobindo Pharma.
+Client: Okay okay.
+Dealer: Ha beye jada jo jo tame tamari jo.
+Client: Ha ha.
+Dealer: Evu hoy to tamara pramane.
+Client: Ha ha.

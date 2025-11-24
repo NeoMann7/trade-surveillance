@@ -1,0 +1,10 @@
+Dealer: Hello.
+Client: Hello.
+Client: Oh, Vikram bhai.
+Client: Vikram bhai. Oh, there's your debit.
+Client: Show a little.
+Dealer: Jagruti.
+Client: Jagruti.
+Dealer: Karai do, karai do.
+Client: Kar na.
+Dealer: Karai do.

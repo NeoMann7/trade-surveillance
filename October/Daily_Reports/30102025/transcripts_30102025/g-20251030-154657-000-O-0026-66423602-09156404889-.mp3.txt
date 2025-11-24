@@ -1,0 +1,4 @@
+Dealer: Hello.
+Client: 31st October extension 602.
+Dealer: Okay.
+Client: 300.

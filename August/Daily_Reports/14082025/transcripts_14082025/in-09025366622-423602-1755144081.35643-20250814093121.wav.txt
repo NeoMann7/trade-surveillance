@@ -1,0 +1,7 @@
+Client: Hello?
+Dealer: Haan, Piyush, confirmation batayenge mere ko.
+Client: Hmm.
+Dealer: Uh 23,850 ka put 300 quantity buy hua hai. Uh 0.70, 0.70 paisa.
+Client: Achcha.
+Dealer: Aur 23,000 23,050 ka call 225 quantity buy hua hai. One one piece seven paisa pe. 225 quantity. 1.07.
+Client: Theek.

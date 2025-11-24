@@ -1,0 +1,4 @@
+Dealer: Hello
+Client: [unclear speech]
+Dealer: Are you there? You are trying to reach the dealer here. You can pick up the phone.
+Dealer: प्रयत्न करा।

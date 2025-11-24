@@ -1,0 +1,26 @@
+Client: Hello.
+Dealer: Hello, Zaki. Yes.
+Client: Can I speak to, can I speak to Contractor?
+Dealer: Yes sir, good morning.
+Client: I transferred 1 lakh today morning. Can you just check?
+Dealer: Just a minute sir.
+Client: It's there, then I'll tell you what to buy.
+Dealer: Ha sir, 1 lakh aa gaya hai.
+Client: Ha theek hai. Then, Acmae Solar Holding.
+Dealer: Acmae Solar Holding, 282.20, 282.30.
+Client: Buy 50.
+Dealer: 50. Bought it, sir. 282.37.
+Client: Then, Adani Green Energy Solutions.
+Dealer: Adani Sol... 811. 811.30.
+Client: Buy 10.
+Dealer: 10 shares. 10 bought it. 811.30.
+Client: And uh, Lorus Lab.
+Dealer: Lorus Lab, 859.60, 859.80.
+Client: Buy 10.
+Dealer: 10 shares bought it 859.90.
+Client: Ha, okay, that's all.
+Dealer: Yeah. Okay sir.
+Client: Others, I'll tell you later.
+Dealer: Okay sir. Yes.
+Client: Okay. Thanks.
+Dealer: Thanks sir.

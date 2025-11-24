@@ -1,0 +1,14 @@
+Dealer: Hello.
+Client: Hello. Ha boliye sir.
+Client: Ha main bol raha hu na, mujhe na koi bhi trade ho jata hai na, sirf ek line ka mail daal dijiyega ki ye trade execute ho gaya. Okay sir.
+Dealer: Okay.
+Client: Okay. Theek hai na?
+Client: Toh kya hai na, mera record ke liye theek rahega. Kyunki main email me hi sara record maintain kar raha hu.
+Dealer: Achha toh main yahan par abhi reply kar doon trade done karke?
+Client: Ha ha trade kar deta hu.
+Dealer: Kar deta hu. Abhi kar deta hu.
+Client: Toh kya hai na wo mera record ke liye humesha rahega. Aap kyuki future me hoga na future me wo sab usme mail pe hi ek baar daal diya karo.
+Dealer: Okay, abhi reply kar deta hu iske upar.
+Client: Ha ha.
+Dealer: Okay. Okay.
+Client: Okay. Thank you.

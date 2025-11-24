@@ -1,0 +1,18 @@
+Client: એને સુધી પણ વાત પહોંચી ગયા એને સીબીએસસી વાળો
+Dealer: હમણાં હાજી
+Client: હેલો
+Dealer: હાજી
+Client: ધર્મેન્દ્ર સર અ બાય થઈ ગયું છે સો
+Dealer: થઈ ગયું?
+Client: હા 210 કોન્ટીટી બાય કરી છે 113.98 પર
+Dealer: હા બોલ
+Client: હેલો
+Dealer: ડન
+Dealer: 114 અચ્છા એક જ ક્લાસમાં છે
+Client: હા હા 113.98
+Dealer: ઓકે ઓકે
+Client: બસ અંદર છે
+Dealer: ઓકે ઓકે
+Client: ઓકે યા
+Dealer: યા
+Client: થેન્ક્યુ

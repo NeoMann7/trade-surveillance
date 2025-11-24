@@ -1,0 +1,18 @@
+Dealer: Hello.
+Dealer: Ah, Piyush, kya?
+Client: Haan, main Piyush.
+Client: Main hai na Purnesh, jisne around about ek mahine pehle, prices aur units chahiye tha mere ko.
+Dealer: Okay, sale prices.
+Dealer: Theek hai, main uh, main back office ko bolta hoon sir aapko ek baar coordinate karne ke liye.
+Client: Ek, aapka ID mera original mang raha hai woh.
+Dealer: Main usko bolta hoon sir aapko cood... ha.
+Client: Theek hai, unka koi number?
+Dealer: Uh, number toh hai, ek minute.
+Dealer: Uh, Sandeep, Sandeep ka hai number aapke paas sir? Ek minute dekhiye.
+Client: Nahi, mere paas nahi hai.
+Dealer: Haan, 423930.
+Client: Theek hai, aap bolenge ya main milaunga?
+Dealer: Bol deta hoon ek baar usko.
+Client: Ha, aap bol...
+Dealer: Main unko bolta hoon aapse ek baar baat kar lene ke liye. Matlab jo bhi rahega woh samajh ke woh aapko de dega. Theek hai sir.
+Dealer: (Sound of phone being placed down)

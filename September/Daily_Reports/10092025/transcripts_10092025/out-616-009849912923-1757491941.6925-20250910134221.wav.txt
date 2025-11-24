@@ -1,0 +1,11 @@
+Client: Hello.
+Dealer: Hello, Dr. Raju.
+Client: Yes.
+Dealer: Uh, good afternoon, sir. Vasu here, calling from Neo Dealing Team. Sir, just want to confirm, you want to place Bluejet OFS uh, around uh, worth one CR, okay?
+Client: Yes. No problem. Go ahead.
+Dealer: And the price is below 690 rupees, okay?
+Client: Okay. Go ahead.
+Dealer: Okay, sir.
+Client: Thank you.
+Dealer: Okay.
+Client: Bye.

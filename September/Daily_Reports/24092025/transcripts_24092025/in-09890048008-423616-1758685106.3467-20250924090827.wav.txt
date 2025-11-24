@@ -1,0 +1,39 @@
+Client: Hello.
+Client: Hello Wasu?
+Dealer: Ha bola na ka ho.
+Client: Aaplya te Sarla Tendulkar madhe aata kiti amount aaplya kade available aahe bagha.
+Dealer: Debit asel ekda mi baghto thamba, naahi aahe 248 cash aahe.
+Client: 2 lakh 48 thousand.
+Dealer: Ha.
+Client: 2 lakh 48. Aikun nai aala, kiti aahe?
+Dealer: 2 lakh 48 hajar.
+Client: Okay.
+Client: Cash available aahe na?
+Dealer: Ha, cash available aahe.
+Client: Ha theek aahe. Ha. Okay.
+Dealer: Okay.
+Dealer: Hmm.
+Dealer: 195.
+Dealer: Hello.
+Client: Ha ha, okay okay.
+Dealer: Ha theek aahe.
+Client: Hello Wasu.
+Dealer: Ha bola na.
+Client: Mi na jara baher nighalelo aahe, driving karto aahe.
+Dealer: Ha.
+Client: Tar if suppose he aapal aata je kaai kal buy kele na,
+Dealer: Ha ha.
+Client: Tyachya madhe kaai kutcha ekadha drastic kami aala ajun 5% ni vagere,
+Client: Kalchya rate peksha, tar mala jara phone karun kalva.
+Dealer: Theek aahe, chalel. Kutle NCL Industries ani BBL na?
+Client: Ha. Naako, NCL zalay majha limit zalay.
+Client: Tu mi Bharat Bijli, Castrol, ani Bharat Rasayan. Ani ajun kutcha aapn ghetlela aahe?
+Client: Ajun ek kutcha tari aapn follow karvat hoto.
+Dealer: Aaani BC Bharat Cas...
+Client: Two two.
+Client: BBL ani Shri Ram Properties.
+Dealer: Shri Ram Properties.
+Client: Theek aahe bagha jara. mala tu mala 5% paryant kami aala tar.
+Client: Ha.
+Dealer: Okay okay.
+Dealer: 195, 195.

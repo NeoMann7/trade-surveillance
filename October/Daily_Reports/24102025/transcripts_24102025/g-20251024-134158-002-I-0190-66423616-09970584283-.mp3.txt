@@ -1,0 +1,34 @@
+Client: Hello.
+Dealer: Haan, hello.
+Client: Haan sir, boliye na.
+Dealer: Vidula Tendulkar mein Bharat Bijli BBL buy karna hai.
+Client: Okay sir, one minute. BBL na? Kitna quantity?
+Dealer: Abhi kya chal raha hai unka?
+Client: Abhi sir, chal raha hai around 3045. 3048, 49 bata.
+Client: Aap 305 daal ke daal dijiye.
+Dealer: Paanch share buy karne ke liye rakh rahi hoon 3040 pe.
+Client: Haan. Aur 3025 pe 10 daal ke rakhiye.
+Dealer: Yes.
+Client: Sir, spelling bol sakte hain?
+Dealer: B I D U L A.
+Client: B I D U L A Tendulkar.
+Dealer: Vidula Tendulkar. Vidula, Vidula, Vidula, Vidula Tendulkar.
+Client: Vidula Tendulkar, haan.
+Dealer: D U L A.
+Client: Tendulkar, correct?
+Dealer: Ya. N U W M 00206 okay? 3040 pe rakha hai already.
+Client: Hmm.
+Dealer: Aur 420 pe 50.
+Client: Maine 3040 pe rakha tha.
+Client: Ek minute dena sir.
+Dealer: Sir 30 aa gaya, woh 3022 pe aa gaya.
+Client: Aapne. Aa gaya.
+Dealer: Hmm, hmm. Abhi kitna lena hai?
+Client: 10 le lijiye.
+Dealer: 10 rakh do 3020 haan. Theek hai.
+Client: Woh paanch ka execute ho gaya. Paanch share execute ho gaye.
+Dealer: Haan paanch shares ho gaye 3022 pe. Yeh 3020 pe rakh rahi hoon 10 share BBL ka.
+Client: Vidula Amul Tendulkar mein neo WLM Hello, hello. Haan. Yeh abhi 302 pe aa gaya toh isko abhi.
+Dealer: Piche rakh do. 3000 pe 10 share.
+Client: 3000 pe rakha hai, correct? 10 shares mein rakh rahi hoon abhi. Okay. BBL ka. Vidula Tendulkar mein hi rakha hua hai. One minute. Haan sir. Theek hai. Okay.
+Client: Okay.

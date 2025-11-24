@@ -1,0 +1,39 @@
+Dealer: Hello.
+Client: Hello. Am I 20 lakhs, Face three employee.
+Dealer: Face three employee? Okay. 20 lakhs ka hai, so one minute.
+Client: Face three employee mein 20 lakhs ka hai.
+Dealer: Just a minute, sir.
+Client: Haa.
+Dealer: Hmm. Kya sir? Aa gaya hai.
+Client: Aa gaya hai. What is the current market price? Phase three.
+Dealer: Phase three ka market price? Okay, just a minute. Main batati hoon.
+Client: Hello.
+Dealer: Yeah, yeah. One minute, sir. Bata deti aapko.
+Client: 94 chal raha hai na? 91 se 94 ke beech mein daal do na.
+Dealer: Uhh, sir, abhi chal raha hai 490... 380 490 4 naa?
+Dealer: Haan. 494.5 chal raha hai.
+Client: 94... 490 se 94 ke beech mein daal do na sab kuch.
+Dealer: 90 to 90... 94 ke beech mein daalun?
+Client: Haan.
+Dealer: Okay. Kitna quantity daalna hai?
+Client: 20 lakhs.
+Dealer: Theek hai. 20 lakhs amount ka dalna hai na? Ek minute.
+Client: Haan.
+Dealer: Haan. Just a minute, sir.
+Client: 4000 4000 jitna hoga. 40 share uska hai woh amount.
+Dealer: Okay. 494 ke hisaab se agar main dalti hoon toh almost 4000 haan 4000 quantity aa jayega, sir.
+Client: Haan theek hai. 490 se 494 ke beech mein rakh dijiye 4000.
+Client: 56 paise pe 500 500 kar dijiye na.
+Dealer: Uhm, main 500 500 karke daalun?
+Client: Haan. 500 500 karke. 94.
+Dealer: Aur disclose 50 daalungi.
+Client: Theek hai.
+Dealer: Rate aap exactly mujhe bata sakte ho? Aapko kaun se rate pe dalna hai?
+Client: Haan. 494, then 93.50, then 93. Vaise 50 50 paisa karke 494 se back jaate jao na jitne tak jayega. 50 50 paisa kam karte karte.
+Dealer: Okay. So 494 se chalu karti hoon. Aur 492 tak dalti hoon. Theek hai?
+Client: Ha, 91, 92 jo bhi hai. 490 se leke 94 ke beech mein apne hisaab se daal do.
+Dealer: Theek hai. 90 se leke 94 tak main daal deti hoon. Okay. Ha.
+Dealer: Ha. Aur 500 500 quantities, disclose is 50. Correct?
+Client: Theek hai.
+Dealer: Face three mein. Okay? 4000 quantity total. Okay. Thank you.
+Client: Right.

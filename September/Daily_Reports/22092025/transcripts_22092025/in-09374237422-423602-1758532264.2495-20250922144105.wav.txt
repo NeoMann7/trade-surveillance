@@ -1,0 +1,32 @@
+Dealer: Hello.
+Client: Hello, LIC?
+Dealer: Sujog?
+Client: Hello.
+Client: LIC Sujog. LIC, Sujog.
+Client: LIC, Life Insurance, LIC.
+Dealer: Okay, LIC, okay.
+Client: Ha, voh matlab red dalke usmein voh emo daldalke.
+Dealer: Ha, ₹907.85 paisa. Aaj nahi?
+Client: Ha.
+Dealer: LIC LIC aayi na?
+Client: Ha LIC, LIC, Life Insurance.
+Client: Ha, ₹907, 76. ₹907.80 paisa, ₹907, ₹907 new.
+Client: Aata ₹907.85 ma 76, 77. Thet va muko ne?
+Dealer: ₹900?
+Client: ₹907.85 paisa ma.
+Dealer: Aa account ma che ke share?
+Client: Ha che share. 77 shares che.
+Dealer: Kona account ma che?
+Client: 146, Kripa. Kripa Shah, 146.
+Dealer: Krupa Vikram Shah.
+Client: Ha.
+Dealer: Ha. Ketlava muku?
+Client: ₹7 na ₹85 paise.
+Dealer: ₹907.85 paisa ma api dau?
+Client: Ha avvi de.
+Dealer: Ha ek j order gaya kya.
+Dealer: Nahi. Tame ubha chho ₹907.85 ma order chhe aapdo. ₹907.70, ₹75 chalu chhe.
+Client: Apde toh ₹70 ma api dau.
+Dealer: ₹70 ma gaya.
+Client: Haa na, okay.
+Dealer: Ha ne vacha gaya. Ek minute.

@@ -1,0 +1,9 @@
+Dealer: Hello Dr. Exchange 600, first call.
+Client: Uhm
+Dealer: Your name please?
+Client: Uh, Anoop Kumar.
+Dealer: Anoop Kumar. Account number please.
+Client: Six five seven four three.
+Dealer: Six five seven four three. Date of birth please.
+Client: 21st November 1980.
+Dealer: Right. What is your order please?

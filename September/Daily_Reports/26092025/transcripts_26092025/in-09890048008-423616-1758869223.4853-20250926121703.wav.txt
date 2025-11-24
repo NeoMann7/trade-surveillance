@@ -1,0 +1,17 @@
+Client: Hello.
+Client: Hello Wasu, aaplya kade Nestle kiti aahe baga? Khup char amount madha my birthday HUF madhe asati.
+Dealer: Ek minut.
+Dealer: Ha, HUF madhe aahe. 60 quantity.
+Client: 60 hai?
+Dealer: Hmm.
+Client: Aa te kadun takat aahe.
+Dealer: Sar Nestle sarv kadaychay? 60 quantity kiti madhe hai?
+Client: Sar rate chalale.
+Client: Up to 1162, 1162, 70.
+Client: Ha, kadun taka sar.
+Dealer: Market madhe na?
+Client: Ho.
+Dealer: Theek hai, 60 quantity market madhe Nestle kadaycha hai. Client code hai new 00227 Amol Ravindra Tendulkar HUF. Theek hai account?
+Client: Ho.
+Dealer: Theek hai, 60 quantity 1162 madhe gelo.
+Client: Okay.

@@ -1,0 +1,8 @@
+Dealer: Hello.
+Client: Ha. Good afternoon, sir. Vasudev baat kar raha hoon New Dealing se.
+Dealer: Sorry?
+Client: Vasudev baat kar raha hoon New Dealing team se. Aapke account mein 10 lakhs funds aapko PNB buy karna tha, na?
+Dealer: Sorry, aapki awaaz kat rahi hai. It's very...
+Client: Hello. Abhi aa rahi hai sir awaaz?
+Dealer: Nahi, clear nahi hai. Can you call again?
+Client: Okay, main aapko recall karta hoon.

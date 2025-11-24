@@ -1,0 +1,8 @@
+Dealer: Hello.
+Client: Vishnu Vasu Bhaskar Rao news.
+Dealer: Okay. Achcha suno. Pharma ka buying call tha yahan se. So already, humare paas around 6 lakh 60 worth ka hai aur aur Farma 600 quantity at 1096. Current ki 1144 chal raha hai. Toh yahan se hum around aur 300 quantity buy kar sakte hai 300 to 400. Toh buy karna hai aapko?
+Client: Haan kar lenge.
+Dealer: Achcha ek minute. Woh kya hua?
+Client: Liquid hai na aapke paas?
+Dealer: Haan matlab liquid. Toh main kya karta hoon abhi main around main Arvind Pharma aapko theek hai? Current price mein 114215 mein client code hai NEO 121. One second. Theek hai 400 sir 114215 mein aa gaya. Ye humara buy hua around 457 ka. Toh main kya karta hoon 457. 457 point 30. Utna amount ka main 400 ATM bhej deta hoon theek hai? 459 ko kya sell karna hai? Client code hai NEO 121. Theek hai sir. Ye hamara sell ho gaya 999.
+Client: Hello.

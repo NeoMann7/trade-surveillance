@@ -1,0 +1,15 @@
+Dealer: Hello, Nipun sir.
+Client: Hello, yes.
+Dealer: Ah, good afternoon sir. Vasu baat kar raha hu, Neo Dealing Team se.
+Client: Yes, Vasu.
+Dealer: Okay sir. So you want to buy PNB, na abhi?
+Client: Akshat ne bola.
+Dealer: Ha ha ha. Akshat told me to call you.
+Client: Okay, done.
+Dealer: Okay, so you have 10 lakh. Means around 8700 quantity we can buy. So, should I go ahead?
+Client: Yes, go ahead.
+Dealer: Okay. 8700 quantity you want to buy PNB at market rate. Ah, client code is Neo WP00296. Okay?
+Client: Okay.
+Dealer: Okay, 8700 quantity bought at 113.97. Okay sir?
+Client: Thank you.
+Dealer: Okay, bye.

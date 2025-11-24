@@ -1,0 +1,17 @@
+Dealer: Hello. Yeah, good afternoon, sir. 75,000 quantity has been sold. CRT. So, remaining, I mean, left 1,60,919 quantity. So, you want to sell that also at 118? So.
+Client: Ah, explain me again. Explain me again.
+Dealer: Ah, we sold, 75,000 quantity has been sold at 118. Now remaining quantity is there, 919 quantity is there left.
+Client: How much quantity is left? Can I have 1 1 160, 1,60,919.
+Client: 1,60,919.
+Dealer: 1,60,919 quantity is left now.
+Client: 1,60,919.
+Dealer: Ha, we have right now. So, should you want to sell that also?
+Client: For how much you sold?
+Dealer: Uh, 75,000 quantity.
+Client: Price?
+Dealer: Uh, average 75,000 quantity sold at 118.04.
+Client: Same price, you put this.
+Dealer: Okay, remain. Yeah. Okay, so I am Okay, I'm selling KI 20919 quantity at 118 and code is new W00442, okay?
+Dealer: Okay, sir. Hmm.
+Client: Thank you.
+Dealer: Okay, sir.

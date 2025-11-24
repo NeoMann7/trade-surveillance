@@ -1,0 +1,12 @@
+Dealer: Hello
+Dealer: Hello, ha bolie sir. Ha Mr. Kothari ka call kiya bolie sir. Kothari ka control room. Oh bolie sir.
+Client: Ha. sir, place an order for uh silver at today. At today.
+Dealer: Are pending mein hai. Hello. Hello.
+Client: Yeah. I mean that's okay, wise can you please just go ahead and buy 300 at the current rate.
+Dealer: Jashu. Kothari silver current rate mein buy kar le modify karke. Modify kar do na sir.
+Client: Ha modify karke kitna hai current rate?
+Dealer: Current 4320.
+Client: 4320 mein hai. Ha le lo. Le lo sir.
+Dealer: Ek min sir. Pending mein hai. Kya bhav hai? Ek min. Sir 22 ka.
+Dealer: Sir aa gaya aapka. 4120 mein buy ho gaya 300 quantity. Theek hai.
+Client: Okay. Thank you. Thank you.

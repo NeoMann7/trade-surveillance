@@ -1,0 +1,3 @@
+Dealer: [Phone ringing sounds, followed by dialing tones, then a pickup sound] Hello?
+Client: Yes. 630. First test.
+Dealer: [Unintelligible sound, like a click or a hang-up sound, followed by silence and then a beep tone]

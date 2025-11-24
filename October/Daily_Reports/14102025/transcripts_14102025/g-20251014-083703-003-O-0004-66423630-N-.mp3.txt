@@ -1,0 +1,19 @@
+Client: (Ringing sound followed by a brief sound)
+Dealer: हेलो
+Client: हाँ जी
+Dealer: हाँ जी
+Client: अह ये जी निफ्टी का ना फ्यूचर बाय कर लो
+Dealer: क्या बोले
+Client: निफ्टी का फ्यूचर बाय
+Dealer: कितने से?
+Client: 15305 पे
+Dealer: 15305 निफ्टी का फ्यूचर एक लॉट
+Client: हाँ जी
+Dealer: अच्छा
+Client: ओके
+Dealer: ठीक है?
+Client: हाँ जी
+Dealer: डन
+Client: थैंक यू
+Dealer: वेलकम
+Client: (Call ends with a brief sound)

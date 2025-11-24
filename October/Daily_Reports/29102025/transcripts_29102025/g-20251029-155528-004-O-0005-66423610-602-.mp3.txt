@@ -1,0 +1,43 @@
+Client: Hello?
+Dealer: Yes.
+Client: Yes, sir. Good morning.
+Dealer: Good morning, sir.
+Client: Sir, 22700 ka pehla put becha hai 10 rupees mein, to usko square off karna hai.
+Dealer: 22700 ka put sold.
+Client: Yes.
+Dealer: Kya rate?
+Client: 10 rupees mein.
+Dealer: Aur kya karna hai?
+Client: Usko square off karna hai.
+Dealer: Sir, aapne 10 mein sell kiya hai to 10 mein to square off kaise hoga? Aapko buy karna padega na?
+Client: Buy, haan buy. Sorry sorry sorry.
+Dealer: Kitne quantity the?
+Client: 1050.
+Dealer: 22700 ka put buy at market price?
+Client: Yes.
+Dealer: 1050 quantity.
+Client: Yes.
+Dealer: Okay. Confirm kar do sir.
+Client: Okay.
+Dealer: Aur dusra kya hai?
+Client: 22800 ka pehla call becha tha 20 rupees mein, 1050 quantity.
+Dealer: 22800 call sold.
+Client: Yes.
+Dealer: Uska kya karna hai?
+Client: Buy karna hai usko bhi.
+Dealer: Buy karna hai kitne quantity?
+Client: 1050.
+Dealer: Kitne mein?
+Client: Market rate mein.
+Dealer: Okay.
+Client: Yes.
+Dealer: Confirm kar do sir.
+Client: Done.
+Dealer: Kya abhi buy karna hai?
+Client: Yes, market rate.
+Dealer: Okay.
+Client: Yes.
+Dealer: Theek hai sir order place ho gaya hai.
+Client: Done, done. Okay. Thank you.
+Dealer: Thank you, sir.
+Client: Bye.

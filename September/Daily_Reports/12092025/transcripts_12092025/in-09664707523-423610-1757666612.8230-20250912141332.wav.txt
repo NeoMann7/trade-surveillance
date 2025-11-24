@@ -1,0 +1,17 @@
+Client: Hello
+Dealer: Hmm. OTP aavyo hase jo toh.
+Client: Ek min.
+Dealer: Hmm.
+Client: Naathi aavyo OTP.
+Dealer: SBI mathi aavyo hase.
+Client: Are.
+Dealer: Message ma jo ne.
+Client: Naathi aavyo Vicky, message ma aave ne?
+Dealer: Hmm.
+Client: Naathi aavyo message ma. Hu joyi lau chhu to ae phone cut karo to joyi lau.
+Dealer: Jo pachho aavyo hase, ek var resend karyo me.
+Client: Hello. Oh, naathi aavyo mane. Me jaitya che bank ma je chhella paisa debit che ae message che chhello.
+Dealer: SBI no nathi aavyo, me resend karyo.
+Client: Na na, naathi aavyo. Naathi aavyo. Ek pan message. Na na naathi aavyo. SBI mathi kai nathi dekhadtu.
+Dealer: Ha, theek che chal. Jova de.
+Client: Hmm.

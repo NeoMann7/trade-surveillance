@@ -1,0 +1,16 @@
+Client: Hello.
+Dealer: Hello. Ya, ya, uh, Ajeet Singh ji?
+Client: Yes.
+Dealer: Ya, we are from, uh, Piyush Bhargava dealing room se.
+Client: Ha boliye.
+Client: Ha, ha, ye jo trade ke liye diya maine. Ha boliye na.
+Dealer: Actually sir, ye jo client ne approval diya hai na, wo 29th September ka approval hai. Aur aaj 1 tarikh hai.
+Client: Toh wapas se lena padega?
+Dealer: Ha, abhi kal ka.
+Client: Kyuki tabhi ka.
+Client: Tentative rate ke liye humne liya tha.
+Dealer: I understand, you said. Lekin kaisa hai? Abhi kal bhi hota toh bhi samjho ki shaam ko liya toh main kal le lunga, ki 30 hai. Kal ka bhi din chala gaya. Aaj 1 tarikh hai na sir. Agar ho sake toh ek baar revive, aaj ka the rate ke hisab se.
+Client: Main ek baar abhi baat kar leta hu.
+Dealer: Chale, chale.
+Client: Okay.
+Dealer: Okay.

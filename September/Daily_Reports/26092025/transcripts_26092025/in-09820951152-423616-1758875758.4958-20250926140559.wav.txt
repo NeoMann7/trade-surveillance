@@ -1,0 +1,9 @@
+Dealer: Hello.
+Client: Hello, was he there?
+Dealer: Uh yes, sorry your good name.
+Client: Ha?
+Dealer: Um, sir he's gone for a break. He'll come back in five minutes. Your good name?
+Client: My name is Joheb.
+Dealer: Uh sorry.
+Client: Joheb Malek. I'll speak to him. Thank you.
+Dealer: Okay.

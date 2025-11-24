@@ -1,0 +1,28 @@
+Client: Hello.
+Dealer: Hello.
+Client: Hmm.
+Dealer: Hmm. Haan, silver bees ka main dusra karta hoon.
+Client: Sorry?
+Dealer: 2022 ka.
+Client: Silver bees.
+Dealer: Silver bees, silver bees, silver bees. Silver bees currently aa raha hai sir 122.89, 122.90.
+Client: By 400.
+Dealer: 400.
+Client: Hmm.
+Dealer: Hmm.
+Dealer: Haan sir 400 aa gaya 122.91.
+Client: 400.
+Dealer: Buy ho gaya sir 400.
+Client: Okay. Then Kense Technology.
+Dealer: Kense Technology 7146, 7152.
+Client: Buy three.
+Dealer: Hmm.
+Dealer: Haan sir three buy ho gaya 7154.40.
+Client: Clear karna akhri bar.
+Dealer: Kya kar raha hai? LIC bol raha hoon na.
+Client: And ESM Technology.
+Dealer: Policy leke toh kya bolte hai.
+Dealer: ESM Technology 4417.80, 4421.30.
+Client: Buy five.
+Dealer: Five buy ho gaya sir 4421.30 mein.
+Client: Okay. Yes. Yes. Yes. Yes.

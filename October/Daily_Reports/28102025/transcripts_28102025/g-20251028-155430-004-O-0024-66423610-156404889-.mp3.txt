@@ -1,0 +1,12 @@
+Client: 23rd October 300 call.
+Dealer: हेलो?
+Client: हाँ जी?
+Dealer: हेलो?
+Client: हाँ जी। 23rd October 300 call.
+Client: 23rd October 300 call.
+Dealer: 320.
+Client: हाँ 320 हाँ हाँ।
+Client: 23rd October 320 call.
+Client: 320 call.
+Client: 23rd October 320 call buy.
+Dealer: ठीक है सर।

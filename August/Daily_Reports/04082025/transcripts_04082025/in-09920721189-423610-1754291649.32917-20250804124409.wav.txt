@@ -1,0 +1,10 @@
+Client: Happy Guru...
+Dealer: Hello, yes. Happy Guru Purnima.
+Client: Oh, testing call. 610 wala laga hai kya?
+Dealer: 610... No, it is not now. Nahi nahi. Hata diya unhone, kaha ki...
+Client: Hello...
+Dealer: Uh pata nahi, Vasu nahi hai abhi desk pe.
+Client: Toh aapka reception pe laga hai ya fir desk pe laga hai?
+Dealer: Apne desk pe lagaya.
+Client: Desk pe lagaya na? Okay, theek hai. Thank you.
+Dealer: Hm, okay. Thank you. Thank you.

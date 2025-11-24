@@ -1,0 +1,11 @@
+Dealer: Hello?
+Client: C5 mein bhi limit chahiye.
+Dealer: Kya? Kaun sa woh? Custom wala?
+Client: Custom wala hi hai. C4 mein toh C5 mein bhi dalna hai.
+Dealer: C5 mein na? Hmm.
+Dealer: Theek hai, main dalta hoon.
+Client: Dalo.
+Dealer: Theek hai, main dalta hoon.
+Dealer: Achha C5 mein bhi chahiye tha. Theek hai, kar diya.
+Client: Haan haan, theek hai.
+Dealer: Hello?

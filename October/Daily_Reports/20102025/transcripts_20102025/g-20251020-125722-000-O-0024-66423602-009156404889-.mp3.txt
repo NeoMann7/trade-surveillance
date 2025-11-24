@@ -1,0 +1,5 @@
+Client: Can you confirm the transaction series 02 second test for
+Dealer: Hello.
+Client: Can you confirm the transaction series 02 second test for
+Dealer: Confirm.
+Client: Thank you.

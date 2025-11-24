@@ -1,0 +1,50 @@
+Dealer: Hello, hello. Hmm, Piyush ji.
+Client: Haan bolliye.
+Client: Main Sanay bol raha hoon Himanshu bhai ke udhar se. Mere paas ek Kambala software, mere ko sirf ek doubt tha.
+Dealer: Hmm, hmm.
+Client: Apna pending order hai mera Nifty ka 9000 quantity for example. Hmm, pending window mein abhi dikha raha hai. Toh woh bulk modify nahi hota hai kya? Shift+F2 ke saath?
+Dealer: Nahi, aapko pehle Ctrl... ab 9000 quantity hai na, toh aapko pehle Ctrl+A karna padega na. Ctrl+A Shift+P.
+Client: Shift P?
+Dealer: P?
+Client: P for parrot?
+Dealer: Hmm, Ctrl+A kijiye, select kijiye woh. Phir Shift+P kijiye.
+Client: Woh component action right not enabled. Toh I think aapke end se kuch karna padega IT wale mein se.
+Dealer: Ek minute haan. Aa, aap software ka Kambala ka abhi dekhte ho na? Nahi, nahi, matlab order aapka kaun sa daala hai aapne ek minute?
+Client: Mera let's say 23900 ka put hai.
+Dealer: Abhi apne pending mein daala hai kya?
+Client: Haan pending mein. Mainey dur daala hai. Mere ko sirf test karna tha ki nahi kyun ho raha hai.
+Dealer: Nahi, aur kaise ho... aise nahi hota. Ab samjho abhi actually kaisa hota hai, Options mein matlab ek limitation ho raha hai ki aap 1500, 1800 quantity ke upar ekdam bulk nahi matlab order nahi daal sakte ho ek time mein. Toh usmein aapko aapne 9000 daala hai na, toh aapko matlab F3 karke uske upar jaake Ctrl+A
+Client: Ctrl+A kiya. Correct.
+Dealer: Phir Shift+P, modify karna hai na?
+Client: Shift P? Ma... idhar aa raha hai component action right not enabled. Toh woh bulk modify off rakha hai ya aisa kuch rahega ki iske liye?
+Dealer: Aisa toh nahi hai. Ctrl+A Shift+P karke hi enter karna hota hai. Uh, ek minute aapka number de dijiye.
+Client: Umm, mera mobile number 99.
+Dealer: 99.
+Client: 679.
+Dealer: 679.
+Client: 313. 70.
+Dealer: 9967931370, naam?
+Client: Haan, mera code hai Neo W P 00235.
+Dealer: Sanay, aapka Sanay naam hai na?
+Client: Sanay, haan. Okay.
+Dealer: Theek hai, main upar bolta hoon. 99% toh Ctrl+A Shift+P karke hi hota hai woh. Kyunki hum log Ctrl+A Shift+P karte rehte hain. Abhi aapko nahi aa raha hai na woh, error aa raha hai usmein.
+Client: Haan, kuch error aa raha hai.
+Dealer: Woh aapne slicing order, aapne pehla order daala hai pending mein bhi nahi ja raha hai, pending hai.
+Client: Saa... maine 9000 daala hai pending mein khada hai order.
+Dealer: Matlab 9000 aapka order gaya matlab.
+Client: Gaya order.
+Dealer: Toh aapka slicing aur on hai matlab.
+Client: Slicing on hai wahi mein bol raha hoon. Slicing on hai but woh bulk modify nahi ho raha hai. Woh kyun nahi ho raha hai?
+Dealer: Matlab bulk, bulk trade mein ja rahe ho ya kaise ja rahe ho aap?
+Client: Nahi, nahi. Aap 23900 mein gaya mainey mainey.
+Dealer: Nahi aapne F3 kiya. 23900 mein jaake F3 kiya.
+Client: Correct. Paanch order dikh rahe hain. Mainey Ctrl+A kiya. Correct. Haan, mainey Shift+P kiya. Toh aa raha hai component not enabled.
+Dealer: Achcha Ctrl+A mein aapko select hua dikh raha hai aapka pending order?
+Client: Haan, select dikh raha hai pura select dikh raha hai.
+Dealer: Toh window kya khul raha hai aapka?
+Client: Kuch nahi, mere che order dikh rahe hain aur kuch nahi. Koi window nahi.
+Dealer: Window kuch khul nahi raha hai Ctrl+A karke Shift+P kar rahe ho toh nahi ho raha hai?
+Client: Nahi, wahi wahi wahi. Shift+P kar raha hoon toh component not enabled aa raha hai.
+Dealer: Theek hai, main upar baat karta hoon. Chalo aapko phone karta hoon.
+Client: Okay.
+Dealer: Hmm.

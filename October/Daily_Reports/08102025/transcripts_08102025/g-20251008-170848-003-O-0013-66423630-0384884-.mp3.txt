@@ -1,0 +1,26 @@
+Client: Hello.
+Dealer: Yes sir, good morning.
+Client: Good morning.
+Dealer: Sir, bataiye.
+Client: Ek to na ITC, ITC buy karna hai 455 se upar nikle to.
+Dealer: Theek hai sir.
+Client: 455 se upar buy karna hai, first target 457.
+Dealer: Okay.
+Client: Second target 459.
+Dealer: Okay, buy above 455, target 457, 459.
+Client: Stop loss 453.
+Dealer: Stop loss 453.
+Client: Isko rakhiye. Aur dusra Hindalco, Hindalco sell karna hai 644 ke niche.
+Dealer: Okay sir.
+Client: Sell below 644, first target 642.
+Dealer: Okay.
+Client: Second target 639.
+Dealer: 639.
+Client: Stop loss 646.
+Dealer: Stop loss 646.
+Client: Yes.
+Dealer: Theek hai sir.
+Client: Okay sir, thank you.
+Dealer: Thank you sir.
+Client: Bye.
+Dealer: Bye.

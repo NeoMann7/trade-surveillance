@@ -1,0 +1,6 @@
+Dealer: Hello.
+Client: Ha, bolo.
+Dealer: Nifty 24900 chal raha hai, 37 point plus.
+Client: Theek hai.
+Dealer: Theek hai. Ah...
+Client: Theek hai.

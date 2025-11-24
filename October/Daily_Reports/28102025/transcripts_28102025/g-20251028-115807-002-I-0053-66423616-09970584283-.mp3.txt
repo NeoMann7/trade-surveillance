@@ -1,0 +1,14 @@
+Dealer: Hello, hello, Monica?
+Dealer: Ha, kaki, bolona.
+Client: Kaiki utility...
+Dealer: Ha, he utility na? Theek hai, he utility don hazar tumhala bhetle. Theek hai?
+Dealer: Client code hai NM00206 Amol Tendulkar, okay?
+Client: Hello?
+Dealer: Ho, ho, okay, okay. Likho na.
+Dealer: Ek minute. He 2000 share zaale utility 49.17 paise madhe.
+Client: Okay, okay.
+Dealer: Theek hai?
+Client: 49.17?
+Dealer: 49 rupees 17 paise.
+Client: Okay. Hmm.
+Dealer: Theek.

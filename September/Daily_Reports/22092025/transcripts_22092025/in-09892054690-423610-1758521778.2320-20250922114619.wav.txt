@@ -1,0 +1,24 @@
+Dealer: Hello.
+Client: Hello, ji.
+Client: Ha, can you? Oh, Adani Enterprises na?
+Dealer: Ek minute. Adani Enterprises 2600. 26 2600.50. 2601.
+Client: Theek hai.
+Dealer: Das aa gaya sir. 2601.06.
+Client: Theek hai. I will be in it. Uska kon woh Swon ka kuch?
+Dealer: Nahi sir, woh aaya nahi abhi tak pending hai.
+Client: Theek hai, then I know of the amount to spend somewhere else or not, that's what I was asking. Theek hai, I will wait.
+Dealer: Okay sir. Ha.
+Client: Woh to end of the day tak order?
+Dealer: End of the day tak order rahega apna aur phir chahiye toh main confirmation aapko de dunga, toh idea ho jayega. Aur in between agar aa gaya toh main call back karta hoon aapko.
+Client: Ha, ha. So I know then book somewhere else or not, just for that.
+Dealer: Theek hai sir, no issue.
+Client: And early morning order karna hai toh kaise? Matlab subah to yeh daily 5 pe jaake block ho jata hai I think.
+Dealer: Okay, ha toh aap call karna na sir. Order, order dal denge. Early, early.
+Client: 9 baje?
+Dealer: 9 baje ha pre-open chalu hota hai 9 baje, toh call karna, trade ho jayega apna. Ya toh aap ek baar pre-open mein mujhe call kar dijiye 8:45 ke baad. Toh main trade execute kar dunga.
+Client: Ha, because aaj bhi aisa hi kiya hai na, apne subah daal ke rakha hai.
+Dealer: Ha, ha.
+Client: Toh 5 pe block ho jata hai na, mil raha hai do teen din.
+Dealer: Okay.
+Client: Theek hai, no problem.
+Dealer: Okay sir, ha.

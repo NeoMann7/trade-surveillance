@@ -1,0 +1,44 @@
+Client: Hello?
+Client: Haan ji.
+Client: Ha Vikki ji.
+Dealer: Ha boliye.
+Client: Ye aap Papa se share kar dijiye na, wo bagal mein hi baithe hain ha.
+Client: Inke ji accounts mein.
+Dealer: Inke ji mein. Haan, kya lena hai?
+Client: Abott India.
+Dealer: Ek minute. Nisha Javar na?
+Client: MN Javar ke account mein. Mahender Javar. Pehle MN Javar ke account mein khol rahe hain. 000072.
+Dealer: Haan. Kya kya kya lena hai bol rahe ho?
+Client: Abott India.
+Dealer: Ek minute.
+Client: Kya rate dikh raha hai?
+Dealer: Ek minute.
+Dealer: Abbot India aa raha hai 30,935, 30,950.
+Client: 935 mein de dijiye 10 share.
+Dealer: 10 share main 30,935 mein lene ke liye dal raha hoon.
+Client: Haan. Aur ye same aap dal dijiye usmein.
+Client: Nisha Javar mein.
+Client: 935 mein, 935 mein dal dijiye, 950 mein bhi hai toh le lijiye. Kya abhi rate average chal kya raha hai abhi? 935 fluctuate abhi 920 mein tha 10.
+Dealer: Abhi 935 mein buyer hai aur 965 mein seller hai. Maine 35 mein dala hua hai 10 share.
+Client: Haan theek hai.
+Dealer: Hai na?
+Client: Theek hai aur Nisha Javar mein bhi dal dijiye.
+Dealer: 30,935.
+Dealer: Nisha Javar mein bhi 10 share lene ko dal raha hoon 30,935 mein.
+Client: Haan. Haan. Aur ek toh nahi, ismein ye bhi dalna hai dono mein, Suzlon bhi lena hai.
+Client: Kya abhi lower circuit kya hai iska Suzlon ka?
+Dealer: Suzlon ka ek minute. Lower circuit hai 52.08. Abhi toh 57, 56, 57, 57 aa raha hai.
+Client: Abhi kya rate chal raha hai abhi?
+Dealer: Haan, abhi 57.57, 57.60.
+Client: Haan toh aap 57.57 mein de dijiye.
+Dealer: 57 kitna daloon?
+Client: 1000 share le lijiye.
+Dealer: 1000 share 57.57 mein lene ko dalu na.
+Client: Haan. Ek minute.
+Dealer: Dono account mein dalna hai Nisha Javar mein aur Mahender Javar mein.
+Client: Haan. Aur aapka ye purchase ho jaye toh humko thoda intimate kar dijiye ga na mere number mein.
+Client: Ya.
+Dealer: Haan main main call kar loonga.
+Client: Haan kyunki aur kitna payment karwana hai, last time aap nahi the. Dusri ladki ulta pulta boli. Phir humko wapas karana pada, toh aap humko thoda sa right amount bata dijiye ga. Kal hum aapka karwa denge.
+Dealer: Haan haan maine abhi order dal diye hain charo order dal diye hai dono account mein. Main jaise hi aa jata hai na toh main chahiye toh main market ke baad ek bar call karke confirm kar deta hoon aapko.
+Dealer: Kitna aaya hai kya hai, hai na. Theek hai theek hai haan.

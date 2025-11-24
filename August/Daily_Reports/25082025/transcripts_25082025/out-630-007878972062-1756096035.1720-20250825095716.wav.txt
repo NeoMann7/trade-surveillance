@@ -1,0 +1,14 @@
+Client: Hello.
+Dealer: Hello. Sir, it's Rachna here. Very good morning.
+Client: Good morning.
+Dealer: Um, from Neo Wealth.
+Client: Haan bolo bolo, haan ji haan ji.
+Dealer: Yes. Sir, Keemji, how are you?
+Client: Ha ha. How are you? Majama ja.
+Dealer: Sir, uh, actually, Mane Shakti bhai ke kidu to call you. So, uh, aaje amne kai trade karvuchhe?
+Client: Uh, aaj ek vishle lavani hati kau tame chalo, paanch dash minute ho.
+Dealer: Okay. Uh, tame ek kaam karo, aa number je chhe ne e save kariloo. You you call me on this number.
+Client: Yeah, yeah.
+Dealer: Okay?
+Client: Yeah.
+Dealer: Okay.

@@ -1,0 +1,25 @@
+Client: Hello?
+Dealer: Hello sir, good morning.
+Client: Good morning.
+Dealer: Hindustan Unilever.
+Client: Hm, Hindustan.
+Dealer: Unilever, sir.
+Client: Unilever, okay.
+Dealer: Yeah. 2480.
+Client: Okay.
+Dealer: 80, okay? 2480.
+Client: Okay, Hindustan Unilever.
+Dealer: Yes. 2480.
+Client: Okay.
+Dealer: You have to buy that, sir.
+Client: Buy. Okay.
+Dealer: Yeah. Target would be 2490, 2500.
+Client: Okay.
+Dealer: And stop loss is 2470.
+Client: Okay.
+Dealer: Done. Any other query, sir?
+Client: No.
+Dealer: Okay, sir. Thanks for calling. Have a great day.
+Client: Okay.
+Dealer: Okay, sir. Bye.
+Client: Bye.

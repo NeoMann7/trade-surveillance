@@ -1,0 +1,17 @@
+Client: Hello
+Dealer: Yes.
+Client: Hello.
+Dealer: Yeah.
+Client: U_D_L_ F_U_T, udl fut.
+Dealer: UDL FUT.
+Client: 1000 short.
+Dealer: One thousand short.
+Client: 215.55.
+Dealer: 215.55.
+Client: Yes.
+Dealer: Yes.
+Client: Okay.
+Dealer: Order placed.
+Client: Okay.
+Dealer: Yes.
+Client: Okay.

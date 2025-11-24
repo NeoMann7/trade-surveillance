@@ -1,0 +1,46 @@
+Client: Hello?
+Dealer: Hello, ha sir boliye.
+Client: bol raha tha main ye trade karne ka.
+Dealer: Ha.
+Client: Ek to 80 to 600 ka call sell kar do.
+Dealer: Kitna bechu?
+Client: 1200 quantity, 1200 quantity.
+Dealer: 1200, 1200 zyada ho jayega. Apun normally 750, ha 750 jitna bechte hain.
+Client: Last time apanne 1100 kiya tha na to ho gaya tha.
+Dealer: Woh cover leke hua tha fir.
+Client: Hazaar, hazar, hazar try karo.
+Dealer: Hazaar bechta hu ek bar.
+Dealer: Hazaar ye bik gaya apna 10.85 mein. Aur put kon sa bechu?
+Client: Aur upar, upar kitna bechna hai apne ko?
+Dealer: Neeche mein put 80900 ka put aa raha hai ₹7.
+Client: 80900 ha, bech do.
+Client: Hazaar.
+Dealer: Kitna margin bacha?
+Dealer: Ha ye bhi hazar bik gaya apna 7.25 mein.
+Client: Ab kitna bacha margin?
+Dealer: Ek second.
+Dealer: Abhi 18 lakh aur hai apne paas. 18.5 lakh.
+Client: To 200 200 bech bhi sakte hai.
+Client: Ya ruko dekhte hai kya chal raha hai market mein. Ha becho 200 isi pe 82700 pe kar lo.
+Dealer: 82700 ka?
+Client: Par abhi 11:40 ho gaya. Ha chalo kar do 82600 pe hi kar do. Apne hai na inaff gap? 700 hai to 300 tak 300 points hai. 900 points hai.
+Dealer: 900 point dur hai na hum? To ek bar 200 200 bech raha hu ek bar.
+Client: Ha. 82600 pe.
+Dealer: Ha 82600 ka call.
+Client: Ha.
+Dealer: Nahi shortfall aa raha hai 200 10 lot ho raha hai na nahi aa raha hai.
+Client: 100 point karo mujhe lagta hai 1100 hi ho raha hai.
+Dealer: 10 point ha gaya ye apna 100. Aur put bhi 100 bech raha hu.
+Dealer: Put 100 ek minute.
+Dealer: Ha gaya dono 1100 1100 bik gaye apna. Call ka, ha call ka average hai apna 10.83. Aur put ka average hai 7.25. Total 19000 ka sell hua hai apna premium.
+Client: Margin kitna bacha?
+Dealer: Margin abhi 5 lakh hai.
+Client: 5 lakh. Hello isme thodi der baad dekhte hain agar cover position leni hai to. Kyunki achha chal raha hai.
+Dealer: Hm.
+Client: Premium to ₹17 ka premium hai na. ₹8 aapko cost lagegi.
+Dealer: Ha.
+Client: Cover kharidne mein.
+Dealer: Theek hai to dekhte hai thodi der wait karte hai.
+Client: Ha.
+Dealer: Theek hai. Main call karta hu wapas thodi der baad.
+Client: Theek hai, thank you.

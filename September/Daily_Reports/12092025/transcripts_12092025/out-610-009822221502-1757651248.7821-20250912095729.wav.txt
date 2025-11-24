@@ -1,0 +1,13 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha sir Vicky baat kar raha hoon Neo se.
+Client: Haa ji.
+Dealer: Ha sir apne paas jo cash hai 22 lakh ke around cash balance mein hai, toh uska kya karna hai sir? Uh, liquid mein daal doon?
+Client: Lekin ye iske liquid ke toh maine ek ek toh bola tha na dene wala nahi ji?
+Dealer: Ha last time humne ye kiya tha na usko becha tha phir woh next day uska aaya tha. Toh woh daala nahi hai toh daal deta hoon ek baar.
+Client: Aaj se din achchi blue ho jata hai woh toh apni baatein hui thi next day daalne ki.
+Dealer: Hmm.
+Client: Aaj se din ka bahut bhut ho jata na?
+Dealer: Ha ha.
+Client: Kar dijiye abhi.
+Dealer: Theek hai main kar deta hoon abhi.

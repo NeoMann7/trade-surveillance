@@ -1,0 +1,3 @@
+Client: Hello
+Dealer: हाँ सर, Nifty 50 का ट्रेड एक्ज़ेक्यूट हो गया सर।
+Client: Okay.

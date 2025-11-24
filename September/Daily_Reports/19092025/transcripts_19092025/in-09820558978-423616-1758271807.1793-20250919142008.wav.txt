@@ -1,0 +1,22 @@
+Client: Ha bol.
+Dealer: Hello.
+Client: Arey toh ch-chairman ka, secretary ka number cha?
+Dealer: Ha the chairman ko saho abhi na.
+Client: Chairman toh doctor sa.
+Dealer: Ha.
+Client: Secretary bhi vahi ho vahan se mil toh.
+Dealer: Kya bolta?
+Client: Secretary bhi vahi ho vahan se mil toh.
+Dealer: Kya pata, woh lalla hai ki na, already sir, ghar mein hi abhi. Haan, ek loan chal raha hai usko, usko kaam, kaam pehle usko kaam kar dena.
+Client: Ha?
+Client: Ek kaam kar na, ghar mein bel ka hi woh leke aane par padhai de usko, mil jinhu.
+Dealer: Abhi arjent ho.
+Client: Ghar mein aake hi number leke padhai de usko. Ek baar toh doctor ka number le leta hu board se hi.
+Dealer: Doctor ka number toh cha mere pass.
+Client: Padhai do.
+Client: Bahar na pata nahi toh 3:30 baje.
+Dealer: Ha thik hai.
+Client: Arey ya board mein laga tha hi number, London ko.
+Dealer: Kya pata.
+Client: Chal theek hai.
+Dealer: Ek baar tu pata unko number. Bhaiyon ko.

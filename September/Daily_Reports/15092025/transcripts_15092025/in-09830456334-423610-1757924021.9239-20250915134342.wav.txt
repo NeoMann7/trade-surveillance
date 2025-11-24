@@ -1,0 +1,33 @@
+Client: Hello.
+Dealer: Hello.
+Dealer: Haan madam.
+Client: Haan, aap Nandi mein ITC Hotels likhe hain na sale ke liye? Theek hai? Aap second likhiye PNB likh dijiye 500 shares.
+Dealer: PNB 500. Haan.
+Client: 108 mein laga dijiye.
+Dealer: Abhi kya price chal raha hai?
+Dealer: Abhi 107.94-95.
+Client: Theek hai, 108 mein laga dijiye. Theek hai?
+Dealer: Haan haan, woh daal diya.
+Client: Haan aur ITC Hotels mein bol hi diya tha 247 mein.
+Dealer: Haan, woh bhi rakha hua hai.
+Client: Aur mere ko yeh sir, yeh hai na, aap likhte jaaiye, mere ko sirf sale karna hai equities abhi. Kotak Bluechip jo hai humara.
+Dealer: Haan.
+Client: Kotak Bluechip mera kitna share hai? Units? 3000 units hain na?
+Dealer: Nandi Enterprises mein. Nandi mein. Kotak Bank?
+Client: Kotak Bluechip equity.
+Dealer: Kotak Bluechip, nahin dikh raha hai madam mujhe yahan pe. Mujhe usme dekhna padega.
+Client: Kaise nahin dikh raha hai? Aapke statement mein aaya hua hai.
+Dealer: Haan but isme yeh nahin rahega woh. Ah kya hai woh? Fund hai? Kya hai?
+Client: Equity hai.
+Dealer: Equity Bluechip kaise rahega madam? Woh ya toh Kotak Bank ka rahega stock.
+Dealer: Ya toh.
+Client: Kotak aapka statement mein Kotak Bluechip-GR karke.
+Dealer: Fund hai woh, growth fund rahega. Mutual fund rahega madam woh aapka.
+Client: Haan toh woh mere ko sale karna hai.
+Dealer: Woh, achha. Woh redeem karna hai? Kyunki woh yahan mere yahan se nahin hoga. Woh ek baar Shraddha se baat kijiye na. Shweta se, sorry.
+Client: Shweta se? Kyun aapki wahan se nahin hoga?
+Dealer: Nahin matlab mera yahan pe terminal se nahin hoga woh.
+Client: Toh kidhar se hoga?
+Dealer: Woh Shweta, Shweta se baat kijiye na ek baar. Kyunki woh shayad se woh upar se hota hai, back-end se hota hai woh. Mutual fund redeem karna hai na apne ko?
+Client: Hmm hmm hmm. Haan.
+Dealer: Toh woh Kotak Bluechip ka aapka fund hoga woh.

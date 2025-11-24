@@ -1,0 +1,28 @@
+Client: Hello?
+Dealer: Hello.
+Client: Is it [unclear name]?
+Dealer: Yes, sir.
+Client: Hello.
+Dealer: Hello.
+Client: Hello?
+Dealer: Hello.
+Client: Yes, sir.
+Dealer: Yes, sir.
+Client: Yes, sir. Good morning.
+Dealer: Good morning.
+Client: Sir, buy two lots.
+Dealer: Buy two lots.
+Client: Yes, sir.
+Dealer: Nifty future, no?
+Client: Yes, sir, Nifty future.
+Dealer: Okay.
+Client: At market, market rate, sir.
+Dealer: Okay.
+Client: Market rate.
+Dealer: Yes, sir. Done, sir. Your order is done.
+Client: Done?
+Dealer: Yes, sir.
+Client: Okay.
+Dealer: Okay, sir.
+Client: Thank you.
+Dealer: Thank you.

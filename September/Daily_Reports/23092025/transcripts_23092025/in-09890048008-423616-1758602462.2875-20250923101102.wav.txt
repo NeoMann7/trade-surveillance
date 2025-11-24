@@ -1,0 +1,11 @@
+Client: Hello.
+Dealer: Hello. Vasu. Te Shri Ram Properties cha.
+Client: Ha, ek minut sir. Ha 94 94 aat hota ani 96.05.
+Dealer: Nahi nahi aapna je Shri Ram Properties buy karayla thevlele te zale ka?
+Client: Nahi te nahi zale.
+Dealer: Nahi zale na? 95.42 la thevlet na aaple.
+Client: Ha ha.
+Client: Ha ikde 95.36 cha low dakhavla.
+Dealer: Adhich hota low.
+Client: Hmm.
+Dealer: Hmm. Ok.

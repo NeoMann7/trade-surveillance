@@ -1,0 +1,36 @@
+Dealer: Hello.
+Client: Hello, sir.
+Dealer: Hello. Sir, good morning.
+Client: Good morning, good morning.
+Dealer: Yes, sir.
+Client: Sir, can I have Nifty?
+Dealer: Nifty, sir?
+Client: Yeah, current price.
+Dealer: Nifty current level is 22,000, sorry 22,174, 175.
+Client: 22,174. Yeah, and Nifty Bank, sir?
+Dealer: Bank Nifty, sir, 46,900, 46,910.
+Client: 46,910. Okay. And sir, can I have Reliance?
+Dealer: Reliance, sir, 2900, 2901.
+Client: 2901. Okay. And what about, uh, Infosys?
+Dealer: Infosys, sir, 1500, 1515, sorry, 1515, 1516.
+Client: 1516. Okay. And sir, what about, uh, HDFC Bank?
+Dealer: HDFC Bank, sir, 14, sorry, 1466, 1467.
+Client: 1467. Okay. And sir, can I have Tata Motors?
+Dealer: Tata Motors, sir, 929, 930.
+Client: 930. Okay. And sir, what about, uh, TCS?
+Dealer: TCS, sir, 4000, sorry 4060, 4061.
+Client: 4061. Okay. And sir, what about, uh, Axis Bank?
+Dealer: Axis Bank, sir, 1070, 1071.
+Client: 1071. Okay. And sir, can I have ICICI Bank?
+Dealer: ICICI Bank, sir, 1080, 1081.
+Client: 1081. Okay. And sir, can I have SBI?
+Dealer: SBI, sir, 730, 731.
+Client: 731. Okay. And sir, what about, uh, Maruti?
+Dealer: Maruti, sir, 12,500, 12,510.
+Client: 12,510. Okay. And sir, can I have, uh, L&T?
+Dealer: L&T, sir, 3500, 3500, 3501.
+Client: 3501. Okay.
+Dealer: Anything else, sir?
+Client: No, sir. That's it.
+Dealer: Okay, sir. Thank you.
+Client: Thank you.

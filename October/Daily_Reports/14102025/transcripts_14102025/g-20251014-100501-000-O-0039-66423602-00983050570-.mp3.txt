@@ -1,0 +1,10 @@
+Dealer: Shubhamji, tell me.
+Dealer: Ricky, shubh aao, acha.
+Dealer: Hello. Haan, so yeh order aapka
+Dealer: system automated ho gaya hai, toh abhi aapko daalna hai wapas?
+Client: Nahi.
+Dealer: Theek hai, abhi 1708 ka bhav chalu hai. 1708, 1718.
+Dealer: 1710 chal raha hai, haan.
+Dealer: Nahi daalna na abhi?
+Client: Nahi.
+Dealer: Theek hai.

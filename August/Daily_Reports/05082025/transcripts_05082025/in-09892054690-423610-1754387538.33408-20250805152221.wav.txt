@@ -1,0 +1,29 @@
+Dealer: Hello.
+Dealer: Hello.
+Client: Yes, Vicky?
+Dealer: Uh, no, sir, Vicky's on leave.
+Client: That's okay. I'm Mr. Contractor speaking.
+Dealer: Hm.
+Client: I wanted to buy some shares.
+Dealer: Can you tell me your client code, sir?
+Client: 269.
+Dealer: 269. Your name?
+Client: Vispi Contractor.
+Dealer: Vispi Contractor.
+Dealer: Uh, Vispi Contractor. Okay.
+Client: Correct.
+Dealer: N-O-W-M-00269. Okay, what do you want to buy, sir?
+Client: Shakti Pumps.
+Dealer: Shakti Pumps.
+Dealer: Uh, how much quantity?
+Client: How much is it just now?
+Dealer: Uh, it's not. Shakti...
+Dealer: Uh, it's trading at 816.60, 817.
+Client: Buy 40.
+Dealer: Buy how much?
+Client: 40, 4-0.
+Dealer: Okay. 40. You want to buy 40 quantity Shakti Pumps at market price. Client code is N-O-W-M-00269, Vispi Contractor. Okay.
+Client: Right.
+Dealer: Okay, sir. 40 quantity bought at 816.60 paise.
+Client: Okay, fine, thank you.
+Dealer: Yeah.

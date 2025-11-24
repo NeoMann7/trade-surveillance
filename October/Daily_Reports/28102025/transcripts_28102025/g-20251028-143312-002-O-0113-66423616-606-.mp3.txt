@@ -1,0 +1,27 @@
+Client: Hello?
+Dealer: Hello.
+Client: Yeah, I am waiting for it, because payment transfer is ₹36 lakh, but still it's not visible.
+Dealer: ₹36 lakh?
+Client: Ha, ha, it is. PNB.
+Dealer: PNB.
+Client: I mean, it's not my account. He just told me that he transferred to PNB, but I don't know, he's saying RTGS is done.
+Dealer: No, no, no, which account? Which account he told me? I am asking that.
+Client: Maybe he did from PNB, maybe.
+Dealer: One minute.
+Dealer: It will take some time, what is there?
+Client: Ha, ha.
+Dealer: You sent a receipt, but they did it from PNB to your HDFC.
+Dealer: No, it's not visible to me.
+Client: I told him to send the receipt.
+Dealer: Receipt is there, but how will we know that? Banking operations, did you mail them?
+Client: How much time does it generally take for RTGS?
+Dealer: It should have come by now, it should be fine.
+Client: So, should I forward this receipt to him?
+Dealer: Yes, forward it to banking operations.
+Client: Okay.
+Dealer: Is it okay?
+Client: Banking ops. Okay. Only banking ops?
+Dealer: Ha, ha.
+Client: Okay.
+Dealer: Ha.
+Client: Okay.

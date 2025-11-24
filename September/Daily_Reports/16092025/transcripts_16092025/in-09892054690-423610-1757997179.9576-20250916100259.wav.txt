@@ -1,0 +1,16 @@
+Dealer: Hello.
+Client: Hello, Ricky.
+Dealer: Haan sir.
+Client: Good morning.
+Dealer: Good morning sir, boliye.
+Client: Can you check MosChip Technologies?
+Dealer: Which one?
+Client: MosChip. M O S C H I P.
+Dealer: MosChip, okay. 271, 83, 84.
+Client: Buy 250.
+Dealer: 250. 272 ho gaya hai sir, le lo na.
+Client: theek hai, le lo.
+Dealer: Haan sir. Yeh haan 250 aa gaya 272 pe.
+Client: Okay, thank you. I'll contact later.
+Dealer: Haan haan.
+Client: Thank you.

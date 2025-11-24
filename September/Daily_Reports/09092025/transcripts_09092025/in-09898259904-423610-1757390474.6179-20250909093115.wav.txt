@@ -1,0 +1,9 @@
+Dealer: Hello
+Client: Haan boli. Haan sir woh laga dijiye, ha woh aapka mail nahi aaya tha na toh main bola ek baar baat kar lu.
+Dealer: Karunga mail aapko.
+Client: Haan. Ye Swastik ka 500- Swastik ka 500 daal raha hoon lene ke liye. 11:25 mein.
+Dealer: Haan.
+Client: Theek hai. Aur Taparia, Taparia bhi 500 daal raha hoon. Taparia 1000 aur Saath Saath Ghee 500.
+Dealer: Haan.
+Client: Barabar. Rakesh Agarwal mein teeno order daal raha hoon main.
+Dealer: Theek hai, theek hai sir. Haan.

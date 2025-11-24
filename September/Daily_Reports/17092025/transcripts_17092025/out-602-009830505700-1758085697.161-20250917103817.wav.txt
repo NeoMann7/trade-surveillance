@@ -1,0 +1,10 @@
+Dealer: हेलो
+Client: हां सर हेलो
+Dealer: हां
+Client: अच्छा Auropharma 455 क्वांटिटी बाय हुआ है 1097.93 और sequent 2530 क्वांटिटी बाय हुआ है 197.87 के रेट में
+Client: 2000 हां
+Dealer: 2530
+Client: ओके ओके हां
+Dealer: ठीक है
+Client: ओके
+Dealer: हां जी धन्यवाद

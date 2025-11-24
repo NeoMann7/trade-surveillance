@@ -1,0 +1,18 @@
+Dealer: Hello
+Client: Hello. Madam, woh Sweta Jawar ka mail toh aa gaya aapka, but usme woh pledge karna hai na apne ko?
+Dealer: Haan, main ek second main aapko phone karti hu, jab woh actually phone nahi utha rahi hai, main abhi...
+Client: Haan, haan. Theek hai, chalega. Call ki...
+Dealer: Aapko khabar karti hu, baaki ka toh process kariye.
+Client: Haan, haan. Baaki ka sab daal diya, abhi ye wala pending hai khali ek. Hai na?
+Dealer: Haan, theek hai. Okay.
+Client: Haan.
+Dealer: Haan bhaiya, hello.
+Client: Haan.
+Dealer: Pehle ka bhi na, sara payment clear hai na, aapka...
+Client: Haan, haan, aage ka payment sab clear hai.
+Client: Aur mera bhi Nandi se release kara dijiye, jo share hua tha mera.
+Dealer: Nandi wala na?
+Client: Haan.
+Dealer: Theek hai, chalega. Main abhi mail daal deta hu.
+Client: Iska ko release karwa dijiye, haan.
+Dealer: Theek hai, Madam, haan, haan.

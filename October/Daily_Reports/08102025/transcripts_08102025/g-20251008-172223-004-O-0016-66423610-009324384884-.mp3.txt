@@ -1,0 +1,16 @@
+Client: Hello
+Dealer: Hello
+Client:
+Dealer: Hello
+Client: Uh, 32170 pe nifty.
+Dealer: 32170 pe nifty? Okay.
+Client: Sorry sorry sorry sorry.
+Dealer: Uh,
+Client: Ugh, sorry 32170 pe bank nifty.
+Dealer: Bank Nifty, ha.
+Client: Haan, usko bechna hai 100 shares.
+Dealer: 32170, 100 shares.
+Client: Haan
+Dealer: Haan, sir, done hai.
+Client: Okay.
+Dealer: Okay sir.

@@ -1,0 +1,9 @@
+Dealer: Hello?
+Client: Good morning, Akash bolto.
+Dealer: Ha bola.
+Client: Aka, Aurobindo Pharma cha call ala hota. Tactical call hota company cha. Chalu shakto tumhi, khup changla hota. Buy karaycha hota ka aaplya account madhe?
+Dealer: Kay rate chalalay?
+Client: Ata 1144 chaloo aahe, 1144.
+Dealer: 11 11
+Dealer: Theek aahe, mi bagh toh. Mala bola nantar. Kay?
+Client: Ha, okay.

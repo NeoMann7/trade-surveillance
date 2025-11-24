@@ -1,0 +1,22 @@
+Dealer: हेलो
+Client: हेलो
+Dealer: नमस्ते मैडम, कैसी हैं?
+Client: मैं ठीक हूं।
+Dealer: मैडम, आपकी जो सिर्फ की को डिस्कशन सब प्रोसेस है ना?
+Client: हां जी।
+Dealer: वो एक्चुअली
+Client: हां जी।
+Dealer: 3
+Client: हां जी।
+Dealer: क्या चल रहा है?
+Client: हां जी।
+Dealer: आपका वो चल रहा है 26030
+Client: 26030 पर?
+Dealer: 26030 पर।
+Client: हां जी।
+Dealer: बस।
+Client: 26030 बस।
+Dealer: 26030 पर।
+Client: हां जी।
+Dealer: हां।
+Client: हां जी।

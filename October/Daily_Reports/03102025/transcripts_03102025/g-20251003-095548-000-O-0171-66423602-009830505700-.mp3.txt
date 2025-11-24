@@ -1,0 +1,31 @@
+Dealer: Hello?
+Client: Yes.
+Client: Ah, sir good morning.
+Dealer: Good morning. Granules in your look?
+Client: Uh, kitne ka le na sir? 551.25 chal kitna quantity lo?
+Dealer: 551. Start karo 50 shares.
+Dealer: 500 shares lo.
+Client: Hmm.
+Client: Yeah 00.
+Client: 553 ka ke lo? 552 ka lo?
+Client: Hmm.
+Client: Theek hai. Ah theek hai. Granules aa gaya. 500 shares 599 me buy ho gaya.
+Client: Aur Indigo me kuch karna hai kya? Us din to kuch bika nahi tha.
+Dealer: 550 kya chal raha hai?
+Client: Ek minute.
+Client: Indigo 600 chal raha hai, 50.
+Dealer: 550, 120 daal ke rakhte hai.
+Client: 120. Na na. 120, 120 to nahi to ye 5-600.
+Dealer: Chamman Lal, Chamman Metallic.
+Client: Ek minute. 5-600. Sir Indigo me kuch nahi karna hai na?
+Client: Sir, ek minute haan.
+Client: Chaman Lal CL.
+Dealer: Chamman Lal 60-70, Chamman Metallic.
+Client: Ek minute.
+Client: Ek account me hai kya? Pehle liya hai aapne?
+Dealer: Nahi.
+Dealer: Daalo.
+Client: Ek minute. Ek minute.
+Client: Phone ka na, main bol daal dunga.
+Client: Buy, Chamman Metallic.
+Dealer: Okay.

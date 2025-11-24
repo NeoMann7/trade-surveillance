@@ -1,0 +1,9440 @@
+Client: हेलो
+Dealer: हेलो
+Client: 10 ये Tata Motors का जो अह अह कमर्शियल व्हीकल जो आ सबसे ट्रेडिंग में कभी कब से मिल पाएगा वो चालू होगा।
+Dealer: मैं बताता हूं।
+Client: हम्म हां, बताना जरा।
+Dealer: हां बोल रहा हूं।
+Client: हाँ।
+Dealer: हां, हां बता रहा हूं।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोलता हूं।
+Dealer: हम्म।
+Client: हां हां बताना जरा।
+Dealer: हम्म।
+Client: पता नहीं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हम्म।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हां हां बताना जरा।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां बोलता हूं।
+Client: हां हां बताना जरा।
+Dealer: हां बोलता हूं।
+Client: हां हां बताना जरा।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बताना जरा।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: बता रहा हूं।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हां हां बता रहा हूं.
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं. Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बता रहा हूं।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: हां हां बता रहा हूं।
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं.
+Dealer: हम्म।
+Client: हां हां बता रहा हूं.
+Dealer: हम्म।
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: हम्म।
+Dealer: हां हां बता रहा हूं.
+Client: बता रहा हूं.
+Dealer: हम्म।
+Client: बोल रहा हूं

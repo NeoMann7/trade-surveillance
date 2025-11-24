@@ -1,0 +1,68 @@
+Dealer: Hello.
+Dealer: Hello.
+Dealer: Hello?
+Dealer: Kaun?
+Dealer: Kaun bol raha hai?
+Dealer: Vasu baat kar raha hu.
+Dealer: Vasu Prerak bol raha hu, ye mere client hai Mr. Varun Agarwal. Abhi unka broking account khula hai aur ₹3 crore abhi fund kiya hai. Hold pe rehna.
+System: Aap jis vyakti se baat kar rahe hain, usne aapki call ko
+Dealer: Hold pe raho.
+Dealer: Ha ha.
+System: Aap jis vyakti se baat kar rahe hain, usne aapki call ko hold par rakhha hai. Kripya line par bane rahein. The person you are speaking with has put your call on hold. Please stay on the line.
+System: Aap jis vyakti se
+Dealer: Shrinkhla, Vasudev from new broking is on the line. Mr. Varun Agarwal has to place an order.
+Dealer: Uh the uh client code kya hai?
+Dealer: New WP00491.
+Dealer: Yes. New WP
+Dealer: New 00491. Yes, Prerak jitna maine sir ko confirmation mail bhej diya.
+Dealer: Hold pe raho.
+Dealer: Hmm.
+Dealer: Shrinkhla, Varun ji ka na phone busy ja raha hai.
+Client: Hmm.
+Dealer: Okay. Uh, I will, I will request him to call you and in you connect Vasu and uh dono ka introduction kara dena Varun ji, taki aage se order place kar paye.
+Client: Okay. Done, Prerak.
+Dealer: Thik hai.
+Client: Okay.
+Dealer: Koi jarurat nahi hai. Hold kar, Varun ka phone nahi aa raha hai. Hold karo.
+Client: Okay okay.
+Dealer: Uh Varun ji, we have Vasudev from our broking team and Shrinkhla from the service team on the line.
+Client: Hello, hi sir, good morning.
+Dealer: Hello, good morning sir, Vasudev here.
+Client: Yeah, good morning.
+Client: Yes.
+Dealer: Shrinkhla uh Varun ji, aapka ek toh client code bata deta hu. That's something you have to quote when you call. Shrinkhla, what's resource code? Last three digits.
+Dealer: New WP00491.
+Dealer: 491. Theek hai?
+Client: Yes.
+Client: 491 only we'll say, na? That's easier.
+Dealer: Yeah. Ha sir aap apna naam bas bol doge toh bhi chalega. Varun Agarwal bol dena. Mai aapko samne se bol dunga yaha se fir. Thank you.
+Client: Ha ha, theek hai.
+Dealer: So Vasudev sir will also be the uh, you know, authorized holder for Padam Agarwal ji. Theek hai?
+Dealer: Kyun? Sabhi documents sign karne ke liye bheje hain. Aaj mil jayenge, then I will get it up to
+Dealer: Just telling Vasudev, and Ellen Barry Industrial Gases naam se bhi company hai, usme bhi Varun ji is there.
+Client: Okay okay, no problem.
+Dealer: So aapko khayal rakhna hai kaun se account ka trade hai.
+Client: Theek hai, theek hai.
+Dealer: Yes, Varun ji, you wanted to buy NHAI T?
+Client: Ha. Wo NHAI invest. Uh, we I wanted to place an order at limit of 140 for 1 lakh quantity.
+Dealer: Okay. Achcha, listen sir. Mai woh what I'll do, I'll call you from my registered landline number. Abhi mai aapko call karta hu within 5 minutes mein. Matlab ye kaun sa number hai?
+Dealer: Ha nahi ye actually Prerak bhai, aap ne phone kiya na toh ye it will not be counted as a recording mein.
+Dealer: Nahin aayega na?
+Dealer: Ha. Toh mai aapko Varun sir abhi just mai aapko call back kar raha hu yaha se. Aap wo number save karke rakh dena convenience ke liye.
+Client: Theek hai. Ha.
+Client: Ha, wo maine wo aap log ka jo like uh central koi number hai kya for aapke dealing room ka number hai.
+Dealer: Ha, dealing room ka number.
+Client: Every time koi alag banda hotayega?
+Dealer: Nahi, nahi, ye mera direct number hai.
+Client: Aapka hi direct.
+Dealer: Ha, aap wo save karke rakh dena. Aap jab bhi call karoge, I will be there.
+Dealer: After this trade we will also share your number and the balance numbers with Varun ji. In case he needs to reach out. Second, abhi Varun ji email pe hi kar lete hain, hai na? Shrinkhla can put an email and Varun ji can say okay. Is that okay?
+Client: Nahi, ek baat wo you are اچھا آپ کال کر لیں گے
+Client: He is calling na? Toh woh apni ek baar just because going forward toh zyada call pe hi hoga. Call aur like if it is something simple, toh woh hum apne directly bhi execute kar lenge. Online. Yes. Toh woh either or rahega. Email pe toh generally nahi hoga but anyways, that coordinate also if you can share. So then we have all the three options available.
+Dealer: Theek hai Varun ji.
+Client: Ha toh mai abhi just
+Dealer: So Vasudev, will you just call Varun ji?
+Dealer: Okay, right now I'm calling only. Theek hai. Mai abhi just call karta hu. Ha.
+Dealer: Yeah. Thank you.
+Client: Okay, bye. Thank you. Thank you Prerak, thank you sir.
+Dealer: Thank you.

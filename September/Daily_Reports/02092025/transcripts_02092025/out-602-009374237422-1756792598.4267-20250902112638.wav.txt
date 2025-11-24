@@ -1,0 +1,7 @@
+Dealer: Hello?
+Client: Hello? Vikram bhai?
+Dealer: Haan bolo.
+Client: Arre, maru tamara order pending joileo, kadej delete theya se.
+Dealer: Kya?
+Client: To tame joileo delete thaya paacha nakhi dejyo.
+Dealer: Ha, delete thaya che. Okay. Ha to nakhi dau. Okay, okay.

@@ -1,0 +1,14 @@
+Client: Hello.
+Dealer: Hello. Yes sir.
+Client: Yeah. Can you check Nippon India for silver?
+Dealer: Nippon Silver. So 132 38 39.
+Client: Ah, buy another 100.
+Dealer: 100 more, no? 100 bought at 132.39.
+Client: Okay. And can you tell me what is the balance?
+Dealer: Let me see. 59,000 hai sir abhi aur. Matlab.
+Client: Yeh nikalne ke baad?
+Dealer: Nahi, yeh apna margin mein, haan, matlab, yeh nikalne ke baad nahi. Wo usme adjust hoga. Abhi usne margin se utilize kiya hai, toh 44,000, 44,000 hoga apna.
+Client: Theek hai. So accordingly I can say, that's why I asked.
+Dealer: Theek hai sir.
+Client: Okay, fine. Thanks.
+Dealer: Hmm.

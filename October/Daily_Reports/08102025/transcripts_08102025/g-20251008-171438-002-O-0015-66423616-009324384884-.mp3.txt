@@ -1,0 +1,21 @@
+Dealer: हेलो
+Client: हां जी भैया
+Dealer: हां बोलिए
+Client: एक सीएलटेक का स्टॉप लॉस लगा दो 1431 का
+Dealer: सीएलटेक
+Client: सीएलटेक का 1431 का स्टॉप लॉस
+Dealer: हां बाय या सेल?
+Client: बाय किया हुआ है मैंने।
+Dealer: क्या रेट पे?
+Client: 1442
+Dealer: 1442
+Client: हां
+Dealer: जी, 1431 का स्टॉप लॉस।
+Client: जी।
+Dealer: ठीक है?
+Client: हां।
+Dealer: डन।
+Client: ओके
+Dealer: ओके।
+Client: थैंक यू
+Dealer: वेलकम

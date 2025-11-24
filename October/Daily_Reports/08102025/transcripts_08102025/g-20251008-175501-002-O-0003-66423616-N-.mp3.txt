@@ -1,0 +1,36 @@
+Client: Hello
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello sir.
+Client: Yeah good morning.
+Dealer: Good morning sir.
+Client: Yeah I want to place an order.
+Dealer: Okay sir tell me.
+Client: Buy TCS April future.
+Dealer: Okay TCS April future buy.
+Client: Current price.
+Dealer: At market.
+Client: At market yeah.
+Dealer: Okay sir. One moment sir.
+Client: Quantity one lot.
+Dealer: One lot, okay.
+Client: And buy Wipro April future.
+Dealer: Okay.
+Client: One lot current price.
+Dealer: One lot current price Wipro April future buy.
+Client: Hmm.
+Dealer: Okay sir.
+Client: Okay done.
+Dealer: Done sir.
+Client: And sell Tata Motors April future.
+Dealer: Okay Tata Motors April future sell.
+Client: One lot.
+Dealer: One lot.
+Client: At market.
+Dealer: At market, okay sir.
+Client: Done.
+Dealer: Done sir.
+Client: Okay thank you.
+Dealer: Thank you.
+Client: Hmm.
+Dealer: Hmm.

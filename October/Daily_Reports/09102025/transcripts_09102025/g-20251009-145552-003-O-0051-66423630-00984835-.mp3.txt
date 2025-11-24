@@ -1,0 +1,7 @@
+Dealer: Hello?
+Client: Yes, Nivedita Shah here.
+Dealer: Yeah, sir, you wanted to buy anything like any recommendation which?
+Client: That was only one granule and Ashish wants to go ahead with liquid ETF.
+Dealer: Achcha, I'll check. I'll get back.
+Client: Okay.
+Dealer: Yeah.

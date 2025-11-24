@@ -1,0 +1,22 @@
+Dealer: Hello.
+Client: Hi, Dheeraj.
+Dealer: Hello, ha bol na.
+Client: So, ye granules hain na, jisme hum dalna chahte the, granules, right?
+Dealer: Hmm.
+Client: Abhi woh T-Mart I think aaj khulega.
+Dealer: Hmm.
+Client: Toh idhar aur idhar khula nahi hai, toh I think Akshay ne bola tha aapke paas wahan MS hai toh wahan se kar lo.
+Dealer: Hmm, wahan se kar lenge no problem.
+Client: Theek hai, so matlab put in big money.
+Dealer: Hmm hmm.
+Client: Hmm.
+Dealer: At least 20% in the net.
+Client: Ha ha, theek hai. Theek hai.
+Dealer: Aur agar in case wahan bhi nahi ho raha hai na ma'am, we can do this jo aapke stocks hain na, we can pledge here toh we'll get usme buy kar sakte ho.
+Client: Hmm.
+Dealer: So ya around evening or morning. In case agar payment nahi hota hai within matlab tak nahi hota hai toh they will charge interest. Aisa hai.
+Client: Aur agar theek hai, in case if there is any issue toh wahan se toh ho jayega, wahan se ho jayega.
+Dealer: Haan toh theek hai chalega.
+Client: Wahan se ho jayega. Theek hai, okay, bye.
+Dealer: Okay, bye.
+Client: Bye.

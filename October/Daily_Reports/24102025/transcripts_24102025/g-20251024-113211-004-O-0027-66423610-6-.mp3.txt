@@ -1,0 +1,10 @@
+Dealer: हॅलो
+Client: हा राजेश
+Dealer: हां, सकाळी मी तुम्हाला जे काही बोललो ना
+Client: जाकीट का नाहीये?
+Dealer: नाही, निघून नाहीये.
+Client: ठीक आहे चलो हा
+Dealer: हां
+Client: हा
+Dealer: ठीक आहे.
+Client: हा.

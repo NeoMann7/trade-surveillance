@@ -1,0 +1,16 @@
+Client: कांशा तो बोला एक क्षण दुसरे काहीच कळत नव्हतं.
+Dealer: हं.
+Client: कळत नव्हतं.
+Dealer: हां बोला.
+Client: हं, आता कळलं.
+Dealer: हां.
+Client: हं, काय?
+Dealer: बोला.
+Client: हं, एक एक 1800 चा.
+Dealer: हं.
+Client: हां एक 1800 चा, काय आहे तो भाव?
+Dealer: 1800.
+Client: 1800?
+Dealer: हम्म.
+Client: हां.
+Dealer: हो सर.

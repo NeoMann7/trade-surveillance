@@ -1,0 +1,23 @@
+Dealer: Hello?
+Client: Hello?
+Dealer: Ha.
+Client: Ha, this is Arnab Agarwal.
+Dealer: Ha, bolo na sir. Okay.
+Dealer: Ha, bolo bolo.
+Client: Ha, aap wo Niyo se hai na aap?
+Dealer: Ha, Niyo se bol raha hu.
+Client: Ha, aap mere liye yatra lijiye, 12 and half lakh ka.
+Dealer: Ek minute, Yatra.
+Dealer: Right now its price is around 153, 25, 30.
+Client: Ha, 152.90 me lijiye aap.
+Dealer: 152.90 me rakhna hai?
+Client: Nahi theek hai, market price me le lijiye, jo bhi hai, 153, jo bhi hai.
+Dealer: Okay, ye around 8150 quantity aayega, theek hai?
+Client: 8150, theek hai.
+Dealer: Ha, 8150 yatra lena hai, market price me. Client code hai Arnab Agarwal. ENO W P double zero 437 Arnab Agarwal, theek hai?
+Client: Ha ji, Arnab Agarwal.
+Dealer: Ha, Arnab Agarwal. Theek hai, 8150 quantity hamara total buy ho gaya hai 153.22 k average se.
+Client: 153.22.
+Dealer: 22.
+Client: Theek hai. Okay. Thank you.
+Dealer: Okay bye.

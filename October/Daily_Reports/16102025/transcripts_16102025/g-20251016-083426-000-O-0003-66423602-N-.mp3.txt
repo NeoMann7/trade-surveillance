@@ -1,0 +1,22 @@
+Dealer:
+Client: Hallo?
+Dealer: Yes sir, good morning.
+Client: Good morning sir. Nifty sell Nifty.
+Dealer: Nifty sell?
+Client: Haan, 21950.
+Dealer: 21950.
+Client: Hmm.
+Dealer: Okay, sir, Nifty future sell at 21,950.
+Client: Hmm.
+Dealer: Quantity?
+Client: 1000.
+Dealer: 1000?
+Client: Hmm.
+Dealer: Done, sir.
+Client: Okay.
+Dealer: Nifty future sold at 21,948.75 for 1,000 quantities.
+Client: Hmm.
+Dealer: Anything else, sir?
+Client: Nahi, bus.
+Dealer: Okay, sir. Thank you.
+Client: Okay.

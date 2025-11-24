@@ -1,0 +1,11 @@
+Dealer: Hello, hello.
+Client: Hi, Vicky, Gayatri here.
+Dealer: Uh, Vicky line pe bolena Gayatri madam, please hold on.
+Client: Achha achha. Ya, mera na call disconnect ho gaya hai so I wanted to...
+Dealer: Ek second Vicky ko de raha hoon, ek second.
+Dealer: Hello.
+Client: Ya, uh Vicky, my call got disconnected. I think there's some issue with the WiFi but what I was saying was ye jo transaction files hain, I can share a few with you so that you can run and check and aapko manually ye nahi karna pade.
+Dealer: Haan, ye toh abhi main samajh gaya. Theek hai toh abhi main ek baar try karta hoon mujhe jo karna hai. Agar usmein kuch dikkat aati hai toh main call back karunga.
+Client: Okay, sure, sure.
+Dealer: Theek hai? Okay. Yeah, thank you.
+Client: Thank you. Thank you so much.

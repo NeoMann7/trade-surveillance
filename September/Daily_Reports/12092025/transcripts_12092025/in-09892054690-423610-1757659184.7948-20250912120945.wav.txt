@@ -1,0 +1,36 @@
+Client: Hello.
+Client: Hello, Vicky.
+Client: Yeah. I've just transferred one lakh. Can you check if it has come?
+Dealer: Yes sir, bolie.
+Dealer: Just a minute, sir.
+Dealer: 269 na?
+Dealer: Ha, sir, aagaya hai. Ek lakh.
+Client: Aagaya, na? Ha, then just check ASM Technologies.
+Dealer: ASM.
+Client: ASM.
+Dealer: ASM ₹16 wala hai wo.
+Client: Kitna?
+Dealer: ₹16, ₹16.50.
+Client: Nahi nahi. ASM Technologies, 4,200 aisa kuch hai.
+Dealer: ASM Technologies, right.
+Dealer: 4272.
+Dealer: Ha, kitna lena hai?
+Client: Ha, woh wala hai na, 4272? Take 11.
+Dealer: 11.
+Dealer: 11 bought, sir, at 4272.50.
+Dealer: Hello?
+Client: Hello?
+Dealer: Ha, sir. 4272.50 mein aagaya 11.
+Client: Okay. And Gains Technologies.
+Dealer: Gains.
+Client: Gains, K-A-Y-N-E-S.
+Dealer: Gains. Ha, 7205.
+Client: 7205 hai.
+Dealer: Ha.
+Client: So, 5 3.
+Dealer: 3.
+Dealer: 3 bought at 7204.55.
+Client: Okay.
+Dealer: Okay, sir. Yeah.
+Client: Thanks. I'll get back later.
+Dealer: Yeah.

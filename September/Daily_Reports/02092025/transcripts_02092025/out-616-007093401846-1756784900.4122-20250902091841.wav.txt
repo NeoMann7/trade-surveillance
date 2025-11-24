@@ -1,0 +1,33 @@
+Dealer: Hello.
+Client: Hey Vicky ko call kiya tha, kuch kaam tha.
+Client: Haan haan. Ek order place karna tha mereko.
+Dealer: Ek minute haan. Order place karna hai na? Abhi 9:19 ho rahe hai, abhi karna hai kya?
+Client: Nahi. Kitna aa raha hai abhi hurdle? Straddle kitne ka aa raha hai?
+Dealer: Almost 24650 ka aa raha hai. 54 or 31 chal raha hai, ek minute haan.
+Client: 83 ho gaya, 83 240 upar, 240 niche.
+Dealer: Haan.
+Client: 3x wala na?
+Dealer: Haan, ye 24... Hello.
+Client: Ek minute haan, ek minute.
+Dealer: Haan haan.
+Client: Achha haan theek hai. Woh teams mein dekha maine, betting mein dekha aapne?
+Client: Haan 2775 quantity, ek toh aap strike kariye 24... Ek second haan, 24800.
+Dealer: OTM kya hai? Aaj market kis pe 24650 pe hai na? Toh 24...
+Dealer: Ek minute, woh aapko ye wrong gaya. Aapne galat bheja hai, but main theek kar le toh.
+Client: 24850 pe call sell kar do. ₹3 ka I think aaspas ka hai. 24850, 650, 200...
+Dealer: 24900 ka konsa bola?
+Client: 24850.
+Dealer: 24850.
+Dealer: ₹3.5 chal raha hai.
+Client: ₹3.
+Dealer: Haan. Aur upar aap 24...
+Client: Ek minute 2775 quantity, 25 24850 ka call market mein sell karna hai.
+Dealer: Haan.
+Client: ₹3 tha, 2.75 ho gaya. Ab thoda jaldi karo.
+Dealer: Theek hai, aur put? Put konsa bola aapne?
+Client: Put sell karna hai 24400. ₹3 20 paisa. 24400.
+Dealer: Theek hai, main aapko confirmation deta hu.
+Dealer: NioWM00336 mein 24850 ka call 2775 quantity sell hua ₹2.65 mein. Aur 24400 ka put 2775 quantity ₹3 mein.
+Client: Theek hai.
+Dealer: Dekhte rehna agar 15,000 se zyada loss ho toh mujhe call kar lena.
+Client: Theek hai, chalega.

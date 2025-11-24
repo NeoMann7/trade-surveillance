@@ -1,0 +1,44 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello, ha Viki baat kar raha hu mai Akshaya, ha.
+Client: Ha Viki.
+Client: Ye trade karna tha kuch?
+Dealer: Ha, mereko trade karna tha. Mai fund transfer kar raha hu. Mereko account confirm karenge kya aap?
+Client: Ek second.
+Client: Bank account HDFC ka jo aapka tha.
+Dealer: Ha, HDFC ka hai na apna.
+Dealer: Ek hi minute ha.
+Dealer: Ha, main mera email ID doon? Aap uske upar email kar denge mereko account details?
+Client: Ha chalega.
+Client: Boliyega na email ID.
+Dealer: A K A R A M
+Client: K A R A N.
+Dealer: A for Australia, K for Karnataka.
+Client: Akram bol rahe ho?
+Dealer: Ha, Akram. R for Rajasthan, A for again Australia.
+Client: Hmm.
+Dealer: M for Madhya Pradesh.
+Client: Okay, toh A K A nahi hai beech mein, A K A R A M.
+Dealer: Ha, A K A R A M.
+Client: at the rate.
+Dealer: Ha.
+Client: Faze three.
+Dealer: Sorry?
+Client: F for… Faze, F for Faridabad.
+Dealer: Hmm.
+Client: A for Australia.
+Dealer: Hmm.
+Client: Z for Zebra.
+Dealer: Hmm.
+Client: E for England.
+Dealer: Hmm.
+Client: Three in number in word, T H R double E.
+Dealer: T H R double E three.
+Client: dot com.
+Dealer: Faze3.com.
+Client: Ha, F A Z E D na?
+Dealer: Ha, F A Z E D.
+Dealer: Okay, faze3.com. Akram@faze3.com.
+Dealer: Theek hai, main abhi bank detail bhej deta hu.
+Client: Okay, thank you.
+Dealer: Yeah, yeah, thank you.

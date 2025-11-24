@@ -1,0 +1,185 @@
+Client: Hello?
+Dealer: Haan Vicky.
+Client: Nikhil bol raha hoon.
+Dealer: Kaun?
+Client: Nikhil, Nikhil Jain.
+Dealer: Haan Nikhil, bolo.
+Client: Ye order le lo.
+Dealer: Arre haan yaar, main actually dusre trade mein tha. Ek minute.
+Dealer: Abhi 81,600 aa raha hai na. Main chalo calculate karke karu aapko call?
+Client: Nahi nahi, maine kara hua hai aapko.
+Dealer: Haan haan, boliye na, toh kaun sa bechna hai?
+Client: Haan toh call apne ko bechna hai 81,500 aur ye ho gaya aapka Dealer: 81,500 apna aa raha hai 172.
+Client: Hmm.
+Dealer: Toh 82,200.
+Client: 82,200, ₹10.60 paisa wala call. 750 quantity.
+Dealer: 82,200.
+Client: Haan.
+Dealer: Haan, ₹11 aa raha hai. Kitna quantity?
+Client: 750.
+Dealer: 740 quantity. Haan.
+Client: Haan, 740. Ab badh gaya hoga shayad.
+Dealer: Haan, abhi 11.20 ho raha hai.
+Client: Hmm.
+Dealer: Ek minute.
+Client: Kar lo.
+Dealer: 11.10 mein pending hai apna. Abhi 10.70 aa raha hai. Karu modify?
+Client: Haan, modify kar do.
+Dealer: Haan, ye gaya apna 10.50 mein.
+Client: Thik hai, ek second. Aur kaun sa tha apna 80?
+Dealer: Kaun sa tha apna 82,200 ka call tha ye.
+Client: 82,200. Haan.
+Client: 750 point neeche na?
+Client: 80, 79,800.
+Dealer: Oh, ₹3 aa raha hai.
+Client: Nahi nahi, 79 nahi. Hazar point.
+Dealer: 80,000 aayega na?
+Client: Haan haan.
+Dealer: 80,800 ka ₹12 aa raha hai.
+Client: 80,800.
+Dealer: Haan, wo 12.60 aa raha hai. 740 quantity main bech raha hoon.
+Dealer: Haan, ye 740 bik gaya apna 12.93 mein.
+Client: Ye ho gaya. Ab ek kaam karo, buy karo put.
+Dealer: Haan, neeche kitna? 1000 point neeche wala karu?
+Client: Haan, kitna aa raha hai 1000 point neeche?
+Dealer: 1000, 79,800 wala aa raha hai 340.
+Client: 79,000, 79,300 wala aa raha hai 280, na?
+Dealer: 300 wala, haan, 280 aa raha hai. Toh toh 400 ka bhi 280 hai. Aur 79,500 295 hai.
+Client: 79,500 kar lo.
+Dealer: 79,500 mein 740. Ek second rukna. Haan.
+Client: Ek second rukna. Toh ye kitna hua? 2.8 aur 2.8.
+Client: Apne ko 5, ₹6 ka padega ye. Hai na?
+Dealer: Hmm.
+Client: Thik hai, karu?
+Dealer: Ek minute. Main 79,500 ka 740 quantity main buy kar raha hoon.
+Dealer: Haan, ye 740 quantity apna buy ho gaya 2.95 mein. Aur call kaun sa buy karna hai?
+Client: Ruk, 82,800.
+Client: 82,800.
+Dealer: Ek minute.
+Dealer: 82,800 ka call aa raha hai ₹3. Woh bhi 740 quantity buy kar lo.
+Dealer: Haan, ye buy ho gaya apna ₹3 mein. Abhi apne paas.
+Client: Ab margin batao kitna bacha hai?
+Dealer: Abhi margin apne paas 60 lakh aur hai.
+Client: Ek hi to ho jaayenge, haan.
+Dealer: Apna utilized hua hai itna ye same ho jayega quantity apna aur double ho jaayega.
+Client: 740.
+Dealer: 57 haan, 57 used hai apna.
+Client: Haan.
+Dealer: Toh main aur wapas se same quantity kar deta hoon dono.
+Client: Ruko ruko, main batata hoon strike thodi change karni hai mujhe. Abhi jo apan ne extra liya hai uska thoda extra nikalna padega. Delta hai .13. 82,000. 82,000.
+Dealer: 82,000 ka call.
+Client: Le kya?
+Dealer: Wo ₹25 aa raha hai.
+Dealer: 82,000, 500 point dur hai yahan se.
+Client: 82.
+Client: Le sakte hai. 82,000 pe, 82,000 ka 350 quantity de lo.
+Dealer: Bechu na? 350 quantity?
+Client: Sell. Haan, 350 lot.
+Dealer: Haan, matlab 740 quantity hoega, abhi 340 bechta hoon ek baar. Upar mein hi rehne. Main toh bolunga ki jo becha hai na usi ko usi ko add karo. Ye nazdeek ho jaayega.
+Client: Nazdeek ho jaayega. Main soch raha hoon point delta jo hai na .3.
+Dealer: Hmm hmm.
+Client: Sufficient hai.
+Dealer: Okay, toh kya karu ye bech doon 82,000 wala?
+Client: .3 haan, chalega. Mujhe lagta hai 82,200 kiya tha na apan ne?
+Dealer: Haan haan haan. 200 point nazdeek aa jayenge aur.
+Client: 82,100 wala kar do chalo. But mere ko lagta hai ye .3 delta karna chahiye try. Isi ko karo aap.
+Dealer: Yahi karu na. Abhi ₹25 ho gaya hai.
+Client: Haan.
+Dealer: Haan, ye 340 quantity bik gaya. Aur put kaun sa bechna hai?
+Client: Ek second, put bhi batata hoon.
+Dealer: Put bhi agar 81,000.
+Client: 81,100.
+Dealer: 81,100 ₹31 aa raha hai, ₹32.
+Client: Nahi ruko, 81,000 ₹24 hai.
+Dealer: 81,000.
+Client: 81,000 karu. Nahi toh 80,000 bhi kar sakte hai actually. ₹17 ka hi hai. ₹3-4 ka profit.
+Client: 80,900.
+Dealer: 80,900.
+Client: 80,900 karo.
+Dealer: Haan, 80,800 toh humne becha hua hi hai. Abhi 80,900 kar raha hoon main.
+Client: Haan.
+Dealer: Haan, na? ₹16 ja raha hai wo 340 quantity.
+Dealer: Haan, ye 340 bik gaya apna 16.50 mein.
+Client: Hmm.
+Dealer: Abhi iske samne kuch buy karna hai apne ko.
+Client: Ab aur kitne quantity bachi hai?
+Client: 340 ho gaya. 400 quantity aur bachi hai.
+Dealer: 340, haan, aur 400 ho sakti hai. But agar wo apan uska cover buy karenge toh. Toh jo liya hua hai usi ko le lu ek baar cover mein?
+Client: Haan, te ko wahi le lo.
+Dealer: Cover mein 340 quantity wahi main le raha hoon ek baar.
+Dealer: Haan, ye dono buy kar liya maine 1, 340, 340. Abhi apne paas 34 lakh ka aur limit hai.
+Client: Kaise? 340 hai na. Aur le lo.
+Dealer: Abhi limit dikha raha hai 34 lakh ka. Kyunki ye. Aur kaun sa bechu abhi? 34 lakh ka margin hai apne paas aur.
+Client: Ah jo 82,200 wala kiya tha na apan ne? Wahi karte hai.
+Dealer: Upar wala na?
+Client: 82,200.
+Dealer: ₹10 ho gaya hai wahi wala.
+Client: Haan.
+Dealer: Haan toh wo 400, 400 bech raha hoon ek baar.
+Client: Haan.
+Dealer: Ek minute.
+Dealer: ₹10 mein rakha hai. Gaya nahi hai. 9.50 ho gaya hai. De du current rate pe?
+Client: Haan, current rate pe de lo.
+Dealer: Haan, ye gaya. Aur 80,800 wala bech raha hoon aur wapas.
+Dealer: Hmm, margin short bol aa raha hai. Main ek kaam karta hoon pehle upar ka 400 aur buy karta hoon call. Toh thoda margin khulega. Cover buy karta hoon.
+Dealer: Margin short bol aa raha hai.
+Client: Hmm.
+Client: Kitna ho sakta hai utna hi karte hai.
+Dealer: Haan, abhi wo apna call bik gaya hai.
+Client: Haan.
+Dealer: Call apna 11, 1140 bika hai call aur uska cover bhi le liya hai. Abhi ek kaam karta hoon, ek minute main 300 ek baar bechta hoon.
+Dealer: 300 bhi reject ho raha hai order. 200.
+Dealer: 200 ka order gaya hai.
+Dealer: 240 nahi ho raha hai, 200 ho raha hai.
+Dealer: Haan, 200 gaya apna. Toh total apna put bika hai 940. Aur call bika hai 1140.
+Client: Thik hai.
+Dealer: Put ka main cover aur main 200 buy kar leta hoon.
+Client: Hmm. Ek baar 200 try karo wapas.
+Dealer: Haan, ye 200 le liya hai maine abhi. Abhi bhi 12 lakh limit toh dikha raha hai apne ko.
+Client: Kitna percentage hua ek baar batao?
+Dealer: Ek baar pehle cover buy karke wo try karu?
+Client: 29,000 rupees.
+Dealer: Haan, 29,000.
+Client: 37,000 hua hai.
+Dealer: Haan, total 37,000 ka premium sell kiya hai. Samne apan ne 8,000 ka premium buy kiya hai. Toh wo mota-moti 29,700 ka apna premium short hai. Abhi bhi 12 lakh ka limit hai apne paas.
+Client: Usi pe hi kar do na wo .13 wala jo maine bataya tha aapko. Abhi kya chal raha hai?
+Dealer: Nahi apna ye jo uneven hai usko ek baar try karte hai na. 940 jo hai usme 200 apna aur baaki hai.
+Client: 82,200.
+Dealer: Haan, 80,800 wala put baaki hai na apna? Call toh apne sab bik gaye hai.
+Client: Haan, 80,800 try karo.
+Dealer: Put apna baaki hai. Put nahi ja raha hai abhi. 150. Ek baar pehle cover buy karke phir try karu kya?
+Client: Nahi, ek baar isko 150 quantity karo, 100 karo ek baar quantity.
+Dealer: 100 gaya.
+Client: Haan, ab ek aur 100 ka.
+Dealer: Ek minute, ek baar uska cover le leta hoon na toh limit aur khul jayegi.
+Client: Cover matlab?
+Dealer: Wahi jo upar ka jo, neeche ka put apan le rahe hai na, ek bech ke ek le rahe hai.
+Client: But wo toh khali apan 750 quantity kari hai na?
+Dealer: Nahi, abhi apna, haan, abhi total, main bol raha hoon, total apna jo cover le rahe hai na, ek minute ruko, mujhe ek minute do. Abhi bhi 7.5 lakh hai. Toh.
+Client: 50 isko karke.
+Dealer: Ho jaayega, ek minute.
+Dealer: Nahi aa raha hai.
+Client: Mummy ko de do.
+Dealer: Hmm. 40 hua. 40 ka cover buy kar raha hoon main abhi.
+Dealer: Haan. Abhi aur 60 quantity apna pending hai.
+Client: Nahi ja raha hai?
+Dealer: Haan, ho gaya na, ek ek ek ek ja raha hai. Ek ek ek ek lot ho raha hai. Abhi apna wo call ho gaya hai apna 1140. Aur ye ho gaya hai 1120.
+Client: Bas thik hai, ho gaya na ab sare barabar ho gaye?
+Dealer: Nahi, ek lot baaki hai apna.
+Client: Ab call aur put buy mat karo, sirf sell hi karo.
+Dealer: But usi mein apna margin ja raha hai na. Abhi apna sab equal ho gaya.
+Client: Thik hai.
+Dealer: Hai na?
+Client: Kitna apan ne call aur put buy kiye?
+Dealer: Ek minute ruko. Ek apna.
+Dealer: Call humne becha hai 1140 plus 340. Toh 1480 apna call short hai. Uske samne humne call ka cover le liya hai 1480. Thik hai?
+Client: Ha.
+Dealer: Aur put ka humne cover liya hai 1440 khaali. 1140 plus 340. Toh 1480 ke samne humne sirf 1440 liya hai. Toh wo 40 quantity aur buy kar lu cover?
+Client: Haan. Nahi nahi cover nahi chahiye.
+Dealer: Nahi, nahi, nahi lena hai usko?
+Client: Nahi.
+Dealer: Thik hai. Chalo, abhi apan ne mostly sab.
+Client: Kitna margin bacha hai?
+Dealer: Haan haan, 80,000 rupay aur bacha hai. Mere khayal se ye agar 40 quantity agar le lenge na hum, toh possibly shayad lakh ek rupay aur badh jayega. But thik hai, chalega. 1480 humne call ka cover liya hai. 1440 humne put ka cover liya hai. Aur total 340, 82,000 ka call becha hai. 1140, 82,200 ka call becha hai. Aur 1140, 80,800 ka put becha hai. Aur 80,900 ka 340 put becha hai. Iska main aapko confirmation bhejta hoon chalo pura.
+Client: Nahi wo thik hai. Aur theek hai, ek baar call karna mere ko aap.
+Dealer: Haan, main karta hoon. Chalo.

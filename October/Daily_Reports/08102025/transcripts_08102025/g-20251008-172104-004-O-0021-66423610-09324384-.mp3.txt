@@ -1,0 +1,13 @@
+Client: Hello.
+Dealer: Hello sir.
+Client: Yes.
+Dealer: Sir, I want to sell 19,000 call 22 September. Six quantities.
+Client: Okay, at what price?
+Dealer: Whatever is current price.
+Client: Current price is 35 rupees.
+Dealer: 35 rupees 35.
+Client: Yes.
+Dealer: Okay. Sell.
+Client: 19,000 call option September expiry, six quantities at 35 rupees.
+Dealer: Yes.
+Client: Okay, wait a minute.

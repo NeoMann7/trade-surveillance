@@ -1,0 +1,58 @@
+Dealer: हेलो
+Client: बोलतो आहे 6301 कॉल.
+Dealer: हं.
+Client: कोणता? 20 ऑगस्टचा बोलतोय राईट?
+Dealer: 20 ऑगस्टचा कोणता?
+Client: 6300 चा कॉल.
+Dealer: हं.
+Client: 6300 चा कॉल?
+Dealer: हं.
+Client: ओके. 20 ऑगस्टचा 6300 चा कॉल.
+Dealer: 20 ऑगस्टचा हं.
+Client: 6300 चा कॉल.
+Dealer: हं.
+Client: ओके?
+Dealer: 6300 चा कॉल.
+Client: हा.
+Dealer: किती?
+Client: 20 ऑगस्टचा.
+Dealer: किती घ्यायचा?
+Client: 20 ऑगस्टचा.
+Dealer: 6300 चा कॉल.
+Client: किती घ्यायचा?
+Dealer: 20 ऑगस्ट.
+Client: 20 ऑगस्टचा.
+Dealer: किती घ्यायचा?
+Client: हं.
+Dealer: किती?
+Client: 20 ऑगस्ट. 6300 चा कॉल.
+Dealer: हं.
+Client: तो मला 105 रुपये ला घ्यायचा आहे.
+Dealer: किती?
+Client: 105.
+Dealer: किती लॉट?
+Client: किती लॉट?
+Dealer: 105.
+Client: 105 ला घ्यायचा आहे.
+Dealer: 105.
+Client: एक लॉट.
+Dealer: ओके.
+Client: एक लॉट.
+Dealer: हा.
+Client: 105 ला घ्यायचा आहे.
+Dealer: हं.
+Client: ओके?
+Dealer: 105 ला 6300 चा कॉल एक लॉट 20 ऑगस्टचा बाय ऑर्डर लावली.
+Client: एक मिनिट. एक मिनिट, एक मिनिट, एक मिनिट. हा, किती? मी कितीला बोललो?
+Dealer: 105 ला.
+Client: 105 ला एक लॉट 6300 चा कॉल.
+Dealer: हं.
+Client: ओके. 20 ऑगस्टचा.
+Dealer: हं.
+Client: कितीला?
+Dealer: 105 ला.
+Client: ओके. ऑर्डर लावलेली आहे तुम्ही?
+Dealer: हा.
+Client: ओके.
+Dealer: ओके सर.
+Client: ओके.

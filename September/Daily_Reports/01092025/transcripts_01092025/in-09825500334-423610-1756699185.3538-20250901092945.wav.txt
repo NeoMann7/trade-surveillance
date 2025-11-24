@@ -1,0 +1,67 @@
+Dealer: Hello?
+Client: Hello. Yes.
+Client: Can I speak to Piyush or Vicky in the dealing room, please?
+Dealer: Um, Piyush is not available today. Uh, Vicky is not there right now. Um, sir, your good name?
+Client: Mithil Jain.
+Dealer: Okay. Uh, this is Jignasha. I'll ask him to call back in next two minutes.
+Client: Who, who, who is there in absence of Piyush?
+Dealer: Um, it's Vicky Vasu.
+Client: Only Vicky?
+Dealer: Vicky's not there, he's I think he's gone to the cafeteria. Uh, you want to speak to Vasu once?
+Client: Whom do you guys report into?
+Dealer: I report to Vicky only. You if you need any help,
+Client: Whom does, whom does Vicky report to?
+Dealer: Um, Vicky reports to Bala.
+Client: Bala's there in the system?
+Dealer: Um, Bala or Sandeep Jain. Yeah, he's still there in the system, no?
+Client: Okay. How, how long will Vicky be back? How much
+Dealer: Yeah, he'll be back in next two minutes. I'll just ask him to call.
+Client: Ask him to call to Mithil Jain at Surat. He knows my, my number, right?
+Dealer: Okay. Okay. Yeah, yeah.
+Client: Thanks Jignasha, thanks. Yeah.
+Dealer: Hello?
+Client: Yeah.
+Dealer: Yeah, just a minute. He's there. Mithil Jain from Surat.
+Dealer: Hello?
+Client: Vicky.
+Dealer: Bolo Nikhil bhai.
+Client: Are good morning, dear. Yeh kya lafda hai roz ka Vikram bhai ka?
+Dealer: Shu thayu?
+Client: Emne limit nathi madi evu kai chhe?
+Dealer: Yeah, I think emne limit toh emni chhe. Ek minute ha, karan ke enu, uh, ee je script buy karta ta ne Friday nu mane khabar chhe, ee oly ASM group wadi chhe.
+Client: Ha toh shu thhhu chhe?
+Dealer: Ema 100% margin lage. Ane enu already lagbhag ee debit ma chhe enu account.
+Client: Na 6 lakh rupya credit chhe ema jo.
+Dealer: Ek minute. Mane ama cash emnu debit batade chhe. Aajae maro olo Rajesh no mail, message aavyo chhe ne.
+Client: Hmm.
+Dealer: Enu.
+Client: 248 number ma jo tame.
+Dealer: Vicky.
+Client: 248 ma jo.
+Dealer: Emnu, kayo Vikram Shah no code kyo chhe, kayo kyo chhe?
+Client: Vikram Vikram Arsha, Vikram Kumar Rameshchandra Shah, 248.
+Dealer: Ek minute. Ha chhe ha. HUF ma debit chhe. Kayu code kyo chho tame?
+Client: 248.
+Dealer: Ha paisa toh chhe 9 lakh rupya chhe.
+Client: Toh pachi ema limit kem nathi malati?
+Dealer: Ek minute. Mare jovu padse. Kayu, kayo code chhe? Are kayo.
+Client: Are 248 kyoh toh kharu Vicky. Tame joyu 6 lakh rupya ema toh joya tame yaar. Paachu kayo code chhe, kayo code chhe karo chho yaar.
+Dealer: Script kai chhe, script?
+Client: Script gamay te hoy. Tya thi shu lewa dewa? Enu cash margin chhe na, toh aatli 6 lakh ni limit madi joye ne ene?
+Dealer: Hu vaat karu chhu. Ek minute. Mare RMS ma vaat karvi padse. Hu vaat karine kau chalo.
+Client: Tatkalik em juoe mane call karjo. Ane have recorded line thi j mane call karjo.
+Dealer: Ha, emne already orders toh nakhela j chhe.
+Client: Ha na. Orders pan sawarma nai reject thaya, mari pase claim mange toh hu jaishe kai nathi aavyu, ene mare kya paisa aapa java nu ene have? Aa dar feri feri tame loko locha maro mare te ene paisa aapa na?
+Dealer: Na na em nathi ene order.
+Client: Aagad bi karelu chhe. Piyush bhai ne ane badhane khabar chhe. Aa mail par bi chhe. Aagad bi khabar j chhe.
+Client: Toh tamare Bala sathe vaat karvi hoy toh Bala ne kehjo ke bhai vaat kare mari sathe eno upar.
+Dealer: Ek minute. Locked all details in system.
+Dealer: Theek chhe lagbhag hu aene aa limit toh kholi naakhi laghe chhe emne. Hu toh pan ek vaar vaat karu chhu RMS ma shu chhe.
+Client: Ki vaat kya thi kare chhe ne, etle ahi amne khabar nathi hoti.
+Dealer: Are pan tya thi kare chhe pan tya thi phone karine kahe chhe tamne logo ne. Piyush bhai ne kehta hashe mane khabar nathi, atyare mara par garam thaya chhe.
+Dealer: Na mane pan nathi idea. Mane koi idea nathi Seth. Pan Piyush aaje aavyo nathi, mane koi idea j nathi. Hu toh pan hu check kar lavu chhu. Chalo ek vaar hu emni sathe pan vaat kari lavu chhu. Shu issue aave chhe.
+Client: Ha, ha.
+Dealer: Ane RMS ma pan vaat kari lavu chhu ek vaar.
+Client: Please.
+Dealer: Ane. Ha, ha.
+Client: Okay.

@@ -1,0 +1,7 @@
+Client: Hello
+Dealer: Ha, good afternoon sir. Wahan se baat karni hai, enquiry dealing team se. Hum kya buy karna tha aapko? Kuch buy karna tha na?
+Client: Ha bolo. Niyo niyo niyo.
+Dealer: Woh toh teen script bataya. Ha bolo, kaun sa kaun sa?
+Client: Teen mein unko malum hai, pooch dijiye. Na 3.5 lakh rupiya.
+Dealer: Theek hai chalo main baat karke bolta hu. Bolo woh 3.5 lakh rupiya ka le lenge.
+Client: Theek hai.

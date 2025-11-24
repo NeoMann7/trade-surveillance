@@ -1,0 +1,18 @@
+Dealer: Hello.
+Client: Hello, Vicky.
+Dealer: Ha.
+Client: Ajay, you will speak to speak contractor.
+Dealer: Yes, sir.
+Client: In Dubai. Good afternoon. Ha.
+Dealer: Good afternoon.
+Client: PG Electro Cars.
+Dealer: PG Electro.
+Dealer: 50580 506.
+Client: By 40.
+Dealer: 40 sir PG.
+Dealer: Sir 506.80 ho gaya hai, le lu.
+Client: Le lo, sir.
+Dealer: Ha, sir 40 aa gaya 506.55 pe.
+Client: Okay. Hmm.
+Dealer: Bas yehi lena tha.
+Client: Hmm.

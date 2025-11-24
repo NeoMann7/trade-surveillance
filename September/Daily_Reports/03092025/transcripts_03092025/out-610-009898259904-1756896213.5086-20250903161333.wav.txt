@@ -1,0 +1,13 @@
+Dealer: Hello?
+Client: Hello. Ah, haan boliye.
+Dealer: Ah, boliye.
+Client: Vicky baat kar raha hu Nio se.
+Dealer: Haan boliye.
+Client: Haan sir, woh jo aaj trade dala tha na, order dala tha, 37000 ka, woh execute nahi huana sir. Apna, aaya nahi hai, toh bola inform kar do ek baar.
+Dealer: Theek hai, toh phir kal dal dijiyega.
+Client: Okay, toh kal main call karta hu aapko wapas se.
+Dealer: Theek hai.
+Client: Theek hai?
+Dealer: Haan.
+Client: Okay, theek hai. Yeah.
+Dealer: Theek.

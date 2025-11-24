@@ -1,0 +1,39 @@
+Client: Hello.
+Dealer: Hello.
+Client: Hello.
+Dealer: Sir, good morning.
+Client: Good morning.
+Dealer: Tell me, sir.
+Client: How is the market today?
+Dealer: Sir, the market is currently down by 50 points. Nifty is at 20110. It opened at 20170 and came down from there. Currently, the highest is 20197 and the lowest is 20088. So, the market has been volatile today.
+Client: Okay.
+Dealer: In terms of stocks, there is some selling pressure in Infosys and Reliance. Private banks like HDFC Bank and ICICI Bank are also showing some selling. PSU banks are slightly positive. Public sector banks like Canara Bank and PNB are showing some upside. Midcaps and smallcaps are also showing some positive momentum.
+Client: Okay.
+Dealer: So, there's a mixed trend overall. Nifty is slightly negative.
+Client: Okay.
+Dealer: What are you looking at, sir?
+Client: What about TCS?
+Dealer: TCS is currently trading at 3497, down by 14 rupees. It's also showing a negative trend.
+Client: Okay.
+Dealer: What are you looking to do, sir?
+Client: I wanted to buy HDFC Bank.
+Dealer: HDFC Bank. It is currently at 1530.
+Client: Okay.
+Dealer: 1530 it's trading at. It's also slightly negative. It opened at 1540 and made a high of 1542, then it came down to 1528. So, it's currently at 1530.
+Client: Okay.
+Dealer: You want to buy it for delivery or intraday?
+Client: For delivery.
+Dealer: For delivery. At what price are you looking to buy, sir?
+Client: At 1525.
+Dealer: Okay, at 1525. How many shares, sir?
+Client: 200.
+Dealer: 200 shares. Okay, sir. So, HDFC Bank, buy 200 shares at 1525. For delivery.
+Client: Yes.
+Dealer: Okay, sir. I'll place the order.
+Client: Okay.
+Dealer: It's a limit order, so if it comes to 1525, your order will be executed.
+Client: Okay.
+Dealer: Anything else, sir?
+Client: No. Thank you.
+Dealer: Thank you, sir.
+Client: Hello.

@@ -1,0 +1,10 @@
+Dealer: Hello, hello, yes. Ah, this is Ramchandra from New Equity Dealing team. Sir, Ruchi Ma'am told me to call you.
+Client: Okay.
+Dealer: Ah, okay, just hold on. Ah, I see you, you have a 5545 quantity, ah, scheduled today. Yeah, so there is an exit call from our desk. Would I exit it at current price?
+Client: Yeah.
+Dealer: Now, ordinary 115, okay. So, you want to sell 5545 quantity at scheduled price? Yeah.
+Client: Market price, yeah. Accord 20 23 Ramchandra. Correct. Yeah.
+Dealer: Oh, 5545 quantity sold at 1280. No. Okay.
+Client: Let Ruchi know about it.
+Dealer: Yeah, okay, sir. I will inform. Thank you very much. Yeah. Right. Okay, bye.
+Client: Okay, bye.

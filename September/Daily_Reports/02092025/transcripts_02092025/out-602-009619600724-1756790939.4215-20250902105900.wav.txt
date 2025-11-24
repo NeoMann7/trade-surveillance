@@ -1,0 +1,11 @@
+Dealer: Hello? Haan sir, Piyush bol raha hun.
+Client: Haan.
+Dealer: Ah ye Campus ka 210 share aa gaya hai, execute ho gaya hai. BlueJet pending mein hai sir 665 mein.
+Client: Haan.
+Dealer: BlueJet ka order apka pending mein hai.
+Client: Ho gaya kya?
+Dealer: Haan, 665 mein pending order hai.
+Client: Theek hai, theek hai.
+Dealer: Haan.
+Client: Hello?
+Dealer: Bol rahe hain.

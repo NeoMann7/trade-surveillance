@@ -1,0 +1,25 @@
+Client: Hello
+Dealer: Ha boliye
+Client: Yeah, ha ha maine phone kiya tha. Yeh apna, uh, ye wala jo script hai na Swasta wala. Usme apne Nisha Agarwal mein order reject ho raha hai, woh margin ka ye aa raha tha. 12 rupees.
+Dealer: Toh margin ka dijiye hai. Toh pehle kaise aa raha tha, theek hai.
+Client: Toh usi ke liye call kiya tha. Woh ek hi woh ek account mein apna order nahi gaya hai, baaki sab mein order gaye hain.
+Dealer: Toh usme agar
+Client: Toh usme agar
+Dealer: Toh pehle bhi nahi ja raha tha kya?
+Client: Nahi nahi kal tak ja raha tha Friday tak. Aaj woh rate upar aa gaya na? Parso rate tha 11.80 ka. Aaj 12.50 hai.
+Dealer: Ha.
+Client: Toh 12.50 ke hisaab se woh order reject ho raha tha margin ka.
+Dealer: Toh do order reject kiye ki ek hi order reject bhi nahi kiya?
+Client: Ye ek hi gaya hai. Nahi order isme baaki sab order gaye. Ye ek hi order khali pending hai.
+Dealer: Nahi jo Nisha mein aap teen lagate hain, toh usme do ek hi ek hi nahi lagaya hai ki bol diya order lagaaya hai?
+Client: Nahi lagaya hai baaki order, ek order pending reh gaya hai sirf. Kyuki ye cash and carry mein daalna padta hai mujhe.
+Dealer: Ha toh maamla aapka hai, ha.
+Client: Toh ye abhi 12.50
+Dealer: Jaise aapke, ha.
+Client: Toh isko main apne ko margin woh fir stock pledge kar dena hai toh fir main call karta hu OTP de dijiye khali.
+Dealer: OTP. Ye number kaun sa hai pehle mujhe number bataiye.
+Client: Ek minute rukiye. Uspe Nisha Agarwal mein 893 hai last mein.
+Dealer: 893? Toh abhi mat kariye, main ek baar aapko call karunga, uske baad aap kariye.
+Client: Chalega. Toh aap mujhe call karna. Main yahan se pledge request dalunga aapko OTP aa jayega turant saamne saamne. Theek hai?
+Dealer: Theek hai.
+Client: Haan theek hai sir, haan.

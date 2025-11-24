@@ -1,0 +1,16 @@
+Dealer: Hello?
+Client: Haan ji?
+Dealer: Good morning.
+Client: Good morning. Pehli baat to, Dinesh ji, aur dusri baat ki yeh
+Dealer: Kya chal raha hai?
+Client: Iska ya
+Client: 223 chal raha hai.
+Dealer: 223, 223.
+Client: 223 chal raha hai. Iska, sir, mai 70-80 quantity de du?
+Dealer: Hmm, ek minute haan.
+Dealer: Aa ja raha hai, ek minute.
+Dealer: Sehlo ji aapke paas 68 quantity hai. Aapko average de deta hu. Sehlo 200, 200 rupees 17, may be the new W, 002, new W.
+Client: Hmm.
+Client: Theek hai?
+Dealer: Hmm. Okay. Okay.
+Client: Hmm.

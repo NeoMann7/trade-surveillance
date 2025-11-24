@@ -1,0 +1,12 @@
+Client: Hello
+Dealer: Hmm hello
+Dealer: Haan
+Dealer: Ha ji
+Dealer: Ha ji, Agrawal bol raha hu sabka.
+Client: Hmm hmm
+Client: Vijay sir, Vasu baat kar raha hu, NIU se.
+Dealer: Haan
+Dealer: Achha ye hamare paas jo funds tha uska Liquid Bees lena tha na aapko, theek hai? To around 26858 for quantity aa jayega, ₹1000 mein le lu?
+Client: Haan lenge, sir. Aapko quantity information de diya tha na? Nahi nahi utri mobile se isiliye. Theek hai 2685 quantity liquid ETF le raha hu main. ₹1000 NIU 121.
+Client: Hmm theek hai.
+Client: Hmm theek hai.

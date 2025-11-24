@@ -1,0 +1,7 @@
+Dealer: हेलो.
+Client: रुचि रामा?
+Dealer: हेलो.
+Client: रुचि रामा मॅम?
+Dealer: हेलो.
+Client: क्या हुआ?
+Dealer: हां.

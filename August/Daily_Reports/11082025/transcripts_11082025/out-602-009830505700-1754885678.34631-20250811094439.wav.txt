@@ -1,0 +1,19 @@
+Dealer: Hello.
+Client: Bolo. Praveen ji, aapko rate abhi just a gaya.
+Dealer: Kya aa gaya?
+Client: Aapko trade abhi to just aapko message.
+Client: Abhi just aapko message a gaya, trade ka.
+Dealer: Praveen, aawaaz kat rahi hai.
+Client: Nahin, aa rahi hai.
+Dealer: Hello.
+Client: Ya. Abhi aa rahi hai sir?
+Dealer: Haan ji.
+Client: Mera na trade ka, aapko message a gaya. Just abhi just abhi ka.
+Dealer: I can't hear you.
+Client: Now you can hear me?
+Dealer: Bolie.
+Client: Mai bolu? Abhi aapko just sms aaya trade ka?
+Dealer: Confirmation?
+Client: Haan, turant abhi kiya.
+Dealer: Aapki aawaaz nahin aa rahi, let me call you.
+Client: Okay.

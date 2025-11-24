@@ -1,0 +1,12 @@
+Dealer: Hello.
+Client: Yes.
+Dealer: Yes sir, Vicky.
+Client: Hmm.
+Dealer: From Delhi?
+Client: Hmm.
+Dealer: Sir, trade karna tha na kuch?
+Client: Yeah, 5,000 uh JSW Energy.
+Dealer: JSW Energy, kitna sir?
+Client: 5,000.
+Dealer: 5,000, na? 5,000, ek minute sir. 26 lakh ka sir. 26.50. theek hai sir.
+Client: Yeah, okay.

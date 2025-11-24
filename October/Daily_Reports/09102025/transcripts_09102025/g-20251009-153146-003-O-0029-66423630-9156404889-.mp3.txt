@@ -1,0 +1,255 @@
+Client:
+Dealer: Extension 630. Hello?
+Client: Hello, good morning.
+Dealer: Good morning.
+Client: Yes. Ah, 38,000 call, okay. Buy for 38,000 call, three hundred quantity.
+Dealer: Okay, sir. 38,000 call, 300 quantity. Buy.
+Client: At the rate 321.
+Dealer: 321. Okay.
+Client: Yeah. What is the current rate?
+Dealer: 319.55.
+Client: Okay. You can put market order if it is better.
+Dealer: Okay. Market order?
+Client: Yes.
+Dealer: At current market, 319.55. Booked, sir.
+Client: Yeah, okay. Thank you.
+Dealer: Hmm. Anything else, sir?
+Client: No, that is it.
+Dealer: Okay, sir. Thank you for calling.
+Client: Yes.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Yes, sir. Good morning.
+Client: Good morning.
+Dealer: Hmm.
+Client: Yeah, that, ah, 30,700... 37,900 put.
+Dealer: 37,900 put.
+Client: Ah, no, sell. 37,900 put sell. 200 quantity.
+Dealer: Okay, sir. 37,900 put, 200 quantity. Sell.
+Client: At 349.
+Dealer: 349. Okay, sir.
+Client: Yes.
+Dealer: Current market 340.
+Client: Yeah. No, 349 is limit price.
+Dealer: Okay, limit 349.
+Client: Yes.
+Dealer: Placed, sir.
+Client: Yeah, okay. Thank you.
+Dealer: Hmm. Anything else, sir?
+Client: No, that is it.
+Dealer: Okay, sir. Thank you for calling.
+Client: Yes.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Yes, sir. Good morning.
+Client: Good morning.
+Dealer: Hmm.
+Client: Yeah, 38,000 call.
+Dealer: Hmm.
+Client: Ah, cancel order.
+Dealer: Okay. 38,000 call. Your buy order 300 quantity?
+Client: No, my buy order is done.
+Dealer: Okay.
+Client: So, I want to sell 38,000 call.
+Dealer: 38,000 call, sell. How many quantity, sir?
+Client: Ah, 300 quantity.
+Dealer: Okay. 300 quantity. Sell.
+Client: Okay. At the rate 330.
+Dealer: 330. Limit?
+Client: Yes.
+Dealer: Placed, sir.
+Client: Okay. Thank you.
+Dealer: Hmm. Anything else, sir?
+Client: No, that is it.
+Dealer: Okay, sir. Thank you for calling.
+Client: Yes.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Yes, sir. Good morning.
+Client: Good morning.
+Dealer: Hmm.
+Client: 38,000 call.
+Dealer: Hmm.
+Client: Yes. At the rate of 330.
+Dealer: Hmm.
+Client: Ah, cancel order. That's a sell order.
+Dealer: Okay. 38,000 call, sell order, 300 quantity. You want to cancel?
+Client: Yes.
+Dealer: Okay. Cancelled, sir.
+Client: Yeah. Okay. And sell.
+Dealer: Hmm.
+Client: Sell 38,000 call. 300 quantity. At the rate 325.
+Dealer: 325.
+Client: Yes.
+Dealer: Placed, sir.
+Client: Okay. Thank you.
+Dealer: Hmm. Anything else, sir?
+Client: No, that is it.
+Dealer: Okay, sir. Thank you for calling.
+Client: Yes.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Yes, sir. Good morning.
+Client: Good morning.
+Dealer: Hmm.
+Client: 37,900 put.
+Dealer: Hmm.
+Client: Okay. It is placed at 349 for sell, 200 quantity.
+Dealer: Yes, sir.
+Client: Okay. Ah, cancel order.
+Dealer: Okay. 37,900 put, sell order 200 quantity. You want to cancel?
+Client: Yes.
+Dealer: Cancelled, sir.
+Client: Okay. And sell.
+Dealer: Hmm.
+Client: At the rate 345.
+Dealer: 345?
+Client: Yes.
+Dealer: Placed, sir.
+Client: Okay. Thank you.
+Dealer: Hmm. Anything else, sir?
+Client: No, that is it.
+Dealer: Okay, sir. Thank you for calling.
+Client: Yes.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Yes, sir. Good morning.
+Client: Good morning.
+Dealer: Hmm.
+Client: Ah, 38,000 call.
+Dealer: Hmm.
+Client: Okay. For 325. Sell. 300 quantity.
+Dealer: Yes, sir.
+Client: It's done, right?
+Dealer: Yes, it is pending.
+Client: Oh, it is pending.
+Dealer: 325. It is pending. Current market 323.85.
+Client: Okay. And the put option, 37,900.
+Dealer: Hmm.
+Client: It's sold for 345.
+Dealer: Yes, sir. That is also pending.
+Client: Okay. 345. Current market?
+Dealer: 340.50.
+Client: Okay. You just inform me when it gets sold. Both are sold.
+Dealer: Okay, sir. Once it is executed, I will call you.
+Client: Yeah, thank you.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Yes, sir. Good morning.
+Client: Good morning.
+Dealer: Hmm.
+Client: Yeah, both the positions.
+Dealer: Okay. Which one, sir?
+Client: 38,000 call and 37,900 put.
+Dealer: Okay, sir.
+Client: Yeah. I'm cancelling both the pending orders.
+Dealer: Both the orders are cancelled, sir.
+Client: Okay. And now I want to sell 38,000 call.
+Dealer: Okay. 38,000 call. Sell.
+Client: 300 quantity.
+Dealer: Okay.
+Client: Okay. At the rate 321.
+Dealer: 321. Limit. Okay, sir.
+Client: Yes.
+Dealer: Placed, sir.
+Client: Okay. And buy 37,900 put.
+Dealer: 37,900 put. Buy.
+Client: 200 quantity.
+Dealer: Okay.
+Client: At the rate 340.
+Dealer: 340. Okay, sir. Limit.
+Client: Yes.
+Dealer: Placed, sir.
+Client: Yeah. Okay. Thank you.
+Dealer: Hmm. Anything else, sir?
+Client: No, that is it.
+Dealer: Okay, sir. Thank you for calling.
+Client: Yes.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Yes, sir. Good morning.
+Client: Good morning.
+Dealer: Hmm.
+Client: Yeah, 38,000 call at 321. It's pending, right?
+Dealer: Yes, sir. It is pending.
+Client: What is the current rate?
+Dealer: Current market 319.40.
+Client: Okay. And 37,900 put.
+Dealer: Hmm.
+Client: For buy, 200 quantity. 340.
+Dealer: Yes, sir. It is pending.
+Client: What is the current rate?
+Dealer: 337.
+Client: Okay. Once it is executed, just let me know.
+Dealer: Okay, sir. Once it is executed, I will call you.
+Client: Yeah, thank you.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Yes, sir. Good morning.
+Client: Good morning.
+Dealer: Hmm.
+Client: Yeah. Both the order, cancel.
+Dealer: Both the orders. Okay, sir.
+Client: Yes.
+Dealer: 38,000 call, sell order, 300 quantity. Cancelled.
+Client: Okay.
+Dealer: And 37,900 put, buy order, 200 quantity. Cancelled, sir.
+Client: Okay. And now sell 38,000 call.
+Dealer: 38,000 call. Sell.
+Client: 300 quantity. At the rate 318.
+Dealer: 318. Limit.
+Client: Yes.
+Dealer: Placed, sir.
+Client: Okay. And buy 37,900 put.
+Dealer: 37,900 put. Buy.
+Client: 200 quantity.
+Dealer: Okay.
+Client: At the rate 335.
+Dealer: 335. Okay, sir.
+Client: Yes.
+Dealer: Placed, sir.
+Client: Okay. Thank you.
+Dealer: Hmm. Anything else, sir?
+Client: No, that is it.
+Dealer: Okay, sir. Thank you for calling.
+Client: Yes.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Yes, sir. Good morning.
+Client: Good morning.
+Dealer: Hmm.
+Client: Ah, 38,000 call.
+Dealer: Hmm.
+Client: Is it sold?
+Dealer: Yes, sir. It is sold at 318.
+Client: Okay. And the put option 37,900.
+Dealer: Yes, sir. That is still pending at 335.
+Client: It's still pending?
+Dealer: Yes. Current market 332.
+Client: Okay.
+Dealer: Okay, sir.
+Client: Ah, let it be. Just inform me if it sells.
+Dealer: Okay, sir. Once it is executed, I will call you.
+Client: Thank you.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Yes, sir. Good morning.
+Client: Good morning.
+Dealer: Hmm.
+Client: Yeah. That 37,900 put.
+Dealer: Hmm.
+Client: Is it bought?
+Dealer: No, sir. It is still pending at 335.
+Client: Oh, it is pending at 335. Okay. What is the current rate?
+Dealer: Current market 333.
+Client: 333.
+Dealer: Yes, sir.
+Client: Okay. So, modify the price.
+Dealer: Okay.
+Client: To 333.
+Dealer: Okay, sir. 37,900 put. Buy order, 200 quantity. Modify price to 333. Right, sir?
+Client: Yes.
+Dealer: Modified, sir.
+Client: Okay. And, ah, 38,000 call.
+Dealer: Yes, sir.
+Client: That is sold. Now I

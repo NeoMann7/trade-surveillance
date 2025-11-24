@@ -1,0 +1,10 @@
+Client: Hello
+Dealer: Hello Good morning.
+Client: Good morning. Bolle sir, Tata Steel 1500CE Buy with a target of 89.
+Dealer: Tata Steel 1500CE Buy 89
+Client: Yes sir.
+Dealer: One minute.
+Client: Okay.
+Dealer: Okay sir done 89
+Client: Okay thank you.
+Dealer: Okay.

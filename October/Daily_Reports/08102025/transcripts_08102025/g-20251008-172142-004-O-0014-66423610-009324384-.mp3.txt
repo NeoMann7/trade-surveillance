@@ -1,0 +1,22 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello, good morning.
+Client: Good morning. Bolie.
+Dealer: Bolie sir.
+Client: Jo hai na Nifty, Nifty mein jo hai na 22100 ki put.
+Dealer: Hmm.
+Client: Uh, 300 quantity. Uh, buy kar lenge.
+Dealer: 22100 put, 300 quantity buy kar rahe hain. Theek hai, price bataiye.
+Client: Price chal raha hai abhi 45.
+Dealer: 45?
+Client: Haan.
+Dealer: Theek hai, 45 pe 300 quantity Nifty 22100 ki put buy ho rahi hai.
+Client: Yes.
+Dealer: Theek hai sir, buy kar raha hoon.
+Client: Okay.
+Dealer: Haan, Nifty 22100 put, 300 quantity 45 pe buy ho gaya hai sir.
+Client: Okay, theek hai.
+Dealer: Kuch aur?
+Client: Nahi bas yehi.
+Dealer: Okay sir. Thank you.
+Client: Okay, thank you.

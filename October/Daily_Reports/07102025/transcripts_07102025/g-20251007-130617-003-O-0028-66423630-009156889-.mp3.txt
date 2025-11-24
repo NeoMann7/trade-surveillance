@@ -1,0 +1,2 @@
+Dealer: Hello, action 630 second desk.
+Client: Okay, buy 158.

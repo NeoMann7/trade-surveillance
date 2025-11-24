@@ -1,0 +1,25 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Ha ji.
+Client: Good morning.
+Dealer: Good morning, sir.
+Client: Uh, the Tata Steel.
+Dealer: Yes.
+Client: Uh, sell 500 shares.
+Dealer: Tata Steel 500 shares.
+Client: Yes.
+Dealer: Sell.
+Client: At the market rate.
+Dealer: Market. Okay.
+Client: Yes.
+Dealer: Done, sir.
+Client: Thank you.
+Dealer: Sir, Tata Steel sold at 155.85.
+Client: Okay.
+Dealer: Okay?
+Client: Yeah, okay.
+Dealer: Any other order?
+Client: No, that's it.
+Dealer: Okay, sir.
+Client: Thank you.
+Dealer: Thank you, sir.

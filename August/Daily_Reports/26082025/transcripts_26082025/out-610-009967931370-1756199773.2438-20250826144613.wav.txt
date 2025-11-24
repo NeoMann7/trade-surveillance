@@ -1,0 +1,9 @@
+Client: Hello, Sanay bhai?
+Dealer: Ha bolo Vicky.
+Client: Achha ola stock pledge karavo chhe ne?
+Dealer: Ha.
+Client: Ha mein request nakhi chhe mane OTP lagse.
+Dealer: Ha hu tamne WhatsApp karu.
+Client: WhatsApp ha to ola group par kari deso ne ka to maro phone locker ma chhe.
+Dealer: Okay done. Hu group par kari kadu chhu.
+Client: Ha ha.

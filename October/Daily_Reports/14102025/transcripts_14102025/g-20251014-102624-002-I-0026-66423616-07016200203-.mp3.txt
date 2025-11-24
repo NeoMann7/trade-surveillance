@@ -1,0 +1,9 @@
+Dealer: Hello?
+Client: Hello?
+Client: Yes sir.
+Dealer: Sir.
+Client: Ha, ek minute, ek minute. Ek minute.
+Dealer: Ha, bolo.
+Client: Ye awaaz nahi aa raha na?
+Dealer: Ek minute.
+Client: Hmm, mera...

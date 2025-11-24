@@ -1,0 +1,23 @@
+Client: Hello.
+Dealer: Hello.
+Client: Hi.
+Dealer: 12500, yes.
+Client: Okay.
+Dealer: 12500.
+Client: Ha.
+Dealer: Yes.
+Client: 12500000.
+Dealer: Call this call.
+Client: Yes.
+Dealer: Buy 120600.
+Client: Call.
+Dealer: Yes.
+Client: Okay.
+Dealer: Call.
+Client: 12600.
+Dealer: Yes.
+Client: Ha.
+Dealer: 6650.
+Client: Yes.
+Dealer: Yes.
+Client: Okay.

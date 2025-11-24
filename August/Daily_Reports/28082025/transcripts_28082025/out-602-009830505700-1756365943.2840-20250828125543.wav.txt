@@ -1,0 +1,13 @@
+Dealer: Hello?
+Client: Hello?
+Dealer: Hello? Ha Pe?
+Client: Ha ji.
+Dealer: Ye Avenu More 50000 quantity buy kiya hai ₹19.46 paise ki average mein.
+Client: Theek hai.
+Dealer: Aur ye aapko ek so, aaj aapne do trade Indigo liya ₹170 se aur ye liya hai. Aur ye aapka, ye aap kya karne wale ho? Iska expiry mein chhodne wale ho? Ye uhh...
+Client: Wo delivery le lo Glenmark ka.
+Dealer: Glenmark ka delivery loge na? Theek hai.
+Client: Yeah.
+Dealer: Theek hai. Okay.
+Client: Thank you.
+Dealer: Sorry boliye.

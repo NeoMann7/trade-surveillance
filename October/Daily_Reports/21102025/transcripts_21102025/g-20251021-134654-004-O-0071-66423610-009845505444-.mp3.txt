@@ -1,0 +1,16 @@
+Dealer: Hello? Hello.
+Client: Good afternoon, sir.
+Dealer: Yes. Rate karna tha na sir apne ko. Yes, yes, yes. Ha.
+Dealer: Uh, kya karna hai sir?
+Client: IDFC Bank. Ha.
+Dealer: Aur, Federal. Aur Federal Bank.
+Client: Right. 50 lakh each.
+Dealer: Nahi, IDFC ka price kitna hai?
+Client: IDFC ka sir 77.50.
+Dealer: Toh uska na, uh, 50-35 lakh.
+Client: Ha.
+Dealer: Federal Bank 220. 20,000 kareeb. 25.
+Client: 25 aur IDFC Bank 50,000.
+Dealer: Correct. Theek hai sir, main dono le leta hu.
+Client: Jaldi se.
+Dealer: Ha.

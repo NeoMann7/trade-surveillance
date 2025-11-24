@@ -1,0 +1,4 @@
+Dealer: Hello
+Client: Uhh, kya naam hai, aaren hai na, udhar Shweta ji unki poonchti, de dijiye Jyoti ji, unki poonchti phone karke Vivek le lijiye, theek hai?
+Dealer: Theek hai, chalega, mai baat karta hun unse. Haan haan.
+Client: Shweta, phone dekh na, wo phone karegi tumko.

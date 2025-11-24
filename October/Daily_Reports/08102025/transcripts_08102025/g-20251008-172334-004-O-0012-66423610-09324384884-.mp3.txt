@@ -1,0 +1,13 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello.
+Client: One Nifty 100 ka future buy.
+Dealer: Nifty 100?
+Client: Haan.
+Dealer: Okay.
+Client: Ka future buy.
+Dealer: Theek hai. Buy kar diya hai Nifty.
+Client: Hmm.
+Dealer: Okay sir.
+Client: Thank you.
+Dealer: Thank you.

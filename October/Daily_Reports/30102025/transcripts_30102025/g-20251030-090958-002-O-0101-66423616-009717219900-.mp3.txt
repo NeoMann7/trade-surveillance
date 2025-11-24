@@ -1,0 +1,16 @@
+Dealer: Hello.
+Client: Hello, Himanshu sir?
+Dealer: Yes.
+Client: Good morning sir. I'm calling from New Equity Team. Sir, aapko Sequent ka order place karna hai na, around 40 lakh rupees.
+Dealer: Yes.
+Client: And one more thing sir, actually we have a limit of around ₹12 lakh rupees. So, I'll be buying that stock on NRML, okay?
+Dealer: Okay.
+Client: Main aapko ek bar confirmation deta hu, around 9:15 ko market open hota hai jaise hi, around 40 lakh ka main buy kar leta hu Sequent. Jo bhi current price abhi 214.05, 214.15 chal raha hai. Toh around 40 lakh ka buy karke aapko fir confirmation call deta hu main, kitne mein exact buy hua.
+Dealer: Ek bar aap ruk jaiye, ek bar mere ko na, team se ek cheez puchni thi, aap just call me around...
+Client: ...do-teen minute mein call kariye mujhe.
+Dealer: Achha, matlab do-teen minute baad?
+Client: Haan.
+Dealer: Market open hone ke baad ki abhi do-teen minute baad?
+Client: Abhi do-teen minute baad.
+Dealer: Achha, theek hai, chalega. Main aapko call karta hu around 9:14. Okay.
+Client: Okay.

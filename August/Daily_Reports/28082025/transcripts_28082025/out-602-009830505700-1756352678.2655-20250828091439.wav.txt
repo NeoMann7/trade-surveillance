@@ -1,0 +1,6 @@
+Client: Hello, bolliye.
+Dealer: Ha sir, aa gaya aapko 170 se 5850.50 paisa.
+Client: Haan theek hai na, thank you.
+Dealer: Okay, ha.
+Dealer: Yes.
+Client: Ha.

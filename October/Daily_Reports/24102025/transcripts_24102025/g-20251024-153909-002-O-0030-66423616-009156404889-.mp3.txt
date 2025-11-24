@@ -1,0 +1,5 @@
+Dealer:
+Client: October
+Dealer: Hello?
+Client: October 216.
+Dealer:

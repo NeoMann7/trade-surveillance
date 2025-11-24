@@ -1,0 +1,27 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Ha.
+Client: Su karochho?
+Dealer: Ha.
+Client: Achha.
+Dealer: Hmm.
+Client: Aaj e ghar e thi tamne kaam avi gayu. Office ma besine tamne kaam nathi hotu?
+Dealer: Lekh karishu kari lau to ne bhai thoda thi sakal karishu karishu.
+Client: Achha. Shuyi pan gayi?
+Dealer: Na, ene nana karavine lai ne aavyo chhe bhai khabar chhe.
+Client: Achha. Tum nichen chho.
+Dealer: Toh toh ghare sachi karo toh ne laptop par sachi karo toh ne.
+Client: Ha e avi jay chhe ne tamne kaam karva time ka.
+Dealer: Ha. Nathi karu to ne ek var te upar aave toh hu niche jav chhu, niche aave toh hu upar jav chhu.
+Client: He, he, he, he, he, he, he, he, he, he.
+Dealer: Hmm. Theek chhe.
+Client: Ghuti dhum pachhada kare chhe bo.
+Dealer: Ha. Dabba ma shu nakhine aavyo chhe mane?
+Client: Dhibrdo ane Apple.
+Dealer: Apple chhe na to khai lo ne khabar pade.
+Client: Ha khai lo.
+Dealer: Pachhi khais.
+Client: Ha ha aramthi.
+Dealer: Bye.
+Client: Bye.
+Dealer: Bye.

@@ -1,0 +1,53 @@
+Dealer: Hello.
+Client: Good morning.
+Dealer: Yes.
+Client: Buy.
+Dealer: Buy?
+Client: 6100.
+Dealer: 6100?
+Client: Yes.
+Dealer: Okay.
+Client: Quantity?
+Dealer: Quantity?
+Client: 500.
+Dealer: 500 quantity.
+Client: Yes.
+Dealer: Okay.
+Client: Reliance.
+Dealer: Reliance?
+Client: Yes.
+Dealer: Okay.
+Client: Buy 500 shares of Reliance at 6100.
+Dealer: Okay, 500 Reliance at 6100. Sell?
+Client: Buy.
+Dealer: Buy.
+Client: Yes.
+Dealer: Okay.
+Client: Nifty 500.
+Dealer: Nifty 500?
+Client: Yes.
+Dealer: Okay, 500 Nifty.
+Client: At 18000.
+Dealer: 18000?
+Client: Yes.
+Dealer: Sell?
+Client: Buy.
+Dealer: Buy.
+Client: Yes.
+Dealer: Okay.
+Client: Stop loss.
+Dealer: Stop loss?
+Client: 17950.
+Dealer: 17950?
+Client: Yes.
+Dealer: Okay.
+Client: Target.
+Dealer: Target?
+Client: 18050.
+Dealer: 18050?
+Client: Yes.
+Dealer: Okay.
+Client: Confirm?
+Dealer: Confirm.
+Client: Yes.
+Dealer: Okay, one minute sir.

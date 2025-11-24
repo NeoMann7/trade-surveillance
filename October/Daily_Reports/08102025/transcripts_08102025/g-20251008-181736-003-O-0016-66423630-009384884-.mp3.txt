@@ -1,0 +1,20 @@
+Client: Hello?
+Dealer: Hello?
+Client: Yes.
+Dealer: Yes sir, good morning.
+Client: Yes, good morning.
+Dealer: Uh sir, today, uh, what you want to do with the stock market?
+Client: Uh, no, no, not much today. Uh, just uh... can you give me some information?
+Dealer: Yes sir.
+Client: What is the Nifty now?
+Dealer: Nifty is 19680.
+Client: Hmm.
+Dealer: Sir, what you want to do with your shares? Or what do you want to buy?
+Client: Uh, let it be. Let it be for the time being. I'll call you.
+Dealer: Okay sir. Okay.
+Client: Yeah, okay.
+Dealer: Anything else, sir?
+Client: No, no. Not for the time being.
+Dealer: Okay sir. Okay.
+Client: Thank you.
+Dealer: Thank you.

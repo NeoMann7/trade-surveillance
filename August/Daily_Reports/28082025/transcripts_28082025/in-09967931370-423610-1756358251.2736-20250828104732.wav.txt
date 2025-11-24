@@ -1,0 +1,8 @@
+Dealer: Hello
+Client: Ha Viki bhai. Ha sir.
+Dealer: Ha.
+Client: Pidilite ame delivery nathi levani. Ame square off karavsu.
+Dealer: Bole, bole, vando nathi.
+Client: Ame ane delive...
+Dealer: Aa ghanu...
+Client: Ame ane delivery ma nathi leva. Ame karef square off karavsu. Yade rakhejo.

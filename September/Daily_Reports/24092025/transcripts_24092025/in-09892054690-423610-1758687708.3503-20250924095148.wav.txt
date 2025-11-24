@@ -1,0 +1,8 @@
+Client: Hello.
+Dealer: Good morning, sir. Good morning, sir.
+Client: How much is Adani Enterprises now?
+Dealer: Just a minute. Adani Enterprise 2644, 2646.
+Client: 25.
+Dealer: Five. Boarded 2647.
+Client: Okay. Thank you.
+Dealer: Okay, sir.

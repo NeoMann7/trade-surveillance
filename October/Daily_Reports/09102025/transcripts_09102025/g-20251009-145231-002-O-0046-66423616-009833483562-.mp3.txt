@@ -1,0 +1,5 @@
+Client: Hello?
+Dealer: Aa Nitin sir Wipro ka total linking se aapke account mein 20 lakhs fund toh aa gaye hain. Toh ye eli karna tha 2000 quantity. Toh buy kar lo?
+Client: Kariye main aapko bataunga.
+Dealer: Haan? Thik hai.
+Client: Achha thik hai.

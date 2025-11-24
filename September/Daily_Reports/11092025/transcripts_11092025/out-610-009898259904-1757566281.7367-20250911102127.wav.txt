@@ -1,0 +1,11 @@
+Dealer: हेलो
+Client: हेलो
+Client: हा सर वो स्टॉक प्लेज करना था ना अपने को?
+Dealer: हा हा
+Client: तो कौन सा स्टॉक प्लेज करू? एक पावर ग्रिड
+Dealer: [unintelligible]
+Client: हा?
+Dealer: [unintelligible]
+Client: आपका आवाज कट रहा है सर, डिस्टर्बेंस आ रहा है।
+Client: हेलो
+Client: हेलो

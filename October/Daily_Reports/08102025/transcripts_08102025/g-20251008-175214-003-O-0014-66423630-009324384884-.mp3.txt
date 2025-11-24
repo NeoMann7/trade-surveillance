@@ -1,0 +1,10 @@
+Client: Hello.
+Dealer: Hello.
+Client: Yeah, good morning.
+Dealer: Good morning, sir.
+Client: Sir, HDFC Bank, buy 1580, limit price hai.
+Dealer: Hmm.
+Client: 1580 mein buy lagana hai, 100 shares.
+Dealer: Okay, HDFC Bank 1580, 100 shares, buy order place kar diya hai, sir.
+Client: Okay, thank you.
+Dealer: Thank you.

@@ -1,0 +1,16 @@
+Dealer: Hello?
+Client: Poona Enterprises. Hi. Uh, good morning sir. What are you dealing in?
+Dealer: Hi. Uh, tell me sir. You want to sell KRT? KRT. Full quantity at market, okay?
+Client: Yes. So, sir. Yeah. So, I am selling KRT 3,75,484 quantity at market. Client code is NRW M00442 Pokebola Enterprises. No, wait a minute. Uh, only 7,500 quantity sold. Uh, remaining quantity I have kept. So, should I sell at market or?
+Dealer: So, sir. I can't hear you. What did you say?
+Client: Uh, I kept at 119.50. Only 7,700 quantity has been sold. So, should I keep at 119.50 only or should I sell at market only?
+Dealer: Uh, okay. How much?
+Client: Uh, right now it's trading at 119.45 and 119.50. Earlier it was 119.90. So, I sold at 119.50, but only 7,700 quantity gone.
+Dealer: Yes. Sell at market right now.
+Client: Okay. Sell at market.
+Client: Hm, should I kept at 119 only? 24 gone.
+Dealer: Right.
+Client: Uh, what I will do? I am keeping at 119 only. It will go slowly, slowly, sir because quantity is bigger one, nah? So if I sell at 117 also, still it will not go at once.
+Dealer: I hear you. You can hear. Okay, okay.
+Client: I have kept at 119 only. Okay? Thank you.
+Dealer: Okay. Okay, sir.

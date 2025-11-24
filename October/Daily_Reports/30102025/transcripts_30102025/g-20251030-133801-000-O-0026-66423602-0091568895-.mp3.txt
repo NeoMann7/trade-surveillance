@@ -1,0 +1,6 @@
+Dealer: हेलो
+Client: बोल रहा हूं मैं
+Dealer: क्या बोल रहा है।
+Client: बोल रहा हूँ
+Dealer: क्या बोल रहा है?
+Client: 38th October extension 602, second test call.

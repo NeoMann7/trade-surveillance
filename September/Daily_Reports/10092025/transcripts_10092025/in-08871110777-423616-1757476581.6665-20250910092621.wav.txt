@@ -1,0 +1,26 @@
+Dealer: Hello, Mr. Harsha?
+Client: Hello?
+Dealer: Harsha?
+Client: Ah, yeah.
+Dealer: Yeah, Harsha, this is Wasu, you're calling from New Dealing team. Do you want to place any order?
+Client: Uh, yes. Uh, I think there's an order that I want to place for BlueJet Healthcare.
+Dealer: Okay. How much quantity do you want to place?
+Client: What is the current price?
+Dealer: Current price is 711.
+Client: Sorry?
+Dealer: 711.
+Client: So, uh, can you place a limit order for uh, two and a half lakh worth of shares at 685?
+Dealer: Uh, in OFS, no, you told me?
+Client: Ah, for sale.
+Dealer: Okay. How much quantity do you want to place?
+Client: What is the OFS price?
+Client: Hello?
+Dealer: OFS base price is 675.
+Client: So, let's put it at 680 then. Five, five lakh worth of shares, yeah, five lakh worth of shares.
+Dealer: Five lakh worth of shares, just hold on a minute. Five lakh. One divided by 680.
+Dealer: Okay, so it's coming around 735 quantity. So you want to place 735 quantity for BlueJet OFS at the rate 680, okay?
+Client: 680. Yeah.
+Dealer: Client code, just wait a minute, I will confirm your client code. Uh, your client code is NeoWM00730, Harsh Kumar Patel.
+Client: Yes, yes, that's right.
+Dealer: Okay, okay, thank you, sir.
+Client: Thank you.

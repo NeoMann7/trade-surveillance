@@ -1,0 +1,13 @@
+Client: Hello? Awaaz aa raha hai Ab?
+Dealer: Haan abhi aa raha hai. Boliye na sir.
+Client: Main pay out karna hai madam, Nyu 64, Nyu 65 and Nyu 74.
+Dealer: Nyu 64, 65 aur 74 mein aapko pay out karna hai na?
+Client: Haan ji.
+Dealer: Okay theek hai. Theek hai sir.
+Client: Karwa dena madam, hai na?
+Dealer: Haan 64, 65, 74 na?
+Dealer: Haan aapka kya naam hai?
+Client: Jignasha.
+Dealer: Jignasha?
+Client: Haan Jignasha.
+Dealer: Okay.

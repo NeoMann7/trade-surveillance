@@ -1,0 +1,31 @@
+Dealer: Hello.
+Client: Ashish bol raha hu.
+Dealer: Haan boliye na Ashish.
+Client: Mera Neo 5 mein quadrant jo bhi chota mota quantity rahega.
+Dealer: Okay.
+Client: Woh market karke bech do.
+Dealer: Okay. Theek hai.
+Client: Kya price chal raha hai?
+Dealer: Uh, yeah, one minute. Quadrin ka bata rahi hu main. Ek minute. Abhi chal raha hai 458.
+Client: Bech do na jo bhi price hai.
+Dealer: Bech do na? Theek hai. Okay. Neo 5 mein I'll sell quad futures, theek hai. Just a minute.
+Dealer: Ha. 54 ka 57.
+Client: Genesis se aache hai? Position book mein?
+Dealer: Position nahi hai. Delivery mein rahega.
+Client: Hum mein holding holding mein jo hai sir.
+Dealer: Haan. I will delete 98. Main kar rahi hu. Na thi thi rhi hu. Accept karo. Are ye?
+Client: Usspe hai.
+Dealer: Na thi thi rhi hu. Isko kar rahi hu.
+Dealer: Okay, aapke paas hai na? Quad future is around 50 shares. Correct?
+Client: Toh bech do usko.
+Dealer: Yeah. So I'll sell that 50 over here, theek hai.
+Client: Faayde mein aa jaati hai.
+Dealer: But abhi current rate chal raha hai 457 ka.
+Client: Haan toh market price pe bech do kya aata hai 55. Jo isko order karenge. I don't want that.
+Dealer: 457 pe abhi main daal rahi hu. Theek hai?
+Client: Haan. Chalega.
+Dealer: Theek hai? Done done. 50 shares sell ho gaye 457.22 pe. Okay?
+Client: Bik gaya, haan?
+Dealer: Ya ya.
+Client: Kya karenge? Call buy kar lenge jo bhi ek-ek rupe wala hoga call buy kar lenge.
+Dealer: Bye.

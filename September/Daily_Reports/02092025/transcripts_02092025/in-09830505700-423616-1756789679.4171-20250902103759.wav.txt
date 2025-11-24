@@ -1,0 +1,13 @@
+Client: Hello.
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha.
+Client: Pranav bol raha hoon.
+Dealer: Ha bolo na.
+Client: Uh, ye Wortis mein koi trade hua?
+Dealer: Nahi abhi tak toh kuch trade nahi hua hai.
+Client: Bids hain kuch?
+Dealer: Hmm, nahi hai hi nahi abhi bids. Sirf buyer khada hai woh bhi 101 pe top mein.
+Client: Achcha theek hai.
+Client: Okay.
+Dealer: Okay.

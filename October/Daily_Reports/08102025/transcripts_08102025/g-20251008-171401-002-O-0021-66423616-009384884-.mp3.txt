@@ -1,0 +1,33 @@
+Client: हेलो
+Dealer: हां बोलिए
+Client: नमस्ते सर
+Dealer: नमस्ते
+Client: सर एक टाटा पावर बाय कीजिए
+Dealer: टाटा पावर?
+Client: जी
+Dealer: कितने शेयर?
+Client: ₹410, ₹210
+Dealer: 210
+Client: जी
+Dealer: ₹210 शेयर ₹410 पे
+Client: जी
+Dealer: ये 210 रुपए में खरीद रहे हैं ना आप?
+Client: हां
+Dealer: ₹410 पे
+Client: हां
+Dealer: ओके
+Client: ठीक है
+Client: और एक एसबीआई बैंक खरीदिए
+Dealer: एसबीआई?
+Client: ₹410 पर
+Dealer: 400
+Client: 410
+Dealer: जी
+Client: 410 और 110 शेयर
+Dealer: 110 शेयर ₹410 पर
+Client: जी
+Dealer: ठीक है
+Client: ओके सर
+Dealer: डन
+Client: थैंक यू
+Dealer: हम्म

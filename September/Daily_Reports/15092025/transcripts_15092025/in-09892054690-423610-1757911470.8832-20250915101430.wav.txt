@@ -1,0 +1,44 @@
+Dealer: हेलो
+Client: हेलो हा गुड मॉर्निंग मिस्टर कॉन्ट्रैक्टर
+Dealer: यस सर बोलिए गुड मॉर्निंग
+Client: I've transferred the 4 lakh this morning, can you just check it has come, so I can place this order.
+Dealer: जस्ट अ मिनट।
+Dealer: 4 लाख हां सर, 4 लाख आ गया आपका।
+Client: आ गया?
+Dealer: हां हां।
+Dealer: क्या लेना है सर?
+Client: हां।
+Dealer: अभी ना?
+Client: एएसएन टेक्नोलॉजी।
+Dealer: एएसएन?
+Dealer: एएसएन ना?
+Client: MASN
+Dealer: 4336 4339
+Client: 4336 पर बाय?
+Dealer: हां सर बाय।
+Client: बाय फाइव।
+Dealer: फाइव।
+Client: और मोलार्क का भी कुछ है एक्चुअली।
+Dealer: 4338.90
+Client: देन केन्स टेक्नोलॉजी।
+Dealer: केन्स 7125.50 7134
+Client: 7125
+Dealer: हां 25 पे बायर है 34 पे सेलर है।
+Client: 3320
+Client: Buy five of those also.
+Dealer: करंट रेट पे ले लूं?
+Client: हां करंट रेट पे ले लो।
+Dealer: एक मिनट।
+Dealer: फाइव बोट एट सर 7137.40
+Client: 7.40 एंड सिल्वर बीज
+Dealer: सिल्वर बीज?
+Client: हां निप्पॉन सिल्वर ईटीएफ में।
+Dealer: हां हां।
+Dealer: निप्पॉन सिल्वर बीज कितना लेना है? 123.20
+Client: 123.20 है अराउंड 750 ले लो।
+Dealer: हां।
+Dealer: हां सर 2320 पे 750 आ गए।
+Client: ओके ठीक है सर। थैंक यू।
+Dealer: ठीक है सर।
+Client: रिमेनिंग आई विल टेल यू लेटर।
+Dealer: ठीक है सर।

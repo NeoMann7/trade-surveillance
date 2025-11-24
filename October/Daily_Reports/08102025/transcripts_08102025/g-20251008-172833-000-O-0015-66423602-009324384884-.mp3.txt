@@ -1,0 +1,23 @@
+Dealer: Hello?
+Client: Akash, I'm waiting for your call.
+Dealer: Ah, Akash.
+Client: Yeah.
+Dealer: Okay.
+Client: Is Akash available?
+Dealer: He's not available right now. Who's speaking?
+Client: I'm calling from Pune, sir.
+Dealer: Okay.
+Client: Okay.
+Dealer: Okay.
+Client: Should I wait?
+Dealer: No, you can tell me. What's the matter?
+Client: Is Akash calling me back?
+Dealer: Actually, he's currently on a conference call. He might be free in about 15 minutes. Would you like to hold or should I ask him to call you back?
+Client: Please ask him to call me back.
+Dealer: Okay. Your number is already there, right?
+Client: Yes, sir.
+Dealer: Okay. I'll inform him.
+Client: Thank you, sir.
+Dealer: Okay. Welcome.
+Client: Okay.
+Dealer: Hello?

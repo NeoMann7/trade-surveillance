@@ -1,0 +1,23 @@
+Dealer: Hello.
+Client: Hello. Ah.
+Client: I'm Mr. Contractor, speaking.
+Dealer: Kaun?
+Client: I want to buy a, I'm Mr. Contractor, I talked to Vicky in the morning.
+Dealer: Okay, right now Vicky is not in place.
+Client: I want to purchase Kains Technologies.
+Dealer: Kains Technologies, okay.
+Dealer: Your client code?
+Client: 269
+Dealer: This is P.G. Contractor, no?
+Client: Contractor. Correct.
+Dealer: Okay, how much you want to buy?
+Client: How much, what is the rate just now?
+Dealer: Right now it's 7168.50, 7171.
+Client: Okay, I want to buy four.
+Dealer: Okay, four quantity at market price, no?
+Client: Yeah, current price.
+Dealer: Okay, four, you want to buy four quantity Kains Technology at market price, client code is WM00269, Vilas P.G. Contractor, okay?
+Client: Yeah. Yeah.
+Dealer: Okay, it's bought at 7169.
+Client: 7169, okay.
+Dealer: Thank you.

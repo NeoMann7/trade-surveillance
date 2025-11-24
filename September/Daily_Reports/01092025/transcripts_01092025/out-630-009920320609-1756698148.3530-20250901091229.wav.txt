@@ -1,0 +1,27 @@
+Dealer: Hello?
+Client: Hello. Oh, hello.
+Dealer: Ha, boliye.
+Client: Santosh.
+Dealer: Ji boliye.
+Client: Ashwatha bol rahi hoon, aapne dealing team se.
+Dealer: Ji ji.
+Client: Mere paas Priti Salyan ka, aapko call aaya tha unka.
+Dealer: Priti Salyan ka, kis related?
+Client: Ek trade hai unka, Arnab Maheshwari ka. Theek hai? So, basically, unka jo trade ka confirmation tha na, okay. So, woh 29th August ka tha, that is Friday ka. Okay? So, fund pay nahi hua tha, but client ka confirmation aa gaya tha. Uske kuch 3:30 ke baad kuch fund pay in hua. So, time pe nahi hua tha fund pay in, so trade execute nahi ho paaya. So, unhone aaj subah mujhe daala ki trade execute karne ke liye, but wahi day ka confirmation hai. Toh abhi trade execute kar degi toh chalega ya fir naya confirmation chahiye?
+Dealer: Uh, basically dekha jaayega toh naya confirmation chahiye.
+Client: Haan.
+Dealer: Lekin agar unhone mail mein aisa mention kuch kiya hai kya ki fund transfer hua nahi hai so isliye isko consider karwa lijiye, aisa kuch likha hai?
+Client: Nahi, nahi. Fund transfer time pe nahi hua tha actually. Problem wahi tha. Pay in hai na?
+Dealer: Main wahi bol raha hoon na, ke ye aap...
+Client: Nahi, waisa kuch mail pe hai nahi, ye toh sirf confirmation tha na. Toh isliye, toh phir kya karna hai? Matlab 20 lakh ka hai order. Okay? So, 29th August ka hai confirmation. Agar aaj daal dogi toh chal jaayega?
+Dealer: Nahi chalega.
+Client: Nahi chalega na?
+Dealer: Nahi.
+Client: Okay, theek hai. Toh main aapko ek baar hai na, CC mein daal ke unko mail kar deti hoon. Theek hai?
+Dealer: Hmm, theek hai. Aap compliance ko daaliye.
+Client: Haan, compliance ko daalti hoon, theek hai.
+Dealer: Nahi toh, chahiye toh aap ek baar Priti ne mujhe toh call nahi kiya tha. Dhirendra ko call kiya rahega toh pata nahi, ya fir Pratibha ko call kiya toh pata nahi.
+Client: Hmm, hmm. Theek hai, chaliye. Okay.
+Dealer: Unhone kya bataya rahega, mujhe bhi nahi maloom. Okay? Aap compliance ko daaliye, dekh lijiye. Agar compliance ko, matlab agar dono mein se koi okay bola hai toh karwa dijiye.
+Client: Theek hai, theek hai. Okay.
+Dealer: Ha.

@@ -1,0 +1,19 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Haan sir.
+Client: Ha. Apna, how much is the PG Electrocast right now?
+Dealer: PG, PG sir 517.50, 517.70.
+Client: Take 30.
+Dealer: Okay.
+Client: VC contact?
+Dealer: Yeah, VC contact sir. 269.
+Dealer: 30 shares aa gaye. 17.60.
+Client: Okay, and you can do one thing, you can put 20 at 510.
+Dealer: Okay.
+Dealer: 20 at 510.
+Client: 510.
+Client: Theek hai. Ha, if it comes fine, otherwise no problem. 30 toh aa gaye na.
+Dealer: Haan haan 30 aa gaye.
+Dealer: Ha theek hai, no problem.
+Client: Okay, thank you.
+Dealer: Thank you.

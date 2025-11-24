@@ -1,0 +1,169 @@
+Client: Hello
+Dealer: Hello
+Client: Haji Kesar.
+Dealer: Haan bolo sir.
+Client: One minute.
+Client: Hello.
+Dealer: Haan bolo sir.
+Client: Haan thoda Nifty dekhna Kesar.
+Dealer: Ji.
+Client: 22,500 put, 22,300 put, 22,500 call and 22,300 call.
+Dealer: Ji.
+Client: Abhi kya chal raha hai dekho.
+Dealer: Ek second sir. Nifty 22,000 chal raha hai sir.
+Client: Hmm.
+Dealer: Hmm, 22,000 Nifty. Sir 22,500 ka put jo hai na sir, 100 rupees chal raha hai.
+Client: Achha.
+Dealer: 22,300 ka put 25 rupees chal raha hai.
+Client: Hmm.
+Dealer: 22,500 ka call 14 rupees chal raha hai.
+Client: Okay.
+Dealer: Aur 22,300 ka call 170 rupees chal raha hai sir.
+Client: Okay. 22,300 put 25 rupees.
+Dealer: Ji.
+Client: 22,500 put 100 rupees.
+Dealer: Ji.
+Client: 22,500 call 14 rupees.
+Dealer: Ji.
+Client: 22,300 call 170.
+Dealer: Ji, correct.
+Client: Okay. Nifty kitna hai abhi?
+Dealer: Nifty 22,000 chal raha hai sir.
+Client: 22,000 hai. Okay.
+Dealer: Ji.
+Client: Aur Bank Nifty mein kya positions hai?
+Dealer: Bank Nifty ek second sir.
+Dealer: Bank Nifty 46,900 chal raha hai sir.
+Client: 46,900 chal raha hai.
+Dealer: Ji.
+Client: Achha. 47,000 call, 47,000 put.
+Dealer: Ji.
+Client: Dekh lo abhi kya chal raha hai.
+Dealer: Ek second sir. Sir 47,000 ka put jo hai na sir, 100 rupees chal raha hai.
+Client: Achha.
+Dealer: Aur 47,000 ka call jo hai na sir, 220 rupees chal raha hai.
+Client: Achha.
+Dealer: Hmm.
+Client: Okay. 47,000 put 100 rupees. 47,000 call 220 rupees.
+Dealer: Ji, correct.
+Client: Okay. Nifty 22,000. Bank Nifty 46,900.
+Dealer: Ji.
+Client: Okay. Achha. 22,000 call le lo, 22,000 call 100 rupees.
+Dealer: Nifty ka 22,000 ka call sir.
+Client: 22,000 ka call 100 rupees.
+Dealer: 100 rupees per buy karna hai kya sir?
+Client: Buy karna hai. 100 rupees mein. 500 quantity.
+Dealer: 500 quantity. Okay sir. 22,000 ka call 100 rupees pe buy 500 quantity. Ek second sir.
+Dealer: Haji Nifty 22,000 call 100 rupees per buy 500 quantity place kiya hai sir.
+Client: Okay.
+Dealer: Wait kar raha hoon, sir. Jab tak rate aata hai to.
+Client: Okay.
+Dealer: Haan. Sir.
+Client: Achha. Bank Nifty 47,000 call. Abhi kya chal raha hai?
+Dealer: Bank Nifty 47,000 ka call sir, 220 rupees chal raha hai sir.
+Client: Achha. 220. Iska bhi 100 quantity sell karo 220 rupees mein.
+Dealer: Bank Nifty 47,000 ka call 220 rupees per sell 100 quantity. Okay sir.
+Dealer: Ek second sir.
+Dealer: Haji 47,000 call 220 rupees per sell 100 quantity place kiya hai sir. Bank Nifty ka.
+Client: Okay.
+Dealer: Okay sir.
+Client: Nifty kya position hai? Kuch hua nahi kya abhi?
+Dealer: Nahi sir, Nifty 22,000 ka call 100 rupees per buy ka order place kiya hai, abhi tak rate nahi aaya hai.
+Client: Achha.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Bank Nifty ka bhi 220 per sell ka order place kiya hai, uska bhi rate nahi aaya hai abhi.
+Client: Okay.
+Dealer: Hmm.
+Client: Toh abhi kya lagta hai aapko Nifty upar jayega ya niche jayega?
+Dealer: Sir market to abhi range bound mein hi dikh raha hai sir.
+Client: Hmm.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Okay sir.
+Client: Achha Nifty kitna hai abhi?
+Dealer: Nifty abhi chal raha hai sir, 22,000 hi chal raha hai sir.
+Client: 22,000.
+Dealer: Ji.
+Client: Okay.
+Dealer: Sir, Nifty ka 22,000 ka call hai na, 100 rupees per buy kiya hai na sir, wo 90 rupees chal raha hai abhi.
+Client: Achha 90 rupees chal raha hai.
+Dealer: Ji.
+Client: Thik hai.
+Dealer: Uska order abhi bhi pending hai, 100 rupees per place kiya hai.
+Client: Nahi nahi. 90 me aa gaya to sell karo usko.
+Dealer: 22,000 ka call sir. 90 rupees per sell karna hai?
+Client: 90 rupees per sell karo 500 quantity.
+Dealer: Okay sir. Woh 100 rupees ka buy ka order cancel karke 90 per sell ka order dalna hai na sir?
+Client: Haa. 500 quantity.
+Dealer: Okay sir. Ek second. 22,000 ka call 100 rupees per buy order jo hai, woh cancel kar raha hoon.
+Dealer: Cancel ho gaya sir.
+Dealer: 90 rupees per sell ka order place kiya hai 500 quantity.
+Client: Okay.
+Dealer: Wait kar raha hoon sir.
+Client: Okay.
+Dealer: Sir. Bank Nifty ka 47,000 ka call hai na, 220 per sell kiya tha, woh 210 chal raha hai abhi.
+Client: Achha.
+Dealer: Ji.
+Client: Okay.
+Dealer: Hmm.
+Client: Nifty me kya position hai?
+Dealer: Nifty ka 22,000 call 90 rupees per sell ka order pending hai sir.
+Client: Pending hai.
+Dealer: Ji.
+Client: Okay. Abhi kya chal raha hai?
+Dealer: Nifty 22,000 call 80 rupees chal raha hai sir.
+Client: Achha 80 rupees chal raha hai.
+Dealer: Ji.
+Client: Theek hai. Cancel karo usko bhi.
+Dealer: Uska bhi order cancel kar doon kya sir? 90 rupees per sell ka?
+Client: Haan cancel kar do.
+Dealer: Okay sir. Ek second.
+Dealer: Cancel ho gaya sir.
+Client: Okay.
+Dealer: Ji.
+Client: Aur Bank Nifty ka bhi cancel karo 220 per jo sell ka order hai usko bhi cancel karo.
+Dealer: Okay sir. Bank Nifty 47,000 ka call 220 rupees per sell ka order tha na sir?
+Client: Haan.
+Dealer: Woh bhi cancel kar raha hoon.
+Dealer: Cancel ho gaya sir.
+Client: Okay.
+Dealer: Ji.
+Client: Okay. Nifty, Bank Nifty kitna hai abhi?
+Dealer: Nifty 22,000 hi chal raha hai sir.
+Client: Hmm.
+Dealer: Aur Bank Nifty 46,900 chal raha hai sir.
+Client: Okay. Theek hai. Achha. 22,000 Nifty. 22,000 put le lo.
+Dealer: 22,000 ka put buy karna hai sir?
+Client: Haan 22,000 put buy karo 500 quantity. Kya rate chal raha hai uska abhi?
+Dealer: Ek second sir. Sir, Nifty 22,000 ka put chal raha hai, 110 rupees chal raha hai sir.
+Client: Achha. 110 rupees. Buy karo usko. 500 quantity.
+Dealer: Okay sir. 22,000 ka put 110 rupees per buy 500 quantity.
+Dealer: Ek second sir.
+Dealer: Haji Nifty 22,000 ka put 110 rupees per buy kiya hai 500 quantity.
+Client: Done?
+Dealer: Done sir.
+Client: Okay.
+Dealer: Hmm. Aur Bank Nifty 47,000 ka put.
+Client: Haan Bank Nifty 47,000 put kya chal raha hai abhi?
+Dealer: 47,000 ka put 100 rupees chal raha hai sir.
+Client: Achha 100 rupees chal raha hai. Buy karo usko 100 quantity.
+Dealer: Okay sir. 47,000 ka put 100 rupees per buy 100 quantity. Ek second sir.
+Dealer: Haji Bank Nifty 47,000 ka put 100 rupees per buy kiya hai 100 quantity.
+Client: Done?
+Dealer: Done sir.
+Client: Okay. Done.
+Dealer: Ji.
+Client: Okay. Nifty, Bank Nifty kitna hai abhi?
+Dealer: Nifty 22,000 chal raha hai sir.
+Client: Hmm.
+Dealer: Aur Bank Nifty 46,900 chal raha hai sir.
+Client: Okay. Theek hai.
+Dealer: Hmm.
+Client: Hello.
+Dealer: Haan sir.
+Client: Hello.
+Dealer: Haan sir.
+Client: Okay. Thik hai.
+Dealer: Okay sir. Thank you.
+Client: Thank you.

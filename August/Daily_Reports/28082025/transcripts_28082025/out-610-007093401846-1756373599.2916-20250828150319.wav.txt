@@ -1,0 +1,17 @@
+Dealer: Hello?
+Client: Hello?
+Client: Yes.
+Dealer: Achha ye Nikhil, ye aap jo bol rahe the bechna, to wo kaun sa bechna hai? Indigo bechna hai ki fir uh...
+Client: Indigo nahi bechna hai. Apne ko to wo bechna hai na ek second.
+Dealer: Haan ye Liquid Bees na?
+Client: Haan mera. Liquid Bees, yes.
+Dealer: Liquid Bees, right. Ek minute. Lekin wo apne paas 65... 65 quantity hai, ek minute, ha.
+Client: Haan abhi to pura bech do.
+Dealer: Hmm.
+Dealer: Theek hai, to wo poora quantity bech doon na uska?
+Client: Yes.
+Dealer: Theek hai, to wo main poora bech deta hoon current rate se. Aur baaki jo balance rahega wo exact kal apne ko debit dikhayega kitna hai kya hai.
+Client: Hmm.
+Client: Theek hai.
+Dealer: Hmm, theek hai. Chalega chalo.
+Client: Okay, bye.

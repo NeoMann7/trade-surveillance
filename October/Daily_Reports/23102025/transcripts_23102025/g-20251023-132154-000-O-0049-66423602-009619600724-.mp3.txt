@@ -1,0 +1,149 @@
+Client: Hello?
+Dealer: Hello.
+Client: Yes.
+Dealer: Hello, sir. Good morning.
+Client: Yes, good morning.
+Dealer: Sir, what are your positions?
+Client: Yes, positions I'm having now... one second.
+Client: Yes. Yes, now what is the current price?
+Dealer: Current price is at 740.
+Client: Hmm.
+Dealer: Yes, your positions are?
+Client: Okay, okay. One second. Uh, hmm.
+Client: Hmm. Okay, the current market now?
+Dealer: The current market is 740.
+Client: Hmm.
+Dealer: Yes.
+Client: Okay. No, I am having 700 put option.
+Dealer: 700 put option, sir?
+Client: Yes, put option.
+Dealer: Yes.
+Client: Okay. How much? How much it is going for?
+Dealer: One second, sir. 700 put option. One minute.
+Dealer: 700 put is running at 36.50.
+Client: Okay. No, I bought at 40 rupees.
+Dealer: Okay.
+Client: Hmm.
+Dealer: Sir, you can hold for some more time.
+Client: Okay.
+Dealer: Yes, it might come down below 700.
+Client: Okay. Okay. So, uh, how much time I can hold today? Today is the last day, right?
+Dealer: No, sir, no, sir. It is not the last day. Today is Tuesday, Wednesday, Thursday, Friday. Four more days are left.
+Client: Oh, four more days are left. Okay.
+Dealer: Yes.
+Client: But it is not going down below, uh, 700.
+Dealer: Yes, sir. Yesterday it has given, yesterday it has given a good fall.
+Client: Hmm.
+Dealer: And now it is consolidating and again it will take a fall.
+Client: Okay. Okay. Hmm.
+Dealer: Yes. So your other positions are?
+Client: Other positions are, uh, I have a long of, uh, 600 shares of Bajaj Finance.
+Dealer: Bajaj Finance, okay.
+Client: Hmm. Okay. And, uh, 700, uh, uh, 700 call option of Bajaj Finance.
+Dealer: Call option, sir?
+Client: Yes, call option.
+Dealer: Okay, you have a short position there.
+Client: Yes.
+Dealer: Okay, Bajaj Finance 700 call. What is the current price, sir?
+Client: Current price for Bajaj Finance is 740, I think.
+Dealer: Yes, Bajaj Finance 740. Yes. One minute. Your 700 call is running at 45.
+Client: Okay. Hmm.
+Dealer: Yes. You have a long of 600 shares, right?
+Client: Long of 600 shares, correct.
+Dealer: Okay. And 700 call option is short, right?
+Client: Yes.
+Dealer: Okay. So, uh, call option premium, if it reaches near 700, that premium can be eaten up completely.
+Client: Yes.
+Dealer: Yes. And your long position will be safe.
+Client: Hmm. Hmm.
+Dealer: So what is the average for long?
+Client: Average for long is, uh, 680.
+Dealer: Okay. You can hold, sir.
+Client: Hmm.
+Dealer: Yes, 680. It's a good price.
+Client: Yes.
+Dealer: So you can wait, sir. Yes.
+Client: Okay. Okay.
+Dealer: You can exit in the last day of expiry.
+Client: Okay. Okay. Hmm. And then the 700 put option you are saying to hold, right?
+Dealer: Yes. Yes, yes.
+Client: Hmm.
+Dealer: You can wait, sir. Yes, it might come down below 700.
+Client: Okay.
+Dealer: Yes.
+Client: Hmm. Okay. What about the other things?
+Dealer: Any other positions, sir?
+Client: No, these two positions only I'm having.
+Dealer: Okay.
+Client: Okay. And, uh, what are the good, uh, options for today?
+Dealer: Good options, sir. You can sell 750 call, 760 call.
+Client: Sell 750 call, 760 call.
+Dealer: Yes, call option, sir.
+Client: Of Bajaj Finance?
+Dealer: Bajaj Finance. Yes, sir.
+Client: Okay.
+Dealer: Okay. Yes.
+Client: And how much it is going for?
+Dealer: 750 call is running at 18.
+Client: Hmm.
+Dealer: And 760 call is running at 10.
+Client: Okay. So, I will get a total of 28 rupees.
+Dealer: Yes.
+Client: Hmm.
+Dealer: Yes, this can be a good position for you to go short.
+Client: Okay. Okay. Hmm. And I have to take, uh, short in the 700 put, right?
+Dealer: Yes.
+Client: Hmm.
+Dealer: Yeah, there is a risk, there is a risk there, sir.
+Client: Hmm.
+Dealer: You know, it might move in any direction. But I'll tell you about a safe trade.
+Client: Okay.
+Dealer: Yes.
+Client: Hmm.
+Dealer: This 750 call, 760 call can be sold.
+Client: Okay. Okay.
+Dealer: Yes.
+Client: And if I have to buy a put option now, so which one should I buy?
+Dealer: Buy put option. Sir, I would recommend 720 put.
+Client: 720 put?
+Dealer: Yes, sir.
+Client: Okay. And how much it is going for?
+Dealer: 720 put is running at 25.
+Client: Okay. Hmm. Hmm.
+Dealer: Yes.
+Client: Okay. So, uh, I will buy it with the current price and I will sell it, uh, when it goes up, right?
+Dealer: Yes, you can sell it. Yes.
+Client: Hmm. Okay. So, uh, I can buy the 720 put and I will hold it.
+Dealer: Yes, sir. Yes.
+Client: Okay.
+Dealer: And your target would be 35 to 40.
+Client: Okay. Hmm.
+Dealer: Yes.
+Client: And, uh, for the Bajaj Finance, uh, I am holding 600 shares and then I'm having a 700 call option of Bajaj Finance.
+Dealer: Yes.
+Client: So you are saying I should hold this one?
+Dealer: Hold. Yes, yes.
+Client: Okay.
+Dealer: Yes.
+Client: And if it goes above 700 call, then I will get a profit, right?
+Dealer: If it goes above 700 call, then, then the call option premium will be eaten.
+Client: Okay.
+Dealer: No, if it goes above 700, then your long position will be in profit.
+Client: Yes.
+Dealer: And your call option, that is 700 call option, that you sold, that you will lose.
+Client: Yes.
+Dealer: So this is a hedge, sir.
+Client: Okay.
+Dealer: Your, your, uh, your, uh, loss will be hedged.
+Client: Hmm. Hmm. Okay. So the 700 put option you said to hold?
+Dealer: Yes.
+Client: Okay. And the new one which I have to take, it is 720 put option.
+Dealer: Yes, sir.
+Client: Okay. Okay. So, uh, 720 put option I will buy and for the Bajaj Finance, what is the current now? It is 740, right?
+Dealer: 740. Yes.
+Client: Okay. Okay. I will observe and then I will take the action.
+Dealer: Yes, sir.
+Client: Okay. Thank you very much.
+Dealer: Thank you, sir.
+Client: Bye.
+Dealer: Bye.

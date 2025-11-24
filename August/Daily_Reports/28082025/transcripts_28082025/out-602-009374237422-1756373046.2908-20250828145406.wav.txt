@@ -1,0 +1,4 @@
+Client: Hello, Prem bhai.
+Dealer: Ram, Ram, joi ho.
+Client: Are bhai, haan bhai, haan bhai, haan bhai, haan bhai, haan bhai.
+Dealer: Hmm.

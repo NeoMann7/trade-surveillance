@@ -1,0 +1,5 @@
+Dealer: Hello?
+Client: Hi, sir.
+Dealer: Hello.
+Client: Can you talk over extension to 02? First, it's called.
+Dealer: Hmm.

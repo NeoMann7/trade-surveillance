@@ -1,0 +1,79 @@
+Dealer: Hello.
+Client: Yeah.
+Client: Uh, buy 500 Tata Power at 424.15.
+Dealer: 500 Tata Power, sir?
+Client: Yes.
+Dealer: 424.15?
+Client: Yes.
+Dealer: Okay, done, sir.
+Client: Yeah.
+Client: Uh, sell 1000 Reliance at 2853.
+Dealer: Sorry?
+Client: Sell 1000 Reliance at 2853.
+Dealer: 1000 Reliance, uh, 2853?
+Client: Yes.
+Dealer: Okay, done, sir.
+Client: Yeah.
+Client: Uh, buy 500 IndusInd Bank at 1530.40.
+Dealer: 500 IndusInd Bank?
+Client: Yes.
+Dealer: 1530.40?
+Client: Yes.
+Dealer: Okay, done, sir.
+Client: Yeah.
+Client: Uh, sell 200 PVR Inox at 1450.
+Dealer: Sorry?
+Client: Sell 200 PVR Inox at 1450.
+Dealer: 200 PVR Inox?
+Client: Yes.
+Dealer: 1450?
+Client: Yes.
+Dealer: Okay, done, sir.
+Client: Yeah.
+Client: Buy 300 Infosys at 1500.
+Dealer: 300 Infosys?
+Client: Yes.
+Dealer: 1500?
+Client: Yes.
+Dealer: Okay, done, sir.
+Client: Yeah.
+Client: Uh, sell 500 ICICI Bank at 990.
+Dealer: Sorry?
+Client: Sell 500 ICICI Bank at 990.
+Dealer: 500 ICICI Bank?
+Client: Yes.
+Dealer: 990?
+Client: Yes.
+Dealer: Okay, done, sir.
+Client: Yeah.
+Client: Uh, buy 100 HDFC Bank at 1650.
+Dealer: 100 HDFC Bank?
+Client: Yes.
+Dealer: 1650?
+Client: Yes.
+Dealer: Okay, done, sir.
+Client: Yeah.
+Client: Uh, sell 200 Bajaj Finance at 7100.
+Dealer: Sorry?
+Client: Sell 200 Bajaj Finance at 7100.
+Dealer: 200 Bajaj Finance?
+Client: Yes.
+Dealer: 7100?
+Client: Yes.
+Dealer: Okay, done, sir.
+Client: Yeah.
+Client: Uh, buy 50 TCS at 3800.
+Dealer: 50 TCS?
+Client: Yes.
+Dealer: 3800?
+Client: Yes.
+Dealer: Okay, done, sir.
+Client: Yeah.
+Client: Uh, sell 150 Maruti at 10,500.
+Dealer: Sorry?
+Client: Sell 150 Maruti at 10,500.
+Dealer: 150 Maruti?
+Client: Yes.
+Dealer: 10,500?
+Client: Yes.
+Dealer: Okay, done, sir.

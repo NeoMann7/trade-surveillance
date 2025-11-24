@@ -1,0 +1,20 @@
+Client: Hello
+Dealer: Hello, Good morning sir.
+Client: Good morning.
+Dealer: Sir, tell me.
+Client: Yeah, I wanted to buy Bank Nifty, September 40,000, Put.
+Dealer: Bank Nifty, September 40,000, Put.
+Client: Yeah.
+Dealer: Uh, so 40,000 Put, what quantity, sir?
+Client: Uh, 25.
+Dealer: And what price, sir?
+Client: Current price.
+Dealer: Okay.
+Client: It's 295, 290.
+Dealer: Okay. And for what expiry, sir? September or October?
+Client: September.
+Dealer: September. Okay. So Bank Nifty, 40,000 Put, current market price, 25 quantity. Correct, sir?
+Client: Correct.
+Dealer: Order is placed, sir.
+Client: Thank you.
+Dealer: Thank you.

@@ -1,0 +1,21 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello.
+Client: Yeah.
+Dealer: Ah.
+Client: Yeah good morning.
+Dealer: Good morning.
+Client: Uh, a a two hundred, uh, two hundred and fifty shares. Two fifty, uh, Tata Power, uh, sale two hundred and twenty five.
+Dealer: Tata Power two fifty quantity two twenty five sell.
+Client: Yes.
+Dealer: Okay.
+Client: And uh two fifty five, uh, two fifty five Tata Motors, uh, sale.
+Dealer: Tata Motors two fifty five sell.
+Client: Yeah.
+Dealer: Okay.
+Client: And uh fifteen, uh fifteen thousand shares, uh Power Grid, uh one hundred and twenty two.
+Dealer: Fifteen thousand Power Grid, one twenty two sell.
+Client: Yes.
+Dealer: Okay.
+Client: Thank you.
+Dealer: Okay.

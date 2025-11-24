@@ -1,0 +1,51 @@
+Dealer: Hello hello
+Client: Yeah hi
+Dealer: Hello hello
+Client: Yeah
+Dealer: Yes sir good morning sir.
+Client: Yeah good morning tell me.
+Dealer: Ha sir boliye sir.
+Client: Ah I just want to know can you tell me what is going on with the Indian market today?
+Dealer: Indian market ka sir thoda sa abhi jo aap dekh rahe hain na uh slight upside me chal raha hai but it's not a like a good movement. So still it's like a consolidation phase only but we can expect ki thoda bahut humko yahan se uh upside dikh sakta hai as per technical.
+Client: Okay.
+Dealer: Jaise nifty aap dekh rahe hain abhi thoda bahut up hai sensex up hai theek hai bank nifty bhi thoda bahut up hai us hisab se. So it's not a good movement sir just for like a minor upside is there.
+Client: Okay okay.
+Dealer: Okay.
+Client: Um what about uh some of the specific stocks can you tell me like any recommendations or what's going on?
+Dealer: Stocks ki agar aap baat kare to sir thode bahut stocks hai jo aap abhi dekh sakte hain. Jaise ki aapko uh mai bata du uh Hindalco Industries hai wo aap dekh sakte hain theek hai then you can go for Tata Steel and then there is uh one more stock which is like a uh Infosys.
+Client: Infosys okay.
+Dealer: Yeah to ye teen stock hai sir jo abhi like a thoda bahut momentum bana rahe hain market me.
+Client: Okay and uh for example if I want to place an order for Infosys uh what would be the current price and what should be my strategy?
+Dealer: Infosys ka agar aap abhi baat kare to sir uh mai aapko bata du uh Infosys ka jo current price hai it's around 1450. So you can place a buy order for Infosys at 1450 with a target of 1470 and you can keep a stop loss of uh 1440.
+Client: Okay so buy at 1450 target 1470 stop loss 1440.
+Dealer: Yes sir exact.
+Client: And uh how about the other two stocks you mentioned uh Hindalco and Tata Steel?
+Dealer: Hindalco ki agar aap baat kare to sir Hindalco ka abhi current price chal raha hai 510. So you can place a buy order for Hindalco at 510 with a target of 520 and you can keep a stop loss of 505.
+Client: Okay and Tata Steel?
+Dealer: Tata Steel ka sir current price chal raha hai 1150. So you can buy Tata Steel at 1150 with a target of 1170 and a stop loss of 1140.
+Client: Alright uh so for all three of these you're recommending a buy.
+Dealer: Yes sir these are good for intraday also if you want to hold for a short term that is also good.
+Client: Okay okay and uh can I place these orders through you right now?
+Dealer: Yes sir you can tell me the quantity and which stock you want to buy.
+Client: Okay uh let's go with Infosys first uh I want to buy 100 shares of Infosys at 1450.
+Dealer: Okay sir so you want to buy 100 shares of Infosys at 1450.
+Client: Yes.
+Dealer: Okay sir I'm placing the order for you. Hold on for a second.
+Client: Okay.
+Dealer: Sir your order for Infosys has been placed and executed.
+Client: Okay great thank you and for Hindalco can I go for 200 shares at 510?
+Dealer: 200 shares of Hindalco at 510 correct.
+Client: Yes.
+Dealer: Okay sir holding on a second.
+Client: Okay.
+Dealer: Sir your order for Hindalco has also been placed and executed.
+Client: Alright and for Tata Steel can I go for 50 shares at 1150?
+Dealer: 50 shares of Tata Steel at 1150.
+Client: Yes.
+Dealer: Okay sir just a moment.
+Client: Okay.
+Dealer: Sir your order for Tata Steel has also been placed and executed.
+Client: Perfect thank you very much.
+Dealer: Any other thing sir?
+Client: No that's all for now thank you.
+Dealer: Okay sir thank you.

@@ -1,0 +1,41 @@
+Client: Hello? Rajesh?
+Dealer: Yes.
+Client: Rajesh. Kaun kaun bol raha hai?
+Dealer: Anand.
+Client: Anand, Sachin hai kya baaju mein?
+Dealer: Haan haan, do na.
+Client: Hello?
+Dealer: Hello Sachin.
+Client: Haan. Are Rajesh wo ghar se kaam kar raha hai. Office mein hai.
+Dealer: Office mein hai wo?
+Client: Office mein hai wo yogesh ghar se kaam kar raha hai.
+Dealer: Office mein hai wo.
+Client: Haan haan. Uska phone bhi aa raha hai. Mere ko na ek client ko apna but abhi wo jo test wala jo kya maloom last time to maine set kiya tha.
+Dealer: To reset karna hai sir?
+Client: Karna hai. But kya hai wo mere ko bhi nahi maloom hai.
+Dealer: To main reset kar deta hu naya password de deta hu.
+Client: Haan to ek baar kar na password reset. OTP bhi aayega na uska login.
+Dealer: OTP last
+Client: Maloom nahi usme dekh na number bhi change karna. Number daal de na mera wala abhi.
+Dealer: Ek minute, ek minute. ID kya hai? Test?
+Client: Bas khali test hi hai apna ID.
+Dealer: Pakka yahi hai ID?
+Client: Haan. T.E.S.T.
+Dealer: Ek minute. Test pe test karo na sir.
+Client: Haan. Haan haan haan. Lekin theek hai, theek hai. Ek paise mera kaam ho jaayega. Chale ga yo. Wo main dal dunga. Haan. Password reset kar raha hu. Abhi password de de.
+Dealer: Haan. A.B.C.D. 123. A.B.C.D. 123.
+Client: Number kiska hai? No. Mobile number. Abhi kya dikha raha hai mobile number?
+Dealer: Wait, wait wait. Wait. It is showing now.
+Client: 96946694 mera hi hai.
+Dealer: Haan to ek baar tum...
+Client: Abhi ho raha hai kya? Main mere ko OTP last time bhi daala tha but OTP nahi aaya tha mere ko.
+Dealer: Sir 123 karke try karo na. Ek minute. A small
+Client: Sab
+Dealer: Ki B baada hai? Baaki piche chote C@123.
+Client: Haan. Ek minute ruk. Old password. Abhi old password. Accha ye. A.B.C.@123. Password new.
+Client: Invalid old password.
+Dealer: Nahi sir, tum A.B.C.@ dal ke enter karo na.
+Client: Wo kiya na password expired. Last time login kar rahe ho to password change karo. Abhi bhi aaya A.B.C. Haan uske baad mere ko ek minute wapas aa raha hai. A.B.C. Accha A capital hai.
+Client: Theek hai chal main daal ke dekhta hu.
+Dealer: Ho gaya? Karne ki jarurat nahi padegi?
+Client: Abhi ek baar ek minute ruk. Haan haan theek hai theek hai. Two S nahi hai isme. Theek hai chal.

@@ -1,0 +1,109 @@
+Dealer: Hello, hello, hello.
+Client: Hello.
+Dealer: Hello.
+Client: Yeah.
+Dealer: Hmm.
+Client: अह निफ्टी 23000 का सी एक बार देख लीजिएगा।
+Dealer: ठीक है।
+Client: सर।
+Dealer: सर, निफ्टी 23000 सी, ठीक है।
+Client: और बैंक निफ्टी का 49800 का सी।
+Dealer: ठीक है। बैंक निफ्टी 49800 कॉल।
+Client: हम्म। और Reliance एक बार देख लीजिएगा, Reliance।
+Dealer: ठीक है। Reliance.
+Client: हम्म। और एक बार आप एक एक बार कोटक बैंक और देख लीजिएगा।
+Dealer: हम्म। कोटक बैंक, ठीक है।
+Client: एक एक बार वो भी कोटक बैंक भी देख लीजिएगा।
+Dealer: कोटक।
+Client: हम्म।
+Dealer: ठीक है सर।
+Client: हम्म।
+Dealer: सर, निफ्टी 23000 कॉल चल रहा है 204.30. 204.30.
+Client: ठीक है।
+Dealer: बैंक निफ्टी 49800 कॉल चल रहा है 296.80. 296.80.
+Client: ठीक है।
+Dealer: Reliance है 2898.30. 2898.30.
+Client: ठीक है।
+Dealer: और कोटक बैंक है 1740. 1740.
+Client: ठीक है।
+Dealer: हम्म।
+Client: निफ्टी में बाय कर लीजिएगा एक लॉट।
+Dealer: ठीक है। निफ्टी बाय एक लॉट।
+Client: हां। 200 के ऊपर।
+Dealer: 200 के ऊपर, ठीक है।
+Client: हम्म।
+Dealer: डन, बाय हो गया सर आपका 204.40 में।
+Client: ठीक है।
+Dealer: हम्म।
+Client: और अह बैंक निफ्टी का भी एक लॉट बाय कर लीजिएगा।
+Dealer: ठीक है। बैंक निफ्टी एक लॉट बाय।
+Client: हां।
+Dealer: डन, बैंक निफ्टी बाय हो गया सर आपका 298.50 में।
+Client: ठीक है।
+Dealer: हम्म।
+Client: ठीक है सर। और Reliance में बाय कर लीजिएगा 50 शेयर्स।
+Dealer: ठीक है। Reliance बाय 50 शेयर्स।
+Client: हां।
+Dealer: डन, बाय हो गया सर आपका 2901.80 में।
+Client: ठीक है।
+Dealer: हम्म।
+Client: और एक बार आप मेरा कोटक बैंक का पोजीशन बता दीजिएगा।
+Dealer: ठीक है।
+Client: हां।
+Dealer: कोटक बैंक सर आपका ₹1729 का बाइंग है 100 शेयर्स। अभी लॉस चल रहा है उसमें 1110 का।
+Client: ठीक है।
+Dealer: हम्म।
+Client: उसको ना सेल कर दीजिएगा अह 1750 के ऊपर।
+Dealer: ठीक है। 1750 के ऊपर सेल।
+Client: हां।
+Dealer: ठीक है।
+Client: हम्म।
+Dealer: कोटक बैंक 1750 के ऊपर सेल।
+Client: हां।
+Dealer: ठीक है सर।
+Client: हम्म।
+Dealer: हम्म।
+Client: और निफ्टी और बैंक निफ्टी का स्टॉप लॉस बता दीजिएगा।
+Dealer: ठीक है। निफ्टी आपका 204.40 बाइंग है। उसका स्टॉप लॉस रख लीजिए 170 का।
+Client: ठीक है।
+Dealer: और बैंक निफ्टी 298.50 बाइंग है, उसका स्टॉप लॉस रख लीजिए 250 का।
+Client: ठीक है।
+Dealer: हम्म।
+Client: ठीक है सर।
+Dealer: ठीक है।
+Client: हम्म।
+Dealer: हम्म।
+Client: Reliance का भी स्टॉप लॉस बता दीजिएगा।
+Dealer: Reliance 2901.80 बाइंग है, उसका स्टॉप लॉस रख लीजिए सर 2870 का।
+Client: ठीक है।
+Dealer: हम्म।
+Client: ठीक है।
+Dealer: ठीक है सर।
+Client: हम्म।
+Dealer: हम्म।
+Client: ओके सर। थैंक यू।
+Dealer: ओके सर। वेलकम।
+Client: हलो।
+Dealer: हां जी सर बोलिए।
+Client: सर मेरा एक और कॉल अह ले लीजिएगा। Tata Motors का।
+Dealer: ठीक है।
+Client: हम्म। एक एक बार देख लीजिएगा Tata Motors का।
+Dealer: ठीक है।
+Client: हंड्रेड शेयर्स बाय कर लीजिएगा।
+Dealer: ठीक है। Tata Motors बाय 100 शेयर्स।
+Client: हां।
+Dealer: डन, बाय हो गया सर आपका 956.80 में।
+Client: ठीक है।
+Dealer: हम्म।
+Client: ठीक है।
+Dealer: हम्म।
+Client: Tata Motors का स्टॉप लॉस बता दीजिएगा।
+Dealer: Tata Motors 956.80 बाइंग है, उसका स्टॉप लॉस रख लीजिए 940 का।
+Client: ठीक है।
+Dealer: ठीक है सर।
+Client: हम्म।
+Dealer: हम्म।
+Client: ओके सर।
+Dealer: ठीक है।
+Client: थैंक यू।
+Dealer: वेलकम।

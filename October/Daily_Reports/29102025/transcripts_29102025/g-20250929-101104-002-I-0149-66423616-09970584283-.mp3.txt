@@ -1,0 +1,49 @@
+Client: Hello?
+Dealer: Oh, ha.
+Client: Hmm, is this Tendonkar?
+Dealer: Yes.
+Client: Ha. Yeah, Edu, Edu, Vikun Daka.
+Dealer: Edu Edukat, Edu Edukat.
+Client: Edu Educate Vikun Daka.
+Dealer: Hmm, just a minute.
+Dealer: CL Educate 2000 Vikun.
+Client: Ha, purana Vikun.
+Client: Ah, but nahi hai kitni me theu, karan 93.05 madhe buyer hai.
+Client: Thechanantar direct 92.06.
+Dealer: Kitni 190? 193?
+Client: 93, 93.58 pasun ekde buyer hai. Thechanantar direct 92.06 madhe buyer.
+Dealer: Three lakh thevun dya. 0.5 la jo kai hai matlab.
+Client: Achcha, 2000 purana vikayala 93 madhe thevaycha na?
+Dealer: Ha.
+Client: 93 na?
+Dealer: Ho.
+Client: Thik hai, 2000 quantity CL Educate 93 madhe thevu, client code NWM00206.
+Client: Thik hai, thevlaya me 93 madhe.
+Dealer: Ha, control print pan kara.
+Client: Control print?
+Dealer: Ha, kaadhun theva.
+Client: Market.
+Client: Thik hai, 100 quantity control print kaadhto 770. Client code NWM00206.
+Client: Thik hai, gela 100, 776 madhe.
+Dealer: Hmm.
+Dealer: Ma, kitni, kitni madhe gela? 176? Control print.
+Dealer: Ha, achcha, control print.
+Dealer: Ha, kitni hote the?
+Client: 100.
+Dealer: Okay.
+Dealer: Nantar JM Financial bagha.
+Client: JM Financial aaplya kade 250 hai.
+Dealer: Te pan kaadhun taka.
+Client: Market.
+Dealer: Ha.
+Client: Thik hai, 250 quantity JM Financial kaadhto market madhe. Client code NWM00206.
+Client: Thik hai, 250 gele aaple 163.42.
+Dealer: 163?
+Client: Hmm, 142.
+Dealer: Hmm.
+Dealer: Nantar.
+Dealer: Thik hai, vanti close bagha, CL Educate jar gela tar sanga.
+Client: Thik hai.
+Client: Ha.
+Dealer: Hmm.
+(phone ringing)

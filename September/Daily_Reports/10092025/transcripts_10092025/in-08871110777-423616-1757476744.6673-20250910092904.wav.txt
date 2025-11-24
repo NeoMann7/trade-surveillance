@@ -1,0 +1,7 @@
+Dealer: Hello.
+Client: Hello. Ah, this is Harsh Kumar Patel. Ah, you placed an order for Bluejet Healthcare. Can you modify the price to 682?
+Dealer: Okay, so I'm repeating the order. Uh, you want to modif-, you want to place a order of a Bluejet OFS 735 quantity at 682. Okay, client code is GBL00730.
+Client: Correct, correct.
+Dealer: Okay, thank you.
+Client: Okay, thank you.
+Dealer: Thank you.

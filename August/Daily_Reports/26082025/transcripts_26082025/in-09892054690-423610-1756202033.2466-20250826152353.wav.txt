@@ -1,0 +1,22 @@
+Client: Hello.
+Dealer: Hello Wiki.
+Client: Delhi PM, Delhi contract.
+Dealer: Haan sir, boliye.
+Client: 269.
+Dealer: Haan.
+Client: Can you check what is my balance? I think some 5400 or something is balance I think.
+Dealer: Uh, haan sir, 5400 hai balance. 5407 balance.
+Client: Haan to, can you buy Sujlon.
+Dealer: Sujlon, ek minute.
+Client: Sujlon. How much sir?
+Client: Around 90 aa jaana chahiye, kitna aayega woh balance mein?
+Dealer: Ek minute.
+Dealer: Haan, 90, 90 aa jayega sir.
+Client: Jitna aata hai utna le lo. So I just got your statement saying balance is 5400.
+Dealer: Haan, 90 aa gaya sir.
+Client: Theek hai, no problem.
+Dealer: 57.02 mein 5131 ka apna total value hua hai. May be shayad baki ka brokerage mein deduction mein aa jayega bhai.
+Client: Haan theek hai, jo bhi hai.
+Dealer: Theek hai, theek hai sir, yeah.
+Client: Okay.
+Dealer: Haan.

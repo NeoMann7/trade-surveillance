@@ -1,0 +1,32 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes, sir.
+Client: Uh, 2020 mein jo apka equity portfolio tha, equity portfolio ha.
+Dealer: Hmm.
+Client: Usmein uh, ek minute. Usmein yeh, yeh 2020 mein ha, yeh portfolio mein na, maine ICICI Bank, ICICI Bank 495 mein sale kiya tha.
+Dealer: Kitne mein?
+Client: 495 mein.
+Dealer: Hmm.
+Client: Iska profit and loss ha, profit and loss statement mein, yeh dikh nahi raha hai.
+Dealer: Acha, kya naam tha account ka?
+Client: Kirti Parekh. K I R T I.
+Dealer: Hmm.
+Client: Parekh P A R E K H.
+Dealer: Hmm.
+Client: Aur uski email ID hai kirti.kirti.parekh@gmail.com
+Dealer: Ok.
+Client: Woh 2020 mein, yeh profit and loss mein dikh nahi raha hai. Woh ICICI Bank ka jo sale kiya tha na, 495 mein, woh stock dikh nahi raha hai usmein.
+Dealer: Kirti Parekh. Ok, sir, theek hai. Main check karata hoon. Kirti Parekh.
+Client: Kirti Parekh, ha. Woh mera hi account hai.
+Dealer: Ah, sir, theek hai. Main check karata hoon. Kya kya sale kiya tha aapne ICICI Bank?
+Client: ICICI Bank 495 mein sale kiya tha aur woh 2020 ke P&L mein dikh nahi raha hai woh transaction.
+Dealer: Ok, theek hai, sir.
+Client: Profit and loss mein.
+Dealer: Ah, main ek bar na check karta hoon usko.
+Client: Ha.
+Dealer: Ki ICICI Bank ki aapki entry kitne ki thi, purchase entry, aur sale ki entry usmein hai ki nahi hai.
+Client: Wo usmein purchase entry to dikh rahi hai. Sale entry nahi dikh rahi hai. Sale entry 495 mein kiya tha.
+Dealer: Ok, sir, theek hai. Main check karake na aapko is number pe update karwa deta hoon.
+Client: Okay. Theek hai.
+Dealer: Okay.
+Client: Hmm.

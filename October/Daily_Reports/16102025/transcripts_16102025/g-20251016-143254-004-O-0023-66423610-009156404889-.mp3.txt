@@ -1,0 +1,7 @@
+Client:
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha.
+Client:
+Dealer: Sir kya bol rahe the?
+Client:

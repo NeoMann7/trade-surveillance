@@ -1,0 +1,3 @@
+Dealer: 8,600.
+Client: Second press.
+Dealer: Six and zero.

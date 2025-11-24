@@ -1,0 +1,8 @@
+Dealer: Hello, hello, hello.
+Client: Hello, hello.
+Dealer: Hello, hello, hello.
+Client: Sir, sir, sir. Hello.
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello.
+Client: Hello.

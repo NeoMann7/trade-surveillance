@@ -1,0 +1,6 @@
+Dealer: Dealer October, I think 602 First call.
+Client: Hello.
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello, ha.
+Client: Yeah, tell me.

@@ -1,0 +1,3 @@
+Dealer: Enter the store, extension 602.
+Client: Uh-huh.
+Dealer: Hello.

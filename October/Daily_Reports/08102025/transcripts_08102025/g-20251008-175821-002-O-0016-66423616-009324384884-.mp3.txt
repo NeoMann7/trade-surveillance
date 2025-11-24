@@ -1,0 +1,8 @@
+Dealer: Hello?
+Client: Hello, uh, Nifty, uh, shortsell, uh, 19,000, uh, 575, uh, eight lots, uh, for, uh, 25 points target, uh, stop loss, uh, 19,600.
+Dealer: Okay, Nifty, uh, seven, 575, uh, shortsell, eight lots, target 565, stop loss 19,600.
+Client: Hello, 575, target 25 points.
+Dealer: 575, eight lots, target, 550, stop loss 600.
+Client: Okay.
+Dealer: Okay, order place kar diya.
+Client: Okay, thank you.

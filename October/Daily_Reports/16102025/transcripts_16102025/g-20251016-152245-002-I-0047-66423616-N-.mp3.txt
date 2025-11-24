@@ -1,0 +1,15 @@
+Dealer: Yeah, Amole Tendulkar sir.
+Dealer: 2:00 a.m. aacha ha. Ha udhar.
+Client: Ha ye sir ho gaya hai. 3145 ka average aya hai. 25 shares ho gaya hai buy.
+Dealer: Hmm.
+Dealer: 31 ha na.
+Client: Ha ha wo bhi ho gaya hai, but abhi jo 25 25 karke humne buy kiya na toh average price aya hai 3145.
+Dealer: Okay.
+Dealer: Okay sir. Now aur aur 25 rakh dijiye 3085 pe.
+Client: Ek minute ha, 3 kitne pe?
+Dealer: 3085.
+Client: Okay. Ha, fir aur 25 shares Amol Tendulkar ne. Okay.
+Dealer: Okay.
+Client: Bharat Bijli.
+Dealer: Thank you.
+Client: Thank you.

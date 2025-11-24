@@ -1,0 +1,14 @@
+Dealer: 3rd October 1600.
+Client: Hello.
+Dealer: Hello.
+Client: Yes.
+Dealer: Sir, the market is down by 300 points today. Did you want to put in any order?
+Client: Uh, no, no. I'll call you if I want to.
+Dealer: Okay.
+Client: Right now, I'm just watching.
+Dealer: Okay.
+Client: I will let you know later.
+Dealer: Okay, sir. Fine. Thank you.
+Client: Okay.
+Dealer: Bye.
+Client: Bye.

@@ -1,0 +1,6 @@
+Dealer: Hello?
+Client: Yes, good morning.
+Dealer: Yes, good morning.
+Client: Can I trade?
+Dealer: Yes.
+Client: Second disco.

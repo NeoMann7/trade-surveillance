@@ -1,0 +1,8 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha sir.
+Client: Nifty 100 points, na? Dekho.
+Dealer: Nifty 199 14208.
+Client: 500. 100.
+Dealer: 148 142.03.
+Dealer: Hello. Hello.

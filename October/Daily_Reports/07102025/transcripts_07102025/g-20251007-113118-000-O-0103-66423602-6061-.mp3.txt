@@ -1,0 +1,27 @@
+Client: Hello, Nifty ka order hai Neo C5 mein.
+Dealer: Ek minute ruk ja, hold kar. Hmm Neo C5, hmm.
+Client: Kitna quantity hai?
+Dealer: Char hi share hai.
+Client: Nahi nahi Strinex hai.
+Dealer: Sorry?
+Client: S T Y R E N X 13 ke upar.
+Dealer: Ek minute. Mujhe bol raha tha na ki add karke dena padega.
+Client: Order ka hai kya karega? Check kar ek baar. Hum, nahi bech do, dikh ke marna padega, aise nahi maar sakta main.
+Dealer: Ha, mar.
+Client: Ek minute main bechta hu.
+Dealer: Nahi, last time maine bola tha inko ki short sell custodi mein jaana chahiye karke. Iske liye bol raha hu main.
+Client: Nahi CNC ke hai, MS mein.
+Dealer: Hmm, CNC ke hai, MS?
+Client: NRM mein mar na. Ha, NRM mein.
+Dealer: NRM mein jayega pakka?
+Client: Haan, try mar. CNC mar le tu.
+Dealer: Tu bol vaise maru.
+Client: Nahi, ek kaam kar. MS mein mar, chal.
+Client: Agar nahi aa raha toh main wapas deta hu, tab ko add karke, lekin last time main Kamal mein bola tha ki hota hai karke.
+Client: Theek hai, yaar ek minute, four share price 2400 ke upar dena hai na?
+Client: MS mein maru Nifty 5.
+Client: Strinex char share quantity sell karna hai, 2400 ke upar, Nifty 5.
+Client: MS mein.
+Dealer: Gaya na?
+Client: Gaya. Theek hai, chal, bye.
+Dealer: Bye.

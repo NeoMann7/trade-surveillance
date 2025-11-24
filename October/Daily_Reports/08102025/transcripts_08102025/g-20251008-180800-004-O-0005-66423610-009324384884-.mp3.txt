@@ -1,0 +1,12 @@
+Client: Hello.
+Dealer: Hello.
+Client: Yeah, bolo sir.
+Dealer: Yeah, bolo sir. Yeah. Ah, Client, I just want to tell you one thing. Ah, are you going to take a call now or something later?
+Client: Kya?
+Dealer: Matlab you want to take a call now for buying or selling?
+Client: Nahi, abhi nahi sir. Abhi thoda time baad main aapko confirm kar deta hoon.
+Dealer: Okay, okay. Fine.
+Client: Theek hai.
+Dealer: Theek hai.
+Client: Okay, sir.
+Dealer: Okay. Okay. Bye.

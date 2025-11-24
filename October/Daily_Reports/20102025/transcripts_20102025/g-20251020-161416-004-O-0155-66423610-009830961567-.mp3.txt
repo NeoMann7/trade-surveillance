@@ -1,0 +1,35 @@
+Client: Dhana copy karne ke liye
+Dealer: Hello? Hello, Anju ma'am?
+Client: Haan.
+Dealer: Good evening ma'am, main Vicky baat kar raha hoon Neo se, dealing se.
+Client: Haan haan haan.
+Dealer: Haan, Happy Diwali ma'am.
+Client: Happy Diwali.
+Dealer: Yeh apne ko mobile app ke liye kuch aapko jaanch chahiye tha.
+Client: Nahi, ab phone nahi laptop pe kar do.
+Dealer: Okay, laptop pe chahiye, ki mob-
+Client: Laptop, mobile, dono pe.
+Dealer: Okay, aapko laptop ka saman install kar de.
+Client: Haan haan.
+Dealer: Toh uh, uh, laptop pe toh chalo main IT wale ko bolta hoon, woh install kar dega aapke pe. Aur jab tak agar aapko chahiye na toh mobile pe bhi hai Neo Market karke.
+Client: Nahi main mobile pe nahi kar pati hoon.
+Dealer: Okay, okay. Toh theek hai toh main ek baar coordinate karne ke liye abhi main inko-
+Client: Nahi yeh na, Diwali khatam ho jae, fir, theek hai abhi uske.
+Dealer: Chalega, mujhe matlab mujhe shayad kal trade karna hai.
+Client: Haan, main kar lungi na kal. Kyunki abhi itne Diwali ke beech mein kaise karun na?
+Dealer: No no issue. Jaldi mein kuch toh karti ho, par karungi na kya mein, utna hi na?
+Client: Haan haan.
+Dealer: Toh agar agar aapko kal trade karna bhi hai na yeh account mein, toh yeh mera direct number hai, lo.
+Client: Arre bhaiya main main intraday ke one month se agar jo hote hain, main inke nikal, dalti hoon, kal dalti hoon, par woh karne mein toh bahut hi
+Dealer: Samajh gaya, but in case agar yahan kuch trade lena hai na ek baar, toh aap yeh number pe directly call kar lena.
+Client: Aapko abhi main jo bhi aa raha hai kaam karte toh aap peh-
+Dealer: Kya kya bolte ho?
+Client: Main abhi bhi Diwali ka kaam karte, karun, toh mujhe hi karke WhatsApp bhej dijiyega.
+Dealer: Mera landline number aur mera phone number, dono.
+Client: Aap mujhse baat karte ho, samajhti hoon.
+Dealer: Chalega. Okay ma'am.
+Client: Haan main karti hoon aapko.
+Dealer: Lekin WhatsApp pe bhi dal dena, sara mix ho jaega.
+Client: Abhi abhi bhej deta hoon ma'am. Mera naam Vicky hai.
+Client: Thank you so much.
+Dealer: Haan hai na. Theek hai theek hai ma'am.

@@ -1,0 +1,21 @@
+Dealer: Hello.
+Client: Are Akshat ko de.
+Dealer: Ha, Akshat hi hu, bol.
+Client: Akshat, chal ready kar.
+Dealer: Ready hai mera.
+Client: Ha.
+Dealer: 1,50,000 @ 80-82, I am buyer. Energy infra address.
+Client: Chal. Okay. Count du?
+Dealer: Count de.
+Client: Ha, vo Ankush ko account aapuchhu.
+Client: Ha, one.
+Dealer: One.
+Client: Two.
+Dealer: Two.
+Client: Three.
+Dealer: Three. Ha, gaya mera.
+Client: Ho gaya?
+Dealer: Ho gaya.
+Client: Tera ho gaya Akshat?
+Dealer: Mera ho gaya.
+Client: Ha.

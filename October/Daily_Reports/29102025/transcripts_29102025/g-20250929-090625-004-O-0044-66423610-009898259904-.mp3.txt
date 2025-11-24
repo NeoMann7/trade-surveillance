@@ -1,0 +1,17 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Yes, sir.
+Client: Yes. Ah, Axis Bank, 200 shares at 963.
+Dealer: Axis Bank.
+Client: Yes.
+Dealer: Ah, 963.
+Client: Yes.
+Dealer: Buy or sell?
+Client: Sell.
+Dealer: Sold 200 Axis Bank at 963.
+Client: Yes.
+Dealer: Okay.
+Client: Okay.
+Dealer: Yes, sir.
+Client: Thank you.
+Dealer: Welcome.

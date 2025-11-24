@@ -1,0 +1,45 @@
+Client: Hello?
+Dealer: Hello, ha bolye sir?
+Client: Ye hamara ho gaya na?
+Dealer: Kaun sa code rakha tha sir aapne aur kya rakha tha?
+Client: Achha, Vasu nahi tha.
+Dealer: Nahi, Vasu, Ansh ke dekha aapne.
+Client: Okay, okay.
+Dealer: Hello.
+Client: Maine NPL industry, NPL nahi sorry, ha, NPL Industries rakha tha shayad.
+Dealer: Ek minute ha. Kaun se code mein sir?
+Client: Sarla Tendulkar.
+Dealer: Sarla Tendulkar mein NPL Industry aapne bechne rakha tha. Lene rakha tha ki bechne? Buy karne na?
+Client: Buy karne.
+Dealer: Paanch sau share rakha tha na?
+Client: Ha.
+Dealer: Paanch sau share aapka.
+Client: Do baar rakha tha.
+Dealer: Achha yahaan par do baar paanch sau paanch sau rakha tha kya?
+Client: Haan, haan.
+Dealer: Ek minute.
+Client: Ye 207.60 pe rakha tha.
+Dealer: Hmm, ek minute, ruk jao. Vasu hai. Sarla Tendulkar mein jyoti balance ke liye rakha hua hai.
+Dealer: Hello.
+Client: Ha hello Vasu.
+Dealer: Ha ek minute. Ye jhalak ka apna?
+Client: Ek minute.
+Client: Ha jhala ye.
+Dealer: Jhalela hai na?
+Client: Okay. Hmm. Aur ha Bharat Bijli hai na?
+Dealer: Ha.
+Client: Ha, toh three sorry, aata kai chalel hai toh?
+Dealer: 3094, 3096.
+Client: 3080 la theun de 50 share.
+Dealer: 50 share ke liye 3080 mein buy karna, rakhne ka hai. Sarla Tendulkar mein New WM00259 Bharat Bijli, theek hai?
+Client: 81 kara to 80 nako.
+Dealer: Okay 3081.
+Client: Kanna karel ye?
+Dealer: Theek hai, kar raha hu, order.
+Client: Aur dusra main tumhe kya bolu? Woh apna humne kitne pe rakha tha NPL Industries?
+Dealer: Woh 207.60 I think. Ek minute. Ha 207.60.
+Client: Okay, okay.
+Dealer: Theek hai?
+Client: 500 thevelela hai na?
+Dealer: Ha, ha.
+Client: Okay. Hmm.

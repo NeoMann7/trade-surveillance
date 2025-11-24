@@ -1,0 +1,27 @@
+Dealer: हेलो
+Client: समिती?
+Dealer: यस
+Client: समिती, मैं फ्यूश होल्ड ऑन योर डीलिंग से।
+Dealer: हम्म।
+Client: ये आपने जो ऑर्डर दिया था उसमें से VBL 1000 शेयर्स आ गए थे 461 में।
+Dealer: हम्म हम्म।
+Client: बाकी दो पेंडिंग है DLF 250 शेयर्स 757 में पेंडिंग है। अभी रेट 759.70 शुरू है।
+Client: और Indi Hotel 1000 शेयर पेंडिंग है 748 में। अभी 751.85 शुरू है। तो क्या मार्केट में ले लेना है क्या रखना है?
+Dealer: एक मिनट, एक मिनट। मैं कॉल करता हूं, एक सेकंड।
+Client: मार्केट सिर्फ तीन मिनट है सर बंद होने में।
+Dealer: एक मिनट, एक मिनट।
+Automated: आपण ज्या व्यक्तीशी बोलत आहात त्यांनी आपला कॉल होल्डवर ठेवला आहे. कृपया लाइनवर रहा. आप जिस व्यक्ति से बात
+Dealer: हेलो।
+Client: हेलो?
+Dealer: Are you in it?
+Client: हेलो।
+Client: ah, हेलो। सर बोलिए सर।
+Dealer: अरे अह मैं ये कॉन्फ्रेंस करने वाला था। आप मुझे दो मिनट में वापस कॉल कीजिए।
+Client: सर मार्केट बंद हो जाएगा अभी दो मिनट में।
+Dealer: Oh, can you hear me?
+Client: यस सर।
+Dealer: Yes. I have I have the new uh deal that's available. What I what they're saying the prices have gone up on two of the tickers.
+Client: उह-हुह।
+Dealer: So now, am I closing it at this additional uh higher price?
+Client: Uh सर uh uh I'll call you back सर।
+Dealer: Yeah, okay, okay, okay, okay.

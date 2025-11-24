@@ -1,0 +1,19 @@
+Dealer: Hello.
+Client: Hello sir good morning.
+Dealer: Good morning sir.
+Client: Sir Asian Paint.
+Dealer: Ha ji.
+Client: Asian Paint ka sir, 100 shares.
+Dealer: Ha ji.
+Client: 2800 rupees per sell karna hai.
+Dealer: Asian Paint, 100 quantity 2800.
+Client: Yes sir.
+Dealer: Sell order hai.
+Client: Yes sir.
+Dealer: Theek hai.
+Client: Yes sir.
+Dealer: Asian Paint 100 quantity 2800 per sell order, place kar diya hai sir.
+Client: Thank you sir.
+Dealer: Okay sir.
+Client: Okay sir.
+Dealer: Thank you.

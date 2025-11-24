@@ -1,0 +1,3 @@
+Dealer: Hello
+Client: Good morning sir. 610. Second desktop.
+Client: Hello.

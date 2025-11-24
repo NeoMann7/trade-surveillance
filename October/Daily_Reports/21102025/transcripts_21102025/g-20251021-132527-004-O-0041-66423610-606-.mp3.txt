@@ -1,0 +1,12 @@
+Dealer: Hello.
+Client: Rajesh sir ko cut kar raha hai Pratesh.
+Dealer: mat bolunga.
+Client: Nahi fir se baat bhai, saane ke baad hi dena na ko matlab.
+Dealer: But wo PO. PO ka balance mein nahi hota hai. PO mein banking ke option bank account mein paisa aayega toh limit milta hai client ko. Toh PO se usko paisa move karna padega bank account mein.
+Client: Kaun karega?
+Dealer: Wo log hi karte hai, hum log nahi karte wo.
+Client: Un log bole toh kaun?
+Dealer: Un log hi karta hai wo.
+Client: Nahi in log agar karega karna padega.
+Dealer: Abhi baat karte hai kaise baat karte hai sab hai available.
+Client: Hai na main baat karta hoon chalo.

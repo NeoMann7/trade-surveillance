@@ -1,0 +1,9 @@
+Dealer: Hello.
+Client: Hello. Haan ji.
+Dealer: Ji.
+Client: Yeh Trail hai ki five?
+Dealer: 5800.
+Client: 5800.
+Dealer: Aur ya aapko maine mail kiya hai, woh reports search.
+Client: Hmm. Haan. Haan, okay. Okay. Thank you. Thank you.
+Dealer: Hmm.

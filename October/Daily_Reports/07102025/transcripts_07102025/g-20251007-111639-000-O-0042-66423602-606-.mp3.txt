@@ -1,0 +1,29 @@
+Dealer: Hello.
+Client: Rajesh, hello. Hmm. Rajesh? Hmm. Kaun bol rahe ho?
+Dealer: Rajesh bol raha hun. Kya bol rahe ho Rajesh? Are ye kya student jaise aage apne ko CMC me hi maara hai na, Satyam.
+Client: Kaun se trade mein? Kaun sa? Customers bol rahe ho? Hmm.
+Dealer: Customers wala? Hmm.
+Client: Cash carry hi aayega na?
+Dealer: Haan, correct.
+Client: Hello?
+Dealer: Kya bol rahe ho?
+Client: Hello?
+Dealer: Kya bol rahe ho? CMC ka hi hai na?
+Client: Hello?
+Dealer: Ye CMC ka.
+Client: Hello?
+Dealer: Ye CMC ka.
+Client: Hello?
+Dealer: Ye CMC ka.
+Client: Kya ho gaya? Hello?
+Dealer: Ye CMC ka hi hai na?
+Client: CMC ka?
+Dealer: Haan.
+Client: CMC ka.
+Dealer: Haan. Ye CMC ka hi hai na?
+Client: Hello?
+Dealer: Ye CMC ka, CMC ka hi hai na?
+Client: CMC ka.
+Dealer: Haan, ye CMC ka hi hai na? Hello?
+Client: CMC ka.
+Dealer: CMC ka hi hai na? Hello?

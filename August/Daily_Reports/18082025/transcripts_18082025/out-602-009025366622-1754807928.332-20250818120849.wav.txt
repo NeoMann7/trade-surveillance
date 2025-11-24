@@ -1,0 +1,36 @@
+Client: Hello?
+Dealer: Huh, Sir, peace, hello.
+Client: Arrey, kya hua? Subah se koi phone nahi hai?
+Dealer: Haan, aaj actually woh ek I, I, IPO listing tha na, KRT, toh usme thoda woh busy ho gaye the bahut.
+Client: Hain?
+Dealer: Ek IPO tha, KRT, listing tha aaj uska.
+Client: Bhaiya, toh iska matlab ye thodi hai ki aap hamara trading hi rok doge.
+Dealer: Nahi, nahi, aisa nahi, aisa nahi. Iske liye turant hi abhi just phone aapko hi kiya hai, please.
+Client: Toh aadha din toh gaya, aadha kya, pura hi din gaya.
+Dealer: Ha sahi baat hai, Sir. Uh...
+Client: Kya hai market?
+Dealer: Nifty 24925, 291 plus hai, Sir.
+Client: Kya de sakte ho? ₹10 pe upar-niche.
+Dealer: Uh, 25350 ka call chal raha hai ₹13.
+Client: Niche. 400 ka?
+Dealer: 400 ka, ek minute. 400 ka ₹9.65.
+Client: Toh 350 note kar lijiye aur niche.
+Dealer: Uh, niche chal raha hai, uh, 24450 ka put, ₹10.10.
+Client: Theek hai. Ye dono initiate kijiye 750, 750.
+Dealer: Uh, ho gaya dono 750, 750.
+Client: Aur 100 trade kijiye.
+Dealer: Aur kitna karu? Kis mein karu? Dono mein?
+Client: Dono mein. Pehle put karna bhaiya.
+Dealer: Hmm. Theek hai, put mein chala gaya. Abhi call kar du?
+Client: Hmm.
+Dealer: Theek hai, call mein bhi chala gaya.
+Client: 150 put aur kar dijiye.
+Dealer: Chala gaya.
+Client: 75 put aur kar dijiye, call aur nahi chahiye.
+Dealer: Chala gaya.
+Client: 75 put aur. 150 aur.
+Dealer: Chala gaya.
+Client: Theek hai, kitna margin di hai?
+Dealer: Margin, margin abhi kuch nahi hai, Sir, ₹500 available hai.
+Client: Theek hai. Aur rate dedeta hu aapko main. Main aadha ghanta mein phone karke leta hu aapse.
+Dealer: Theek hai, okay.

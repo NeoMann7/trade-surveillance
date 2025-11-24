@@ -1,0 +1,7 @@
+Dealer: Hello.
+Client: Ha.
+Dealer: Ha bolie Bhavesh sir.
+Client: Ha sir. Good morning. Nifty 24,000 650 hai sir. 84 point plus.
+Dealer: Theek hai bhaiya. Okay.
+Client: Hm okay.
+Dealer: Hm, okay.

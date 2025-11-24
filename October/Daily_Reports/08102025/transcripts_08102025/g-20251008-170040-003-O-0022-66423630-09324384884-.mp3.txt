@@ -1,0 +1,2 @@
+Dealer: Hello hello hello hello Hello hello.
+Client: Hello.

@@ -1,0 +1,4 @@
+Dealer: हेलो
+Client: अ तुम जनम कॉल ठीक है ना
+Dealer: अ
+Client: ठीक है

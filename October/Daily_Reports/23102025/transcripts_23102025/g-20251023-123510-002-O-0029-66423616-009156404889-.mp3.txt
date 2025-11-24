@@ -1,0 +1,13 @@
+Dealer: 23rd October 2026.
+Client: 2026.
+Dealer: Second test column six.
+Client: Second.
+Dealer: Test column six.
+Client: Hello.
+Dealer: Hmm.
+Client: Yes.
+Dealer: Okay.
+Client: Hello.
+Dealer: Yes sir.
+Dealer: 23rd October 2026. Second test column six.
+Client: Second test column six.

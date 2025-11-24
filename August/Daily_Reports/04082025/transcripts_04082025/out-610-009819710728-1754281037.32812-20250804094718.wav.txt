@@ -1,0 +1,9 @@
+Dealer: Hello.
+Client: Hello?
+Dealer: Hello.
+Client: 4 October 2025 610 call.
+Dealer: Uh, I will not be able to do that.
+Client: Okay.
+Dealer: Uh...
+Client: Hmm.
+Dealer: What's the problem? Okay.

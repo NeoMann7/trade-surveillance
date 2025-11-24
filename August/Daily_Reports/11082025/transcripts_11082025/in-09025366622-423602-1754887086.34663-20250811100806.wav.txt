@@ -1,0 +1,5 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello, bolie.
+Dealer: Nifty 20,400 and 10, 45 points plus.
+Client: Theek.

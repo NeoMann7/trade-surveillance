@@ -1,0 +1,309 @@
+Dealer: Twenty October extension 630. First call.
+Client: Hello.
+Dealer: Yes, sir.
+Client: हां।
+Dealer: Yes, sir.
+Client: हां, बोलिए।
+Dealer: Yes sir.
+Client: अ हां?
+Dealer: Yes sir.
+Client: अ...
+Dealer: Yes sir.
+Client: 42000...
+Dealer: Yes sir.
+Client: 42000 ka...
+Dealer: Yes sir.
+Client: 42000 ka.
+Dealer: Yes sir.
+Client: Sell karna hai.
+Dealer: Sell karna hai.
+Client: 25th Nov.
+Dealer: 25th Nov.
+Client: 42000 ka.
+Dealer: Sir.
+Client: Futures.
+Dealer: Fut.
+Client: Buy karna hai.
+Dealer: Buy karna hai.
+Client: 25th Nov.
+Dealer: Yes sir.
+Client: 42000
+Dealer: 42000
+Client: का बाय करना है।
+Dealer: बाय करना है।
+Client: कितना?
+Dealer: 50.
+Client: 50 क्वांटिटी।
+Dealer: 50 क्वांटिटी।
+Client: हां।
+Dealer: ठीक है।
+Client: अ...
+Dealer: Yes sir.
+Client: 42000 का बाय करना है।
+Dealer: बाय करना है।
+Client: 50।
+Dealer: 50 क्वांटिटी।
+Client: और...
+Dealer: Yes sir.
+Client: 42000 का सेल करना है।
+Dealer: सेल करना है।
+Client: 50।
+Dealer: 50 क्वांटिटी।
+Client: 25th Nov.
+Dealer: 25th Nov.
+Client: 25th Nov.
+Dealer: Yes sir.
+Client: ठीक है?
+Dealer: ठीक है।
+Client: अब...
+Dealer: Yes sir.
+Client: यह...
+Dealer: Yes sir.
+Client: क्या भाव चल रहा है?
+Dealer: आपको रेट बता देता हूं।
+Client: बोलिए।
+Dealer: 42000...
+Client: हम्म।
+Dealer: 42000 का...
+Client: हम्म।
+Dealer: अ...
+Client: हम्म।
+Dealer: एक मिनट सर।
+Client: हम्म।
+Dealer: फ्यूचर चल रहा है 41340।
+Client: हां, तो वह तो मैंने बाय किया है।
+Dealer: बाय है।
+Client: 50।
+Dealer: जी।
+Client: हां, बाय है।
+Dealer: हां, 50 बाय है।
+Client: हां।
+Dealer: ठीक है सर।
+Client: और...
+Dealer: यस सर।
+Client: 42000 का...
+Dealer: हां जी।
+Client: सेल है।
+Dealer: सेल है।
+Client: 50 क्वांटिटी।
+Dealer: 50 क्वांटिटी।
+Client: हम्म।
+Dealer: एक मिनट सर, 42000 का कॉल।
+Client: हां।
+Dealer: 42000 का कॉल चल रहा है 1240।
+Client: 1240?
+Dealer: हां, अभी 1250।
+Client: तो यह 1240 पे सेल डाल दो।
+Dealer: 1240 पे सेल डाल दो।
+Client: लिमिट में डाल दो।
+Dealer: लिमिट में डाल दूं।
+Client: हां।
+Dealer: ठीक है सर।
+Client: और...
+Dealer: हां जी।
+Client: बाय किया है मैंने फ्यूचर 41340।
+Dealer: 340।
+Client: जी, 50।
+Dealer: 50 क्वांटिटी।
+Client: इसको...
+Dealer: यस सर।
+Client: 41400 में एग्जिट कर दो।
+Dealer: 41400 में एग्जिट कर दो।
+Client: हां।
+Dealer: ठीक है सर।
+Client: 41340 में बाय है।
+Dealer: बाय है।
+Client: 41400 में एग्जिट।
+Dealer: एग्जिट।
+Client: 50 क्वांटिटी।
+Dealer: ठीक है सर।
+Client: ठीक है?
+Dealer: ठीक है।
+Client: अ...
+Dealer: हां जी।
+Client: 1240 का सेल डाला है।
+Dealer: सेल डाला है।
+Client: हां।
+Dealer: ठीक है सर।
+Client: ठीक है?
+Dealer: ठीक है सर।
+Client: डालो।
+Dealer: ठीक है, एक मिनट।
+Client: क्या चल रहा है अभी?
+Dealer: कॉल चल रहा है 1250।
+Client: 1250।
+Dealer: हां।
+Client: तो वह 1240 ही डालना।
+Dealer: 1240।
+Client: लिमिट में।
+Dealer: लिमिट में, ठीक है सर।
+Client: हां।
+Dealer: ठीक है।
+Client: बाय का क्या चल रहा है?
+Dealer: बाय का चल रहा है 41340।
+Client: वह तो मैंने बाय किया है ना।
+Dealer: बाय किया है।
+Client: हां, उसको 41400 पे एग्जिट।
+Dealer: 400 पे एग्जिट।
+Client: हां।
+Dealer: ठीक है सर।
+Client: हम्म।
+Dealer: ठीक है सर, ऑर्डर प्लेस कर रहा हूं।
+Client: हम्म।
+Dealer: 42000 का कॉल 1240 में सेल।
+Client: हां।
+Dealer: 50 क्वांटिटी।
+Client: हां।
+Dealer: और 41400 में फ्यूचर एग्जिट।
+Client: हां।
+Dealer: 50 क्वांटिटी।
+Client: हां।
+Dealer: ठीक है सर।
+Client: ठीक है?
+Dealer: ठीक है।
+Client: हम्म।
+Dealer: ऑर्डर प्लेस कर दिया है सर।
+Client: क्या चल रहा है अभी?
+Dealer: फ्यूचर चल रहा है 41320।
+Client: ओह, नीचे आया है।
+Dealer: हां।
+Client: 12000 का कॉल क्या चल रहा है?
+Dealer: 42000 का कॉल अभी 1250 ही है।
+Client: हम्म।
+Dealer: 1250, 1260।
+Client: हम्म।
+Dealer: हां।
+Client: तो वह अभी तक एग्जीक्यूट नहीं हुआ होगा।
+Dealer: नहीं, नहीं, वह 1240 का पेंडिंग है।
+Client: हम्म।
+Dealer: एक मिनट सर, कॉल का रेट बता देता हूं।
+Client: हम्म।
+Dealer: कॉल चल रहा है 1250, 1260।
+Client: हम्म।
+Dealer: हां।
+Client: हम्म।
+Dealer: और फ्यूचर चल रहा है 41300।
+Client: 300।
+Dealer: हां।
+Client: ठीक है।
+Dealer: ठीक है सर।
+Client: यह बाय ऑर्डर तो एग्जीक्यूट हुआ है ना?
+Dealer: हां, बाय ऑर्डर एग्जीक्यूट है। 41340 में आपका बाय है सर।
+Client: ओके।
+Dealer: हां, 41400 में एग्जिट है।
+Client: हम्म।
+Dealer: हां।
+Client: हम्म।
+Dealer: ठीक है सर।
+Client: वह 1240 का डालना है।
+Dealer: हां, 1240 का सेल का पेंडिंग है।
+Client: हां।
+Dealer: हां।
+Client: एक बार पूछ लो मार्केट में।
+Dealer: हां सर, वही देख रहा हूं, एक मिनट सर।
+Client: हम्म।
+Dealer: ठीक है सर।
+Client: हम्म।
+Dealer: 1270 चल रहा है कॉल।
+Client: हम्म।
+Dealer: 1270 चल रहा है।
+Client: हम्म।
+Dealer: हां।
+Client: हम्म।
+Dealer: और फ्यूचर चल रहा है 41320।
+Client: 320।
+Dealer: हां।
+Client: 41400 वाला एक बार देखो।
+Dealer: हां, 41400 में एग्जिट है आपका।
+Client: हां।
+Dealer: हां।
+Client: उसका क्या चल रहा है अभी?
+Dealer: वही 320 चल रहा है।
+Client: हम्म।
+Dealer: 320।
+Client: अगर 1240 में आता है।
+Dealer: हां जी।
+Client: तो उसको 1240 में एग्जिट कर दो।
+Dealer: एग्जिट कर दो।
+Client: और 1200 में डालो।
+Dealer: 1200 में डाल दो।
+Client: हम्म।
+Dealer: हां जी, ठीक है।
+Client: 50 क्वांटिटी।
+Dealer: 50 क्वांटिटी।
+Client: हम्म।
+Dealer: ठीक है सर।
+Client: 42000 का कॉल।
+Dealer: हां जी।
+Client: 1200 में सेल।
+Dealer: 1200 में सेल।
+Client: 50 क्वांटिटी।
+Dealer: 50 क्वांटिटी।
+Client: ठीक है?
+Dealer: ठीक है सर।
+Client: और वह 1240 वाला कैंसिल कर दो।
+Dealer: वह कैंसिल कर दूं।
+Client: हां।
+Dealer: ठीक है सर।
+Client: डाल दिया?
+Dealer: हां, कैंसिल कर दिया है।
+Client: क्या रेट चल रहा है अभी?
+Dealer: कॉल चल रहा है 1260, 1270।
+Client: हम्म।
+Dealer: हां।
+Client: हम्म।
+Dealer: और फ्यूचर चल रहा है 41320।
+Client: हम्म।
+Dealer: हां।
+Client: ठीक है।
+Dealer: ठीक है सर।
+Client: अ...
+Dealer: यस सर।
+Client: 42000 का कॉल।
+Dealer: हां जी।
+Client: 1200 में सेल डाल दो।
+Dealer: 1200 में सेल डाल दो।
+Client: हां।
+Dealer: ठीक है सर।
+Client: ठीक है?
+Dealer: ठीक है।
+Client: अभी क्या चल रहा है?
+Dealer: अभी चल रहा है 1260, 1270।
+Client: हम्म।
+Dealer: हां।
+Client: तो 1200 में सेल।
+Dealer: 1200 में सेल।
+Client: 50 क्वांटिटी।
+Dealer: 50 क्वांटिटी।
+Client: हां।
+Dealer: ठीक है सर।
+Client: ठीक है?
+Dealer: ठीक है।
+Client: अगर...
+Dealer: हां जी।
+Client: फ्यूचर 41340 में आया ना?
+Dealer: हां जी।
+Client: बाय किया है।
+Dealer: बाय है।
+Client: 41400 में एग्जिट है।
+Dealer: एग्जिट है।
+Client: हां।
+Dealer: ठीक है सर।
+Client: अगर...
+Dealer: हां जी।
+Client: वह 41250 आता है।
+Dealer: 250 आता है।
+Client: तो उधर में एग्जिट कर दो।
+Dealer: उधर एग्जिट कर दूं।
+Client: हां, लॉस बुक कर लो।
+Dealer: लॉस बुक कर लूं।
+Client: हां।
+Dealer: ठीक है सर।
+Client: क्या चल रहा है अभी?
+Dealer: 41320 चल रहा है फ्यूचर।
+Client: हम्म।
+Dealer: हां।
+Client: और कॉल क्या चल रहा है?
+Dealer: कॉल चल रहा है 1260, 1270।
+Client: हम्म।
+Dealer:

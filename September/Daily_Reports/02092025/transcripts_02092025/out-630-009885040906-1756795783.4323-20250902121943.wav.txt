@@ -1,0 +1,31 @@
+Dealer: Hello?
+Client: Hello, uh, Rajni ma'am?
+Dealer: Yeah.
+Client: Yeah, this is Jignasha calling you from Neo Equity.
+Dealer: Hi Jignasha.
+Client: Yeah, hi. Uh, ma'am, I had received your email. You want to buy something right now?
+Dealer: Yeah, Manappuram Finance Limited stock.
+Client: Okay. And for how, how much would be the amount?
+Dealer: Amount will be, amount will be 15,000.
+Client: Okay.
+Dealer: Excluding brokerage.
+Client: Okay, excluding, right?
+Dealer: Hmm.
+Client: Okay, fine. So currently, see, Manappuram is quoting at 282. Okay?
+Dealer: Okay.
+Client: So we'll buy around 53 shares. Okay?
+Dealer: No problem. Yeah, yeah.
+Client: Yeah, so I'll buy 53 shares, uh, of Manappuram. At the rate of 282. Okay?
+Dealer: Okay.
+Client: Yeah, in Neo WM00623. Okay?
+Dealer: Right, right, right. Uh, will I be getting the contract note tomorrow, Jignasha?
+Client: Uh, contract note you will, you will be receiving.
+Dealer: When?
+Client: Tomorrow, tomorrow only.
+Dealer: Okay, fine.
+Client: By today evening only you will receive it.
+Dealer: Super.
+Client: On your email.
+Dealer: Okay, Jignasha. Yeah, yeah, sure, sure.
+Client: Yeah, thank you.
+Dealer: Okay, thank you so much.

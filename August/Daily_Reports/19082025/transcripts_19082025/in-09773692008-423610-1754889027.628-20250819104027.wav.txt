@@ -1,0 +1,12 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha sir.
+Client: Ha baaba. Kuch aaye?
+Dealer: Ek minute ha. Aapna 725 aavya chhe 500 ma.
+Client: 500 ma 725 ne.
+Dealer: Theek chhe.
+Client: Ha na.
+Dealer: Ha ne. Mai 95 thi 500 sudhi gotvi raikha chhe badha 750 750 kari ne.
+Client: Ha.
+Dealer: Ha. Theek chhe.
+Client: Theek chhe.

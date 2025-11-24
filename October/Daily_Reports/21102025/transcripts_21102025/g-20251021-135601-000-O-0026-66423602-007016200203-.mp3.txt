@@ -1,0 +1,28 @@
+Dealer: Hello?
+Client: Hello, Nagesh ji.
+Dealer: Ji.
+Client: Ji, ha bolye Nagesh ji.
+Dealer: Ji.
+Client: Ha ek to Nifty 18200 ki put. December 29 ki hai. Wo bechni hai 18200 put. December 29 ki bechni hai.
+Dealer: Ji.
+Client: 20 lot. Ek lot 50 ka hai. 20 lot bechni hai. 18200 put. December 29 ki.
+Dealer: Ji. Kya bhav hai sir?
+Client: Bhav hai 32 rupay.
+Dealer: Ji.
+Client: Or Nifty 18000 put. December 29 ki hai. Wo bhi bechni hai. 20 lot. 18000 put. December 29 ki. Wo bhi bechni hai 20 lot. Or bhav hai 15 rupay.
+Dealer: Ji.
+Client: Ji. Or Sensex me December 29. 61500 ki put. Wo bechni hai 20 lot. 61500 put. December 29 ki. Or 20 lot bechni hai. Ek lot 10 ka hai. Bhav hai 105 rupay.
+Dealer: Ji.
+Client: 61500 put. December 29. 20 lot 105 rupay pe bechni hai. Ye teen order hai Nagesh ji.
+Dealer: Achha.
+Client: Ji.
+Dealer: To Nifty 18200 put, December 29, 20 lot, 32 rupay se sell?
+Client: Ji.
+Dealer: Or Nifty 18000 put, December 29, 20 lot, 15 rupay se sell?
+Client: Ji.
+Dealer: Or Sensex 61500 put, December 29, 20 lot, 105 rupay se sell?
+Client: Ji.
+Dealer: Confirmation.
+Client: Ji. Ji.
+Dealer: Theek hai sir. Main place karta hu. Hold.
+Client: Ji. Theek hai.

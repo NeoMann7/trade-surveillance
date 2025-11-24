@@ -1,0 +1,20 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Hello sir?
+Client: Ha, hello.
+Dealer: Hello.
+Client: Ha.
+Dealer: Sir, bataiye.
+Client: Wo... 200 rupees ka, wo RBL Bank.
+Dealer: RBL Bank, haa.
+Client: RBL Bank 200 rupees ka bechna hai.
+Dealer: 200 rupaye?
+Client: Haa, 200 rupees.
+Dealer: Okay, kitna quantity?
+Client: 200 quantity.
+Dealer: 200 quantity.
+Client: Haa.
+Dealer: Sell? Limit mein?
+Client: Haa, limit.
+Dealer: Theek hai, laga raha hoon.
+Client: Haa.

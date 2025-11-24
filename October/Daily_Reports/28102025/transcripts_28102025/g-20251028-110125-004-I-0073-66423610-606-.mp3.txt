@@ -1,0 +1,25 @@
+Dealer: Hello.
+Client: Haan.
+Client: Login ID password. Kya?
+Dealer: Login ID password kiska?
+Client: Screener ka.
+Dealer: Kiska puch raha hai?
+Client: Screener ka.
+Dealer: Screener ka? Hmm. Screener ka registered nahi hai apna. Woh Google se hi karte hai login.
+Client: Arre kyon? Kya karna hai abhi? Woh Akshat to aapse. Woh Akshat ka expire ho gaya.
+Dealer: Woh Akshat ka expire ho gaya. Uska kuch password change kiya. Woh isko bhi nahi de raha tha beech mein.
+Dealer: Tere ko malum hai Wasu, screener ka ID password kya hai? Login ID password?
+Dealer: Nahi, uska maloom hai. Isko maloom nahi hai. Isko maloom nahi hai.
+Dealer: Nahi, usko bhi nahi idea hai.
+Client: Koi.
+Dealer: Rajesh hai.
+Client: Rajesh hai kya, do?
+Dealer: Haan?
+Client: Akshat ko phone kiya?
+Dealer: Akshat aaya nahi hai idhar. Woh abhi woh toh baju mein hi hai na Akshat toh.
+Client: Maine phone kiya usko. Bola jaake bhej deta hun.
+Dealer: Uska registered hai but abhi bol raha tha ki woh usne bhi woh kuch toh bhi hua malum nahi hai. Hum log toh idhar Google se hi login karte hai.
+Dealer: Usme haa, usme pura nahi aayega but basic mil jayega. Jaise woh.
+Client: Okay.
+Dealer: Haa. Hello?
+Client: Hmm.

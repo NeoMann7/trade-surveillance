@@ -1,0 +1,47 @@
+Client: Hello
+Dealer: Hello.
+Client: Hello
+Dealer: Bolie sir.
+Client: ha bolie
+Client: Reliance liya hai kya?
+Dealer: Reliance?
+Client: Reliance.
+Dealer: Reliance buy kiya aapne?
+Client: Haan, buy kiya hua hai.
+Dealer: Buy kiya hua hai.
+Client: 2360 pe.
+Dealer: 2360?
+Client: Haan
+Dealer: Abhi ka rate hai 2359.70.
+Client: Acha.
+Dealer: Hmm.
+Client: Kitne share hai?
+Dealer: 100 share.
+Client: 100 share hai.
+Dealer: Hmm.
+Client: Acha theek hai.
+Dealer: Hmm.
+Client: Kitna upar aa sakta hai?
+Dealer: Reliance dekhiye, jo abhi uska jo support hai, woh hai 2340 ka. Aur upar mein jo resistance hai, woh hai 2370 ka.
+Client: Acha
+Dealer: Hmm.
+Client: Toh nikal jaana chahiye ismein se?
+Dealer: Woh toh aapko dekhiye, aapka kya view hai uske upar depend karta hai sir. Agar aapko lagta hai ki 2370 jaayega, toh theek hai. Warna 2340 ke niche aaya toh selloff hoga.
+Client: Abhi 2340 ke niche toh nahi hai na?
+Dealer: Nahi, nahi, nahi. Abhi toh 2360 ke upar hi hai.
+Client: Hmm.
+Dealer: Abhi toh 2359.90 chal raha hai.
+Client: Toh 2370 tak ja sakta hai na ye?
+Dealer: Haan, ja sakta hai, exactly. Uska ek resistance hai, jaayega toh 2370 tak ja sakta hai.
+Client: Acha, theek hai.
+Dealer: Hmm.
+Client: Kitna upar ja sakta hai maximum?
+Dealer: Uske baad 2370 agar break karta hai, toh next level jo uska nikal ke aata hai, woh hai 2390.
+Client: Acha, theek hai.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Hmm.
+Client: Thank you.
+Dealer: Okay sir. Anything else?
+Client: No, thank you.
+Dealer: Okay sir.

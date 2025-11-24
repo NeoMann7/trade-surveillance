@@ -1,0 +1,12 @@
+Dealer: 29th September, extension 610. Test test.
+Dealer: Hello.
+Client: Yeah, good morning. Good morning, sir.
+Dealer: Good morning, sir.
+Client: I need to buy 500 Bank of Baroda.
+Dealer: Okay, 500 Bank of Baroda at?
+Client: Current market price.
+Dealer: Okay, sir. 500 Bank of Baroda at current market price. Confirmed?
+Client: Yes.
+Dealer: Okay, sir. Order punched.
+Client: Thank you.
+Dealer: Thank you.

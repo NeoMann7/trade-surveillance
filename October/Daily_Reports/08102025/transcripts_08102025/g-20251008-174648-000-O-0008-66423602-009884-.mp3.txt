@@ -1,0 +1,36 @@
+Client: Hello?
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello.
+Client: Ha bolo.
+Dealer: Ha good morning sir.
+Client: Good morning.
+Dealer: Sir, ek IOC sell kariye sir 104.50 pe 100 shares.
+Client: Okay.
+Dealer: Ek sir 700 quantity IOC bye kariye 104.70 pe.
+Client: Kya?
+Dealer: 104.70 pe 700 quantity bye kariye IOC.
+Client: Ek minute. IOC buy?
+Dealer: Ha 700 quantity.
+Client: 104.70, theek hai.
+Dealer: Ha. Aur sir ek Tata Steel sell kariye 149.30 pe 100 shares.
+Client: Okay.
+Dealer: Ek Bajaj Finance sir 6932 pe 250 shares sell kariye.
+Client: Bajaj Finance?
+Dealer: Ha 6932 pe 250 shares sell kariye.
+Client: Okay.
+Dealer: Ek sir Hindalco sell kariye 609 pe 200 shares.
+Client: Okay.
+Dealer: Ek NTPC sir buy kariye 340 pe 500 shares.
+Client: NTPC buy.
+Dealer: Ha 340 pe 500 shares.
+Client: Theek hai.
+Dealer: Aur sir ek Kotak Bank buy kariye 1740 pe 100 shares.
+Client: Okay.
+Dealer: Tata Steel sir ek buy kariye 149.70 pe 100 shares.
+Client: Okay.
+Dealer: Done.
+Client: Okay.
+Dealer: Okay sir.
+Client: Thank you.
+Dealer: Thank you.

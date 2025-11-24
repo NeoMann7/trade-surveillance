@@ -1,0 +1,41 @@
+Dealer: हेलो।
+Client: हेलो।
+Dealer: जी।
+Client: हां जी।
+Dealer: जी।
+Client: बोलिए।
+Dealer: जी सर।
+Client: हां जी।
+Dealer: जी।
+Client: आओ बी 150
+Dealer: सॉरी?
+Client: कटु बी 150।
+Dealer: ओके बी 150 कट करना है?
+Client: हां जी।
+Dealer: ओके सर।
+Client: हां जी।
+Dealer: नंबर 5451।
+Client: क्या?
+Dealer: सर अकाउंट नंबर है आपका।
+Client: ओके।
+Dealer: कट कर दिया 150।
+Client: क्या भाव?
+Dealer: 41.65
+Client: ओके।
+Dealer: हां जी।
+Client: बी ए एन एल क्या चल रहा है?
+Dealer: बी ए एन एल?
+Client: हां जी।
+Dealer: कौन सा सर? बी ए एन एल? बी ए एन एल?
+Client: बी ए एन एल।
+Dealer: एक सेकंड लाइन पे रहना।
+Client: हां जी।
+Dealer: बी ए एन एल सर 22405।
+Client: क्या? 224?
+Dealer: 22405।
+Client: 22405।
+Dealer: हां जी।
+Client: ओके।
+Dealer: जी।
+Client: चलो थैंक यू।
+Dealer: ओके सर।

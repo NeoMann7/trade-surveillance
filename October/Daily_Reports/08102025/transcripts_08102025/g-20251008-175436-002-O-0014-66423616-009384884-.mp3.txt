@@ -1,0 +1,17 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Good morning, sir.
+Client: Good morning. Nifty ek baar kya chal raha hai?
+Dealer: Nifty abhi 22695 chal raha hai, sir.
+Client: Aur ek baar 22700 ka CE.
+Dealer: 22700 CE?
+Client: Haan.
+Dealer: 22700 CE abhi 145 chal raha hai, sir. 145.
+Client: Okay, theek hai. Achha... 22700 CE ko abhi 150 pe buy lagaana hai, 150.
+Dealer: 150 pe buy, sir?
+Client: Haan, 150. Stop loss 140. Target 160.
+Dealer: Okay, 22700 CE 150 pe buy, 140 ka stop loss, 160 ka target, sir. Right?
+Client: Okay, haan.
+Dealer: Alright, sir. Order place kar diya. Aapko confirmation message aa jaayega. Theek hai?
+Client: Okay.
+Dealer: Thank you.

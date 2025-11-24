@@ -1,0 +1,40 @@
+Dealer: Hello.
+Client: Haan, Nikhilesh bol raha hoon.
+Dealer: Haan, boliye.
+Client: Main dekhna hai apne ko ki apna straddle kitna aa raha hai.
+Dealer: Uhh Sensex aa raha hai 81950. 100 ka straddle agar apan pakde toh 340 aa raha hai.
+Client: Haan, toh 82800 hua kya?
+Dealer: 800, uhh agar 1000 point upar jayega, upar abhi 81900 aa raha hai toh 82900 hoga put.
+Client: Achha. 100 point ka farak. Mere ko lagta hai 82800 wala 900-900 point hai dono sell kar. 82800.
+Dealer: Ek minute.
+Client: Aur upar 8800.
+Dealer: Ek minute. 82800 ka call bech raha hoon main. Kitna? Kitna quantity?
+Client: 900-900.
+Dealer: Aur upar 8. Ha, ye bik gaya. Haan. Upar mein put kaun sa hai? Neeche mein 800.
+Client: Ye 80900. 1000. Aapne neeche kya liya? 80000.
+Dealer: Upar mein humne call liya. Theek hai. Aur abhi neeche mein 800 ka put aa raha hai 540 aur 80000 640.
+Client: Nahi, ye 80800 point hai na toh.
+Dealer: Toh abhi 900 chal raha hai. Toh 900 ke hisab se, apne ismein upar mein, theek hai. 80900 ka put kar raha hoon main ek bar.
+Client: Haan.
+Dealer: 900. Haan, ye 900 bik gaya apna 6.7.
+Client: Kitna bacha hai?
+Dealer: Uhh, ek minute. Abhi 30 lakh aur hai apne paas.
+Client: Maine toh bola tha na. 300 aur bik jayenge.
+Dealer: 300-300 same se aur.
+Client: 300-300 aur hain. Main 300-300 aur kar raha hoon ek bar.
+Dealer: 200 call aaya hai put mein ek bar. 260 maarta hoon ek bar.
+Client: Hello. 900 ka 200 hi hoga mere khayal se, zyada se zyada.
+Dealer: Nahi, ye bhi nahi ja raha hai. 200 bhi nahi ja raha hai. Call bik gaye, put nahi bik rahe hain. Are, put bik gaye, call nahi bik rahe hain. Ek minute. Ek bar 100 maarta hoon.
+Client: Kitni bachi hai abhi?
+Dealer: 100 bhi nahi ja raha hai. Ho gaya seedha.
+Client: Apne, direct le.
+Dealer: Haan.
+Client: Toh iske liye woh aa gaya.
+Dealer: Achha. Ye 1200 ho gaya hai. Woh 900 hai, toh kaat lo.
+Client: Dikha de usmein. Call. Put apne 1200 bicke hain.
+Dealer: Haan, margin freeze ho gaya hai abhi abhi.
+Client: Kitna hua hai? Ma- hum?
+Dealer: Margin abhi kuch nahi. Margin abhi sawa lakh rupya, 1 lakh 30000.
+Client: Theek.
+Dealer: Hai na? Haan.
+Client: Theek hai. Okay, thank you.

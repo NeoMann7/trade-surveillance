@@ -1,0 +1,25 @@
+Dealer: Hello?
+Client: Hello?
+Dealer: Hello?
+Client: Ah, Vidhan Ventures, no?
+Dealer: Haan, jee.
+Client: Ah, good morning, sir. Vaasu baat kar raha hoon, Neo se. Neo Dealing team.
+Dealer: Jee.
+Client: Ah, sir, aapko Science Scientific buy karna hai na? Around 6,60,000 worth.
+Dealer: Jee.
+Client: Ek model.
+Dealer: Kya market price hai abhi?
+Client: Currently, it's 196.7.
+Dealer: 196?
+Client: 196.10, 196.40, 22.
+Dealer: 196.10 na?
+Client: Haan, abhi 196.10 mein buyer hai, 196.20 mein seller hai right now.
+Dealer: Theek hai.
+Client: Toh market mein le lo na?
+Dealer: Haan, theek hai, theek hai.
+Client: Ek model.
+Client: Um, 3350 quantity Science le raha hoon main, Neo 121 client code mein, market mein.
+Dealer: Theek hai.
+Client: Ek model. Theek hai, sir. Total 3350 quantity aapka buy ho gaya hai, at 196.19 ke average mein.
+Dealer: Theek hai.
+Client: Theek hai? Okay.

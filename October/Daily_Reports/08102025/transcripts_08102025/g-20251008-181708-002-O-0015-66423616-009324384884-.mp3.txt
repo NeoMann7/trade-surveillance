@@ -1,0 +1,22 @@
+Client: Hello.
+Dealer: Hello.
+Client: Nifty Sensex bolna, kya chal raha hai?
+Dealer: Nifty chal raha hai 21543. Sensex chal raha hai 71424.
+Client: Bajaj Finance kitna hai?
+Dealer: Bajaj Finance 6959.
+Client: 6959. Aur ICICI Bank?
+Dealer: ICICI Bank 1010.
+Client: 1010. SBI?
+Dealer: SBI 626.
+Client: SBI.
+Dealer: Yes.
+Client: 626. Okay. Aur Tata Motors?
+Dealer: Tata Motors 787.
+Client: 787. Okay. Aur Reliance Industries?
+Dealer: Reliance 2514.
+Client: 2514. Aur HDFC Bank?
+Dealer: HDFC Bank 1642.
+Client: 1642. Okay. Aur Maruti?
+Dealer: Maruti 9950.
+Client: 9950. theek hai. Thank you.
+Dealer: Ji.

@@ -1,0 +1,10 @@
+Client: Hello.
+Client: Sajesh, ek Electro Steel karke stock becha hai Nio 56 mein.
+Client: Haan, haan.
+Client: Lekin, main early pay-in karne ja raha hoon toh usmein woh kyun nahi dikh raha hai?
+Dealer: Kaunsa becha hai tune?
+Client: Electro Steel.
+Dealer: Pledge kiya hua hai. Shaam ko hoga woh. Un-pledge karna.
+Client: Achcha, aur dusra, early pay-in karte toh submit nahi aayega na?
+Dealer: Nahi nahi, baaki nahi. Aur transaction ho gaya woh?
+Client: Ho gaya.

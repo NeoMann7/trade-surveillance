@@ -1,0 +1,10 @@
+Client: Hello
+Dealer: Ek se
+Client: Hello
+Dealer: Haa boliye
+Client: Kaun?
+Dealer: Pillark.
+Client: Arre wo kuch nahi wo just confirmation ke liye phone kiya tha. Main jo CLM ne kaha jo humne order delete kiya wo next week rakhna hai ki nahi next week se?
+Dealer: Thodi der mein phone kar
+Client: Theek hai.
+Dealer: Haa beta bataye Aa jao.

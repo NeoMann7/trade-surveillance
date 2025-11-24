@@ -1,0 +1,17 @@
+Dealer: Hello.
+Client: Hello. Haan?
+Dealer: Kaun Rajesh?
+Client: Main Rajesh, tum bolo.
+Dealer: Uh, abhi na Mutual Fund ka kaun dekhta hai trade?
+Client: Kaun sa trade?
+Dealer: Redemption, ya jo bhi hai, woh kaun?
+Client: Haan nahin samjha aapko. Redemption karwana hai Mutual Fund ka? Redemption karwana hoga na?
+Client: Haan, matlab kisi ko hum logon ko pooch raha hai ki bhai idhar dikh raha hai ye woh, toh main bola hum log kahan karte woh sab cheez.
+Dealer: Ek minute.
+[Muffled voices, sounds like Dealer talking to someone else]
+Dealer: Nahin aata. Uska koi nahin. Apne paas mistake hai. Market mein jo listed hai woh apne yahan se nahin hota hai. Woh Shraddha ma'am.
+Client: Haan wahi matlab Shraddha ki team se ho raha hai na?
+Dealer: Aahan.
+Client: Haan, bas theek hai, wahi wahi poochhna tha. Matlab woh un log hum logon ko yeh kar rahe hain, toh main bola mujhe maloom nahin hai toh main ek baar inform kar sakte hain na ki bhai Shraddha ki team karti hai.
+Dealer: Woh log karte hain.
+Client: Theek hai, theek hai. Haan.

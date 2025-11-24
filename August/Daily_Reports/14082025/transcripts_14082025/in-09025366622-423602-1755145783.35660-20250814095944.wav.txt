@@ -1,0 +1,15 @@
+Client: Hello.
+Client: Sir, aapne mujhe ek baar confirmation vapas bataenge, sir?
+Dealer: Piush hai nahi jagah mein. Kaun client code kya hai, sir?
+Client: Ek.
+Dealer: WM129.
+Client: WM259?
+Dealer: WM259?
+Client: Hello.
+Dealer: Hello.
+Client: Haan, boliye.
+Client: Ek baar woh confirmation wapas batayenge, Piush.
+Dealer: Haan, 10,800 Vaibhav iska put 300 quantity buy hua hai. Uh, 0.70.
+Client: Okay.
+Dealer: 25,050 call 225 quantity buy hua hai, 1 rupee 7 paise mein.
+Client: Theek hai, bhaiya. Thank you.

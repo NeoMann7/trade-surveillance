@@ -1,0 +1,7 @@
+Dealer: Hello ji.
+Client: Ah, hello ji.
+Dealer: Ah, sir ye aapka Canara Bank 10203
+Client: Hmm.
+Dealer: 330.
+Client: Hmm hmm.
+Dealer: Hain na? Theek hai sir.

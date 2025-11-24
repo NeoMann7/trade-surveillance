@@ -1,0 +1,7 @@
+Dealer: Hello, mera Sarva se baat kar raha hoon.
+Client: Haan.
+Dealer: Yeh to Federal Bank ka bol rahe hain aap? Aap IDFC Bank ka bol rahe hain? IDFC hai bhai.
+Client: Hello?
+Dealer: Yeh IDFC Bank bole ya IDFC bole, mere dhyan se. Aap uski aur dono ka.
+Client: Theek hai, ek minute main baat kar leta hoon.
+Dealer: Haan, baat kar lo, haan.

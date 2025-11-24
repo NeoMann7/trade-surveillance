@@ -1,0 +1,17 @@
+Dealer: हेलो
+Client: हेलो
+Dealer: हां सर बोलिए
+Client: ये Neo 5 में
+Dealer: हां
+Client: शेयर Reliance का 1350 में डालना है, बाय करना है।
+Dealer: ओके।
+Client: 1350 में
+Dealer: हां।
+Client: 81 शेयर का 81 ऑर्डर डाल दो, सिंगल सिंगल ऑर्डर। अब 10 ऑर्डर हो तो
+Dealer: तो टोटल 10 ऑर्डर में एक-एक शेयर लेने का ₹1350 में Neo 05 में।
+Client: Reliance.
+Client: Yes.
+Dealer: ठीक है, मैं प्लेस कर देता हूं।
+Dealer: ठीक है।
+Client: धन्यवाद।
+Dealer: हेलो।

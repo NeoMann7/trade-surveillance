@@ -1,0 +1,9 @@
+Dealer: Hello.
+Client: Yes.
+Dealer: Um, Mr. Kishan Shetty, main Jignasha bol rahi hoon, NeoWealth Equity se.
+Client: Hello.
+Client: Haan, boliye.
+Dealer: Um, mujhe Akshat ne bataya hai that Nipun Aneja ka new account open ho chuka hai.
+Client: And 25 lakhs humne aaj ke din mein transfer kar diya hai.
+Dealer: Achha, kar diya na? Okay, theek hai. Theek hai, done. Yeah, thank you.
+Client: Thank you.

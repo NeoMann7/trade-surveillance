@@ -1,0 +1,21 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Yeah, tell me.
+Client: Ek HDFC 7000 ka call hai na.
+Dealer: Haan.
+Client: Woh 700 mein.
+Dealer: Haan.
+Client: Ah 200 quantity. Sell kar do.
+Dealer: HDFC ka 7000 ka call, 200 quantity sell, 700 mein?
+Client: Haan.
+Dealer: Ek minute, check kar raha hoon sir.
+Dealer: Kya rate chal raha hai uska?
+Client: Abhi 700 hai.
+Dealer: Accha.
+Client: Ya 700 se 700...
+Dealer: Sir, ek minute.
+Dealer: Sir, HDFC 7000 call, 200 quantity, 700 sell. Confirm kar do.
+Client: Haan, confirm.
+Dealer: Done.
+Client: Thank you.
+Dealer: Okay.

@@ -1,0 +1,15 @@
+Dealer: Hello.
+Client: Ha, hello. Ha, ka bolay na.
+Dealer: Uh, Bharat Rasayan chi order ghya.
+Client: Bharat Rasayan, bola.
+Dealer: Kaay rate challaay?
+Client: Bharat Rasayan 9964, 9982.
+Dealer: Ya la 9930 la takun theva.
+Client: Kiti?
+Dealer: Paach.
+Client: Paach quantity 9930 la buy karayla thevaycha aahe Bharat Rasayan client code.
+Dealer: Ha hya cha madhe taka. Sarla Tendulkar.
+Client: Sarla. Sarla Ravindra Tendulkar. NEW00259. Theek hai?
+Dealer: Ha theek hai. Thevla. Paach quantity.
+Client: Okay.
+Dealer: Hmm.

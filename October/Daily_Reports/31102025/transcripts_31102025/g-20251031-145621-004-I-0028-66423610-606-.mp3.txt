@@ -1,0 +1,16 @@
+Client: Ara.
+Client: Na kar na. Piyush maar order.
+Dealer: Lot?
+Client: Haan lot.
+Dealer: Neeche lower na ek baar.
+Client: Tu collateral pe de raha na? MTF ka matlab tu isme?
+Dealer: Kaun?
+Client: Haan collateral pe.
+Dealer: Lekin, lekin cash hai mere paas.
+Client: Tera nahi tere paas cash nahi, tere paas kuch nahi.
+Dealer: Haan gaya order.
+Client: Ek
+Dealer: Ja.
+Client: Ek share ka haan order gaya.
+Dealer: Theek hai bhai.
+Client: Haan.

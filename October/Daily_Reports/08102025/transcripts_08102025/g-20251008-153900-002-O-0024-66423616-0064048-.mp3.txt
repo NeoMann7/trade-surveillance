@@ -1,0 +1,4 @@
+Dealer: 61 chips, by 20.
+Client: 61 chips.
+Dealer: By 20.
+Client: 61 chips, by 20.

@@ -1,0 +1,180 @@
+Dealer: हॅलो
+Client: हा, वासू.
+Dealer: हा, बोल.
+Client: अ सरला तेंडुलकरचं अकाउंट ओपन करा जरा.
+Dealer: सरला तेंडुलकर.
+Dealer: हा, काय करायचं त्याच्यात?
+Client: ह्याच्यामध्ये जेवढे पण ते छोटे छोटे शेअर्स आहेत ना.
+Dealer: हा.
+Client: क्वांटिटीमध्ये तीन शेअर, चार शेअर, पाच शेअर, ते सगळे काढून टाका.
+Dealer: ओके, एक अंबर आहे अंबर चार क्वांटिटी.
+Client: हा, काढा.
+Dealer: हे मी पूर्ण बोलतो स्टार्टिंगपासून, ठीक आहे?
+Client: हा.
+Dealer: हे आधार हाउसिंग फायनान्स आहे, 125 आहे.
+Client: कुठला?
+Dealer: आधार हाउसिंग फायनान्स.
+Client: आधार हाउसिंग.
+Dealer: फायनान्स हा, ते 125 क्वांटिटी आहे.
+Client: तो ठेवा.
+Dealer: नंतर AS आहे, 21 क्वांटिटी.
+Client: काढा.
+Dealer: काढून टाकू?
+Client: हा.
+Dealer: काय हा मार्केट?
+Client: हा मार्केट.
+Dealer: ठीक आहे, AS गेला 21 क्वांटिटी 1143.60 मध्ये सरला तेंडुलकरमध्ये, NEWB M00259. नंतर Equitas आहे 26 क्वांटिटी.
+Client: ते पण काढा.
+Dealer: ठीक आहे, Equitas पण गेला 26 क्वांटिटी 1460.1. नंतर Ambar Enterprise चार क्वांटिटी.
+Client: काढून टाका.
+Dealer: ठीक आहे, ते गेला चार क्वांटिटी 871 मध्ये. नंतर ARENM आहे 175, 175 क्वांटिटी.
+Client: अम अ, अमर राजा ना ते?
+Dealer: हा, आय थिंक सो.
+Client: हा, हा, ते राहू दे.
+Dealer: नंतर आहे Ascott 57 क्वांटिटी.
+Client: काढा.
+Dealer: ठीक आहे, 536.45 मध्ये गेला. Auropharma 19 आहे.
+Client: कुठचा?
+Dealer: Auropharma, Aurobindo Pharma.
+Client: Aurobindo किती आहेत?
+Dealer: 19 क्वांटिटी.
+Client: 19, ते राहू दे.
+Dealer: नंतर BBCL आहे, ते तर काढलंय. नंतर भारत रसायन पाच क्वांटिटी आहे.
+Client: ते तर घेतलंय ते. भारत रसायन.
+Client: अच्छा, नाही, नाही, नाही. भारत रसायन नाही.
+Dealer: नंतर Can Fin Home आहे 25 क्वांटिटी.
+Client: काढून टाका.
+Dealer: ठीक आहे, 760 मध्ये गेला. नंतर Den Network आहे 1000 क्वांटिटी.
+Client: तो ठेवा.
+Client: तो मायनसमध्ये आहे का, हे आहे?
+Dealer: मायनसमध्ये असेल कारण तो खालती आलाय खूप वरतून स्टॉक.
+Client: काढून टाका.
+Dealer: काढून टाकू?
+Dealer: Den काढून टाकू?
+Client: Den तो चालणार.
+Dealer: 1000 क्वांटिटी?
+Client: तो चालणार.
+Dealer: 3550.
+Client: 3550.
+Client: नको थांबा, मी तो सांगतो तुम्हाला.
+Dealer: ठीक आहे.
+Client: आरामसे.
+Dealer: IDFC Bank 354 क्वांटिटी आहे.
+Client: तो राहू दे.
+Dealer: IndusInd Bank 15.
+Client: काढा तो.
+Dealer: ठीक आहे, IndusInd Bank 732.75 मध्ये गेला. Just Dial पाच क्वांटिटी.
+Client: काढून टाका.
+Dealer: ठीक आहे, 830.20 मध्ये गेला. Jyoti CNC 11 क्वांटिटी आहे.
+Client: काढा.
+Dealer: ठीक आहे, 920.4 मध्ये गेला. Kens आहे नंतर पाच क्वांटिटी.
+Client: कुठचा?
+Dealer: Kens Technology.
+Client: हा, काढा तो.
+Dealer: तो पण काढू?
+Dealer: त्याला सिस्टम फॉलो नाही करणार आहे, मी बोललो की तेरा सिस्टम के हिसाब से...
+Client: ठीक आहे, एक मिनिट.
+Dealer: अरे तू वही करना चाहिए.
+Client: सॉरी.
+Dealer: सिस्टम बोलता है की तुम्हारा तुम ने जो बाय टेस्ट किया है, सिस्टम बोलता है की तुम्हारा भले प्रिमियम कमी है, बट तू दूर हो रहा है.
+Client: काय झालं?
+Dealer: ठीक आहे, 713738 च्या एव्हरेजमध्ये गेला. नंतर Liquid KES करून आहे 602.
+Client: 602 क्वांटिटी?
+Dealer: Liquid KES.
+Client: Liquid KES, हा. काय आहे?
+Dealer: हे आय थिंक सो लिक्विड सारखंच काय असेल.
+Client: किती अमाऊंट आहे ती?
+Dealer: ती 602 आहे अराउंड 66,000 असेल.
+Client: ठीक आहे, काढा ती पण.
+Dealer: तो पण काढू ना?
+Dealer: ठीक आहे, 110.56 मध्ये गेला. नंतर Marksans Pharma आहे 70 क्वांटिटी.
+Client: तो राहू दे.
+Dealer: MCX आहे पाच क्वांटिटी.
+Client: काढा.
+Dealer: पाच क्वांटिटी गेला 7992 मध्ये. नंतर आहे Motilal Finance 19 क्वांटिटी.
+Client: ते राहू दे.
+Dealer: Nazara आहे 22.
+Client: कुठचा?
+Dealer: Nazara.
+Client: हा, काढा.
+Dealer: ठीक आहे, Nazara गेला 1104 रुपये 20 पैसे मध्ये. नंतर NCL Industries आहे 215 क्वांटिटी.
+Client: तो राहू दे.
+Dealer: राहू दे ना. नंतर NHAI Karuna आहे.
+Client: NCL आता काय चाललेलं आहे?
+Dealer: आता NCL Industries 209.75, 209.80.
+Client: अम, तुम्ही ह्या रेटला 209.80 अ हे करा, अम अ 200 किती म्हटलं तुम्ही आपल्याकडे 215 आहेत ना?
+Dealer: 15.
+Client: हा, मग 8, 875, 775 टाका.
+Client: म्हणजे 1000 कंप्लीट होऊन जातं.
+Dealer: 775 किती 209.80 मध्ये घ्यायला ठेवला?
+Client: हा.
+Dealer: ठीक आहे, 775 क्वांटिटी NCL Industry 209.80 मध्ये घ्यायला ठेवायचं आहे सरला तेंडुलकरमध्ये.
+Dealer: ठीक आहे, ठेवलाय.
+Client: ओके.
+Dealer: हम्म.
+Client: हा.
+Dealer: नंतर NHPC Karuna आहे.
+Client: किती आहे त्या?
+Dealer: 70 क्वांटिटी.
+Client: हा, काढा.
+Dealer: तो पण काढू ना?
+Dealer: ठीक आहे, 417.43.90 मध्ये गेला. नंतर PG InvIT आहे.
+Client: तो राहू दे.
+Dealer: नंतर PVR Inox आहे 12 क्वांटिटी.
+Client: कुठचा?
+Dealer: PVR Inox.
+Client: हा, काढा.
+Dealer: काढू?
+Client: हो.
+Dealer: ठीक आहे, 1100 रुपये 30 पैसे मध्ये गेला. नंतर Redgain आहे 30 क्वांटिटी.
+Client: कुठचा?
+Dealer: Redgain.
+Client: हा, तो पण काढा.
+Dealer: ठीक आहे, 657.45 मध्ये गेला. नंतर REC आहे 34 क्वांटिटी.
+Client: काढून टाका.
+Dealer: ठीक आहे, एक मिनिट.
+Dealer: ठीक आहे, गेले 34.60 मध्ये. नंतर Samman Capital आहे 550 क्वांटिटी.
+Client: ते राहू दे.
+Dealer: Sequent आहे 80.
+Client: कुठचा?
+Dealer: Sequent, Sequent Scientific.
+Client: हा, तो पण राहू दे.
+Dealer: हम्म.
+Dealer: Shriram, ते तर काढलंय. नंतर Trajine आहे 500 क्वांटिटी.
+Client: तो किती चाललेला आहे आज?
+Dealer: आज 92.
+Client: 92. आणि किती आहेत ते?
+Dealer: 500 क्वांटिटी.
+Client: तुम्ही 96 ला टाकून ठेवा.
+Dealer: 500 क्वांटिटी 96 मध्ये ठेवायचा आहे Trajine विकायला, ठीक आहे, ठेवलाय मी.
+Client: ओके.
+Dealer: TVS Motor 11 क्वांटिटी.
+Client: काढा.
+Dealer: TVS Motor 11 क्वांटिटी काढायचा आहे.
+Dealer: ठीक आहे, 3563 मध्ये गेला. नंतर Vinnati Organic आहे 9 क्वांटिटी.
+Client: काढा.
+Dealer: नंतर 9 ते Vinnati पण काढायचा ना?
+Client: कुठचा?
+Dealer: 9 क्वांटिटी Vinnati Organic.
+Client: हो.
+Dealer: ठीक आहे, 1712 मध्ये गेला. नंतर Vmart आहे 20 क्वांटिटी.
+Client: काढून टाका.
+Dealer: 20 क्वांटिटी Vmart काढून टाकू ना?
+Dealer: ठीक आहे, 731.55 मध्ये गेला. नंतर VST Tillers आहे 6 क्वांटिटी.
+Client: काढून टाका.
+Dealer: हा, ते पण गेले 5207.5 मध्ये. नंतर Wheels आहे 192 क्वांटिटी.
+Client: ते राहू दे.
+Dealer: नंतर Zydal आहे 30 क्वांटिटी.
+Client: कुठचा?
+Dealer: Zydal, Zydal प्रीपेड.
+Client: हा, काढा.
+Dealer: ठीक आहे, 371.30 मध्ये गेला. नंतर ZenTech आहे 10 क्वांटिटी.
+Client: काढा.
+Dealer: ठीक आहे, हे पण गेला 1622 मध्ये गेला ZenTech 10. ठीक आहे?
+Client: ते आपले आले नाही NCL Industries संपूर्ण?
+Dealer: हा. तो बुलास काय फर्स्ट क्लास करायचा आहे.
+Dealer: ठीक आहे?
+Dealer: टोटल आपण माल विकलाय 3,94,000 चा.
+Client: हा.
+Dealer: हम्म. ओके.
+Dealer: सर जी सर वो कॅलेंडर मार्क कर दे ना.

@@ -1,0 +1,28 @@
+Dealer: Hello
+Client: Hello Vivek ji
+Dealer: Ha madam boliye
+Client: Mera mail mil gaya aapko?
+Dealer: Ha ha wo maine uss pe reply bhi kar diya wo orders dal diye maine turant hi. Hmm aur maine ussi ussi ke upar reply bhi kar diya tha.
+Client: Purchase ho gaya kya?
+Dealer: Ha ha.
+Client: Ha lene wale na? Ha Bharat Bijli aur wo tha na do order apne. Aur Natco Pharma.
+Client: Ho gaya kya?
+Dealer: Nahi hue nahi hai, chalu hai order, maine 18 mein rakha hua hai.
+Client: Kya rate hai Natco aur usme Bharat Bijli?
+Dealer: Bharat Bijli abhi 3120 aur 22 aa raha hai. Aur Natco Pharma Natco aa raha hai 85460, 855.
+Client: Wo 53, 53 me laga hua hai na?
+Dealer: Ha 53 mein rakhe hai teenon account mein.
+Client: Aap 854 mein de do Natco Pharma.
+Dealer: Teenon 854 kar do.
+Client: Ha aur Bharat Bijli 3120 kar do.
+Dealer: Ek minute ye 854.
+Client: 3120 kar dijiye ab isko. Aur usko 854 kar do.
+Dealer: 3120. Theek hai madam kar diye sab order modified.
+Client: Ab mera purchase ho jaaye toh bol dijiyega.
+Dealer: Theek hai main call back karta hu.
+Client: 3120 854 maine bola na?
+Dealer: Ha ha ha.
+Client: Ha aur suniye mere ko agar equity share karna hai toh wo bhi main sell karna hai toh aapko hi bolna hai na?
+Dealer: Ha ha ha bechna bhi mujhe hi bolna.
+Client: Theek hai, okay.
+Dealer: Ha ha.

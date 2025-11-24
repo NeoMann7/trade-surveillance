@@ -1,0 +1,28 @@
+Client: Hello.
+Dealer: Hello, yes, sir.
+Client: Yes, sir.
+Dealer: Haan, bolo.
+Client: Sir, Adani Enterprises.
+Dealer: Haan.
+Client: Buy, 290.
+Dealer: Adani Enterprises 290 buy?
+Client: Yes, sir.
+Dealer: Okay.
+Client: Reliance.
+Dealer: Reliance.
+Client: Buy, 2870.
+Dealer: 2870 buy Reliance.
+Client: Yes, sir.
+Dealer: Okay.
+Client: Aur Vedanta.
+Dealer: Vedanta.
+Client: Buy, 275.
+Dealer: Vedanta 275 buy.
+Client: Yes, sir.
+Dealer: Okay, order dalu, sir?
+Client: Yes, sir.
+Dealer: Teen order.
+Client: Yes, sir.
+Dealer: Done.
+Client: Thank you, sir.
+Dealer: Okay.

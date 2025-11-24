@@ -1,0 +1,21 @@
+Dealer: Hello good morning.
+Client: Shortage hai ₹11,16,000 ka. Aur market 24,854, Nifty 81 plus hai.
+Dealer: Theek hai. Mere paas close position kaun sa hai?
+Client: 24,000 ka put hai aapke paas aur 25,050 ka call. Woh 25,050 ka call chal raha hai ₹4.85.
+Dealer: Aur 24,000 put ka?
+Client: 890 paise.
+Dealer: 90 paise?
+Client: Hmm.
+Dealer: Toh aap 300 put kaatiye.
+Client: Hmm hmm. 300 put aa gaya aapka. Abhi bhi hai 8,20,000.
+Dealer: 100 aur kaat dijiye.
+Client: 5,21,000 shortage.
+Dealer: 150 call kaat dijiye.
+Client: 70,000.
+Dealer: Aur 75 put aur kaat dijiye.
+Client: Theek hai. Ho gaya sir. Aapko bata doon starting hai. 24,000 ka put 675 quantity buy hua hai. 0 point...
+Dealer: Ek minute rukiye.
+Client: Hmm.
+Dealer: Hmm.
+Client: 0.92. Hmm. 25,050 ka call 150 quantity buy hua hai. ₹4.50 paise.
+Dealer: Theek hai.

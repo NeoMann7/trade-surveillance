@@ -1,0 +1,44 @@
+Client: Hello.
+Dealer: Hello.
+Client: Ah. Sanghvi se bol rahe hain sir, Bangalore se.
+Dealer: Kaun?
+Client: Sanghvi, Bangalore se.
+Dealer: Haan, bolo. Kya karna tha?
+Client: Ah, ek second. Greaves Cotton. Sell karna hai. Client code kya hai?
+Dealer: Client code, NEO 65.
+Client: Kya naam hai NEO 65 mein? Hmm. NEO 65. Ajay Sahn, ek minute.
+Dealer: Ajay Sahn bol rahe ho?
+Client: Haan. NEO 65. Haan, kya karna hai usme?
+Dealer: Greaves Cotton dekhiye, kitna holding hai?
+Client: Hmm. Greaves Cotton mein 2500 quantity.
+Dealer: 2500 sell kar dijiye sir, current price mein.
+Client: 2500 pura sell kar do?
+Dealer: Haan, market mein.
+Client: Haan. Theek hai. 2500 quantity Greaves Cotton market mein sell karna hai, client code hai NEO 65, Ajay Sahn. Theek hai?
+Dealer: Okay.
+Client: Ek minute. Theek hai. 2500 hamara sell ho gaya 213.50 mein.
+Dealer: 213.50.
+Client: Haan. 213.50 ka average aaya.
+Dealer: Okay. Ah, NEO 64.
+Client: NEO 64. Achcha, usme bhi karna hai kya?
+Dealer: Sanjay Sahn. Haan, Sanjay Sahn. Ek minute. Usme bhi yahi number registered hai?
+Client: Haan, number same hai.
+Dealer: Ek minute. Check kar leta hu. Haan, theek hai. Bolo. Usme kya karna hai?
+Client: Greaves Cotton dekhiye kitna quantity?
+Dealer: Usme Greaves Cotton 300 quantity.
+Client: Sell kar dijiye.
+Dealer: Theek hai. 300 quantity Greaves Cotton sell karna hai market mein, client code hai NEO 64.
+Client: Okay.
+Dealer: Theek hai. 213.60 ke average se sell ho gaya.
+Client: Okay. Abhi dekhiye NEO 74.
+Dealer: Hmm. NEO 74.
+Client: Tushar Sahn. NEO 74 mein hai 2300 quantity.
+Dealer: Ah, sell kar dijiye.
+Client: Theek hai. 2300 quantity Greaves Cotton sell karna hai. NEO 74 mein, Tushar Sahn. Theek hai?
+Dealer: Okay.
+Client: Theek hai. 2300 213.52 mein sell ho gaya.
+Dealer: Okay. Ye average mota-moti yahi hai na? 213 something.
+Client: Haan, 50 se 52, matlab 52 pakad lo.
+Dealer: Okay sir. Thank you.
+Client: Okay.
+Dealer: Aaj sir ko aath baje tak carry kar lena. Agar sir ko laga late aayega na, laptop bhi.

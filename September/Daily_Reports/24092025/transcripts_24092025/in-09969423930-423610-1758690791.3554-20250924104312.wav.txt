@@ -1,0 +1,10 @@
+Dealer: Hello?
+Client: Vicky?
+Dealer: Huh?
+Dealer: Hello?
+Dealer: Hello?
+Dealer: Hello, ha sir?
+Client: Hello?
+Dealer: Hello?
+Dealer: Hello?
+Dealer: Hello?

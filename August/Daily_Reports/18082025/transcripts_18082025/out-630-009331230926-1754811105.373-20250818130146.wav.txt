@@ -1,0 +1,21 @@
+Client: Hello.
+Dealer: Hello.
+Client: Um, Mr. Ram Sharma.
+Dealer: Ram.
+Client: Actually, I have a query for order book.
+Dealer: Mm-hm.
+Client: So, there should be two windows open, that is pending orders and closed orders, right? But the closed orders window, okay, I'm unable to, you know, open that window back. I have by mistakenly, like, shut it down, so I have
+Dealer: Right click and dock. That zero header is here, no?
+Client: Right click. Okay.
+Dealer: Then dock option is there, dock.
+Client: Right click and dock. I'm on dock only.
+Dealer: Give me AnyDesk or TeamViewer, you are missing Window.
+Client: Sorry?
+Dealer: Hello?
+Client: Hello? Yes, yes, boliye na.
+Dealer: Any possibility, give me UltraViewer or AnyDesk ID, you are missing?
+Client: Uh, No, sir.
+Dealer: How to take this problem, please share any snapshot, then I will help you.
+Client: Hmm, but, okay, I'll, I'll mail you. Is that okay?
+Dealer: Yeah, yeah, no problem.
+Client: Okay.

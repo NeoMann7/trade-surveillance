@@ -1,0 +1,23 @@
+Client: 2602
+Client: That this one.
+Dealer: Haa?
+Client: Hello?
+Dealer: Haa, boliye.
+Client: 202602.
+Dealer: 2602. Okay.
+Client: Ha, isko bechna hai.
+Dealer: 2602 bechna hai?
+Client: Ha, abhi jo rate chal raha hai na.
+Dealer: Okay.
+Client: Isko sell karna hai.
+Dealer: Okay. Current rate pe?
+Client: Ha.
+Dealer: Okay, abhi ka price chal raha hai apka 2603.55.
+Client: Okay.
+Dealer: Sir, quantity kya hai?
+Client: Quantity hai paanch.
+Dealer: Paanch. Okay, laga diya hai.
+Client: Okay.
+Dealer: Done.
+Client: Okay, thank you.
+Dealer: Thank you.

@@ -1,0 +1,18 @@
+Dealer: Hello.
+Client: Hello.
+Client: Nifty.
+Dealer: Hello.
+Client: Nifty.
+Dealer: Yeah, bolo.
+Client: Nifty 50 buy.
+Dealer: Kitne?
+Client: 100 shares.
+Dealer: Kya rate?
+Client: 23150.
+Dealer: 23150. Buy Nifty 100 shares?
+Client: Yes.
+Dealer: Nifty 100 shares 23150. Done.
+Client: Done?
+Dealer: Yes.
+Client: Okay.
+Dealer: Okay sir.

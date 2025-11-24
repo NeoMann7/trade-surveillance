@@ -1,0 +1,7 @@
+Dealer: Hello.
+Client: Hi, Yuvraj Akshat this side.
+Dealer: Ha sir bolo.
+Client: Ha, so this will be the number.
+Dealer: Ne, ne ruko, maine aapko diya hai na, you will need to kitna report karega.
+Client: Aapki awaaz nahi aa rahi sahi se.
+Dealer: Nahi, nahi. Abhi sun raha hai? Abhi sun raha hai? Abhi sun raha hai? Hello, bolo again calling.

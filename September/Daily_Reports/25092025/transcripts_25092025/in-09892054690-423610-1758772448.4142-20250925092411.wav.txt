@@ -1,0 +1,14 @@
+Client: Hello
+Dealer: Hello, Krithi?
+Client: Yes, sir.
+Dealer: Good morning.
+Client: What is Adani Enterprise?
+Dealer: Adani Enterprise, sir, 2635, 2637.
+Client: 15.
+Dealer: 2637.
+Client: 2635?
+Dealer: 2634.90.
+Client: Okay, thank you.
+Dealer: Theek hai, sir.
+Client: Yeah, yeah.
+Dealer: Hmm.

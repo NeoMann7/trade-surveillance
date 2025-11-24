@@ -1,0 +1,13 @@
+Dealer: Hello
+Client: Hello
+Dealer: Huh
+Client: Haan Vikiji woh unka payment aapne na nahi kiye kya hain? Theek hai aap?
+Dealer: Ek minute kaun sa Nandi ka?
+Client: Jo aapka Bank of Baroda aur HDFC woh likh ke phone mein bheja tha na.
+Dealer: Haan haan. Haan 8 lakh ka hai. Haan nahi hua hai. Main abhi dal deta hu madam.
+Client: Aur mera 12 din electronics wala trade hua tha uska?
+Dealer: Nahi nahi. 12 ka? Nahi nahi.
+Client: Nahi?
+Dealer: Nahi.
+Client: Theek hai. Theek. Usko aap please usme aaj hi daal dijiye please.
+Dealer: Theek.

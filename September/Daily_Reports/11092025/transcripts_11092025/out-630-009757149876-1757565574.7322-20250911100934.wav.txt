@@ -1,0 +1,11 @@
+Dealer: Hello.
+Client: Hello Rachit.
+Dealer: Yeah hi. Listen. Yeah hi. Harsh Patel is just sending out an email. Okay, main aapko forward karta hoon. I'll ask Preeti to put it in the format and send it to you. This is we wish to buy. Ek kaam karo na aap bhi Harsh ko phone karo na, ek 5 lakh ka.
+Client: He doesn't actually receive calls, you know. Yesterday also we tried like five, six times.
+Dealer: I know, I know. Yesterday, yesterday, I was there. I'm aware. Okay. So right now he told me that he's sending out an email. Okay. So, phir woh format ka issue aata hai yaar, isliye.
+Client: Theek hai, so call kar dete hain aur jo kuch bhi trade hai woh ek baar place kar dete hain yahan pe. Theek hai.
+Dealer: Ah, ah, theek hai, ek 5 lakh Blue Jet buy karna hai. 689, 688 jo bhi chal raha hai uss pe. Okay. Toh
+Client: Blue Jet worth 5 lakhs you want to buy, right?
+Dealer: 5 lakhs, yeah. So if you just try him, try him out once. Agar nahi hota hai na toh thoda sa inme email aa hi jayega. So email toh main aapko forward kar dunga. I'll ask Preeti to send it in the right format.
+Client: Theek hai, done. Done, done. Rachit, okay.
+Dealer: Okay.

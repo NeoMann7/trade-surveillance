@@ -1,0 +1,25 @@
+Client: Hello, hello.
+Dealer: Hello, ha bolo.
+Client: Aaple te jhale na TI.
+Dealer: Ha te jhale bhai.
+Client: Ha. Ata na ek sequence he kara.
+Dealer: Kaay?
+Client: Sheela 200 cha taku de.
+Dealer: Theek hai, sequence anti ikde chala buy karaycha 200 rupyam madhe. Kutla code?
+Client: Amol Tendulkar, Marathi.
+Dealer: Theek hai Amol Tendulkar Niew 0015 madhe.
+Client: Ho.
+Client: Ani mi jara sangto, aaplya ikde aata dusra kutcha nahi hai na?
+Dealer: Nahi aata tar nahi hai mala kutlyacha account madhe.
+Client: Nahi.
+Dealer: Theek hai, he aapla fakta aatcha je asel te.
+Client: Hmm.
+Client: Te TIL che kiti jhalele aahe aaple?
+Dealer: TIL che aaple jhale aahe 55,000.
+Client: Okay.
+Dealer: Theek hai.
+Client: Hmm.
+Dealer: Pre-order.
+Client: Hmm.
+Dealer: Theek hai.
+Client: Theek hai.

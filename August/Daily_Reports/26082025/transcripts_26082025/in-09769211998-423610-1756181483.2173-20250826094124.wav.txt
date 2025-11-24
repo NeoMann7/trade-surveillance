@@ -1,0 +1,28 @@
+Client: Hello.
+Client: Piyush bhai?
+Client: Hello, kaun? Kaun baat kar raha hai? Piyush bhai?
+Dealer: Waasu baat kar raha hu, Waasu.
+Client: Waasu bhai, mujhe bata na, Saajid ka ek confirmation jaata nahi kya? Rishi Ambani ko?
+Dealer: Hmm, bada movement aaya to main call bhi karta hu.
+Client: Uska trade kaun maarta hai, Saajid ka?
+Dealer: Kal parso to main hi maara tha.
+Client: Arey wohi, ab aap 'Rem' ko bhejte nahi kya? Confirmation.
+Dealer: Trade confirmation bol rahe ho? Trade confirmation to main hi bheja unko khud.
+Client: Kis ko bheja?
+Dealer: Saajid sir ko.
+Client: Lekin na, Rishi, arey woh 'Arem' ko bhi bhejna chahiye na?
+Dealer: Achha, main wohi poochha tha Akshat ko. Maine Saajid sir ko direct bheja aur Akshat ko CC mein rakha tha.
+Client: Naa, kis ko?
+Dealer: Akshat ko.
+Client: Akshat nahi re. Main aapko daalunga.
+Dealer: Acha, aise hai? Abhi tak to Vicky trade maara tha. Vicky, Vicky tha nahi do din. To kal parso main maara tha. To maine direct sir ko bheja tha, maine confirmation.
+Client: Hello?
+Client: Ek minute hold karo.
+Dealer: Aur even phone confirmation bhi diya tha unko. Sauda hone ke baad bhi wapas diya tha confirmation phone mein.
+Client: Ha, ha.
+Client: Client se baat kar raha hu.
+Dealer: Hello. Kis ko bol rahe ho?
+Client: Aapko idhar bola, mail daale hain woh maine. Check kar lo.
+Dealer: Kya kya?
+Client: Maine mail daala hai, aap please woh karo.
+Dealer: Okay, it's connected.

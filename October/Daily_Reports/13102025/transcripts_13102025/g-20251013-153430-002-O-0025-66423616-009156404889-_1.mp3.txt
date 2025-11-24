@@ -1,0 +1,7 @@
+Dealer:
+Client: स्टॉक
+Dealer:
+Client: 10600
+Dealer: 10660
+Client: ठीक है। 10660
+Dealer:

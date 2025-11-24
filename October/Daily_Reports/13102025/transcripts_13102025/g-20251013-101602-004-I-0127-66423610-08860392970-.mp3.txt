@@ -1,0 +1,15 @@
+Dealer: Hello ji. Yes sir, good morning.
+Client: Sir, woh, apne paas ₹10 lakh cash pada tha, sir. Toh usme Granules lena hai.
+Dealer: Kaun sa, abhi tum log ka kya buying recommendation hai? Kya aaya hai sir, Friday ko aaya tha Granules ka? Aur swing, apne mat dekhte hain. Swing ke liye rehta hai ya phir...?
+Client: Yeh news based rehta hai, sir. Not technical.
+Dealer: Okay. Abhi kya lag raha hai, sir?
+Client: Manappuram sir, lag raha hai. Kuch management change, haan, woh hone wala hai Manappuram mein. Toh kuch change hone wala hai toh uske baad uska long-term ke liye toh bahut achha bol rahe hain. Expectation hai.
+Dealer: Thik hai, Granules ka aur plus mere ko brokerage bahut hai. Abhi toh theek hai, ispe bhi woh kiya tha. Tabhi kuch kaam ho sakta hai. Haan, toh main Shweta se baat kar leta hoon ek baar.
+Client: Abhi toh bas paisa hai. Hmm. Hmm. Chalein.
+Dealer: Next week? Okay. Woh sir haan woh unko hi idea hoga.
+Client: Ek minute sir, ek baar aap...
+Dealer: Haan, main main ek baar Shweta se baat kar leta hoon.
+Client: Kyunki ab zyada teen paisa toh ek mind mein hota hai na ki bhaiya hum toh ₹10 lakh woh kam sau da hoga, phir aapka. Right. No sir, I don't want.
+Dealer: Main baat kar leta hoon, sir, ek baar usse. Hai na? Aur Granules kitna le loon? Pura amount ka le loon, jitna hai apne paas?
+Client: ₹10 lakh ka le lo, ₹50,000 chhod do.
+Dealer: Thik hai, sir, main leke. Thik hai.

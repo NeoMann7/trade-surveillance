@@ -1,0 +1,22 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Hello, ha sir Viki baat kar raha hu niw se.
+Client: Haan ji.
+Dealer: Trade karna tha na kuch sir?
+Client: Haan haan wo HDFC kuch kam karna hai.
+Dealer: Okay.
+Dealer: HDFC kitna? 35 lakh ka sell karna tha na?
+Client: Haan. Okay. Haan haan.
+Dealer: Aur Sriram?
+Client: Ek exit hai apna ye Sriram Properties se exit hai.
+Dealer: Sriram Property pura exit karna hai?
+Client: Haan. Aur wo Manappuram kuch 2% of the portfolio Manappuram kar lijiyega.
+Dealer: Okay.
+Dealer: Manappuram kuch 5 lakh ka buy karna hai na?
+Client: 5 lakh ka barabar. Correct.
+Dealer: Right. Aur Silver Bees buy karna hai. Silver Bees kitna? 21 lakh ka lu?
+Client: 21, 21 ka kar lijiye haan correct.
+Dealer: Theek hai sir.
+Client: Aur ye balance jo cash rahega usko liquid me kar dijiyega. Cash mat rakhiye usko.
+Dealer: Chalega sir, theek hai, chalega. Main execute kar deta hu.
+Client: Haan. Okay, okay sir, thank you.

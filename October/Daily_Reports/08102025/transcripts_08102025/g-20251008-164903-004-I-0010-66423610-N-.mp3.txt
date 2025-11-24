@@ -1,0 +1,3 @@
+Dealer: Hello, hello.
+Client: Hello, hello. 24.
+Dealer: Okay.

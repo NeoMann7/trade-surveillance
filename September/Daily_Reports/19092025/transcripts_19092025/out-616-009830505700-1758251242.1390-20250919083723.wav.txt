@@ -1,0 +1,19 @@
+Dealer: Hello, ha sir, good morning. Piyush bol raha hun.
+Client: Good morning.
+Dealer: Ye apna C Quent me kuch karna hai kya sir?
+Client: Ha.
+Dealer: Okay, karna hai C Quent me?
+Client: 20 lakh ka maal le lo.
+Dealer: 20 lakh ka maal aaj le lo C Quent me?
+Client: Ha.
+Dealer: Pre-opening me laga le?
+Client: Pre-opening me kya rate me laga doon?
+Dealer: Kya rate chal raha hai?
+Client: Abhi kal ka closing 198.59 tha.
+Client: Hmm.
+Client: Toh 199 ke hisaab se laga doon pre-opening me?
+Client: Ya toh fir market khulne ka wait karna hai.
+Client: 196 pe lagao.
+Dealer: 196 pe 20 lakh ka C Quent laga doon na? Theek hai, 9:00 baje laga deta hun sir.
+Client: 196 pe 10 lakh ka, 195 pe 10 lakh ka.
+Dealer: Theek hai, okay, theek hai. Daal ke aa rahe honge. Arey.

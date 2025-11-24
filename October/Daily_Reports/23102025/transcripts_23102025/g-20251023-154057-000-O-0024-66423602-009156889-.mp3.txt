@@ -1,0 +1,5 @@
+Client: (Phone rings, then a ringing tone, then connects)
+Dealer: हेलो
+Client: 23rd अक्टूबर 31 का।
+Dealer: 23rd अक्टूबर 31.
+Client: चलो।

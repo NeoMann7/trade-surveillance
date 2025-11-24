@@ -1,0 +1,13 @@
+Client: लगा रहा हूं।
+Dealer: हेलो
+Client: हेलो
+Dealer: यस सर।
+Client: यस, टेल मी।
+Client: अह ट्रेड करना था ना कुछ सर?
+Dealer: या, JSW Energy 10,000 shares, yeah. कितना होगा 10,000 shares?
+Client: 10,000 shares, एक सेकंड सर।
+Dealer: 55 लाख सर।
+Client: ओके, दिस कर लो।
+Dealer: ठीक है सर, ले लेता हूं।
+Client: 55 लाख।
+Client: गलत तो नहीं था?

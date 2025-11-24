@@ -1,0 +1,29 @@
+Dealer: Hello. Hello. Ha sir.
+Client: Ha.
+Client: Yeh thoda se jo bacha hai apna order Nikhil Jain wale account mein aur laga dena.
+Dealer: Ha.
+Client: 25,000 ka put aur sell kar dena 225 quantity.
+Dealer: Kitna? 200...
+Client: Ha.
+Dealer: Ha matlab 225 quantity hoga lot ke hisaab se.
+Client: Hmm.
+Dealer: Ek minute.
+Dealer: Ha 225 bik gaya 8.75 mein 25,000 ka put. Aur call kitna bechna hai?
+Client: Achcha.
+Dealer: Same quantity.
+Client: Same quantity. Na?
+Client: Ha.
+Dealer: Ha yeh bhi bik gaya apna.
+Client: Hmm.
+Dealer: Dono bik gaye apne. Aur ek minute. Aur 16 lakh hai apne paas. Toh aur 200-200 quantity ja sakta hai.
+Client: Achcha.
+Client: Toh bhej do 200 quantity aur. 25,000.
+Client: Chaar sau ka.
+Dealer: 25,000 ka put aur 24, 25,400 ka call.
+Client: Ha.
+Client: 25,000, 25,000. Ka put sell karna hai. Aur 25,400 ka call.
+Dealer: Ha. Theek hai yeh bik gaya dono 3150, 3150 bika hai.
+Client: Theek hai.
+Dealer: Hai na? Theek hai. Chalega. Total premium apna bika hai 35,800 ka.
+Client: Hmm.
+Dealer: Theek hai. Ha.

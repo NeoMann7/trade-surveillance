@@ -1,0 +1,18 @@
+Client: Hello.
+Client: Ha, Abhishek ji.
+Dealer: Ha madam.
+Client: Mera na Nandi me PNB sale karna hai meko.
+Dealer: PNB bechna hai?
+Client: Ha. Abhi kya rate chal raha hai?
+Dealer: PNB 130 113.92 aa raha hai, 9293.
+Client: Ha 92 9293 me bech dijiye abhi.
+Dealer: Ek minute ha madam. PNB apne paas 500 hai madam.
+Client: Ha.
+Dealer: Ha madam, 500 bik gaya 113.95 me.
+Client: Ha to 95 pe bik gaya tha. Aur mera pehle ka apna mera sale proceed nahi aaya mere paas jo.
+Dealer: Kya nahi aaya madam?
+Client: Sale proceed nahi aaya mere paas jo pehle ka tha becha tha aapne PNB Nandi me.
+Dealer: Wo kal hi dal diya tha maine madam request, us din hi dal diya tha. Ha gaya hai. Yahan to zero dikha raha hai madam. Kuch bhi nahi hai. Gaya hoga ek baar check kariye na.
+Client: Ek main check karti hu.
+Dealer: Ha ha kyunki yahan kuch bhi nahi hai. Usi din maine dal diya tha same day jis din aapne bola tha na usi din.
+Client: Oh, theek hai.

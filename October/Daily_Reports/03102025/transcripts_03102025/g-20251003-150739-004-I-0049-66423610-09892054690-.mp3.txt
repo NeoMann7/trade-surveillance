@@ -1,0 +1,8 @@
+Dealer: Hello.
+Client: Hello. What is my balance, sir?
+Dealer: 5,000 sir. 5307.
+Client: ICICI shares of how many quantity?
+Dealer: Hmm, silver.
+Client: 35, no?
+Dealer: Yes sir, 35 bought it 139.41. Okay, fine. Yeah.
+Client: Thanks.

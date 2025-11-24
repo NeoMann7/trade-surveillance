@@ -1,0 +1,28 @@
+Dealer: Hello.
+Client: Hmm, good morning.
+Dealer: Ah, good morning. Nifty 24,500. 76 point minus hai. Aur ye aapka 7 lakh 7,000 ke aas pass ka shortage hai.
+Client: Kitna?
+Dealer: 7 lakh 7,000.
+Client: Theek hai, bataiye kya ghatana hai?
+Dealer: Hmm, dekhiye aapka call mein position hai. Ek minute. Toh 25,000.
+Client: No problem.
+Dealer: Achha. 25,400 ka call ka bhav 80 paise hai. Aur 24,050 ke put ka bhav 1 rupees 55 paise hai.
+Client: One rupee fifty five paise.
+Dealer: Hmm.
+Client: Dono ka 75 quantities gataiye.
+Dealer: Abhi 4 lakh 33,000 ka shortage hai.
+Client: Put ka ghataiye 75 aur.
+Dealer: Abhi 2 lakh 22,000 ka hai.
+Client: Call ka ghataiye 75 aur.
+Dealer: Abhi 1 lakh 49,000 ka hai.
+Client: Call ka ghataiye 75 aur.
+Dealer: 77,000 ka abhi bhi hai.
+Client: 75 call aur ghata dijiye.
+Dealer: Ha, ho gaya sir. Confirmation de du?
+Client: Ha, bata dijiye.
+Dealer: Oh, 24,050 ka put 150 quantity buy hua hai. Buying average 1 rupees 53 paise.
+Client: Theek hai.
+Dealer: Aur 25,400 ka call 300 quantity buy hua hai. Buying average 0.75 paise.
+Client: 75 paise.
+Dealer: Paise.
+Client: Theek hai, thank you.

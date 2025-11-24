@@ -1,0 +1,16 @@
+Client: Hello.
+Dealer: Hello.
+Client: Uh.
+Dealer: Aj hum keti jitna abhi na phone aaya gocha jamwanu rakhwanu. Ane kale ghante ko parnu to koi phone nathi upadu sachi ne kido.
+Client: Hmm.
+Dealer: cancel che lagbhag.
+Client: Ha.
+Dealer: To pacchi Deepali ye badhane phone karoyo hi lal ne Amit ne jawda ne koi upadu to nathi. Khabar pad ne ji gina ne baithne.
+Client: Aetle su theeyu?
+Dealer: Koi na nathi upadu so Amit ne Sachin vare aavjo Sachin.
+Client: to Sachin ni sathe vaat kare ne kai dene ke to pacchi nakki kar.
+Dealer: Ha ene kai didhu Deepali ye kai didhu tame tamaru kari lyo koi phone nathi evu hase ne ke aapde next week.
+Client: Theek che vaando nathi.
+Dealer: To pacchi hun jignar nu nakki kari lau.
+Client: Ha theek che vaando nathi.
+Dealer: cancel kar de.

@@ -1,0 +1,11 @@
+Dealer: Bonjour Dr. Krishna from 616, second desk.
+Client: Good afternoon, sir.
+Dealer: Yes, sir.
+Client: Yes, sell 27700 puts.
+Dealer: Okay.
+Client: 700.
+Dealer: 27700 put.
+Client: Yes.
+Dealer: Okay.
+Client: Two lots.
+Dealer: 27700 put, two lots. Okay.

@@ -1,0 +1,25 @@
+Dealer: Hello?
+Client: Hello, sir. Good morning.
+Dealer: Good morning, sir. Yes, sir.
+Client: Um, Tata Steel 155 ka call.
+Dealer: Okay.
+Client: April ka.
+Dealer: Okay.
+Client: Buy kiya hua hai na 16.5 mein.
+Dealer: Okay, sir.
+Client: Woh 17.5 mein bechna hai.
+Dealer: 17.5 mein bechna hai, theek hai, sir. Tata Steel 155 call April.
+Client: Hmm.
+Dealer: Okay.
+Client: Aur ek Indiamart, 2800 ka call, April ka.
+Dealer: Okay, sir.
+Client: Woh 73 mein buy kiya hua hai.
+Dealer: Okay.
+Client: Woh 85 mein bechna hai.
+Dealer: 85 mein bechna hai. Indiamart 2800 call April.
+Client: Hmm.
+Dealer: Right, sir?
+Client: Yeah, right.
+Dealer: Alright, sir.
+Client: Okay, thank you.
+Dealer: Thank you.

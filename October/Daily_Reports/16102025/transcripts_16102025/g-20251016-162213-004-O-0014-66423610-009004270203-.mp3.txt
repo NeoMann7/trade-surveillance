@@ -1,0 +1,6 @@
+Dealer: हेलो
+Client: हां बोलिए
+Dealer: हां बोलिए
+Client: 50 का बोल 32 का ला ही
+Dealer: ओके
+Client: ओके

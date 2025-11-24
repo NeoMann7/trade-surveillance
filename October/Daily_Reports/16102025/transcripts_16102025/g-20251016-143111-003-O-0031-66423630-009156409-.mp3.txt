@@ -1,0 +1,51 @@
+Dealer: 6272 এক্স ইনস এক্সপোর্ট
+Client: হ্যালো
+Dealer: হ্যাঁ স্যার
+Client: হ্যালো
+Dealer: হ্যাঁ স্যার বলুন
+Client: আমার একটা ইয়ে ছিলো
+Dealer: হ্যাঁ
+Client: যেটা আমি দিয়েছি
+Dealer: হ্যাঁ হ্যাঁ
+Client: 193132
+Dealer: হুম
+Client: তার সাথে সাথে
+Dealer: হুম
+Client: আজকে এটা
+Dealer: হুম
+Client: সেলের জন্য
+Dealer: হ্যাঁ হ্যাঁ
+Client: 19310
+Dealer: হ্যাঁ
+Client: প্লাস
+Dealer: হুম
+Client: হুম 19310
+Dealer: ঠিক আছে
+Client: একটা সেল
+Dealer: সেল অর্ডার
+Client: হ্যাঁ
+Dealer: আপনার স্ক্রিপ্টের নামটা বলুন
+Client: স্ক্রিপ্ট ইন্ডিয়ান ব্যাংক
+Dealer: ইন্ডিয়ান ব্যাংক 19310
+Client: হুম
+Dealer: ঠিক আছে
+Client: হুম
+Dealer: ঠিক আছে স্যার
+Client: আর্টেমেটিক
+Dealer: কতটা স্যার?
+Client: আমি বলে দেবো
+Dealer: ঠিক আছে
+Client: হ্যাঁ
+Dealer: আর কি আছে স্যার?
+Client: না না
+Dealer: ঠিক আছে স্যার
+Client: ঠিক আছে
+Dealer: হ্যাঁ স্যার
+Client: আর আর কি ছিলো
+Dealer: আর তো কিছু দেখতে পাচ্ছি না স্যার
+Client: আচ্ছা ঠিক আছে
+Dealer: হ্যাঁ স্যার
+Client: ঠিক আছে
+Dealer: ঠিক আছে স্যার
+Client: রাখছি
+Dealer: ওকে

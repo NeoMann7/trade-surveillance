@@ -1,0 +1,10 @@
+Client: Hello.
+Dealer: Hello Vicky.
+Client: Ha sir, PG. Can you check PG what is the rate this time?
+Dealer: Just a minute sir. P G E N?
+Client: PGL.
+Dealer: PGL 489.65. 489.
+Client: Okay, you can take 30.
+Dealer: 30 shares. 30 bought at 489.75.
+Client: Okay, thank you.
+Dealer: Yeah.

@@ -1,0 +1,4 @@
+Dealer: आएगी आएगी।
+Client: 10602, afternoon test call, 5th August.
+Dealer: आ गया, आ गया।
+Client: Hmm.

@@ -1,0 +1,12 @@
+Client: Hello.
+Client: Ugh, Vicky ji aapko mera mail mil gaya na?
+Dealer: Umm, ma'am your good name?
+Client: Where is Vicky ji? I am Vicky here. Vicky ji, I don't know. Vicky kahan hai?
+Dealer: Vicky nahi hai, lunch ke liye gaye hai.
+Client: Hello.
+Client: Maine mail diya tha, finance@kalimata.co.in
+Dealer: Achha theek hai, so woh aa jaayega na main unko main bata deti hoon.
+Client: Kitna time lagega? 15-20 minutes?
+Dealer: Yeah, 15-20 minutes.
+Client: Okay.
+Dealer: Haan haan.

@@ -1,0 +1,50 @@
+Client: Hello
+Dealer: Hello
+Client: Hello
+Dealer: Hello, ha sir.
+Client: Ha theek.
+Dealer: Ha.
+Client: Ha. How much is Adani Enterprises?
+Dealer: Ek minute.
+Dealer: Adani Enterprises are 2628, 2629.
+Client: Take 10.
+Dealer: 10
+Dealer: 10 aa gaya sir 2628 mein.
+Client: Okay. Then Bharat Dynamics?
+Dealer: BDL.
+Dealer: BDL 1625.80, 1626.60.
+Client: Kitne?
+Dealer: 1626.60.
+Client: Take 20.
+Dealer: 20 boarded to 1625.70.
+Client: Okay. And Mazagon Dock?
+Dealer: Mazagon Dock. Mazagon Dock 2983, 2984.
+Dealer: Hello.
+Dealer: Hello.
+Client: Hello. Ha sir.
+Dealer: Ha sir, 2984.
+Client: 2984. Uh, take 10.
+Dealer: 10 aa gaya sir 2982.20.
+Client: Okay. Thanks.
+Dealer: Theek hai.
+Client: Aur woh swan for that swan, should I, will I have to ring you up in the morning or can you, can I tell you just now?
+Dealer: Woh sir market ke baad bhi hum AM order dal sakte hain. Aaj market ke baad bhi dal sakte hain hum log 5, 4 baje ke baad.
+Client: Haan toh aaj nahi aaya toh fir woh?
+Dealer: Haan. 200 ka order dal dena na, whatever. 200 quantity order dal doon na?
+Client: Haan.
+Dealer: Theek hai, chalega. Toh main market ke baad hi.
+Client: Woh aap, shaam ko dalte toh rate kaise dalte? Haan? Aap shaam ko dalte toh rate kaise dalte? Market order mein.
+Dealer: Haan woh matlab market order nahi jayega, woh rate dal ke jata hai. Uska circuit limit toh lekin kal update hoga.
+Client: Haan toh fir pata hai ki daloge toh kaise daloge? I'm not aware.
+Dealer: Nahi woh re, nahi woh rate aapko batana padega. Nahi toh fir kal morning ko dalte.
+Client: Rate toh woh ha, because rate toh woh 5% pe block hota hai na.
+Dealer: Haan.
+Client: 5% pe jaake rukta hai.
+Dealer: Haan 5% pe ye hoga toh samjho na agar 577 10 ka hai.
+Dealer: Kal mere khyal se sir 606 ka order aayega, 606 ka.
+Client: But woh aaj kaise dal sakenge?
+Dealer: Haan woh matlab rate dal ke usme MO order dalna padega. Phir jaise market open hoga na, toh agar woh rate apna aa raha hai, agar woh circuit limit ke andar hai toh order jayega nahi toh reject ho jayega. Nahi toh kal subah hi dal de na sir.
+Client: Theek hai.
+Dealer: Hai na. Kal subah 9 baje 9 baje tak aap call kijiye na apan pre-open mein dal denge.
+Client: Theek hai. Okay.
+Dealer: Hai na. Theek hai sir. Haan.

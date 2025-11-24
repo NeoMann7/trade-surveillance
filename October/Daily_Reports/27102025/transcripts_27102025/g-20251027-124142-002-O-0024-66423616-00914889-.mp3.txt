@@ -1,0 +1,5 @@
+Client: हेलो
+Dealer: कौन बोल रहा है?
+Client: 27th अक्टूबर एक्सटेंशन लेना है।
+Dealer: 27th October extension
+Client: लेना है।

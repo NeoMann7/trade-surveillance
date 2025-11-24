@@ -1,0 +1,19 @@
+Client:
+Dealer: Kant October extension 602 second test call.
+Client: Hello?
+Dealer: Hello sir.
+Client: Ha bolie.
+Dealer: Sir, your order of 400 shares of IDFC First Bank is executed at 79.55.
+Client: Okay.
+Dealer: Yeah, this is an additional order that you placed.
+Client: Hmm. I placed it at 79.50. Why is it 79.55?
+Dealer: Yeah, sir, but it got executed at 79.55. See, it's a market order.
+Client: I placed it as a limit order at 79.50.
+Dealer: Sir, but your order book shows it as market. Just a second. Let me verify once.
+Dealer: Okay, sir. Apne 79.50 pe 400 shares limit mein buy lagaye the. But, it's pending. Apne isse pehle jo laga rakha tha, 79.55 pe, woh executed hai. Which was a market order.
+Client: Hmm. Then cancel the 79.50 one.
+Dealer: Okay, just a second. Sir, order has been cancelled.
+Client: Okay.
+Dealer: Anything else, sir?
+Client: No. Thank you.
+Dealer: Thank you, sir.

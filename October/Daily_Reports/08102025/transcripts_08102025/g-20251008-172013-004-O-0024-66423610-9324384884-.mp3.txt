@@ -1,0 +1,9 @@
+Client: Hello
+Dealer: Hello
+Dealer: हेलो हेलो
+Client: हाँ
+Dealer: हां जी बोलिए
+Client: अच्छा ये क्या किया था?
+Dealer: कुछ नहीं।
+Client: कुछ नहीं?
+Dealer: कोई बात नहीं।

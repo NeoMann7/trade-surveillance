@@ -1,0 +1,54 @@
+Client: Hello?
+Dealer: Hello.
+Client: Yeah.
+Dealer: Uh, sir, good morning. Sir, market up ho raha hai.
+Client: Hmm.
+Dealer: Jo apka, uh, Reliance Power tha, wo bhi 10% up ho gaya.
+Client: Oh.
+Dealer: Ji.
+Client: Ha, to maine, uh, buy karunga abhi.
+Dealer: Sir?
+Client: Buy karunga abhi.
+Dealer: Buy karenge? Kitne pe buy karenge sir?
+Client: Hmm, uh, 12.30 pe main buy karunga.
+Dealer: 12.30 pe buy karenge. Kitna quantity buy karenge?
+Client: 10,000.
+Dealer: 10,000 quantity buy kar rahe hain aap. Theek hai sir. Main aapka 10,000 quantity Reliance Power mein 12.30 pe buy order place kar raha hun.
+Client: Hmm.
+Dealer: Theek hai?
+Client: Yeah.
+Dealer: Theek hai sir. Order place kar diya maine.
+Client: Hmm, okay.
+Dealer: Aur, sir, koi order?
+Client: Hmm, uh, Bajaj Finance, uh, 7860 pe buy karunga 200 quantity.
+Dealer: Bajaj Finance mein 7860 pe 200 quantity buy order place kar rahe hain aap.
+Client: Yes.
+Dealer: Theek hai sir. Main aapka order place kar raha hun Bajaj Finance mein 7860 mein 200 quantity ka.
+Client: Hmm.
+Dealer: Theek hai sir. Order place kar diya maine.
+Client: Okay.
+Dealer: Aur, sir, koi order?
+Client: Hmm, aur kya hai? Hmm.
+Dealer: Aur sir, kya dekh rahe hain aap?
+Client: Hmm.
+Dealer: Sir, aaj TCS ka result hai.
+Client: Hmm.
+Dealer: TCS ka result hai. TCS mein dekhiye koi position banani hai aapko?
+Client: Hmm.
+Dealer: Ya Wipro ka bhi result hai sir aaj.
+Client: Hmm, abhi TCS pe 4000 pe buy karunga 500 quantity.
+Dealer: TCS pe 4000 mein 500 quantity buy karenge.
+Client: Yes.
+Dealer: Theek hai sir. Main aapka order place kar raha hun TCS mein 4000 mein 500 quantity ka buy order.
+Client: Hmm.
+Dealer: Theek hai sir. Order place kar diya maine.
+Client: Okay.
+Dealer: Aur sir, koi order?
+Client: Hmm, okay. Abhi to nahi hai. Main baad mein call karta hun.
+Dealer: Theek hai sir. Main aapko update karta rahunga.
+Client: Okay.
+Dealer: Thank you.
+Client: Yeah.
+Dealer: Thank you sir.
+Client: Bye.
+Dealer: Bye.

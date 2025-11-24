@@ -1,0 +1,20 @@
+Dealer: Hello
+Client: Haan sir.
+Dealer: Haan sir.
+Client: 14050, 14050 ka put hai na, 14050 ka put.
+Dealer: Ji.
+Client: Hmm 40 mein 1000 quantity sell karna hai.
+Dealer: Hmm, 40 mein 1000 quantity sell karna hai.
+Client: Haan.
+Dealer: Okay order place kar diya sir maine. Check kariye ga ek baar.
+Client: Okay, okay, okay, okay.
+Dealer: Hmm.
+Client: Ji.
+Dealer: Aur kuch?
+Client: Bas ho gaya. Achcha thoda ek baar 14000 ka put ka price kya chal raha hai ek baar dekhoge.
+Dealer: 14000 ka put ka price abhi chal raha hai apka 225.55.
+Client: Okay, okay, okay, okay.
+Dealer: Hmm.
+Client: Okay. Theek hai. Bas itna hi.
+Dealer: Okay sir.
+Client: Haan.

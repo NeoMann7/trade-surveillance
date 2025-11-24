@@ -1,0 +1,24 @@
+Client: Hello?
+Dealer: Hello? Yeah, Akshat, New Wealth. 8:48 we have to do it, right?
+Dealer: Just a minute, just a minute.
+Dealer: Hello?
+Client: Hello?
+Dealer: Yeah. Ha, so ha ek second acha, acha kitna quantity?
+Client: Mera quantity hai 20150000 at the rate 98. I am a buyer.
+Dealer: Two, ha ek second. 2 lakh, one second, 2 crore 1 lakh 50 thousand.
+Client: Yes.
+Dealer: One, two zero, one five double zero, double zero.
+Client: 20150000 at the rate 98.
+Dealer: Ha, aap ready ho?
+Client: I am ready.
+Dealer: 2 crore 1 lakh 50 thousand.
+Client: Ha, should I?
+Dealer: Ready?
+Client: Yeah, I am ready.
+Dealer: Go in, go in, go in, go in.
+Client: Go in.
+Client: Yeah, mara.
+Dealer: Done?
+Client: Ha, we are please.
+Dealer: Okay, done. Thank you.
+Client: Thank you, thank you, thank you.

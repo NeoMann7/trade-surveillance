@@ -1,0 +1,7 @@
+Dealer: Hello
+Client: अरे फाइल हो जाएगा C4 का।
+Dealer: हां?
+Client: C4। C4 में।
+Dealer: C4 में?
+Client: न्यू C4 का फाइल भैया।
+Dealer: हां ठीक है। हां, आपका ऑर्डर क्या है?

@@ -1,0 +1,122 @@
+Client: Hello.
+Dealer: Hello. Sir bolyena.
+Client: Hmm. Vaishali sir. Vaishali bolyena.
+Dealer: Hmm.
+Client: Ye Atulkar mein, Pidilite Pan hai, wo.
+Dealer: Ek minute sir.
+Dealer: Hmm, Atul Tendulkar na?
+Client: Hmm.
+Client: Very TF.
+Dealer: Amruta uska?
+Client: 150 quantity hai.
+Dealer: Okay.
+Dealer: Haan, to wo pura bech do na ye.
+Client: Sir ye 150 quantity bech diya.
+Dealer: Aur ye Man Industries?
+Client: Man Industries.
+Client: Man Industries 270.30. Uh, 273.30.
+Dealer: Haan, tree mein uh 100 rakh dijiye.
+Client: 370.10, Neka. Atul Tendulkar na?
+Dealer: Theek hai sir.
+Dealer: Ek minute.
+Dealer: Sir ye short fall aa raha hai. Maine jo becha na, uske against hi karke limit le leta hoon. Fir main order dalwa deta hoon.
+Client: Mere paas uh ye nahi hai kya, pledged margin?
+Dealer: Nahi sir. Short 9000, nahi aa raha hai. 9000 ka short fall aa raha hai.
+Client: Ek baar uh agar pledge karna hai, to ek baar pledge of.
+Dealer: Theek hai. Isme lekin pledged kiya hua hi nahi hai koi. Actually kiya tha, dekh lijiye.
+Client: Nahi sir, isme nahi hai. Pledge wala nahi hai kuch bhi.
+Client: To isme pledge karna hai abhi? Sir main dalu request. Ye bhi lagega.
+Dealer: Haan.
+Client: Haan. Hai na? Ek minute.
+Client: Yatashcha. Uh, kitna kaunsa kaunsa pledge karna hai? Sab kar do?
+Dealer: Nahi, tab mat ek sir. 3-4 ka hi ring ho raha hai. Ismein. 3-4 stocks the.
+Client: Haan, dekho apna paas. HDFC. Haan, HDFC Bank hai, uska 190. 190000 hai.
+Dealer: Hmm.
+Client: Reliance hai. Reliance mein add kar raha hoon. 158 uska ho gaya. Dono mila ke 3.5 lakh ka ho raha hai.
+Dealer: Hmm.
+Client: Haan to Reliance aur HDFC Bank main pledge ke liye request.
+Client: Haan sir. OTP aaya hoga aapko.
+Client: Aaya sir.
+Client: Ho gaya.
+Client: Achcha, udya dhavta hai. Hali nahi ata hai. Aani konata rupaye nahi. Aarya vti.
+Client: Ane ko ghr ghr na hai.
+Dealer: Sorry.
+Client: Bolyasho. Kis mein becha tha tune?
+Client: Are toh ali toh.
+Dealer: Maine unko ye vaastu.
+Client: Hello.
+Dealer: Hello. Haan. Haan.
+Dealer: Haan, OTP aa gaya hai na? Naya wala OTP.
+Client: Tu kar raha hai ki main dalu? Main request bhej raha hoon main.
+Dealer: Ye to maine pledge ke liye dala hai.
+Client: Abhi tum mar lo to itna.
+Client: Haan, bolo na.
+Client: Haan. Jaise kya bolta hai?
+Client: 2005. Naya phone diya OTP.
+Client: Kyun de rahe ho?
+Client: Naya wala hai.
+Client: Okay.
+Client: Tu ka na.
+Client: Intercom is there. Ha, su bhashit kara. Pashu ma bhi upani. Apni.
+Client: Kitna dega unko?
+Client: Hello, nahi. Ek minute. Kaki.
+Client: Bolye.
+Client: Haan.
+Client: For you.
+Client: Hmm.
+Client: Kaun sa. Ha, OTP.
+Client: Keharly been full.
+Client: Hello.
+Client: Haan.
+Client: Haan, OTP aa gaya hai na? Naya wala OTP.
+Client: Tu kar raha hai ki main dalu? Main request bhej raha hoon main.
+Dealer: Aare ye toh maine pledge ke liye dala hai.
+Client: Abhi tu maar le to inko.
+Client: Haan, bolo na.
+Client: Haan, jaise kya bolta hai?
+Client: 2005
+Client: Naya phone diya OTP.
+Client: Kya de rahe ho?
+Client: Naya wala hai.
+Client: Okay.
+Client: Tu kah.
+Client: To net out out there.
+Client: Su. Vashid bhaiya, pashu ma bhi upani. Apani.
+Client: Kitna deko ho?
+Client: Hello, nahi aana hai.
+Dealer: Ek minute, Kaki.
+Dealer: Bolie.
+Client: Haan.
+Client: For you.
+Client: Sir, ah. Ha. Aan. OTP aa gaya hai?
+Dealer: Isme bola tha na. PDF something else.
+Client: Ah, ha. Main toh ye.
+Dealer: Hello.
+Client: Haan, kaka limit aala ha the. Bola. Kaay karayche?
+Dealer: Tujhe against buy kele le, taak lela order.
+Client: Ho. He toh sala takla nahi he reject jala. Kaaran limit navti he.
+Client: 270.10 la Man Industries.
+Dealer: Kiti 270? 370 chalat.
+Client: 370. Theek hai. Kiti vikaaycha?
+Dealer: 100.
+Client: 100 quantity tumhala 370 rupees, 10 paise madhe hai. NO0 WM00206.
+Dealer: Okay.
+Client: NO0 WM00206.
+Client: Ek minute sir.
+Client: Arre ha, toh. Haan.
+Client: He aala hai OTP 839918.
+Client: Ek minut. Order nahi gel.
+Client: Madam kadhe.
+Client: Hello.
+Client: Hello. Ek minut Kaki, ek minut.
+Client: Haan.
+Client: Theek hai, he 370.10 madhe order gela aapla 100 cha. He kakan na bolun theva. Aani tumhi OTP bola mala.
+Client: Haan. Ek minut.
+Client: Double nine. Kai kai.
+Client: 83. 8399.
+Client: 18.
+Client: 18.
+Client: Theek hai. Pledge kela. Thoda mintat long aail. Aani kakan na bola. Hey Man Industries che 100 quantity thevalay mi.
+Client: Kai chala. Ek nahi hai.
+Client: Ek kuna aada. Kay mhanta hai? Man Industries che 100 rupaye madhe 100 quantity buy karayla thevaycha hai. Thevalay mi order. Te tan bolun ghe.
+Client: Okay. Okay. Theek hai. Okay.

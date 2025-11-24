@@ -1,0 +1,20 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha.
+Client: Rajan, good morning.
+Dealer: Good morning.
+Client: One sell, uh... uh, 21975.
+Dealer: Yes.
+Client: Put it now, 21975.
+Dealer: Okay.
+Client: Call option, 21975, buy.
+Dealer: Call option.
+Client: Yeah, March ka. March.
+Dealer: March ka. Haan.
+Client: 21975, call option, buy kar do. Okay?
+Dealer: Okay. Hello, abhi 21975, call option, buy.
+Client: Hmm.
+Dealer: Okay.
+Client: Okay.
+Dealer: Yes.
+Client: Okay.

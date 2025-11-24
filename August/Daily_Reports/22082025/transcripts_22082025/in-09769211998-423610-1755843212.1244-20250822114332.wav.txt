@@ -1,0 +1,10 @@
+Client: Hello.
+Dealer: Hello ni, sorry. Jignasha?
+Client: Yeah.
+Dealer: Are apne zyada kyu liya quantity isme client mein?
+Client: Ah, actually wo kya hua, hum log ne rate matlab jo hai, theek hai, wo neeche ke rate se hum log ne divide kiya tha. Theek hai, aur rate badh raha tha, toh quantity phir baad mein order place kar diya tha, automatically phir wo aa gaya, rate change kiya toh.
+Client: Isliye 6000 ka difference hua hai aur check bhi kiya toh balance bhi tha.
+Dealer: Balance aa gaya, theek hai, chalo.
+Client: Hmm, balance hai, 28,000 ka balance tha, sirf 6,000 exceed hua hai amount.
+Dealer: Theek hai.
+Client: Okay?

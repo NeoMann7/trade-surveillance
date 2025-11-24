@@ -1,0 +1,6 @@
+Dealer: Hello.
+Client: Hello, is Zara around? I'm a father talking.
+Dealer: No, no, sir. Satish Vasu, I'm calling from Neo.
+Client: Okay, okay. Neo dealing team. Actually, you told me to call me for regarding of buying of 10,000 RK.
+Dealer: Half an hour, half an hour ke baad phone karte hai.
+Client: Achcha theek hai, main after 9:30 karta hu.

@@ -1,0 +1,44 @@
+Dealer: Hello?
+Client: Isme mujhe yeh bataiye ki mujhe kota karke bhejoonga, kota ka kidhar likhna hai DP ID aur client ID?
+Dealer: Ek second sir rukhiye. Arre meri baat suno na, unko Kotak ka DP ID aur client ID kahan likhna hai? Ek minute chaloge. Yeh dekho yeh bataye isme, ek. Ek minute. Ek minute ha abhi. Yeh bata dena. Stop, my account is transfer, yeh wala.
+Dealer: Niche na, bolo sir.
+Client: Boliye ji.
+Dealer: Niche likha hai, action to be initiated on remaining security.
+Client: Haan ji.
+Dealer: Uske neeche dekho, transfer to another account.
+Client: Theek hai.
+Dealer: Uske wahan par aapko DP ID aur client ID Kotak ka likhna hai.
+Client: Theek hai. Toh isme yeh off market transaction slip bhi likha hua hai kuch, woh bhi bhejna hai.
+Dealer: Off market transaction slip, nahi, zaroorat nahi hai sir.
+Client: Zaroorat nahi hai.
+Dealer: Hmm.
+Client: Aur aapko client master list jo main aapko bhej raha hoon uss pe Kotak ka seal signature hai. Mera bhi seal sign chahiye?
+Dealer: Yes, yes, aapka bhi chahiye aur Kotak ka bhi chahiye. Kotak ka seal?
+Client: Bahar put ka merge karke seal ke saath.
+Dealer: Haan, Kotak ka aap jo bhejo na usme Kotak ka logo aur sign chahiye aur aapka bhi chahiye stamp aur sign.
+Dealer: NSDL ka.
+Client: Haan NSDL ka theek hai.
+Client: Theek hai bhaiya. Aur kaun se address pe karna hai isko?
+Dealer: Yeh aapka Neo ka hi karna hai. Aapke paas hai Neo ka address?
+Client: Nahi hai.
+Dealer: Theek hai, main aapko mail kar deta hoon.
+Client: Yeh wala upar likha hua hai aapki sheet mein Neo Wealth Management 903 B Wing Ninth Floor? Yeh wala hai?
+Dealer: Haan haan udhar bhi bhej doge toh chalega. Woh eighth time floor hai, hum log ground floor pe baithte hain.
+Client: Toh kisko kind attention? Kiska naam dalun?
+Dealer: To Sandeep Karande.
+Client: To Sandeep Karande?
+Dealer: Karande, Karande.
+Client: K A R.
+Dealer: K A R A N D E, Karande.
+Client: Theek hai. Inka koi number bata dijiye taki main usko call karun.
+Dealer: Mobile number aapko deta hoon. Ek minute.
+Client: Yamuna come here.
+Dealer: Hello, likhiye sir.
+Client: Haan boliye.
+Dealer: 99694.
+Client: Hmm.
+Dealer: 23.
+Client: Hmm.
+Dealer: 930.
+Client: Theek hai bhaiya, thank you.
+Dealer: Okay.

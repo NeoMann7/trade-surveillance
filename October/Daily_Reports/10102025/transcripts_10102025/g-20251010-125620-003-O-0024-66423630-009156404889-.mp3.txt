@@ -1,0 +1,2 @@
+Dealer: Good afternoon extension 600.
+Client: Can I talk to extension 600?

@@ -1,0 +1,12 @@
+Dealer: Hello.
+Client: Hello sir good morning.
+Dealer: Good morning.
+Client: Sir, I want to sell 100 shares of Reliance at market price.
+Dealer: Okay sir, one minute, checking for you.
+Client: Yeah.
+Dealer: Yeah sir, your order for Reliance, 100 shares at market price, sold.
+Client: Okay sir, thank you.
+Dealer: Anything else, sir?
+Client: No sir, that's it for now.
+Dealer: Okay sir, have a good day.
+Client: You too, sir. Thank you.

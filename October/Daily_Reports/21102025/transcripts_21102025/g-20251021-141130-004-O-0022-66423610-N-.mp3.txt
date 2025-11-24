@@ -1,0 +1,3 @@
+Dealer: Hello sir, good morning.
+Client: Hello.
+Dealer: Nahi, woh Jagat pe nahi hai. Waapas call karo. Theek hai. Haan.

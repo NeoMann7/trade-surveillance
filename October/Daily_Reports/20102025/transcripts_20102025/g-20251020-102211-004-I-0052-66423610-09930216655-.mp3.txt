@@ -1,0 +1,9 @@
+Dealer: Hello?
+Client: Ha, Ruchi bol raha hu.
+Dealer: Ha Ruchi, ha trade ho gaya hai.
+Client: Ha ho gaya. Kitna hai total value apne paas?
+Dealer: Ah, total ek to 52. 97 ka hoga total. To apne paas na, ha 97 ka hoga. 54 apne paas already hai.
+Client: Main baki kahan?
+Dealer: 43 is itna apne dusra na order pending me rakha hai. 45 ka jo hai na, wo order pending me hai.
+Client: Achha. To agar wo Kumarswami ne shaya ja ye 45 laga diya.
+Dealer: Okay. Agar wo 45 aa jayega toh ho jayega. Toh issue nahi apne paas. Theek hai bhai, hai na. Theek hai.

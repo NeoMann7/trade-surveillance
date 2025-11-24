@@ -1,0 +1,5 @@
+Dealer: Hello.
+Client: Hello. Kaun hai wo ji?
+Dealer: Nifty C5 mein Yash 1491 quantity sell ho gaya hai. Aapka selling average hai 1862.56. Nifty C4 mein Yash 670 quantity sell hua hai. Selling average hai 1850.94 paise. Dono mein trade ho gaya complete.
+Client: Okay. Okay.
+Dealer: Okay.

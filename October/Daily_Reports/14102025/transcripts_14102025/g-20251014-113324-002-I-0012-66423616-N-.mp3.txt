@@ -1,0 +1,5 @@
+Dealer: Hello
+Client: Hello Vasu. Vasu sir, aap baithiye.
+Dealer: Ha bolye kuch karna hai trade sir?
+Client: Nahi nahi main aapko call karta hu.
+(Call ends)

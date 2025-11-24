@@ -1,0 +1,12 @@
+Client: Hello.
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello.
+Client: Ji.
+Dealer: Ji, bol.
+Client: Ji, sir, 23 400 ki call, 137 mein 400 quantity sell karni hai.
+Dealer: 23 400 ki call 137 mein 400 quantity sell. Haan ji.
+Client: Okay.
+Dealer: Done.
+Client: Okay.
+Dealer: Haan.

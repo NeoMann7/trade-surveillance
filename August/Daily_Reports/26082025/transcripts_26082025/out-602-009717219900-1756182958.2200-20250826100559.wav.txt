@@ -1,0 +1,12 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Haa ji.
+Client: Na sir 800 share aa gaye 350 mein.
+Dealer: Hmm. Total apne 2600 share ka average hai 341.69.
+Client: 2600 341 point 39.
+Dealer: 39 341.69.
+Client: Sar ek baar dobara bolenge.
+Dealer: 300 341 rupees 69 paise.
+Client: Theek hai.
+Dealer: Theek hai.
+Client: Toh abhi kya hai?

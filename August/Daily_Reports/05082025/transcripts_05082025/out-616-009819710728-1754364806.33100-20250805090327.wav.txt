@@ -1,0 +1,6 @@
+Dealer: Hello, good morning.
+Client: Yes, good morning.
+Dealer: Yes.
+Client: K-
+Dealer: G- G- 25616 dash call.
+Client: Yes.

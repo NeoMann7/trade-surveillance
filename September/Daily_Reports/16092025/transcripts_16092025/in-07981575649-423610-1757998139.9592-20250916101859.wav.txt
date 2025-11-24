@@ -1,0 +1,11 @@
+Dealer: हेलो
+Client: हेलो गायत्री
+Client: या विकी बात कर रहा हूं
+Dealer: हां विकी बोलिए
+Client: हां अच्छा वो आप अभी बता सकते हो मुझे
+Client: वो कल का जो डेमो था
+Dealer: Can we schedule a call at 11 o'clock, Vicky? Is that okay? And because I have another meeting at 10:30.
+Client: ठीक है ठीक है नो इशू।
+Dealer: आप आपका ईमेल आईडी व्हाट्सएप कीजिए ना मुझे। एंड इफ यू नंबर पे आप व्हाट्सएप कीजिए। आई विल शेड्यूल अ कॉल।
+Client: ठीक है चलेगा या।
+Dealer: या या या ओके थैंक यू।

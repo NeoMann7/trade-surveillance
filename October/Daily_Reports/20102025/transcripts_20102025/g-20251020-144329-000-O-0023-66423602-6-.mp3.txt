@@ -1,0 +1,5 @@
+Dealer: हेलो, हेलो,
+Dealer: हेलो दरिया।
+Client: मीना सी?
+Dealer: एक मिनट।
+Dealer: हां, ठीक है।

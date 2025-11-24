@@ -1,0 +1,17 @@
+Dealer: Hello?
+Client: Sir?
+Dealer: Sir, Prithviraj call. Market khule che, ha.
+Client: Voi hai.
+Dealer: Ek minute. Are, inka trade nahi ho raha hai kya? Suno.
+Client: Hello?
+Dealer: Hmm.
+Client: Ek minute ah. Dekh Vasu, Preeti ka order gaya hai, dek. Vasu. Dekh Preeti ka mail aaya, dek.
+Dealer: Hello? Bol aaega? Haan, ek minute. Ah, ₹190.50 che.
+Client: De 200 share toh buy kar yaar. Bhai, 1000 share le lo ne.
+Dealer: Haan, Preeti ka hai.
+Client: ₹190, ₹191 karine lo ne.
+Dealer: Haan, lai lo.
+Dealer: Chalo, ketlu amount che mane kai deje. Hu pachhi tane by return kar nakhis.
+Client: Ah, tamare kaik ₹3,81,000 gano ne.
+Client: 82 na? Theek che.
+Dealer: Hmm.

@@ -1,0 +1,30 @@
+Client: Hello.
+Dealer: Hello. Piyush sir?
+Client: Uh, ek minute, who is this?
+Dealer: Piyush, Piyush this side.
+Client: One minute.
+Dealer: Hello. Phone mooki didho shoo?
+Client: Hello. Phone mooki didho ten?
+Dealer: Naa bus have mookis aa silent upar che. Bolo bolo.
+Client: Achcha, saambhal, ame 5 lakh rupiya mokalya jara check kar le aavi gaya ke nahi?
+Dealer: Haan, aavi gaya che.
+Client: Aavi gaya ne? Saru, have maare che ne Tourism Finance Corporation levana che.
+Dealer: Ek minute, opra. Shu phone aava dyo chahe? Ek minute. Kayo stock levana che tamare? Tamara account ma che e?
+Client: Haan, Tourism Finance Corporation.
+Dealer: Nai, already che tamara aagal portfolio ma?
+Client: Che, che. Yes, che.
+Dealer: Ek minute haan. Haan, barabar.
+Client: Barabar. Ketla stocks padya hata haman aapni paase already?
+Dealer: Tamara aagal che atyare 11,850 quantity.
+Client: Barabar. Have che ne maro portfolio koi di jode discussion nai thavu joiye. Quantity shu che ne shu?
+Dealer: Haan, e to no problem.
+Client: I just trust you. Just keep that in mind, barabar?
+Dealer: Hmm, okay.
+Client: Have maare che ne 5 lakh na Tourism Finance levana che. About 2800 kevani shares aavshe. To nave ne 15, nave ne 20 e mane phone kar, nave ne 20 e mari flight che haman Bangalore maate.
+Dealer: Okay.
+Client: But if you can just call me before that, it'll be great.
+Dealer: Hu tamne nave ne vise call karu chu, chalo.
+Client: Haan, nave ne 15 e kaj ne bazaar khule che.
+Dealer: Haan, bazaar khule etle tamne karu chu, chalo, ek minute.
+Client: Theek che, daay.
+Dealer: Hmm.

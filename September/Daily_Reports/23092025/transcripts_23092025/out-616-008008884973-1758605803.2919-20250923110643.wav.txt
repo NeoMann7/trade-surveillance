@@ -1,0 +1,17 @@
+Dealer: Hello
+Client: Hello Varun sir
+Dealer: Ah. Yeah, good morning sir. Varun here.
+Client: Ah, good morning, good morning Varun sir.
+Client: So, uh I wanted to place a buy order for NHAI InvIT, uh limit 140. Quantity 1 lakh.
+Dealer: Okay. So you want to purchase NHAI InvIT, uh 1 lakh quantity at the rate 140, okay?
+Client: Ha, correct.
+Dealer: Ah, clear kar do. And this is for my personal account.
+Client: Yeah, your Varun Agarwal. Your WPP00491 Varun Agarwal, okay?
+Dealer: Correct.
+Client: Abhi waise kya hai usme feedback?
+Dealer: Abhi maine place kar diya order. 25,000 buy ho gaya. 75,000 it's pending at 140.
+Client: Okay, done, done, done.
+Dealer: Okay. Ek baar buy hota hai I will confirm you.
+Client: Okay. Thank you, bye.
+Dealer: Bye sir. Bye.
+Client: Bye.

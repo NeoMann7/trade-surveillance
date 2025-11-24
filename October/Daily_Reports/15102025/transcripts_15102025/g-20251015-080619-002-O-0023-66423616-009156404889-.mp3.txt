@@ -1,0 +1,15 @@
+Client: 66 First score
+Dealer: Hello?
+Dealer: Hello?
+Dealer: Hello?
+Dealer: Hello?
+Client: 66 First score
+Dealer: Sir?
+Dealer: Sir?
+Client: 66 First score
+Dealer: Sir, what was the call?
+Client: 66 First score
+Dealer: Sir?
+Dealer: Sir?
+Client: 66 First score
+Dealer: Yes sir.

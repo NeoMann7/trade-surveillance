@@ -1,0 +1,28 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes.
+Client: Yes. Can you give me the rate of Adani Enterprise?
+Dealer: Ek minute, sir. Adani.
+Dealer: Adani Enterprises 2682.70, 2683.
+Dealer: 84.
+Client: Take five.
+Dealer: Current rate pe na, sir?
+Dealer: 86 ho gaya, sir. Aa gaya. 2685 mein aa gaya, sir.
+Client: Okay. And Bharat Dynamics.
+Dealer: BDL is 1584.80, 1585.
+Client: Take 20.
+Dealer: 20 bought at 1584.90.
+Client: Okay. And Mazagon Dock.
+Dealer: Mazagon Dock 2931.70, 2933.
+Client: Take five.
+Dealer: Five bought at 2932.50.
+Client: Okay. And Acme Solar.
+Dealer: Acme Solar 293.50, 293.70.
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha, sir, 293.50, 293.70.
+Client: Take 50.
+Dealer: Hello.
+Dealer: 50 bought at 293.74.
+Client: Okay, fine. Thank you.
+Dealer: Thank you.

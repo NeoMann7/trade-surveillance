@@ -1,0 +1,9 @@
+Dealer: हम्म
+Client: Hello, uh, please can you just, uh, guide me with your mail ID?
+Dealer: Ram.sharma@insport.in
+Client: Ram.sharma@team.
+Client: You're asking me to mail on teams?
+Dealer: Uh huh.
+Client: Okay. Fine, I got it. Thank you.
+Dealer: हम्म
+Client: हम्म

@@ -1,0 +1,12 @@
+Client: Hello?
+Dealer: Good morning, sir. Good morning.
+Client: Hello?
+Dealer: Ha good morning, sir. Boliye.
+Client: Good morning. Can you check Nippon Silver?
+Dealer: Nippon Silver. Silver B's, na? Ha. Nippon Silver. Nippon Silver 1320607.
+Client: 100.
+Dealer: 100?
+Client: Yeah.
+Dealer: 100 aa gaya sir. 32.07.
+Client: Okay, thank you.
+Dealer: Ha.

@@ -1,0 +1,126 @@
+Dealer: Hello.
+Client: Hello. Ha sir. Akhil bol raha hu.
+Dealer: Haan, boliye.
+Client: Ek call aur put sell karna hai mere ko.
+Dealer: Haan.
+Client: 25,400 ka call sell kar do.
+Dealer: 25,400 ka call.
+Client: ₹5, 50 paise ka, ₹5 ka.
+Dealer: Kitna quantity?
+Client: Ah, 2,800 quantity. 2,700 try karo, 2,700 quantity.
+Dealer: 2,700 quantity bech raha hu main. Nikhil Jain, right? 2,700 quantity, abhi 4.90 ho gaya hai. 5 mein pending hai apna, 5.10 mein. Modify karu usko?
+Client: Ek put ka bhi daal do 25,100.
+Dealer: Haan.
+Client: Sir, put.
+Dealer: 25,100 ka put. Kitna quantity?
+Client: Wohi apna same, 2,700.
+Dealer: 2,700.
+Client: ₹7.90 ka daal do.
+Dealer: Haan. Put bik gaya hai apna ₹7.50 mein. Aur call abhi bhi pending hai apna ₹5.10 mein. Call bech du ek baar, modify karu?
+Client: Haan.
+Dealer: 4.65 ho gaya hai abhi woh.
+Client: Ek second, ha. Abhi kitna aa raha hai? 2,700, 50, 60, 70, 80. 80 into 3, 240. Haan, theek hai, wohi jaa raha hai. Haan, kar do 4.65, 4.70.
+Dealer: 4.65 kiya hai. Ek minute, abhi bhi pending hai 4.50, 4.65.
+Client: Yaar, itna gir kyu raha hai ye?
+Dealer: Hmm. Put badh raha hai na? Niche aa raha hai. Bazar khaali 10 point hai.
+Client: Oh, 2 minute ruko phir.
+Dealer: Haan, 4.65 mein apna hai khada hai, 4.65 mein. 4.65. Aur 35 point upar neeche ho raha hai. Haan. But put put saamne ₹2 upar aa gaya na. Aur call utna nahi gira hai, call 40 paise hi neeche aaya hai. Put ₹2 upar aa gaya hai. 5 wala 7 ho gaya, 7.50 mein bika apna.
+Client: Achha. Hmm, good.
+Dealer: Toh isme agar chahiye toh 10-20 paise neeche karke de sakte hai ek baar.
+Client: ₹4.50 pe?
+Dealer: Haan.
+Client: Haan, becho ₹4.50 pe kya dikkat hai?
+Dealer: ₹4.50 kiya hai. Pending hai abhi 4.35 ho gaya hai. 4.30, 35, 40. 4.50 mein pending hai apna.
+Client: Badhne laga hai phir. Haan. Hata do 4.50, order hata do, badh gaya hai yeh.
+Dealer: Kitna karu? Upar main kar du wapas?
+Client: ₹5, ₹5 kar do.
+Dealer: Theek hai, dono ko modify karke ₹5 kar diya hai. Aur cover mein daalna hai kuch?
+Client: Ek second, pehle ye trade daalne do phir karte hai. Haan.
+Client: Cover kitne ka milega apna ko?
+Dealer: Hmm.
+Client: ₹1.55.
+Dealer: Haan, neeche mein. Put agar, put toh samajh lo na 21,000 ka put hai, uske saamne. Agar 24,900 ka bhi put dekh rahe toh 1.40 ka hai.
+Client: ₹1.40, ₹1.40 dono taraf karunga.
+Dealer: Neeche mein kaun sa wala put? Ye 24,900 ka dekhe?
+Client: Aur ek second, ha. Pehle ek baar ye 4.50 aaya hai wapas, 4.60 ho gaya hai, 4.55.
+Dealer: Hmm.
+Client: 4.70 ho gaya hai. Ek baar isko hata do, apne order ko. 5 se bhi hata do.
+Dealer: Order hi hata du?
+Client: Haan. 25, 25,400 wala order jo hai na, call sell, woh hata do ek baar.
+Dealer: Theek hai, delete kar diya.
+Client: Ab hum rate aane do. 2 minute call pe hi raho.
+Dealer: Hmm, hmm. 4.40, 4.45.
+Client: Hmm.
+Client: Ek, isko paanch, paanch hi pe hi daal do.
+Dealer: Huh?
+Client: 4.50 ka daal do na? Ki 4.60 ka daal ke rakhte hai?
+Dealer: 4.60, 4.50, 4.60 mein ek baar de dena chahiye. Kyunki dekho, abhi naya low mara wapas usne 4.15. Kyunki main wahi bol raha hu, put apna vaise bhi ₹2 upar gaya na, toh ye ek baar 30-40 paise neeche bhi gaya toh koi ye nahi hai.
+Client: Haan, theek hai, becho.
+Dealer: Kitne kar rate pe du? Abhi, ₹4 ho gaya hai.
+Client: ₹4 ho gaya hai na. Haan. ₹4.50 daalo.
+Dealer: ₹4.50 mein. Theek hai, 4.50 mein daala ek baar.
+Client: Hmm.
+Dealer: Aur put 8.50 ₹9. Achha, Nifty ne minus ho gaya hai, negative ho gaya hai.
+Client: Hmm.
+Client: Abhi Nifty toh upar aayegi yaar.
+Dealer: Hmm. 3.75, 3.70.
+Client: Ek second ha. Mere ko ye batao abhi 25,180, 25,200 hai. 36 aur 30, ₹60 hua na? Ki ₹70 hai?
+Dealer: ₹70 ho gaya.
+Client: ₹70 into 3 kiya toh, 210. Toh kitna aayega yahan se? 210 add karo toh, 25,000 ka put hua neeche pe. Aur upar mein 25,400 ka.
+Client: Nahin, 25,350 hoga kya? Nahin.
+Dealer: Haan, 200, ₹200 na, ₹200 ka daal do agar 25, 25,200, 25,400 ka hi call ho raha hai, aur neeche mein 25,000 ka put ho raha hai.
+Client: Haan.
+Client: 25,350 wala bhi kar sakte hai apan sell abhi.
+Dealer: 350 wala.
+Client: Kar sakte hai na?
+Dealer: ₹5.50 aa raha hai, ha.
+Client: ₹5.50 aa raha hai. Haan, kar do ₹5.60, ₹5.70.
+Dealer: Toh ye delete kar du na order?
+Client: Haan, ye wala order delete kar do.
+Dealer: Theek hai, ye order delete kar diya. Abhi kaun sa 25,350 wala karu?
+Client: Haan. Kitna? 2,700 quantity. Ya abhi ye paas toh nahi aaya hai na? Kitna?
+Dealer: Paas toh yahi hai, matlab 350 abhi yahan se 200 point door hai.
+Client: Haan, 170 mein aap 80, 170 mein 210 add karoge na? Toh 270, 370 ho gaya.
+Dealer: Hmm.
+Client: 360, ha. Thoda sa paas hi hai. Haan. Nahi, upar mere ko toh door hi rakho. 25,400 ka kar lo. Ye 3.50, jo bhi bik raha hai, theek hai.
+Dealer: 25,400 ka karu?
+Client: Haan.
+Dealer: Abhi ₹3.50 ho gaya hai, 3.35 ho gaya hai woh.
+Client: Hmm.
+Dealer: Kya karu?
+Client: Koi nahi na, kya farak padta hai?
+Dealer: De du current rate pe?
+Client: Haan, ha.
+Dealer: Ek minute.
+Client: Ya hello.
+Dealer: Haan.
+Client: Vikki.
+Dealer: Haan.
+Client: Kya kare? 25,350 kare kya abhi? Kya lag raha hai is margin ke hisaab se?
+Dealer: Margin ke hisaab se toh dekho, abhi woh abhi bajar neeche aaya hai iske liye woh neeche aaya hai. Agar yahan se wapas agar cover kiya na zor se, toh woh bhi ek baar fatega hi fatega.
+Client: Hmm. Apne ko to upar toh margin rakhna chahiye, neeche ka. Kar de woh 25,400 pe hi kar.
+Dealer: 400 ka karu? Current rate pe de raha hu ek baar.
+Client: Hmm.
+Dealer: Haan, ye 2,700 gaya apna 3.60 mein. Apna put 25,100 ka put bika hai 7.50 mein. Aur 25,400 ka call bika hai 3.60 mein.
+Client: Haan.
+Dealer: Hai na? Apna net value 29,970 ka bika hai abhi.
+Client: Haan.
+Dealer: Mere hisaab se wait karna chahiye abhi. Itna matlab ₹30,000 toh apan ne ye kiya hai abhi.
+Client: ₹30,000 net sell kar diye kya? Haan.
+Dealer: Haan.
+Client: Toh theek hai bahut hai.
+Dealer: Quantity apna 2,700, 2,700 hai na dono baju.
+Client: Haan.
+Dealer: Haan. Uske liye. Dekho abhi apne paas ha. 25 lakh abhi bhi margin available hai. Agar hum cover thoda ye karte hai. Cover buy karte hai toh shayad apna on limit aur khulega. But mere hisaab se ₹30,000 toh abhi aa hi raha hai, matlab ₹30,000 apna premium humne becha hai ₹30,000 ka.
+Client: Hmm.
+Dealer: Haan.
+Client: Theek hai.
+Dealer: Hai na? Thoda wait karte hai abhi.
+Client: 25,100 pe apna becha hai na? Haan.
+Dealer: 25,100 ka wahi nazdeek hai thoda, baaki kuch nahi.
+Client: Haan. Ekdam paas aa gaya 25,170 ho gaya hai.
+Dealer: Haan.
+Client: Chal theek hai ab.
+Dealer: Hai na? Toh yahan se upar jaata hai ki niche jaata hai? Chalo.
+Client: ₹5000 pehle kamaate hai.
+Dealer: Theek hai. Haan.

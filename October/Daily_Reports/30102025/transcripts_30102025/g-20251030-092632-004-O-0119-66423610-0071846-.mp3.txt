@@ -1,0 +1,25 @@
+Dealer: Hello.
+Dealer: Ha ha bolo.
+Client: 85800
+Dealer: 85,000, 85,900 hi hai na? Haan.
+Client: Ma-
+Dealer: Haan. Kitna maru hazar?
+Client: Hazar.
+Dealer: ₹5 ho gaya hai. De do ek bar 5 karke.
+Client: Nahi 85800 kar do ₹6 10 paise.
+Dealer: Ye nahi, aa ha. Ek minute. Ye order delete kiya.
+Dealer: ₹6 wala.
+Client: Hmm.
+Dealer: Haan ye gaya ₹6 mein 85,800.
+Client: 83000 ₹7 10 paise vo bhi kar do.
+Dealer: 83
+Client: 800.
+Dealer: 83,800 ka put.
+Client: Ha.
+Dealer: 6.25 wala.
+Client: Ha.
+Dealer: Haan, ye 6.40 mein gaya 83.
+Client: Kitna ho gaya?
+Dealer: Margin ho gaya pura complete. 28,000 hai khali abhi. 139 use ho gaya.
+Client: Theek hai.
+Dealer: Ha.

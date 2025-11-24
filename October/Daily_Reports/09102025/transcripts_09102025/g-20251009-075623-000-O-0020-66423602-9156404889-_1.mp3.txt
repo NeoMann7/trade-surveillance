@@ -1,0 +1,118 @@
+Client: Hello?
+Dealer: Yes sir.
+Client: Yeah.
+Dealer: Bolie.
+Client: Yes, sir.
+Dealer: Bolie.
+Client: Yeah. Reliance, 25000, 251000.
+Dealer: Hmm.
+Client: Call, 2500. Sell.
+Dealer: 2500. Uh call. Right?
+Client: Yes.
+Dealer: And what's the quantity, sir?
+Client: Quantity, two lots.
+Dealer: Two lots. Okay.
+Client: Yeah.
+Dealer: At what price, sir?
+Client: It's a current market price.
+Dealer: Current market price. Okay. Sell order. Okay. One minute. Reliance, 2500 call, two lots. Sell at current market price. Okay. Placed, sir.
+Client: And Bank Nifty, 44200.
+Dealer: 44200.
+Client: No, 44200.
+Dealer: Okay.
+Client: Bank Nifty, yeah.
+Dealer: Call or put, sir?
+Client: Call.
+Dealer: Call. Okay.
+Client: 44200.
+Dealer: Quantity, sir?
+Client: Two lots. Sell.
+Dealer: Two lots. Okay. At current market price. Okay. Placed, sir.
+Client: Hmm.
+Dealer: Done.
+Client: Hmm.
+Dealer: Done, sir.
+Client: And then.
+Dealer: Hmm.
+Client: ITC.
+Dealer: Yes.
+Client: Hmm. 480.
+Dealer: Yes.
+Client: Call, six lots. Sell.
+Dealer: 480 call, six lots, sell. Okay. At current market price. Okay. Done, sir.
+Client: Hmm.
+Dealer: Done. Anything else, sir?
+Client: Yeah, one minute.
+Dealer: Hmm.
+Client: Hmm.
+Dealer: Hmm.
+Client: Maruti.
+Dealer: Yes.
+Client: Hmm. 11000.
+Dealer: Hmm.
+Client: Call. Two lots. Sell.
+Dealer: 11000 call, two lots. Sell. At current market price. Okay. Done, sir.
+Client: Okay.
+Dealer: Done.
+Client: Okay.
+Dealer: Anything else, sir?
+Client: Yes.
+Dealer: Hmm.
+Client: Tata Motors.
+Dealer: Hmm.
+Client: 640. Call.
+Dealer: Call.
+Client: Two lots. Sell.
+Dealer: 640 call, two lots. Sell. Current market price. Okay. Done, sir.
+Client: Okay.
+Dealer: Okay. Anything else, sir?
+Client: Yeah.
+Dealer: Hmm.
+Client: Infosys.
+Dealer: Infosys. Yes.
+Client: 1540.
+Dealer: Yes.
+Client: Put.
+Dealer: Put. Okay.
+Client: Buy.
+Dealer: Buy.
+Client: Two lots.
+Dealer: Two lots. Okay. At current market price. Infosys, 1540 put, two lots, buy. Okay. Done, sir.
+Client: Done.
+Dealer: Okay. Anything else, sir?
+Client: Yeah, one minute.
+Dealer: Hmm.
+Client: Hmm.
+Dealer: Hmm.
+Client: Reliance, 2500.
+Dealer: Reliance 2500. Yes.
+Client: Call. Buy back.
+Dealer: Call. Buy back. Okay.
+Client: Two lots.
+Dealer: Two lots. Okay. At current market price. Done, sir.
+Client: Done.
+Dealer: Okay. Done.
+Client: One minute.
+Dealer: Hmm.
+Client: HDFC Bank.
+Dealer: Hmm.
+Client: 1700.
+Dealer: Yes.
+Client: Call. Two lots. Buy.
+Dealer: 1700 call, two lots. Buy. Okay. At current market price. HDFC Bank. Okay. Done, sir.
+Client: Done.
+Dealer: Okay. Done.
+Client: Bank Nifty, 44200.
+Dealer: Bank Nifty, 44200.
+Client: Call. Buy back.
+Dealer: Call. Buy back. Okay.
+Client: Two lots.
+Dealer: Two lots. Okay. At current market price. Okay. Done, sir.
+Client: Done.
+Dealer: Done. Okay.
+Client: Okay.
+Dealer: Okay. Anything else, sir?
+Client: No, done.
+Dealer: Okay, sir. Thank you.
+Client: Thank you.
+Dealer: Welcome.

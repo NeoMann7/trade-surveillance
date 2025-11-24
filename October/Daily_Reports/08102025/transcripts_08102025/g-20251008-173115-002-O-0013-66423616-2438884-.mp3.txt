@@ -1,0 +1,4 @@
+Dealer: Hello?
+Client: Buy 200, SBI.
+Dealer: SBI 200. Okay.
+Client: Yeah.

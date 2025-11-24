@@ -1,0 +1,6 @@
+Dealer: Hello
+Client: Hello
+Dealer: Boliye bhaiya.
+Client: Haan sir, aapko trade mail kar diya aur woh contract note jo aapko chahiye tha woh bhi mail kar diya hai.
+Dealer: Theek hai, kar dijiye.
+Client: Okay.

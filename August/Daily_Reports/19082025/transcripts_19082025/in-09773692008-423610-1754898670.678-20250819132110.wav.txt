@@ -1,0 +1,10 @@
+Dealer: Hello
+Client: Hello
+Dealer: હા સર
+Client: હા સ્પીડ 3 કેટલા આવ્યા?
+Dealer: આપણા ટોટલ સર એટલા જ છે 4125
+Client: 4125 ઉપર જ પાડી દેજો ને
+Dealer: ઠીક છે
+Dealer: હા હા અત્યારે 502 10 245
+Client: ઠીક છે
+Dealer: હા હા

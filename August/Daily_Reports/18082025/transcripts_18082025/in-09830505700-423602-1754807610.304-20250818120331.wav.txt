@@ -1,0 +1,34 @@
+Client: Hello?
+Client: Hello?
+Client: Prerak bol raha hu, hi, kaise ho?
+Dealer: Haan boliye Prerak ji.
+Client: Kya hua woh uska apna nikal gaya saara ki bacha?
+Dealer: Haan, haan, 18600 quantity sell ho gaya tha na, 106 rupaye 99 paise mein.
+Client: Kya chal raha hai abhi?
+Dealer: Abhi chal raha hai 106 rupaye 45 paise, 78 paise.
+Client: Achha.
+Dealer: Hmm.
+Client: Mera 105 ka buy bhi rakh lo.
+Client: Same quantity.
+Dealer: Ek minute. Same quantity rakhna hai, kya?
+Client: Hmm.
+Dealer: Ek minute.
+Dealer: Lekin intraday mein buy hoga. 105 rupaye mein?
+Client: Hmm.
+Dealer: 18600 quantity, barabar?
+Client: Yes.
+Dealer: KART, ek minute.
+Dealer: Theek hai, rakha hai maine.
+Client: Theek hai.
+Dealer: Hmm. 106 rupaye, 105 rupaye mein rakha hai 18600.
+Client: Thank you.
+Client: 105 rupaye mein bro.
+Client: WNA ka kya chal raha hai, put ka?
+Dealer: WNA for call, umm.
+Dealer: 250 ka put chal raha hai 84 paise.
+Dealer: 260 ka put chal raha hai 2 rupaye 35 paise aur ye aapka Glandmark ka put 44, 45 rupaye chal raha hai.
+Client: Achha.
+Dealer: Hmm.
+Client: Hello?
+Dealer: Hello?
+Dealer: Hello?

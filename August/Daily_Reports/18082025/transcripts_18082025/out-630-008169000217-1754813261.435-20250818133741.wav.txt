@@ -1,0 +1,9 @@
+Dealer: Hello?
+Client: Hello?
+Dealer: Yes.
+Client: Rahul Jignasha here.
+Dealer: Yeah yeah give me a minute.
+Client: Um maine dekho na aapko Teams pe bheja hai. Apne dekha?
+Dealer: Haan haan maine dekha. Ah... do minute rukiye main aata hoon, sir.
+Client: Haan theek hai aap aa jaiye.
+Dealer: Hmm hmm. Hmm hmm hmm.

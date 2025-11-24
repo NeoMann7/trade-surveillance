@@ -1,0 +1,22 @@
+Client: Hello?
+Dealer: Ah, Shaji sir?
+Client: Yes.
+Dealer: Ah, sir waise baat kar raha hoon, New Broking Dealing team se. Ah, ko buy karna tha na, sir?
+Client: Yes.
+Dealer: Ah, kya buy karna hai sir?
+Client: RK Forging karke ek company hai, RK Forging karke.
+Dealer: RK Forging karke. Okay, abhi 574.20 buyer hai, 574.60 seller hai.
+Client: Okay. Toh aap, ah, during the day from now to 3:30 jo hai, ah, you know I don't know volume kitna hai?
+Dealer: Volume is, around, don't know, 1,52,000. 1,52,000.
+Client: Theek hai. Um, aap 10,000 khareediye, 10,000 kitna hoga?
+Dealer: 10,000 will be around 57 lakh.
+Client: Utna kharid lena. Okay? One price. And Monday, Monday also you buy another 10,000.
+Dealer: Okay. Aaj 10,000 khareedo aur Monday 10,000. So for Monday aapko, main aapko subah wapas phone kar doonga, any...
+Client: No problem, boss.
+Dealer: Okay, aur yeh 10,000 at what price, sir?
+Client: Market price mein kharid lo na, aaram se.
+Dealer: Market price mein kharid lo na. Slowly, slowly kharid lo na. Slowly, slowly. Thoda. Haan, theek hai, chalega, main thoda bahut slowly, slowly kharid leta hoon, taaki price na...
+Client: Chalo.
+Dealer: OK.
+Client: Chalo, bye.
+Dealer: Bye.

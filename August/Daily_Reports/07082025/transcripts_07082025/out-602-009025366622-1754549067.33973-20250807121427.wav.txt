@@ -1,0 +1,19 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Bolia.
+Client: Ha sir, actually abhi wapas abhi 1,49,000 ka shortage dikha raha hai.
+Dealer: Matlab 1,48,000.
+Client: 1,48,000.
+Dealer: To abhi rehne do kya farak padta hai.
+Client: Nahi wo fir EOD me dikhega. At the end of the day.
+Dealer: EOD me toh khatam hi ho jayega.
+Client: Nahi nahi at the end of the day dikhega ki ye shortfall raha 1.5 lakh ka.
+Dealer: Okay.
+Dealer: Wo yaar naya naya cheez aa raha hai. Ye Kotak me mere ko kabhi nahi aata hai.
+Client: Nahi abhi mujhe wapas risk dip matlab baat hua ki bhai 1.5 lakh ka.
+Dealer: Arey aapka to sirf subah subah clear karne ka baat hai.
+Client: Haan wo toh kar diya.
+Dealer: Ek baar subah clear ho jaye uske baad kya hai. Uske baad toh end of the day waise hi zero ho jayega.
+Client: Acha, Sir mujhe do minute do. Main fir bhi confirm karta hu ki zarurat hai ki nahi hai.
+Dealer: Confirm kariye.
+Client: Theek hai.

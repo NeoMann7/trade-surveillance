@@ -1,0 +1,10 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes.
+Client: Sir, trade confirmation ke liye call kiya tha aapko maine.
+Dealer: Kon sa?
+Client: Ah, ye hamara, Dark ka toh, 25,000 quantity buy ho gaya 164.49 ke average se.
+Dealer: Okay. Okay.
+Client: Just confirmation ke liye call kiya tha bas.
+Dealer: Thank you.
+Client: Okay.

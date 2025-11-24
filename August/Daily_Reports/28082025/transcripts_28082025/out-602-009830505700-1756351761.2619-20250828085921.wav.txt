@@ -1,0 +1,16 @@
+Dealer: Hello.
+Client: Ha ji.
+Client: Ha sir good morning.
+Dealer: Ah, ye aaj expiry hai toh ye aapka option mein position hai na 2000 ka Glenmark.
+Client: Ha ha ha.
+Dealer: Aur dusri baat ye Indigo mein aapko karna hai sir?
+Client: Ha.
+Dealer: Toh, participate karna hai block deal mein?
+Client: Ha.
+Dealer: Kya kitna quantity karna hai sir?
+Client: Uh, 10 lakh ka le lijiye.
+Dealer: 10 lakh rupye ka participate karna na?
+Client: Hm.
+Dealer: Theek hai. Okay, okay.
+Client: Thank you.
+Dealer: Okay.

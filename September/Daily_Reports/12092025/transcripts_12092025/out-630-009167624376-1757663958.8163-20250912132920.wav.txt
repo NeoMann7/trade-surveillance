@@ -1,0 +1,7 @@
+Dealer: Hello?
+Client: Hello, Shaqib, Rajna here. Shaqib, I tried calling him but he's not receiving my calls.
+Dealer: Okay, I'll inform him. I'll already drop him a message.
+Client: Because he was busy. Once I called him, morning I called him, he was not receiving. Then again I called him when you asked me to call him. Ek bar busy aaya phir baad mein wapas kiya to nahi utha rahe the. So aap unko inform kar do. Agar 3:30 ke pehle utha le to phir acha hai to trade ho jayega unka.
+Dealer: Bolta hu, okay.
+Client: Okay, yeah, thank you so much.
+Dealer: Bye.

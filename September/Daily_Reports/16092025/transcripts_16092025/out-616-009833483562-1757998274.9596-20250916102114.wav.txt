@@ -1,0 +1,20 @@
+Dealer: Hello
+Client: Ah, good morning sir. Vasu baat kar raha hu. New Dealing se.
+Dealer: Sorry?
+Client: Ah, Vasudev baat kar raha hu. New Dealing team se, sir.
+Dealer: Ha. Yes, I'm Vasu.
+Client: Actually Akshay told me to call you, sir. You transfer the fund, na?
+Dealer: Hmm.
+Client: Okay, it's how much, sir? Transfer?
+Dealer: Sorry?
+Client: How much fund you have transferred?
+Dealer: Nine.
+Client: Nine lakh, na? Okay, I didn't receive. So, what are you planning to buy means? Can I know?
+Dealer: Sorry?
+Client: You want to purchase Sequent Scientific and Auropharma 4 lakh 50, 50, correct, na?
+Dealer: Correct.
+Client: Okay. Once, once the fund gets credited, I will buy it and I will give you the confirmation after that, okay, sir?
+Dealer: Alright, thank you.
+Client: Okay, okay.
+Dealer: Bye.
+Client: Bye.

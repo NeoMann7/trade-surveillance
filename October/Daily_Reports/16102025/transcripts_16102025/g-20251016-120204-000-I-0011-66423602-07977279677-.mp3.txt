@@ -1,0 +1,5 @@
+Client: Piyush.
+Dealer: Bolo bolo.
+Client: Main call kar rahi hoon mobile se maine.
+Dealer: Theek hai, karo ek minute.
+Dealer: Hmm.

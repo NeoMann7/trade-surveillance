@@ -1,0 +1,21 @@
+Dealer: Hello.
+Dealer: Kiki bol?
+Client: Hello.
+Client: Naveen bhai.
+Dealer: Hello, Kiki bol?
+Client: Are ye 142 Anchor Investment ka jo trade aaya tha na Friday ko.
+Dealer: Ha.
+Client: Haa, usme kuch ₹300 kuch debit aa raha hai. Toh wo clear ho sakta hai aaj? Wo uska Yogesh ka phone aaya tha, wo kuch to bhi wo Pushpa mein kuch to bhi update kar raha hai.
+Dealer: Ha, kya bol rahe ho?
+Client: wali paisa hai karke.
+Dealer: Apka awaaz kat raha hai Ganesh bhai.
+Client: Are Vicky bhai, wo ladki jo boli thi naam bhi yaad nahi aa raha, boli paisa hai karke isliye sauda mara kar gaya. Mera mera sauda utna tha hi nahi, mera toh limit mein tha. Fir bhi usne extra sauda mar diya.
+Dealer: Kya kya kya bol rahe ho, mai samjha nahi.
+Client: Vicky bhai, mera sauda limit utna hi tha, jyada sauda mar diya gaya. Upar se wo ladki boli ki inke paas paisa hai jyada toh kuch tension nahi hai karke. Debit kaha se aa gaya abhi.
+Dealer: Nahi haan, uska kuch 15 lakh rupay ka value tha aur uska kuch trade execute hua tha 14 lakh 96 thousand ka. Theek hai? Toh ₹3000 usne already spare mein choda tha ₹4000. But wo kat ke bhi abhi ₹300 kuch debit aa raha hai. Toh abhi wo Yogesh ka mereko phone aaya, bolta hai ki Vicky ye agar ho sakta hai toh aaj karwao, kuch update kar raha hai wo Pushpa mein kuch. Pushpa mein ya Pushpa mein wo kuch update karwa raha hai. Toh bolta hai agar aaj aayega na toh mereko idhar update ho jayega wo.
+Client: Toh release karwao paisa.
+Dealer: Ha wo...
+Client: Ha usse.
+Dealer: Mereko aapka awaaz kat raha hai.
+Dealer: Mai ruko aapko mai...
+Client: Stock usse.

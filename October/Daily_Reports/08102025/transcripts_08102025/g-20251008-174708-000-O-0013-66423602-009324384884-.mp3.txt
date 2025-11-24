@@ -1,0 +1,3 @@
+Dealer: Hello?
+Client: Apan dial kelelya.
+Dealer: Apan dial kelelya number la.

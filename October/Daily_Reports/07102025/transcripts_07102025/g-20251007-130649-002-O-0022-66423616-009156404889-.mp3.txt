@@ -1,0 +1,17 @@
+Dealer: Hello doctor, 616 second test call.
+Client: Hello?
+Dealer: 616?
+Client: Ha, 1616. Good morning.
+Dealer: Good morning.
+Client: Ha, 19600 ki call 25000 le lo.
+Dealer: Okay, 19600 call.
+Client: Ha, 42 pe.
+Dealer: 42 buy, right?
+Client: Haan 42 buy. Haan. Aur Nifty 19600 ki put 25000 le lo. Haan 42 par. Ek second.
+Dealer: 19600 put 25000.
+Client: 42 pe hi.
+Dealer: 42. Buy 42.
+Client: Ha. Buy 42. Barabar.
+Dealer: Both at 42.
+Client: Ha, bas. Itna hi.
+Dealer: Okay.

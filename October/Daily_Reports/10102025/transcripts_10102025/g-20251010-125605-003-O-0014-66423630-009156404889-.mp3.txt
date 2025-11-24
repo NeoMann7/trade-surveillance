@@ -1,0 +1,48 @@
+Client: hello
+Dealer: hello
+Client:
+Dealer: Yeah.
+Client: fifty thousand, fifty thousand.
+Dealer: Uh-huh.
+Client: Reliance forty two hundred.
+Dealer: Ha-ji.
+Client: Ha. Reliance.
+Dealer: Ha.
+Client: Forty two hundred.
+Dealer: Ha.
+Client: Sell.
+Dealer: Hmm.
+Client: Twenty thousand.
+Dealer: Ha.
+Client: L T L T L T L T fifty nine hundred.
+Dealer: Ha.
+Client: Buy.
+Dealer: Uh-huh.
+Client: And fifty thousand.
+Dealer: Ha.
+Client: T C S twenty five hundred.
+Dealer: Ha.
+Client: Bye.
+Dealer: Okay.
+Client: Done?
+Dealer: Haan.
+Client: Kya hua?
+Dealer: Ho gaya.
+Client: Saare buy hain?
+Dealer: Haan.
+Client: Okay.
+Dealer: Haan ji.
+Client: Okay.
+Dealer: Okay, sir.
+Client: Saare buy hai kya?
+Dealer: Kya?
+Client: Saare buy hain kya?
+Dealer: Haan, saare buy hain.
+Client: Okay.
+Dealer: Okay.
+Client: Okay.
+Dealer: Thank you.
+Client: Haan.
+Dealer: Haan ji.
+Client: Cut kar dena.
+Dealer: Okay.

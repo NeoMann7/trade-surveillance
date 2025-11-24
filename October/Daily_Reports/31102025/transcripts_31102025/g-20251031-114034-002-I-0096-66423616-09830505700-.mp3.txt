@@ -1,0 +1,24 @@
+Client: Hello?
+Dealer: Hmm.
+Client: Aurobindo Pharma ka call hai kya? Uh, 1500 ka hai?
+Dealer: Ruko, ruko. 1500 ka?
+Client: Hmm.
+Dealer: Abhi toh Auro Pharma 1150 chal raha hai.
+Client: Stock price kya abhi?
+Dealer: 1145. Oh sorry, 1150. Haan, sorry my bad. 1200, 1250, 1300.
+Dealer: Haan, 1200 ka abhi 17, 17.50 hai.
+Client: 1200 ka 17.
+Dealer: ₹10.50, ₹17.50.
+Client: November ka na? Haan. December hai, volume hai?
+Dealer: December mein bhi hai 1200 mein. 33 mein buyer hai, 35.50 mein seller hai.
+Dealer: Okay.
+Client: Hmm.
+Dealer: Put kitne ka hai 1150 ka?
+Client: 1150 nahi 1160.
+Dealer: November 1140 ka bata do.
+Client: Hmm. November ka 1140 ka put hai, 28, 70, 29.
+Client: December ka 1140 ka 40 mein mein seller hai.
+Client: Hmm?
+Dealer: 550.
+Client: Haan, 550. Hmm.
+Dealer: Bol toh.

@@ -1,0 +1,19 @@
+Dealer: Hello?
+Client: Hello?
+Dealer: Hello?
+Client: Hello?
+Dealer: Yes sir.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ah.
+Dealer: Yes sir.
+Client: Ah, Tata Power, please buy 200 at 363.
+Dealer: Tata Power, buy 200 quantity at 363?
+Client: Yes.
+Dealer: Sir.
+Client: Ah.
+Dealer: Yes.
+Client: And ah, Tata Motors, please sell 200 at 977.
+Dealer: Tata Motors, sell 200 quantity at 977?
+Client: Yes.
+Dealer: Yes sir.

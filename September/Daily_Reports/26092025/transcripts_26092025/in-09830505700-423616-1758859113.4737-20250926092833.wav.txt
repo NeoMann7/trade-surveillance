@@ -1,0 +1,30 @@
+Client: Hello?
+Dealer: Haan ji, Prerak Bhatia bol raha hoon.
+Client: Haan bolo na.
+Client: Ye 5500 ka Interglobe ka aaj ka expiry kya chal raha hai?
+Dealer: Put na?
+Client: Hmm.
+Dealer: Uh, 1410, 1455.
+Client: 5600.
+Dealer: 5600, 3650, 3765.
+Client: Sell kar do ek, bech do matlab.
+Dealer: Ek lot bechna hai na ekna? Ek lot.
+Dealer: Theek hai, ek lot Indigo ka 5600 ka put current month ki expiry bechna hai market mein Artune Capital.
+Client: Yes. Yes.
+Dealer: Uh, short fall aa raha hai.
+Client: Paisa bejo.
+Dealer: Theek hai, toh ye kya abhi dekho CMN L ka maine order rakha hai toh hata do kya temporary?
+Client: Toh haan wo hata do.
+Dealer: Woh 7500 jo CMN L ka order 155 mein rakha hai.
+Client: Haan hata do.
+Dealer: Cancel kar diya maine. Phir abhi Indigo ka aapko.
+Client: Frequent hai F&O mein?
+Dealer: Kaun sa?
+Client: Frequent hai F&O mein?
+Dealer: Nahi nahi.
+Dealer: Achcha theek hai.
+Dealer: Haan toh aapko fir se Indigo ka 5600 ka put ek lot current expiry ka bechna hai Artune mein market mein, theek hai?
+Client: Yes.
+Dealer: Theek hai, bye.
+Client: Theek hai 3645 mein gaya.
+Dealer: Okay.

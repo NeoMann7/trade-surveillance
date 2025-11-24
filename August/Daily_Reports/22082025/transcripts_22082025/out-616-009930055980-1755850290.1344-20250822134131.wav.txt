@@ -1,0 +1,15 @@
+Dealer: Hello.
+Client: Hello, Arnab.
+Dealer: Yeah. Yeah, good afternoon, sir. This is Vasudev calling from Neo Dealing team. Uh, actually, we received a 30 lakh funds in your account. So, do you want to buy anything, Arnab?
+Client: Um.
+Client: Uh, yeah, put 12 and a half in Hudco, please. Huh?
+Client: Hello? Can you put 12 and a half in Hudco?
+Dealer: Hudco. Oh, 12 and a half lakh. Just. Uh, right now Hudco is trading at 213.70. So, you want to buy 12.50 lakh rupees? You want to buy 213.70. Okay, so it's a quantity is coming around 5850 quantity.
+Client: Yeah, yeah. Okay.
+Dealer: So, should I proceed?
+Client: Yeah, yeah, please go.
+Dealer: Okay, 5850 quantity Hudco you want to buy at market price. Your client code is New WP00437 Arnab Ravi Agarwal, okay?
+Client: Correct, yeah. Okay. Thanks. Bye.
+Dealer: Okay, 5850 quantity bought 213.66 at the rate Hudco, okay?
+Client: Fantastic. Okay. Thanks. Bye.
+Dealer: Okay. Bye.

@@ -1,0 +1,21 @@
+Dealer: Hello.
+Client: Yeah, hello.
+Dealer: Hello.
+Client: I just want to place an order, if you don't mind. Can you please put a market order? Yeah.
+Dealer: Okay, tell me, sir.
+Client: Yeah, I want to place a market order, buy on 23rd October extension future.
+Dealer: 23rd October extension future. Okay.
+Client: Yes.
+Dealer: Okay, buy what?
+Client: Buy, uh, it's 23rd October extension future, SKS Power.
+Dealer: SKS Power, okay. SKS Power.
+Client: Yes.
+Dealer: Okay. SKS Power market order for buy.
+Client: Correct.
+Dealer: Okay, amount? Quantity?
+Client: Just one lot.
+Dealer: One lot. Okay.
+Client: Correct.
+Dealer: SKS Power 23rd October buy market order one lot. Okay, sir. Your order has been placed successfully.
+Client: Thank you.
+Dealer: Thank you, sir.

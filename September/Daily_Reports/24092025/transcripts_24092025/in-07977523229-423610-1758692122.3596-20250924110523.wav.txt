@@ -1,0 +1,20 @@
+Dealer: Hello?
+Dealer: Hello?
+Dealer: Hello?
+Client: Hello? Vicky sir?
+Dealer: Haan bolo ne, Dilip bhai.
+Client: Ah Vicky sir, saambhlo ne, aapda aa che ne, aa aapdu D-An ki nu account block bataade che. Kem em thaay che khabar nathi padti.
+Dealer: Block bataade che.
+Client: Haan hu login karva jaau chu ne, toh ema block bataade che.
+Dealer: Toh kai password wrong naakhi didho evo kai?
+Client: Na na na na, toh unblock kyui rite karvanu ane aa kyui rite?
+Dealer: Hu hu hu maare tya aagad IT ma vaat karine unlock karaavu chu chaalo. Ek vaar. Tamne password yaad che ne kaagaj no?
+Client: Toh normali, mane yaad che. Normali shu thaay ke unblock hoy ne toh aapde pen number naakhiye ne toh block hoi toh pen number naakhiye ne OTP naakhiye ne toh unblock thai jaay. Toh evu kai system che tamaara ma? Kem ke ahinya unblocking maate che ne get OTP nathi aavtu. Toh forgot login karine karu kevu rite karu?
+Dealer: Ok.
+Dealer: Forgor na e tamaru block thai gayu etle maare tyaathi upar thi kholaavu padshe ek vaar.
+Client: Oh achcha.
+Dealer: E-E ghani vaar shu che, password wrong jaay ke evu kai thaay ne toh pan e lock thai jaay.
+Client: Achcha evu che. Ha toh khali etlu juo ne mane atyare shu maare trading maate betho to etla maate.
+Dealer: Paanchaj minute aapo. Mane hu hamna khali tya risk ma vaat karine che ne hu ae hamna tarataj unlock kari naakhshe uba ubaaj.
+Client: Ha toh mane karaavo ne toh please.
+Dealer: Haan haan.

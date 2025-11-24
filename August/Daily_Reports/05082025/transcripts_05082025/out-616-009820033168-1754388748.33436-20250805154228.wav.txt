@@ -1,0 +1,80 @@
+Client: Hello.
+Dealer: Yeah.
+Client: Good morning.
+Dealer: Good morning.
+Client: Can you hear me? Hello?
+Dealer: Good morning.
+Client: Can you hear me?
+Dealer: Uh, I can hear you. But your voice is, uh, too low.
+Client: Hello.
+Dealer: Yeah. Now, okay.
+Client: Okay.
+Dealer: Hello?
+Client: Yeah.
+Dealer: Hello.
+Client: Yeah. Ah, stock market, Indian stock market.
+Dealer: Okay.
+Client: Uh, the last one. The Sensex closed about 66,000, 324. Nifty closed at 19,751.
+Dealer: Hmm.
+Client: And Bank Nifty closed at 45,907.
+Dealer: Hmm.
+Client: What is the current trading? Is it up or down?
+Dealer: Uh, just a moment. I'll just check.
+Client: Yeah.
+Dealer: Hmm. Yeah, nifty, uh, Sensex is, uh, 66,450, up by 120 points.
+Client: Hmm.
+Dealer: Nifty is 19,770, up by 20 points.
+Client: Hmm.
+Dealer: Bank Nifty 45,950, up by 40 points.
+Client: Okay. Uh, how about the futures?
+Dealer: Just a moment.
+Client: Yeah.
+Dealer: Hmm. Futures is Sensex 66,480.
+Client: Hmm.
+Dealer: Nifty 19,800.
+Client: Hmm.
+Dealer: Bank Nifty 46,000.
+Client: Okay. Uh, how about the dollar? What is the current rate?
+Dealer: Uh, dollar is, uh, 83.25.
+Client: Okay. Uh, is it expected to drop to 83.10?
+Dealer: Uh, no, actually, uh, 83.25 is today's rate.
+Client: Hmm.
+Dealer: Uh, it is expected to touch up to 83.50.
+Client: Okay. Okay. So, uh, I have some shares of ICICI Bank.
+Dealer: Okay.
+Client: Uh, at what price, uh, should I place a sell order for that?
+Dealer: Uh, just a moment.
+Client: Yeah.
+Dealer: Hmm. Uh, ICICI Bank is trading at 940.
+Client: Hmm.
+Dealer: Uh, you can place your sell order for 945.
+Client: Okay. And, uh, how about Bajaj Finance?
+Dealer: Uh, just a moment.
+Client: Yeah.
+Dealer: Bajaj Finance is trading at 7200.
+Client: Hmm.
+Dealer: You can place your sell order for 7250.
+Client: Okay. Uh, and any other shares which are expected to give a good return today?
+Dealer: Uh, yes, sir. You can look at Tata Motors.
+Client: Hmm.
+Dealer: Tata Motors is trading at 620.
+Client: Hmm.
+Dealer: You can buy at this rate.
+Client: Okay. Uh, and, uh, what is the target?
+Dealer: Uh, target is 635.
+Client: Okay. Uh, and, uh, any other shares?
+Dealer: Uh, you can also look at, uh, Reliance Industries.
+Client: Hmm.
+Dealer: Reliance Industries is trading at 2450.
+Client: Hmm.
+Dealer: You can buy at this rate.
+Client: Okay. And, uh, what is the target?
+Dealer: Target is 2480.
+Client: Okay. Thank you very much.
+Dealer: You're welcome. Have a good day.
+Client: You too.
+Dealer: Thank you.
+Client: Hmm.
+Dealer: Thank you.
+Client: Bye.
+Dealer: Bye.

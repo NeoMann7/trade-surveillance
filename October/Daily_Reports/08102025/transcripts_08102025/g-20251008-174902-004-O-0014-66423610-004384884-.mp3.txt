@@ -1,0 +1,31 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello.
+Client: Haan, bolie.
+Dealer: Haan, bolie.
+Client: Uh, 21950 ka call bechna hai na?
+Dealer: Haan, bechiye.
+Client: Okay, kitne pe?
+Dealer: 21950 ka call bechiye.
+Client: Kitne pe?
+Dealer: 147 pe kar do.
+Client: One-
+Dealer: One-four-seven.
+Client: One-four-seven. Okay, done.
+Dealer: Okay.
+Client: Kitna quantity?
+Dealer: 25 quantity.
+Client: 25.
+Dealer: Okay.
+Client: Okay, done.
+Dealer: Okay.
+Client: Aur 21950 ka put kharidna hai na?
+Dealer: Haan, kharidna hai.
+Client: Kitne pe?
+Dealer: 110 mein kar do. 110.
+Client: 110. Okay, done.
+Dealer: Okay.
+Client: Thank you.
+Dealer: Okay, welcome.
+Client: Bye.
+Dealer: Bye.

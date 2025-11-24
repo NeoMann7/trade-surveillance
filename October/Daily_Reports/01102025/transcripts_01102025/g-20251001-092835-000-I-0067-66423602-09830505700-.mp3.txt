@@ -1,0 +1,14 @@
+Dealer: Hello. Hello.
+Client: Varun Agarwal ji ka NHAI aa gaya hai?
+Dealer: Ek minute sir. Varun Agarwal ji ka NHAI, ek minute Vaasu, tere ko koi record hai kya? NHAI, Varun Agarwal. Ek minute main deta hu Vaasu ko deta hu. Hello. Vaasu,
+Dealer: Haan, woh kal buy ho gaya unka. Meaning quantity unko diya confirmation maine kal.
+Client: Theek hai, kitna ho gaya total quantity?
+Dealer: Total 1 crore ho gaya.
+Client: 1 crore ka hi hua na?
+Dealer: Haan, 1 crore ka.
+Client: Aur abhi kya chal raha hai?
+Dealer: Matlab 1 crore mein 1.5 crore tak hua hai. Haan, 1 crore 40 lakh tak. Ye 136 mein buyer hai, 142 mein seller hai.
+Client: Achha theek hai. Varun ji ko phone kar ke thoda karwa dena.
+Dealer: Achha, unko phone karu kya?
+Client: Main karta hu, phone aa jayega aapko.
+Dealer: Theek hai, theek hai, sir. Theek hai.

@@ -1,0 +1,5 @@
+Dealer: Hello.
+Client: 93756 first square.
+Dealer: 93756 first square.
+Client: Yes.
+Dealer: Okay.

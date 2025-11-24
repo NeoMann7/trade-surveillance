@@ -1,0 +1,26 @@
+Dealer: Hello?
+Client: हेलो।
+Dealer: हां जी।
+Client: बोल रहा हूं सर।
+Dealer: हां जी बोलिए।
+Client: हां सर वो ये HDFC का बता दीजिए जरा।
+Dealer: 1475.95 अभी का भाव है।
+Client: कितना?
+Dealer: 1475.95
+Client: अच्छा और ये HDFC बैंक का?
+Dealer: 1546.60
+Client: अच्छा और वो रिलायन्स?
+Dealer: 2928.30
+Client: 2928.30?
+Dealer: जी।
+Client: अच्छा और ये वो आईसीआईसीआई बैंक का?
+Dealer: 1047.85
+Client: 1047.85?
+Dealer: जी।
+Client: अच्छा सर वो एक एसबीआई का और बता दीजिए।
+Dealer: 799.30
+Client: 799.30?
+Dealer: जी।
+Client: अच्छा ठीक है सर थैंक यू।
+Dealer: ओके जी।
+Client: ओके।

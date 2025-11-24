@@ -1,0 +1,21 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha bolie.
+Client: Uh yeah, Shaki.
+Dealer: Ha bolie.
+Client: Shakib, you had please note the date for all the trade full days. So I need client's confirmation on that.
+Dealer: Bodie main aapko bol raha hun, maine client ko reverse signal dala hun, but ye approval aane ke liye it took a lot of time.
+Client: Achha.
+Dealer: So for wait I've been for the client, aap se kya baat kar raha hun.
+Client: We have hapiness, uh once the compliance will check the mails in the end of the month, uh that uh the 13th was a trade date and you have.
+Dealer: The 14th was a trade date, client has approved on 14th.
+Client: Yeah.
+Dealer: Okay, today morning he has approved it. So obviously we cannot put a back dated and uske upar isliye maine reverse email dala hu client ko, "Please note that the date will be as of today 14th."
+Client: Okay.
+Dealer: Ab agar itna wait for the client's approval and the time has spent, the amount is quite huge.
+Client: Okay, so uh the client is on the mail, correct?
+Dealer: Yeah, I have talked to the client only and email attachment hai uske andar, uh ab agar us client ne jo mail dala, "Please note that the date" and aage date bhi mention kiya hai.
+Client: But you have also mentioned about the brokerage amount which needs to be included. So now here we do not know what is your client's brokerage, we do not have access to see what is the client's brokerage. So how can means.
+Dealer: 0.15, 0.15.
+Client: 0.15 basic?
+Dealer: Theek hai. Theek hai chalega. Okay.

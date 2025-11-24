@@ -1,0 +1,20 @@
+Client: Hello.
+Dealer: Hello Wasu.
+Client: Aaplya account madhe debit side ka bagha.
+Dealer: Ha don account madhe, ek minute ha.
+Dealer: Ek tar aapla Bidla madhe 22,300 rupaye.
+Client: Ji.
+Dealer: 22,300.
+Client: Ha.
+Dealer: Aani Amol Tendulkar madhe, Ravindra Tendulkar madhe 1,600 rupaye.
+Client: 1,600? Hmm.
+Dealer: Are Bidla tata cha cha atrishat kasa ka ghetlele aapla?
+Client: Hmm. Ka ghetla hota ka to jyavara te?
+Client: Mala nay aso, manje, ek minute.
+Client: Hmm, shukravar ghetla hota account gadi.
+Dealer: Kuthla?
+Client: BBL, Bharat Bidli.
+Dealer: Achha, achha.
+Client: Theek hai?
+Dealer: Okay.
+Client: Hmm.

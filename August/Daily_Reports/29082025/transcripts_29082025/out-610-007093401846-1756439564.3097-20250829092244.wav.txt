@@ -1,0 +1,10 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha, ye kya trade karna tha?
+Client: To apne ko sell karna hai HBL 510 quantity aur JK tyres 600 quantity sell karna hai.
+Dealer: 600 pura JK JK Tyre aur HBL 510 quantity.
+Client: Ha.
+Dealer: Theek hai mai current rate se bech du na?
+Client: Ha.
+Dealer: Theek hai chalega mai bech deta hu.
+Client: Theek hai.

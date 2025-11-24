@@ -1,0 +1,12 @@
+Dealer: good morning sir Wasu here, calling from New Office.
+Dealer: Achha.
+Client: What is your name?
+Dealer: Wasu your, yeah, said it was book.
+Dealer: Okay, you give your number also for me here. So, what's your number?
+Client: Okay. number only.
+Dealer: Okay, okay. So, I will save with them. And one more thing sir, you want to sell KRT on 75,000 quantity at 118. So,
+Client: How much is it?
+Dealer: 118.
+Client: Go ahead.
+Dealer: Okay, so I'm selling 75,000 KRT at 118. Client code is Neo WM double Opakibola Enterprises LLP, okay? Thank you.
+Dealer: Okay sir, order pending at 118.

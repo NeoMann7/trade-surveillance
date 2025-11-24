@@ -1,0 +1,19 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Ah, Piyush Jagga ne kaun?
+Dealer: Hey, baath karo baath. App toh phone?
+Client: Haan, bolo na.
+Client: Piyush sir, Piyush?
+Dealer: Eh, jagah mein nahi abhi.
+Client: Zara kidhar hai woh? Bula na, mereko baat karna hai.
+Dealer: Washroom mein hai.
+Client: Main nahi hu. Haan. Achcha ek kaam kar. Bazaar khulne band karne ka time kaun washroom jaata hai re?
+Dealer: Kya pata.
+Client: Achcha mereko ek baat bata, uh, Neo 56 ma, limit kitni chhe amna?
+Dealer: Neo 56. Abhi one lakh 81 thousand hai.
+Client: Limit?
+Dealer: Haan.
+Client: Sevan.
+Dealer: Sevan.
+Client: Piyush ka to zara phone karne bol mereko turant.
+Dealer: Haan haan.

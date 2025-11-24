@@ -1,0 +1,22 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes sir. Good morning. Good morning sir, boliye.
+Client: How much is Nippon Silver just now?
+Dealer: Nippon Silver na? 143.64, 14363, 64.
+Client: 100.
+Dealer: 100.
+Dealer: 100 bought at 143.65.
+Client: Okay. And uh, is GI IPO also booked?
+Dealer: Haan, woh yahan se kar payenge but aapka UPI ID lagega. Kitna, kitna karna hai bid apne ko?
+Client: UPI ID to bank account mein jaata hai na?
+Dealer: Haan, but UPI ID yaha pe humko UPI ID place karna padega online mein.
+Client: Apka, hamara jo bank account linked hai usse nahi hoga?
+Dealer: Nahi woh usi mein hoga but woh apply karne ke liye UPI ID ke through block hoga aapka fund. Phir aapka aapko mandate aayega aapke UPI pe aur aapko approve karna padega.
+Client: Toh aapko UPI ID dena padega na?
+Dealer: Haan, haan UPI ID dena padega. Kitna, kitne ka bid hai? Ye 5 lakh tak jaa sakta hai lekin agar uske upar hai na toh uske upar ka...
+Client: Nahi, main retail mein chahiye.
+Dealer: Retail mein? Haan toh ho jayega sir yahan se.
+Client: Aur UPI ID dena padega.
+Dealer: Haan, haan UPI ID lagega sir.
+Client: Thik hai. Okay sir. Thik hai.
+Dealer: Okay.

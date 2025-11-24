@@ -1,0 +1,9 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes.
+Client: Ha Nikhil.
+Client: Ha, Aarti Pharma buy karlena 150 quantity.
+Dealer: 150 quantity Aarti Pharma.
+Dealer: Theek hai.
+Dealer: Six six five.
+Client: Okay.

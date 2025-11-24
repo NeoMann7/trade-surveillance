@@ -1,0 +1,8844 @@
+Client: Hello?
+Dealer: Ha.
+Client: Hmm.
+Dealer: Aashu. Kya chal raha hai? Kya ho gaya re?
+Client: Hello? Ha.
+Dealer: Hmm. Aashu. Kaisa lag raha hai?
+Client: Abhi nahi lena. Hmm. Yaad rakhna theek hai. Yeah. Ha. Dealer: Kya? Hmm.
+Client: Hmm. Theek hai. Hmm. Kya?
+Dealer: Hello?
+Client: Haan.
+Dealer: Haan. Samajh rahe ho?
+Client: Aaj achcha hai. Aapne din mein nahi lena. Woh yaad rakhna theek hai.
+Dealer: Yaad rakhna theek hai. Hello. Kya?
+Client: Ha. Abhi nahi lena.
+Dealer: Hello. Ha.
+Client: Hmm. Kya?
+Dealer: Kya? Aashu. Kya kar raha hai?
+Client: Haan. Kya chal raha hai?
+Dealer: Kya? Ha.
+Client: Kya chal raha hai?
+Dealer: Abhi kya kar raha hai?
+Client: Abhi nahi lena.
+Dealer: Hmm.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Aashu. Bol.
+Client: Haan. Kya kar raha hai?
+Dealer: Aashu. Bol. Aashu.
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Kya? Kya ho gaya?
+Client: Kya?
+Dealer: Achha. Abhi nahi lena.
+Client: Abhi nahi lena.
+Dealer: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Client: Haan. Kya?
+Dealer: Kya?
+Client: Kya chal raha hai?
+Dealer: Kya?
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Haan. Jo hai na woh yaad rakhna.
+Dealer: Kya hua? Kya chal raha hai?
+Client: Abhi nahi lena.
+Dealer: Kya? Kya kar raha hai?
+Client: Abhi nahi lena.
+Dealer: Aashu. Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Kya?
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha.
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Kya chal raha hai?
+Client: Achha. Achha.
+Dealer: Aashu.
+Client: Haan.
+Dealer: Kya? Kya chal raha hai?
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Haan. Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Haan. Kya?
+Dealer: Abhi nahi lena.
+Client: Haan. Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Achha.
+Dealer: Achha.
+Client: Achha.
+Dealer: Kya chal raha hai?
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Haan. Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan. Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya chal raha hai?
+Dealer: Achha.
+Client: Kya chal raha hai?
+Dealer: Kya? Kya chal raha hai?
+Client: Kya? Kya chal raha hai?
+Dealer: Kya?
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha.
+Client: Haan.
+Dealer: Kya chal raha hai?
+Client: Achha. Achha.
+Dealer: Aashu.
+Client: Haan.
+Dealer: Kya chal raha hai?
+Client: Kya? Kya chal raha hai?
+Dealer: Kya? Kya chal raha hai?
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha.
+Client: Kya chal raha hai?
+Dealer: Kya chal raha hai?
+Client: Kya chal raha hai?
+Dealer: Kya?
+Client: Kya chal raha hai?
+Dealer: Abhi nahi lena.
+Client: Haan.
+Dealer: Abhi nahi lena.
+Client: Haan. Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Achha.
+Dealer: Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Abhi nahi lena.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Haan. Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha.
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Achha.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Abhi nahi lena.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Achha.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Abhi nahi lena.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Haan.
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Achha.
+Dealer: Achha. Achha.
+Client: Achha.
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan. Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Haan.
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Abhi nahi lena.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan. Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Abhi nahi lena.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya chal raha hai?
+Dealer: Kya chal raha hai?
+Client: Kya chal raha hai?
+Dealer: Kya?
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Haan.
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya chal raha hai?
+Dealer: Kya chal raha hai?
+Client: Kya chal raha hai?
+Dealer: Kya?
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya chal raha hai?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Abhi nahi lena.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan. Jo hai na woh yaad rakhna.
+Dealer: Achha.
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Haan.
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Achha.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Abhi nahi lena.
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya chal raha hai?
+Dealer: Kya chal raha hai?
+Client: Kya chal raha hai?
+Dealer: Kya?
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Kya chal raha hai?
+Client: Abhi nahi lena.
+Dealer: Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Abhi nahi lena.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Abhi nahi lena. Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Abhi nahi lena.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Kya?
+Dealer: Kya chal raha hai?
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Jo hai na woh yaad rakhna.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Haan.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo hai na woh yaad rakhna.
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Kya?
+Dealer: Achha.
+Client: Kya?
+Dealer: Achha. Achha.
+Client: Jo

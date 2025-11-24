@@ -1,0 +1,7 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha, sunai bhai.
+Client: Abhi Piyush baat kar rahe hain yaha se.
+Dealer: Ah solve ho gaya. Problem solve ho gaya. IT matru call a gaya. Ha.
+Client: Okay, chalo thik hai.
+Dealer: Thank you. Thank you. Thank you.

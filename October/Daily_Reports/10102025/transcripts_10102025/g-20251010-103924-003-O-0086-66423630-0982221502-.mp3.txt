@@ -1,0 +1,7 @@
+Dealer: Hello. Sir, Jagannath is calling you from Neo Wealth Equities.
+Client: Yeah.
+Dealer: Yes sir, Akshay has asked me to give you a call. You want to place an order?
+Client: order.
+Dealer: Okay. So, uh, currently funding quantity is 17,600. In Neo, Okay. And the rate is 153. So, I will place the order. Yeah. So at 153.10, I will sell. Okay. I'll place the order at 153. Okay, which is fine. Okay. So, yeah sir, one minute.
+Client: three, four, five.
+Dealer: Done, sir. So, alright. Thank you so much.

@@ -1,0 +1,30 @@
+Dealer: 6166
+Dealer: Second desk, good.
+Client: Hello.
+Dealer: Yeah.
+Client: Uh, 6166.
+Dealer: 66, okay.
+Client: Yeah. Sell 1000 shares of Reliance at 2548.
+Dealer: Okay. Selling 1000 Reliance 2548, okay.
+Client: Sell another 1000 shares of Reliance at 2555.
+Dealer: Okay, selling 1000 Reliance 2555, okay.
+Client: Yes.
+Dealer: Okay.
+Client: Yeah, another 1000 shares of Reliance at 2562.
+Dealer: Okay, 1000 Reliance 2562, okay.
+Client: Yeah. One second.
+Dealer: Yes.
+Client: 1000 shares of Adani Enterprises at 3100.
+Dealer: Okay, 1000 Adani Enterprises 3100, okay.
+Client: Yes.
+Dealer: Okay.
+Client: Yeah, 1000 shares of Adani Enterprises at 3120.
+Dealer: Okay, selling 1000 Adani Enterprises 3120, okay.
+Client: Yes. And 1000 shares of Adani Enterprises at 3140.
+Dealer: Okay, 1000 Adani Enterprises 3140, okay.
+Client: Yes.
+Dealer: Okay.
+Client: Okay.
+Dealer: Hmm.
+Client: Thank you.
+Dealer: Okay.

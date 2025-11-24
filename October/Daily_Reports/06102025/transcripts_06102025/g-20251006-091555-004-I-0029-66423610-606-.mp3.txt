@@ -1,0 +1,15 @@
+Client: Hello.
+Dealer: Kahan ho?
+Client: Hanji. Rajesh. Bolo na Rajesh.
+Dealer: Suno main kya bol raha hu, aaj bahut saare clients ka apne paas jo shortfall aaya tha na, matlab order place karte time me jo shortfall.
+Client: Ha.
+Dealer: Tu clients ko bolna ki quarterly payout issue hua tha Friday ko, sabko payout chala gaya clients ko matlab vapas se, unka.
+Client: Okay, so kaun se client ko matlab?
+Dealer: Bahut saare clients ko ja raha hai matlab.
+Client: Achcha okay. Okay thik hai.
+Dealer: Ko bolega na ki saamne se client.
+Client: Thik hai thik hai. Nan nan okay.
+Dealer: Achcha saara apna yaha se meri bhi.
+Client: Okay.
+Dealer: Okay.
+Client: Okay.

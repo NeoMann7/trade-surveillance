@@ -1,0 +1,5 @@
+Dealer: Hello.
+Client: Hello.
+Client: Amit Khetan bol raha hu, 0725.
+Dealer: Ji, theek hai.
+Client: Haan.

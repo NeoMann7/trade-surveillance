@@ -1,0 +1,49 @@
+Client: Hello?
+Dealer: Hello.
+Client: Yeah.
+Dealer: Uh, tell me, sir.
+Client: Hello?
+Dealer: Yeah.
+Client: Yes, uh, main aaj thoda sell karna chahta hu.
+Dealer: Hmm.
+Client: Ha, to, uh, pehle main, uh, Hindustan Unilever.
+Dealer: Hindustan Unilever, okay.
+Client: 2360 chal raha hai, to, uh, 2370.
+Dealer: 2370, sell?
+Client: Sell.
+Dealer: Okay.
+Client: Aur uske baad hai, uh, Hero MotoCorp.
+Dealer: Hero MotoCorp, hmm.
+Client: Abhi chal raha hai, uh, 4426.
+Dealer: Hmm.
+Client: To, uh, 4430 pe, uh, Hero MotoCorp.
+Dealer: Hero MotoCorp, 4430.
+Client: Sell.
+Dealer: Sell. Okay.
+Client: Aur uske baad hai, uh, ITC.
+Dealer: ITC, okay.
+Client: Abhi chal raha hai, uh, 252.35.
+Dealer: Hmm.
+Client: To, uh, 253.
+Dealer: 253, sell?
+Client: Sell, yeah.
+Dealer: Okay.
+Client: Uske baad hai, uh, M&M.
+Dealer: M&M, okay.
+Client: Abhi chal raha hai, uh, 786.60.
+Dealer: Hmm.
+Client: To, uh, 787.
+Dealer: 787, sell?
+Client: Sell.
+Dealer: Okay.
+Client: Aur, uh, last mein hai, uh, Maruti.
+Dealer: Maruti, okay.
+Client: Abhi chal raha hai, uh, 7705.
+Dealer: Hmm.
+Client: To, uh, 7710.
+Dealer: 7710, sell. Okay, sir.
+Client: Sell.
+Dealer: Okay, confirmed.
+Client: Okay.
+Dealer: Thank you.
+Client: Hmm.

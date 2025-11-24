@@ -1,0 +1,18 @@
+Client: Hello?
+Dealer: Yes, sir.
+Client: Hello?
+Dealer: Haan, sir. Boleye.
+Client: Aaj Nifty 100 pe closing kya hai?
+Dealer: 22,258.95.
+Client: 22,258.95.
+Dealer: Ji.
+Client: Aur bank Nifty ka closing?
+Dealer: Bank Nifty 47,000, uh, 893.90.
+Client: Okay. Aur, uh, 2024 mein Nifty ka high kya hai?
+Dealer: Sir, 2024 ka Nifty ka high, 22,794.65 ka hai.
+Client: 22,794.65.
+Dealer: Ji.
+Client: Okay. Theek hai.
+Dealer: Ji.
+Client: Thank you.
+Dealer: Welcome, sir.

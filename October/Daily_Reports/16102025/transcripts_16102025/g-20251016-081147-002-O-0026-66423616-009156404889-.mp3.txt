@@ -1,0 +1,5 @@
+Dealer: 63000, 36000, first, sir.
+Client: Hello.
+Dealer: Yes, sir.
+Client: 60, 2060, 20760. Sir, is it correct?
+Dealer: One second, sir. Just confirming.

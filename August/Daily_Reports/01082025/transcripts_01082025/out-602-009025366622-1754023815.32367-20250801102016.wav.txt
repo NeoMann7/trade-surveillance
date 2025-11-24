@@ -1,0 +1,71 @@
+Dealer: 24768 flat market.
+Client: Waapas boliye.
+Dealer: 24769 Nifty.
+Client: Kitna minus hai?
+Dealer: Flat hai, flat. No plus no minus.
+Client: Flat hai. Kya de sakte hain aap mujhe?
+Dealer: Ek minute. Aapko 24,050 ka put 10, 11 rupees chal raha hai.
+Client: Ek minute.
+Client: Haan, bataiye.
+Dealer: 24,050.
+Client: Theek hai. Aur call mein?
+Dealer: 11 rupees 30, 35.
+Dealer: Call mein? 25,400 ka call 10 rupees 15 paise.
+Client: To aap ek kaam kijiye, pehle 525 on each side kar dijiye.
+Dealer: Call kaun sa karun?
+Dealer: 25,400 ka call, right?
+Client: Abhi aapne strike... Haan. Kitna? ₹10.75 bola na?
+Dealer: ₹10.15.
+Dealer: Aur agar aapko 350 mein jaana hai to ₹12.90 paise, ₹13.
+Client: Nahi, mujhe 350 mein nahi jaana.
+Dealer: 400 de dun? 525 quantity?
+Client: Aap pehle 24,050 kijiye. Mujhe usmein zyada quantity karna hai.
+Dealer: 24,050 ka put ₹11.30 paise, 35 paise.
+Client: Haan, kariye. 525 quantity de dun?
+Dealer: Yaar, gaya, gaya.
+Client: Theek hai. 225 quantity kar dijiye waapis, aur 225 quantity kar dijiye.
+Dealer: Theek hai. Sir, total 750 quantity bik gaya.
+Client: Ab aap call ka kijiye 25,400 ka.
+Dealer: Hm. Pehle 525 kijiye.
+Dealer: Ahh, ho gaya sir.
+Client: Waapas ek 150 kijiye.
+Dealer: Yeh call mein, na?
+Client: Wahi call mein, haan.
+Dealer: Hm. Theek hai. Ho gaya.
+Client: Waapas ek 75 kijiye.
+Dealer: Ho gaya.
+Client: Kitna margin available hai aur?
+Dealer: Abhi hai aur 16 lakh plus.
+Client: Kal mujhe cash mein kitna available hai mere paas?
+Dealer: 63,100 dikha raha hai cash.
+Client: Uska payout de dijiye.
+Dealer: De dun pura? 63,100 at ₹5.83 paise.
+Client: Haan, pura de dijiye.
+Dealer: Theek hai. Aur yeh abhi aur isme exit karna hai?
+Client: Haan, aur karna hai.
+Dealer: Boliye kitna?
+Client: Usmein kariye, put mein kariye, aur 225 quantity.
+Dealer: Haan, kar diya.
+Client: 225 bhi ho gaya?
+Dealer: Haan.
+Client: Ek aur lot kar dijiye.
+Dealer: Ho gaya.
+Client: Ab call mein kijiye, 150 quantity.
+Dealer: Ho gaya.
+Client: Ab kitna margin baaki hai?
+Dealer: Hai abhi 10 lakh ke plus.
+Client: Kya baat hai, is baar margin kam lag raha hai?
+Dealer: Haan. Abhi bhi haardi available hai, 10 lakh. Thoda kam lag raha hai shaayad. Haan?
+Client: 150 put mein aur kijiye.
+Dealer: 150 put mein aur kar deta hun.
+Dealer: Haan, ho gaya.
+Client: Aur 150 call mein aur kar dijiye, bas.
+Dealer: Aur 150 call aur becho.
+Client: Haan.
+Dealer: Ahh, theek hai. Abhi aapko total position de dun kya kiya hai?
+Client: Haan, de dijiye.
+Dealer: Total 24,050 ka put 1200 quantity sell hua hai, ₹11.34 paise average.
+Client: ₹11.34 paise.
+Dealer: Haan. 24,050 ka put. 25,400 ka call ₹10.44 paise mein 1050 quantity.
+Client: Theek. Thanks.
+Client: Yeh payout de dijiye, mujhe...

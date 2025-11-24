@@ -1,0 +1,13 @@
+Dealer: Hello?
+Client: Hello, Vicky.
+Client: Yes sir.
+Client: Can you tell me what is the balance? I don't think 44 would be there.
+Dealer: Ek minute na sir.
+Dealer: Sir apna cash 59,000 ka hai, jisme se aaj humne maal kuch...
+Client: 26 ka use kiya hoga na.
+Dealer: 26, ha, 26 ka use kiya hai. 33,000 hai.
+Client: Ha wahi woh 44 woh last time, uske pehle ka hoga.
+Dealer: Ha ha uske pehle ka.
+Client: Toh 33,000. Mere ko wahi laga ki mere ko maybe thoda jo last time ka kuch balance hoga, kuch I don't know kitna tha. But it can't be so much.
+Dealer: Theek hai sir. 33,000 hai abhi, hai na?
+Client: Okay fine. Okay. Ha.

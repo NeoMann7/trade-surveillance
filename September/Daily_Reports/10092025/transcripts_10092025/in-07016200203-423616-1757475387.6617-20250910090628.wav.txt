@@ -1,0 +1,40 @@
+Client: Hello.
+Dealer: Hello.
+Dealer: Hi, who's this?
+Client: Vasudev.
+Dealer: Vasudev, Primal Desai, this side, this side.
+Client: Ah.
+Dealer: Uh, I'm a part of the Nio team. I wanted to trade, uh, something. So is the process the same? Uh, I have to send the funds into the Nio HDFC account and then, uh, money has to get sighted. That's how it works.
+Client: Yes. Piyoosh Batra, Piyoosh Batra.
+Dealer: Ek minute, ab please, Primal Desai call, Primal Desai call.
+Client: Hello?
+Dealer: Hello?
+Client: Ha, bolu Primal bhai.
+Dealer: Acha Piyoosh maare chey naki maal levo chey haman ah.
+Client: Ho.
+Dealer: To process eema j chey ney maare pela paisa remit kari dene karvanu jaitu ney ke cheez hu?
+Client: E tamare tamara account ma paisa nakha padse ney.
+Dealer: Ha, etle Abhijit karto toh te vakte evuj chey ney badhu? Etle maare pela paisa HDFC na account je ema nakhvana chey. E j process chey ne?
+Client: Ha, tamare ahiya javu j chey, tamare paisa aahiya thi tamara account ma aavshe ney. Ema tamare paisa nakho. Ane ahiya tamare... elag elag tamare limit jovi hoy toh. Ek minute. Etle Primal Desai ke account ma limit ketli chey?
+Dealer: Ketlano maal levo tamare.
+Client: Ketlano maal levo. Pritha Desai, sir.
+Dealer: Hmm. Nio 56.
+Client: Nio 56, day.
+Dealer: 56.
+Client: Aama ketla chey?
+Dealer: Available margin 10 lakh. 10 lakh chey. 10 lakh available margin. Pritis ke client ko?
+Client: Pritha Primal Desai ney.
+Dealer: Ha.
+Client: Ha, 10 lakh nu chey. Etle tamare ketlano maal levo chey?
+Dealer: Maare panch no levo chey.
+Client: Ha toh chey ney aama.
+Dealer: Nio 56 ma?
+Client: Ha.
+Dealer: To have.
+Client: Etle collateral tamaru collateral margin nu chey aama ghaldi aa.
+Dealer: Ha, etle hu shu kau, tane. Hamana hu maal lai lau ney 5 lakh rupiya transfer karu toh thai jaay? Eh indat?
+Client: Ha thai jashe ney. Thai jashe. Tamare maal market khule etle phone karu tamne hu.
+Dealer: Ha mane phone kar ney jara.
+Client: Ha, okay.
+Dealer: Chal, thank you.
+Client: Ha ha.

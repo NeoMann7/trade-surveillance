@@ -1,0 +1,27 @@
+Client: Hello.
+Dealer: Hello.
+Client: Yes.
+Dealer: Yes, sir.
+Client: Yes, sir.
+Dealer: Ah...
+Client: Ek second, haan? Achha, ek baat puchhni thi.
+Dealer: Ji, puchhiye.
+Client: Yeh jo apna HDFC ka hai na...
+Dealer: Ji.
+Client: ...jo apna buy rakha hua tha 2300 ka call, ek lot.
+Dealer: Theek hai.
+Client: Woh 51 rupees pe rakha hua tha.
+Dealer: Haan.
+Client: Abhi woh 65 chal raha hai.
+Dealer: Theek hai.
+Client: Toh usko abhi nikaalna hai kya? Ya wait karein.
+Dealer: Usko hold kijiye sir, 70 tak aayega woh.
+Client: 70 tak.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Theek hai.
+Client: Okay, okay.
+Client: Thank you.
+Dealer: Welcome.
+Client: Okay, bye.
+Dealer: Bye.

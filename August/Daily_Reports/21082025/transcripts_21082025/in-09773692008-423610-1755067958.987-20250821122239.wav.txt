@@ -1,0 +1,26 @@
+Dealer: Hello.
+Client: Hello, ha bolie sir.
+Client: Phase 3 kitna aaya?
+Dealer: Ek minute, ek minute.
+Dealer: Hello.
+Client: Ha bolo, kaho bolta rakho sir.
+Client: Phase 3, Phase 3.
+Dealer: Phase 3, ek minute, ek minute, ek second.
+Dealer: Hello, ya sir bol.
+Dealer: Ya sir bolie.
+Client: Kitna aaya abhi tak?
+Dealer: Um, main Jiggyasa bol rahi hoon. Boliye na sir aapka Phase 3 ka orders hai na?
+Client: Haan.
+Dealer: Haan haan bolie bolie.
+Dealer: Order...
+Client: Kitna aaya abhi tak?
+Dealer: Abhi tak kitna aaya hai main aapko bata deti hoon.
+Dealer: Sir 789 shares aaya hai, 493.82 pe.
+Client: 793 aagaya hai na? Theek hai.
+Client: Theek hai.
+Dealer: Theek hai.
+Client: Theek hai. Mereko 3 baje ke aas paas call kijiye na agar ho.
+Dealer: Ya ya, I'll call you at 3 o'clock. No problem.
+Client: 793 aa chuka hai na? Okay.
+Dealer: Ya ya sir.
+Dealer: Okay.

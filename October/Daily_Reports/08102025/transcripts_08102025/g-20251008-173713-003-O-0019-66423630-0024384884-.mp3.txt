@@ -1,0 +1,12 @@
+Client: Hello
+Dealer: Hello.
+Client: Hmm.
+Dealer: Hello.
+Client: Yes. Ah, Axis Bank ka rate kya chal raha hai?
+Dealer: Axis Bank abhi 1140 chal raha hai.
+Client: 1140? Hmm. Aur Reliance ka?
+Dealer: Reliance 2955.
+Client: 2955.
+Dealer: Yes.
+Client: Hmm. Theek hai. Okay. Thank you.
+Dealer: Okay sir.

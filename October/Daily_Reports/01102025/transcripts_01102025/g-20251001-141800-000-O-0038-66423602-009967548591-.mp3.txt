@@ -1,0 +1,49 @@
+Dealer: Hello.
+Client: Yeah, hello.
+Dealer: Ji sir.
+Client: Ji Reliance Industries buy kar do.
+Dealer: Reliance Industries buy, kitne pe sir?
+Client: 2855 mein.
+Dealer: 2855, kitne shares sir?
+Client: Uh, 15 shares.
+Dealer: 15 shares. Sir Reliance Industries 15 shares 2855 pe buy ka order lag gaya hai, market rate hai 2858.95. Sir price change ho gaya hai.
+Client: Nahi 2855 hi rakho.
+Dealer: 2855 hi rakhoon, okay, theek hai. Lag gaya sir aapka order. Pending hai.
+Client: Okay. Aur, ji. Uh, TCS, TCS buy kar do.
+Dealer: TCS buy, kitne pe sir?
+Client: 3600 mein.
+Dealer: 3600 mein, kitne shares sir?
+Client: 15 shares.
+Dealer: 15 shares TCS 3600 pe buy ka order lag gaya hai, market rate hai 3619.60.
+Client: Okay. Next, uh, info, Infosys.
+Dealer: Infosys, kitne pe sir?
+Client: 1530 mein.
+Dealer: 1530, kitne shares sir?
+Client: Uh, 15 shares.
+Dealer: 15 shares Infosys 1530 pe buy ka order lag gaya hai, market rate hai 1533.95.
+Client: Okay. Uh, HDFC Bank.
+Dealer: HDFC Bank, kitne pe sir?
+Client: 1480 mein.
+Dealer: 1480, kitne shares sir?
+Client: 15 shares.
+Dealer: 15 shares HDFC Bank 1480 pe buy ka order lag gaya hai, market rate hai 1483.45.
+Client: Okay. ICICI Bank.
+Dealer: ICICI Bank, kitne pe sir?
+Client: 1000 mein.
+Dealer: 1000 mein, kitne shares sir?
+Client: 15 shares.
+Dealer: 15 shares ICICI Bank 1000 pe buy ka order lag gaya hai, market rate hai 1007.85.
+Client: Okay. Axis Bank.
+Dealer: Axis Bank, kitne pe sir?
+Client: 1100 mein.
+Dealer: 1100, kitne shares sir?
+Client: 15 shares.
+Dealer: 15 shares Axis Bank 1100 pe buy ka order lag gaya hai, market rate hai 1111.40.
+Client: Okay. Uh, SBI.
+Dealer: SBI, kitne pe sir?
+Client: 720 mein.
+Dealer: 720, kitne shares sir?
+Client: 15 shares.
+Dealer: 15 shares SBI 720 pe buy ka order lag gaya hai, market rate hai 730.70.
+Client: Okay. That's all. Thank you.
+Dealer: Okay sir, thank you.

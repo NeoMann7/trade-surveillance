@@ -1,0 +1,6 @@
+Dealer: Hello?
+Client: Hello?
+Dealer: Ha bolo bolo.
+Client: Kaisa hai market?
+Dealer: Theek hai, flat hi.
+Client: Chal theek hai, theek hai, okay.

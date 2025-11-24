@@ -1,0 +1,10 @@
+Client: Hello.
+Client: Ha, mera subah aapne kya cover kiya tha bhaiya?
+Dealer: Uh, subah, aapka 24,450 ka put apne buy kiya tha, 525 quantity. Uh, 0.
+Client: Ek minute.
+Client: 525?
+Dealer: Hm.
+Client: Hm.
+Dealer: 0.90 buying average price.
+Client: Theek hai bhaiya.
+Dealer: Hm. Okay.

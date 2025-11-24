@@ -1,0 +1,32 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yeah.
+Client: Sir, 20550 ka put bechna hai 250 quantity.
+Dealer: 20550 ka put.
+Client: Hmm.
+Dealer: Ha, at what price?
+Client: 100 ke upar.
+Dealer: 100 ke upar, ok.
+Client: Market me dal do, jo rate mile.
+Dealer: 20550 ka put, 250 quantity, market price.
+Client: Hmm.
+Dealer: Done sir. Booked at 104.20.
+Client: 104.20, ok.
+Dealer: Correct.
+Client: Aur 20500 ka put 250 quantity, 100 ke upar.
+Dealer: 20500 ka put, 250 quantity.
+Client: Hmm.
+Dealer: Market price.
+Client: Hmm.
+Dealer: Done sir. Booked at 90.95.
+Client: 90.95?
+Dealer: Correct.
+Client: Hmm. Ok.
+Dealer: Hello.
+Client: Haan.
+Dealer: Ha, done sir.
+Client: Ok.
+Dealer: Anything else?
+Client: Bas abhi ke liye itna hi.
+Dealer: Ok, thank you.
+Client: Thank you.

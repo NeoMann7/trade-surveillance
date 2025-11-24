@@ -1,0 +1,16 @@
+Client: Hello.
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes sir.
+Client: Yeah, can you hear me?
+Dealer: Yes sir, I can hear you.
+Client: Okay, I have an order for sale of 200 shares of IDFC First Bank.
+Dealer: Okay, just a moment.
+Dealer: What's the price sir?
+Client: At market.
+Dealer: Okay. Just a moment.
+Dealer: Okay, order taken.
+Client: Can you just confirm?
+Dealer: Yeah, order taken sir. Done.
+Client: Okay, thank you.
+Dealer: Thank you.

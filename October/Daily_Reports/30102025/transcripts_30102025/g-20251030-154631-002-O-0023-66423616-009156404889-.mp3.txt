@@ -1,0 +1,35 @@
+Dealer: 236
+Client: सर
+Dealer: 437
+Client: 266 सर
+Dealer: 4376
+Client: 4376
+Dealer: सर
+Client: 266 सर
+Dealer: 436
+Client: 436 सर
+Dealer: हाँ सर।
+Client: 266 सर
+Dealer: 4376
+Client: 4376
+Dealer: 4376
+Client: 266 सर
+Dealer: 4376
+Client: 266
+Dealer: 4376
+Client: 266 सर
+Dealer: ठीक है सर।
+Client: अह...
+Dealer: क्या लेना है सर?
+Client: सर।
+Dealer: हाँ।
+Client: एक निफ्टी सेल कर दो 17500 की पुट।
+Dealer: 17500 का पुट, एक निफ्टी सेल।
+Client: हाँ। 17500 का।
+Dealer: कितने पे सर?
+Client: 76 पे।
+Dealer: 76।
+Client: हाँ, 76 पे।
+Dealer: एक निफ्टी 17500 का पुट 76 में सेल कर रहा हूँ।
+Client: हाँ, ठीक है।
+Dealer: ठीक है सर।

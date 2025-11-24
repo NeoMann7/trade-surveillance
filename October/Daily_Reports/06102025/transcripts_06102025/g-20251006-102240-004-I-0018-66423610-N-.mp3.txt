@@ -1,0 +1,9 @@
+Client: हेलो
+Dealer: हां सर हो गया सर मैप के लिए ना?
+Client: अ कौन से कोड का?
+Dealer: वही
+Client: अच्छा अरे वो डीलर कोड मैप हो गया पीयूष
+Dealer: ठीक है
+Client: हम्म
+Dealer: हम्म
+Client: हम्म

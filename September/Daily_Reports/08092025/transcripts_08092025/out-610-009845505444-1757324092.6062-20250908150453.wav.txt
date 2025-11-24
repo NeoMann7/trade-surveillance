@@ -1,0 +1,8 @@
+Dealer: Ring gaya, ja raha hai.
+Client: Hello?
+Dealer: Hello? Yes, sir, Viki, billing room se.
+Client: Ya, execute kar do yaar. Thank you.
+Dealer: Sir, GTL IT sell karu na, sir?
+Client: Ya, ya.
+Dealer: Theek hai, sir.
+Dealer: Hmm.

@@ -1,0 +1,24 @@
+Client: Hello?
+Dealer: Hello.
+Client: Hi.
+Dealer: Ha, hello.
+Client: One second. I will call you, but I didn't get any call from you.
+Dealer: Arre yaar, abhi mat karo abhi, baad mein. You told me you're gonna do this evening.
+Client: I called you but I didn't get any call from you.
+Dealer: You're not getting any call.
+Client: You called your system password to my mobile, no?
+Dealer: Ha.
+Client: You called your system password. No, but not on my mobile. So?
+Dealer: Thik hai, abhi nahi, abhi blocked in ho raha hai abhi. Abhi. And you, when you tell you're gonna do it this thing, you do it at that time.
+Client: Abey, abey, abey. Main kya bol raha hoon? You could have called me on my mobile.
+Dealer: Yeah.
+Client: Ha, toh bas na. Then if the story ends, if you didn't call.
+Dealer: No.
+Client: Ha, toh bas thik hai, now do it later on.
+Dealer: Ha, ha, Tejas.
+Client: Ha, Akshat bol raha hoon. Ye number rahega record, registered line.
+Dealer: Ha, thik hai, thik hai, done, done. Okay. Ye, yahi number se karna hai na?
+Client: Isi number pe call karunga. Kitne baje karna hai woh bata de khali.
+Dealer: Main tereko sham ko se call karunga.
+Client: Thik hai, done. Okay. Ha.
+Dealer: Okay, bye.

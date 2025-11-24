@@ -1,0 +1,7 @@
+Client: Hello.
+Dealer: Hello.
+Client: Yes.
+Dealer: Hello.
+Client: Hello, yes, boliyega na?
+Dealer: Hello.
+Client: Hello.

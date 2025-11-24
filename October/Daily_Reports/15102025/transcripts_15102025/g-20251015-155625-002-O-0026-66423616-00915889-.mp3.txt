@@ -1,0 +1,25 @@
+Client: सेशन हकर दे सर सर नमस्कार
+Dealer: हेलो सर
+Client: 5900
+Dealer: सर
+Client: 5100 करवाएंगे
+Dealer: नहीं करवा नहीं
+Client: क्या है
+Dealer: आपको 51000 में
+Client: 51000?
+Dealer: हां
+Client: ठीक है
+Client: 151000
+Dealer: नहीं 151000
+Client: नहीं सर
+Dealer: ठीक है
+Client: नहीं सर
+Dealer: फिर हम आपको
+Client: 150000
+Dealer: नहीं सर ठीक है
+Client: 151000
+Dealer: तो
+Client: 5900
+Dealer: अब हम
+Client: 59163013401501
+Dealer: 509000100000 63000

@@ -1,0 +1,29 @@
+Client: Hello.
+Dealer: Hello, Nipun sir?
+Client: Yes.
+Dealer: This is Jignasha calling from Neo Equity. Dealing.
+Client: Yes.
+Dealer: Uh, sir, do you have any order to place today? From?
+Client: Sorry?
+Dealer: Uh, Neo Dealing Team, Equity.
+Client: Yeah, there's the blue.
+Dealer: Yeah.
+Client: Blue Jet, right?
+Dealer: Yeah, Blue Jet. So, how many shares and at what price uh should we place the order? Can you please confirm?
+Client: I've spoken to Akshat.
+Dealer: Okay.
+Client: I've given him the quantity. Ah.
+Dealer: But I need that on the recording line, so hence, uh, Okay, sir. What, 10 lakhs.
+Client: Okay, perfect. What 10 lakhs.
+Dealer: What 10 lakhs? Okay. Uh, okay. And uh, price, uh, whatever would be the best suitable rate? Is that okay? Or any specific rate you want us to put?
+Client: What's recommended?
+Dealer: Uh, maybe you can put at uh 682 or 685. We'll check and I can let you know about it.
+Client: Check and let me know, what is recommended. We should place for 10 lakhs. Let me know what is the recommended price then you can.
+Dealer: Okay, sure. Currently, I've spoke to Kishan also for you to transfer more 5 lakhs. Uh, it has been transferred.
+Client: It should have reached. I got a message that it's gone, uh, RTGS. I got a message from the bank. That it's there. If you can check.
+Dealer: Yeah, sir, one minute. Yeah, done. It's done.
+Client: Yeah.
+Dealer: Yeah. No problem, so I'll just check with the best rate and I'll let you know about it.
+Client: Perfect.
+Dealer: Yeah. Thank you so much.
+Client: Thank you.

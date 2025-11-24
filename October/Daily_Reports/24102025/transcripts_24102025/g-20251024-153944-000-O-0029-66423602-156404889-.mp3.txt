@@ -1,0 +1,202 @@
+Dealer: Hello?
+Client: Haanji, good morning.
+Dealer: Good morning, Sir.
+Client: Ek stock buy karna hai, Titan.
+Dealer: Titan? Okay, Sir.
+Client: Aaj ke liye 1500 क्वांटिटी.
+Dealer: Buy karna hai Titan 1500 shares.
+Client: Haan, haan.
+Dealer: Okay, Sir, market pe lagau? Ya price hai?
+Client: Market pe lagado.
+Dealer: Market. Okay, Sir. Titan 1500 shares buy at market price. Order dal raha hoon, Sir.
+Client: Okay.
+Dealer: Done, Sir. Titan 1500 shares buy at 3178.65.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur kya position chal rahi hai?
+Dealer: Sir, aapki current position mein to Sir, ek Asian Paints buy hai aapka.
+Client: Kitne pe?
+Dealer: 2795 pe. 1000 shares.
+Client: Aur?
+Dealer: Aur Sir, ek JSW Steel buy hai aapka 500 shares 805 pe.
+Client: Okay.
+Dealer: Aur Divi's Lab sell hai Sir aapka 500 shares 3550 pe.
+Client: Haan Divi's Lab mein kya chal raha hai?
+Dealer: Divi's Lab abhi 3567 chal raha hai Sir.
+Client: Theek hai, hold karte hain isko.
+Dealer: Okay, Sir.
+Client: HDFC Bank mein kya position hai?
+Dealer: HDFC Bank aapka buy hai Sir, 1000 shares 1675 pe.
+Client: Okay.
+Dealer: Yes.
+Client: Isko hold karein ya sell kar dein?
+Dealer: Sir, HDFC Bank mein to Sir filhaal to hold hi rakhiye Sir. Usmein aapko filhaal 2-3 rupaye ka hi loss dikh raha hai.
+Client: Accha, theek hai.
+Dealer: Kuch badha loss nahi hai.
+Client: Okay, okay.
+Dealer: Yes.
+Client: Theek hai, to abhi Divi's Lab aur HDFC Bank ko hold kar lete hain.
+Dealer: Okay, Sir.
+Client: Theek hai.
+Dealer: Anything else, Sir?
+Client: Yes Bank dekho.
+Dealer: Yes Bank. Yes Bank Sir, to abhi 16.50 chal raha hai.
+Client: To kya karein? Sell kar dein?
+Dealer: Sir, Yes Bank mein to Sir aapki koi position nahi hai.
+Client: Oh, acha.
+Dealer: Haan, Yes Bank mein aapki koi position nahi hai, Sir.
+Client: Okay, okay.
+Dealer: Wo aapko kal buy diya tha Sir Yes Bank.
+Client: Haan haan, buy diya tha. Sell karna hai aaj, sell karna hai.
+Dealer: Sell karna hai. Kal buy diya tha. Okay, Sir.
+Client: Haan.
+Dealer: Kitne shares the, Sir?
+Client: 20000.
+Dealer: 20000 shares. Okay, Sir. Market pe sell karu?
+Client: Haan, market pe sell kar do.
+Dealer: Okay, Sir. Yes Bank 20000 shares sell at market price. Order place kar raha hoon.
+Client: Okay.
+Dealer: Done, Sir. Yes Bank 20000 shares sold at 16.50.
+Client: Okay, great.
+Dealer: Anything else, Sir?
+Client: Aur koi stock?
+Dealer: Sir, aapka HDFC Life buy hai.
+Client: HDFC Life kitne pe?
+Dealer: HDFC Life 500 shares hai Sir 610 pe.
+Client: Okay, isko bhi sell karna hai.
+Dealer: Sell karna hai HDFC Life?
+Client: Haan, 500 shares.
+Dealer: Okay, Sir. Market pe sell karu?
+Client: Haan, market pe sell kar do.
+Dealer: Okay, Sir. HDFC Life 500 shares sell at market price. Order place kar raha hoon, Sir.
+Client: Okay.
+Dealer: Done, Sir. HDFC Life 500 shares sold at 609.50.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur dekhiye, Indian Energy Exchange.
+Dealer: Indian Energy Exchange. Sir, Indian Energy Exchange to abhi 145 chal raha hai.
+Client: Isko buy karna hai.
+Dealer: Buy karna hai, okay, Sir. Kitne shares, Sir?
+Client: 1000 shares.
+Dealer: 1000 shares. Okay, Sir. Market pe lagau?
+Client: Haan, market pe lagado.
+Dealer: Okay, Sir. Indian Energy Exchange 1000 shares buy at market price. Order place kar raha hoon, Sir.
+Client: Okay.
+Dealer: Done, Sir. Indian Energy Exchange 1000 shares buy at 145.20.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur Adani Power.
+Dealer: Adani Power. Adani Power Sir, abhi 558 chal raha hai.
+Client: Isko buy karna hai.
+Dealer: Buy karna hai. Kitne shares, Sir?
+Client: 500 shares.
+Dealer: 500 shares. Okay, Sir. Market pe lagau?
+Client: Haan, market pe lagado.
+Dealer: Okay, Sir. Adani Power 500 shares buy at market price. Order place kar raha hoon.
+Client: Okay.
+Dealer: Done, Sir. Adani Power 500 shares buy at 558.10.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur Tata Steel?
+Dealer: Tata Steel. Sir, Tata Steel abhi 119 chal raha hai.
+Client: Isko sell karna hai.
+Dealer: Sell karna hai, okay, Sir. Kitne shares, Sir?
+Client: 2000 shares.
+Dealer: 2000 shares. Okay, Sir. Market pe sell karu?
+Client: Haan, market pe sell kar do.
+Dealer: Okay, Sir. Tata Steel 2000 shares sell at market price. Order place kar raha hoon, Sir.
+Client: Okay.
+Dealer: Done, Sir. Tata Steel 2000 shares sold at 119.10.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur kya dikh raha hai?
+Dealer: Aur Sir, aapka IDFC First Bank buy hai.
+Client: Kitne shares?
+Dealer: 1000 shares Sir. 85.50 pe buy hai aapka.
+Client: Okay, isko sell karna hai.
+Dealer: Sell karna hai. Okay, Sir. Market pe sell karu?
+Client: Haan, market pe sell kar do.
+Dealer: Okay, Sir. IDFC First Bank 1000 shares sell at market price. Order place kar raha hoon, Sir.
+Client: Okay.
+Dealer: Done, Sir. IDFC First Bank 1000 shares sold at 85.40.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur, aur koi stock?
+Dealer: Sir, aapka Ashok Leyland buy hai.
+Client: Kitne pe?
+Dealer: 1000 shares hai Sir 170.50 pe.
+Client: Okay, isko hold karna hai.
+Dealer: Okay, Sir. Ashok Leyland hold.
+Client: Theek hai.
+Dealer: Yes.
+Client: Aur Hindustan Aeronautics.
+Dealer: Hindustan Aeronautics?
+Client: Haan.
+Dealer: Okay, Hindustan Aeronautics. Sir, Hindustan Aeronautics 200 shares 3250 pe buy hai aapka.
+Client: Isko sell karna hai.
+Dealer: Sell karna hai? Okay, Sir. Market pe sell karu?
+Client: Haan, market pe sell kar do.
+Dealer: Okay, Sir. Hindustan Aeronautics 200 shares sell at market price. Order place kar raha hoon, Sir.
+Client: Okay.
+Dealer: Done, Sir. Hindustan Aeronautics 200 shares sold at 3251.20.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur kya hai?
+Dealer: Sir, aapka ek Coal India buy hai.
+Client: Kitne shares?
+Dealer: 1000 shares Sir, 235 pe.
+Client: Okay, isko bhi sell karna hai.
+Dealer: Sell karna hai Coal India? Okay, Sir. Market pe sell karu?
+Client: Haan, market pe sell kar do.
+Dealer: Okay, Sir. Coal India 1000 shares sell at market price. Order place kar raha hoon.
+Client: Okay.
+Dealer: Done, Sir. Coal India 1000 shares sold at 234.80.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur Tata Motors.
+Dealer: Tata Motors. Sir, Tata Motors to abhi 650 chal raha hai.
+Client: Buy karna hai isko.
+Dealer: Buy karna hai. Kitne shares, Sir?
+Client: 500 shares.
+Dealer: 500 shares. Okay, Sir. Market pe lagau?
+Client: Haan, market pe lagado.
+Dealer: Okay, Sir. Tata Motors 500 shares buy at market price. Order place kar raha hoon, Sir.
+Client: Okay.
+Dealer: Done, Sir. Tata Motors 500 shares buy at 650.30.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur kuch dekh lo.
+Dealer: Sir, aapka Sun Pharma buy hai.
+Client: Kitne shares?
+Dealer: 500 shares Sir, 1150 pe.
+Client: Okay, isko hold karna hai.
+Dealer: Okay, Sir. Sun Pharma hold.
+Client: Theek hai.
+Dealer: Yes.
+Client: Aur ICICI Bank?
+Dealer: ICICI Bank. Sir, ICICI Bank to abhi 950 chal raha hai.
+Client: Isko buy karna hai.
+Dealer: Buy karna hai. Kitne shares, Sir?
+Client: 1000 shares.
+Dealer: 1000 shares. Okay, Sir. Market pe lagau?
+Client: Haan, market pe lagado.
+Dealer: Okay, Sir. ICICI Bank 1000 shares buy at market price. Order place kar raha hoon, Sir.
+Client: Okay.
+Dealer: Done, Sir. ICICI Bank 1000 shares buy at 950.20.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur Tech Mahindra.
+Dealer: Tech Mahindra. Tech Mahindra Sir, abhi 1100 chal raha hai.
+Client: Isko buy karna hai.
+Dealer: Buy karna hai. Kitne shares, Sir?
+Client: 500 shares.
+Dealer: 500 shares. Okay, Sir. Market pe lagau?
+Client: Haan, market pe lagado.
+Dealer: Okay, Sir. Tech Mahindra 500 shares buy at market price. Order place kar raha hoon, Sir.
+Client: Okay.
+Dealer: Done, Sir. Tech Mahindra 500 shares buy at 1100.10.
+Client: Okay.
+Dealer: Anything else, Sir?
+Client: Aur Infosys.
+Dealer: Infosys. Infosys Sir, abhi 1400 chal raha hai.
+Client: Isko buy karna hai.

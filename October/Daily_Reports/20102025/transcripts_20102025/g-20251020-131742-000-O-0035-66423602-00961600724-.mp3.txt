@@ -1,0 +1,5 @@
+Dealer: Hello.
+Client: Sir, yeh aaj aap order laga rahe ho aapke?
+Dealer: Ji abhi toh pakka nahi hai. Waapis agar aa jaayega toh karenge abhi tak.
+Client: Chalo theek hai, toh phir main yeh 3 baje ke baad hi bhejoonga.
+Dealer: Haan, theek hai. Okay.

@@ -1,0 +1,18 @@
+Client: Hello, hello, Vijay, here.
+Dealer: Hello.
+Client: Hello, Vijay, here.
+Dealer: Vijay Bhanchal.
+Client: Yes.
+Dealer: Ha, zero, Neo Global, dealing team se, aapko
+Client: Ha, ji.
+Dealer: Aur around kitna? 10 lakhs?
+Client: Kitna? Liquid mein bhi hamare pass 2831 hai, around 28 lakh.
+Dealer: Theek hai, 10 ka le lijiye.
+Client: Toh 10 ka granules lene hain aur 10 ka liquid bhi bechna hai, theek hai?
+Dealer: Ha, ji.
+Client: Theek hai, hold kar, hold kar.
+Dealer: Abhi ka A2 ka return number.
+Client: 1775 quantity granules le raha 563 mein. Client code hai Neo121 with an upper limit, theek hai?
+Dealer: Theek hai.
+Client: Theek hai sir, 1775 quantity granules hamara aa gaya 562 par 93 pe. Aur liquid isko 1000 sell karna hai, 99.99 mein. Theek hai, woh bhi gaya.
+Dealer: Theek.

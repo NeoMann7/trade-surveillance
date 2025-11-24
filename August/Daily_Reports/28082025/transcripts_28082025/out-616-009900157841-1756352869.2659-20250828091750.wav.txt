@@ -1,0 +1,7 @@
+Client: Hello. Hello, ma'am.
+Dealer: Yeah. Ma'am, trade confirmation. Listen. Neo WP00153 main liquidity, we sold 173 quantity 999.99 paise. Uh, and we have done a buying of 29 quantity of Neo at 5802.31 average.
+Client: 5832?
+Dealer: 02.31 paise.
+Client: Okay. 5. 5802. 5802.50 round figure.
+Dealer: Okay, theek hai. Okay?
+Client: Alright.

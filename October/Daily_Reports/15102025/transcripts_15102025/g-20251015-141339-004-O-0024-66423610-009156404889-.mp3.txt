@@ -1,0 +1,3 @@
+Dealer: Good morning, Gupta speaking. How can I help you, sir?
+Client: Gupta bol rahe ho kya? Six one zero second desk ko.
+Dealer: Okay.

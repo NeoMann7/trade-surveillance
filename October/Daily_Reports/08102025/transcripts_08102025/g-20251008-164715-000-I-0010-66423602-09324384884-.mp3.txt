@@ -1,0 +1,5 @@
+Dealer: Hello.
+Client: Hello, hello.
+Dealer: Haan bolie?
+Client: Church College, Church College.
+Dealer: Theek hai, okay.

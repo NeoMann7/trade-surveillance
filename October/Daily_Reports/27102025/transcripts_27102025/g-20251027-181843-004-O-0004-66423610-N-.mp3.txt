@@ -1,0 +1,11 @@
+Dealer: Hello.
+Client: Hello. 21,500 ka put bechna hai.
+Dealer: Okay.
+Client: Reliance ka.
+Dealer: Reliance 21,500 ka put bechna hai, right?
+Client: Haan, bechna hai.
+Dealer: Kitne shares?
+Client: Ek lot.
+Dealer: Okay, bech diya. Done.
+Client: Okay.
+Dealer: Ji.

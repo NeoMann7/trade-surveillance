@@ -1,0 +1,23 @@
+Client: Hello
+Dealer: Hello
+Dealer: Haan sir.
+Client: Koi rakhi
+Dealer: Haan bolo sir.
+Client: Aa 495 sudhi rakhi jo ne, jetla balance amount chhe. Bara lakh jetla kai bachela chhe.
+Dealer: Uh, quantity ketli muku sir?
+Client: 2300 jetli thase mara khyal thi je balance amount chhe. Haju funding aavi rahi chhe. Haju buy karvana chhe. Funding aavta mane lagse 1-1.5 kallak lagi jase.
+Dealer: Okay.
+Client: Jyare je balance vadyu chhe ne aapnu kaal nu bhai. 13 lakh jetlu, 12 ke 13 lakh kai baki chhu joju.
+Dealer: Okay.
+Client: To 2300 ke 2400 ni quantity kai aavse mara khyal thi 13 lakh ke 13.
+Dealer: To 2300 quantity ek vaar haman hu uh lai lavu chhu, 2300 quantity nakhu chhu haman. 95
+Client: Haa
+Dealer: 95
+Client: Email karvani jarur chhe?
+Dealer: Na na na, phone par recording va par tamaro number pan recorded chhe ne. Koi jarur nathi sir.
+Client: Theek chhe.
+Dealer: Etle. Hane to hu 95 thi 97 sudhima 2000 quantity gothuvu chhu.
+Client: Nahi 95 j rakho haman.
+Dealer: 95 j rakhu ne? Okay sir. To haan to 95 ma muki davu chhu hu.
+Client: Theek chhe.
+Dealer: Okay okay sir. Yes yes.

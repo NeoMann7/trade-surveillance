@@ -1,0 +1,10 @@
+Dealer: Hello.
+Client: Haan, Nikhil bol raha hun.
+Client: Haan, ye jo cash pada hai na usko park kar dena hai ICICI ETF mein.
+Dealer: Achcha, Arun 70,000 hai, toh 65 lu na?
+Client: Haan, 65 le lo.
+Dealer: Theek hai, 65 quantity liquid ETF lena hai 1000 mein, client ko de Nio W M 00336 Nikhil Jain, theek hai?
+Client: Theek hai.
+Dealer: Theek hai, hamaara aa gaya 65 quantity 1000 rupees mein.
+Client: Hmm.
+Dealer: Okay.

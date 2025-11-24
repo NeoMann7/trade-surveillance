@@ -1,0 +1,24 @@
+Dealer: Hello
+Client: Hello
+Dealer: Hello, ha boliyye hello.
+Client: Ravindra Tendulkar nu kya account mein Coal India buy karna hai.
+Dealer: Ek minute ha. Ravindra... Ravindra Ganesh Tendulkar?
+Client: Yes.
+Dealer: Ek minute. Coal India. Yeh sir registration number hai na aapka?
+Client: Ha.
+Dealer: Kitna lena hai Coal India?
+Client: 200.
+Dealer: Rate?
+Client: Kya chal raha hai abhi?
+Dealer: ₹374 5 paise.
+Client: Ha us pe le lijiye utna.
+Dealer: Achha ₹374 5 paise pe le lena? Ek kaam kijiye is pe 100 le lijiye ye rate pe.
+Client: Hmm hmm.
+Dealer: Okay. Pehle le lijiye. Ravindra Ganesh Tendulkar Niyo WM double zero two zero eight, barabar?
+Client: Okay.
+Dealer: Ek minute ha, 100 buy kar raha hu is pe pehle. Theek hai, yeh 100 aa gaya sir.
+Client: Hmm aur 371 pe 150 rakh dijiye.
+Dealer: 150, 371 pe, same account?
+Client: Ha.
+Dealer: Niyo WM double zero two zero eight. Ravindra Ganesh Tendulkar. Rakh diya sir.
+Client: Okay.

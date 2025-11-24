@@ -1,0 +1,5 @@
+Dealer: Hello.
+Client: Thank you.
+Client: Number 11
+Dealer: Hello?
+Client: Hello.

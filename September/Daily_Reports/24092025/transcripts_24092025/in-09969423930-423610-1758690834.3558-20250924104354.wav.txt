@@ -1,0 +1,21 @@
+Dealer: Hello.
+Client: Hello Piyush.
+Dealer: Hmm. Sandeep bol raha hoon.
+Client: Haan Sandeep.
+Dealer: Main teeno file ek baar mujhe bhej de main check karta hoon kya hai? Teeno ka combined file hai?
+Client: Haan teeno ka dala hua hai usme.
+Dealer: Dekhta hoon main kya hai. Aur main keh raha hoon jo recently jo advisory non-advisory jo clients hai. Hmm. Usme to request to aaya hai lekin samne hum logon ne woh tagging nahi kiya hai.
+Client: Achha toh baithna hai kya uske liye?
+Dealer: Haan panch minute thoda dekh le.
+Client: Haan tu bol tu abhi baithna hai bol main aa jata hoon.
+Dealer: Haan panch minute ke liye.
+Client: Kidhar hai tu?
+Dealer: Ruk. Haan. Bajoo wale cabin mein.
+Client: Bajoo mein hi hai kya?
+Dealer: Hmm.
+Client: Theek hai chal main aata hoon.
+Dealer: Tu file bhi mujhe bhej dena pehle woh teeno ka.
+Client: Haan Piyush ko bolta hoon. Tereko kispe Teams pe doon?
+Dealer: Haan mail pe bhej denge.
+Client: Theek hai main bhejta hoon chal.
+Dealer: Theek hai. Okay. Piyush ab hum jara chal.

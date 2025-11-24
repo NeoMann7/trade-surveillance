@@ -1,0 +1,29 @@
+Client: Hello?
+Dealer: Bataiye Piyush.
+Client: Ek second sir.
+Dealer: Abhi 24570 hi aa raha hai na? 24570 hai to agar mai 600 ka bhi pakad raha hu to 600 ka call is dhar raha hai 305 rupiya.
+Client: Sir yeh aapka paune 17 lakh ka shortage hai.
+Dealer: Pehle market kya hai woh bataiye.
+Client: Market 147 down hai. Nifty 24564.
+Dealer: 24564 hai. 24400 ka kya bhaav?
+Client: Ek minute. 24400 ka put chal raha hai filhal 8.5 rupiya.
+Dealer: Theek hai 25400 ka kaatiye 1050.
+Client: 1250 quantity hai toh 1050 le lu? Ek rupiya 60 paise 70 paise me aayega.
+Dealer: Hain? 1 rupiya 60 paise? 25400?
+Client: Ha.
+Dealer: Toh 525 lijiye pehle.
+Client: Toh yeh aa raha hai mota moti 24240 rupiya. Toh samjho agar mai 24200 ka put pakad raha hu toh woh 2 rupiya chal raha hai. 24300 agar. 525 aa gaya. Abhi kya shortage hai aapka? Saade 11 lakh.
+Dealer: Pura kar lijiye 1250.
+Client: Abhi pending quantity 675 hai le lo na.
+Dealer: Le lijiye.
+Client: 650 ka 5.25. Ha. Okay. Toh theek hai. Toh 1200 total quantity buy ho gaya. Abhi 5 lakh ka shortage hai. 1 rupiya 65 paise ka average me aaya.
+Dealer: Theek hai. Ek 150 quantity put ka kaatiye.
+Client: 9 rupiya me aayega le raha hu ha.
+Dealer: Lijiye.
+Client: 150 quantity le liya hai. Abhi bhi 57,000 ka hai.
+Dealer: Ek 75 aur le lijiye.
+Client: 10 rupiya tak aayega le raha hu.
+Dealer: Lijiye.
+Client: Aa gaya. Ho gaya shortage complete sir. Abhi aapne aaj 1200 quantity call ka woh pura buy kar liya 1 rupiya 65 paise me.
+Dealer: Aur 225 quantity 24400 ka put liya 9 rupiya 23 paise me.
+Client: Theek hai.

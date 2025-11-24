@@ -1,0 +1,8 @@
+Dealer: Hallo
+Client: Hallo
+Dealer: आवाज आ रही है?
+Client: आवाज आ रही है दो मिनट में
+Dealer: हां
+Client: हां
+Dealer: हां
+Client: हां

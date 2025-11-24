@@ -1,0 +1,18 @@
+Client: Hello?
+Dealer: Yeah, tell me.
+Client: Uh, can you give me the price of Reliance Future, please?
+Dealer: Reliance Future, one second.
+Client: Yeah.
+Dealer: Reliance Future is 2434/2435.
+Client: Okay. And SBI Future?
+Dealer: SBI Future 560/560.50.
+Client: Okay. And ICICI Bank?
+Dealer: ICICI 940/940.50.
+Client: Okay. Bajaj Finance?
+Dealer: Bajaj Finance 6640/6645.
+Client: Okay. And what about Nifty Future?
+Dealer: Nifty Future 19440/19445.
+Client: 19440.
+Dealer: Yeah.
+Client: Okay. Thank you.
+Dealer: Okay.

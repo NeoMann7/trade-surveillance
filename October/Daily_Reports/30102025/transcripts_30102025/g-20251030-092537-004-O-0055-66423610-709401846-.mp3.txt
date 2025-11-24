@@ -1,0 +1,13 @@
+Dealer: Hello.
+Dealer: Han sir.
+Client: Sir, main, aapne bola tha ki call karke confirm kar denge. Ye five thousand hain?
+Dealer: Konsa hai?
+Client: Konsa wala?
+Dealer: 825, 825, 825 wala.
+Client: Kya hai na?
+Dealer: Ya na.
+Dealer: Mujhhe na.
+Client: 825 wala?
+Dealer: Nahi, bahut disturbance aa raha hai. Mai aapko sunai nahi de raha hai.
+Client: Hmm.
+Dealer: Haan.

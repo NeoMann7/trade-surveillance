@@ -1,0 +1,2 @@
+Dealer: 24th October, extension 616, first call.
+Client: Hello.

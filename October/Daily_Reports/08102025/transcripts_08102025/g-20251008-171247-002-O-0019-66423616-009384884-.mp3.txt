@@ -1,0 +1,32 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello.
+Client: Yeah.
+Dealer: Sir, bataiye.
+Client: Haa, haa. Abhi thoda sa kya hai ki ye Bajaj Finance, L&T Finance ye sab gir gaye. Isme position leni hai kya abhi?
+Dealer: Bajaj Finance mein position leni hai. Haan haan, le sakte hain aap. Thoda sa market correction hai. Wapas recovery kar jaayegi market.
+Client: Ha ha, le sakte hain. Bajaj Finance hai aur L&T Finance hai. Aur
+Dealer: L&T Finance mein bhi thoda sa aapka jo hai, wo 125 ke aas paas agar milta hai toh aap le sakte hain. Upar abhi filhaal buy mat kariyega.
+Client: Ha ha.
+Dealer: Bajaj Finance aap 7000 mein le sakte hain.
+Client: 7000 mein le sakte hain.
+Dealer: Yes.
+Client: Aur L&T Finance abhi kya rate chal raha hai uska?
+Dealer: L&T Finance ka ek minute main check karke batata hoon aapko.
+Dealer: 122.95 chal raha hai uska.
+Client: 122.95 chal raha hai.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Haan, toh 122.95. Agar 120 ke kareeb milta hai toh aap achha hai. Waise abhi 122.95 mein bhi buy kar sakte hain. Thoda sa 10-20 paise ka hi difference hai.
+Client: Haan.
+Dealer: Haan, thoda market down hai toh aap abhi le sakte hain.
+Client: Theek hai.
+Dealer: Okay sir.
+Client: Hmm.
+Dealer: Aur kya?
+Client: Aur abhi thoda wait karenge.
+Dealer: Okay.
+Client: Hmm.
+Dealer: Theek hai.
+Client: Okay.
+Dealer: Okay, sir.

@@ -1,0 +1,63 @@
+Client: Hello?
+Dealer: Hello?
+Client: Ha bol.
+Dealer: Ha, bhai.
+Client: Ek to na mere ko ICICI Bank buy kar de bhai.
+Dealer: ICICI Bank buy?
+Client: Yes.
+Dealer: Kitne?
+Client: Bas 100 shares.
+Dealer: 100 shares.
+Client: Yes, abhi.
+Dealer: At market?
+Client: Yes.
+Dealer: Theek hai, done.
+Client: Aur ek mere ko hai na, RIL buy kar de. Reliance?
+Dealer: Reliance?
+Client: Yes.
+Dealer: Kitne?
+Client: Wo bhi 100.
+Dealer: Wo bhi 100. At market?
+Client: Yes.
+Dealer: Theek hai, done.
+Client: Aur kuch batao bhai kya chal raha hai?
+Dealer: Kuch nahi yaar, thoda sa market volatile hai yaar. Aaj dono side move de raha hai.
+Client: Ha, ha.
+Dealer: Jaise niche bhi ja raha hai, upar bhi ja raha hai.
+Client: Hmm.
+Dealer: Toh thoda sa careful rehna isme.
+Client: Theek hai.
+Dealer: Baaki abhi thoda sa trend positive lag raha hai. Par overall market abhi bhi bearish trend me hi hai.
+Client: Theek hai, theek hai.
+Dealer: Toh agar koi position banani hai, toh thodi short term ke liye banani hai.
+Client: Hmm.
+Dealer: Ya intraday.
+Client: Theek hai.
+Dealer: Zyada long term ke liye abhi mat dekhna.
+Client: Hmm.
+Dealer: Abhi thoda correction baaki hai market me.
+Client: Theek hai, theek hai.
+Dealer: Aur kya batau bhai?
+Client: Achcha aur...
+Dealer: Kya?
+Client: ...aur...
+Dealer: Haan?
+Client: ...Bank Nifty kya lag raha hai?
+Dealer: Bank Nifty na thoda sa weak lag raha hai yaar.
+Client: Weak lag raha hai?
+Dealer: Hmm.
+Client: Theek hai.
+Dealer: Usme thodi si selling pressure aayi hui hai.
+Client: Hmm.
+Dealer: Toh woh thoda sa weak hai. Nifty theek hai, Nifty ne support le liya. Bank Nifty thoda sa down ja sakta hai.
+Client: Okay.
+Dealer: Baaki aur kuch?
+Client: Theek hai. Itna hi.
+Dealer: Itna hi?
+Client: Yes.
+Dealer: Theek hai, main update karta hu aapko.
+Client: Theek hai, theek hai.
+Dealer: Ha.
+Client: Theek hai.
+Dealer: Bye.
+Client: Bye.

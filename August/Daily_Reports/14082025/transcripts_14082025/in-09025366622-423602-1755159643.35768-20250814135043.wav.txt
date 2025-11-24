@@ -1,0 +1,10 @@
+Client: हम्म
+Dealer: हां बोलिए सर
+Dealer: मैं बोलिए सर
+Dealer: बोलिए सर
+Client: अभी जल्दी नहीं कर रहा हूं अभी 10 मिनट
+Dealer: तो आप
+Dealer: मैं बोलिए
+Client: हेलो
+Dealer: कहां आपको
+Client: हेलो

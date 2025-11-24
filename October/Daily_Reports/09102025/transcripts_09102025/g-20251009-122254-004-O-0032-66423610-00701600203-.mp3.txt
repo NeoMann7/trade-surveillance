@@ -1,0 +1,4 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yeah. Okay.
+Client: Yes. 700. Yes. Okay.

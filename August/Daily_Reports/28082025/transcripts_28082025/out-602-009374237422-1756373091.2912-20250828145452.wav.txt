@@ -1,0 +1,10 @@
+Client: Hello.
+Dealer: Hello.
+Dealer: Haan bolo bolo.
+Client: Achha achha main bhi dekha.
+Client: Arey abhi kam meri position che.
+Dealer: Haan, haan.
+Dealer: Arey bolo.
+Client: Ek particular kyon kar do kyon kar do.
+Dealer: Haa.
+Client: Abhi ek, ek.

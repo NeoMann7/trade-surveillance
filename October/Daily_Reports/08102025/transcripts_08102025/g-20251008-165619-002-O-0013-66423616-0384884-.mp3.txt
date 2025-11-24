@@ -1,0 +1,38 @@
+Dealer: Hello?
+Client: Hello sir good morning.
+Dealer: Good morning sir.
+Client: Sir Bank Nifty 47,000 P.
+Dealer: Okay.
+Client: Okay? March, March.
+Dealer: March?
+Client: Ha.
+Dealer: Okay sir.
+Client: Hmm.
+Dealer: Hmm.
+Client: Buy at, buy at 850.
+Dealer: Okay.
+Client: Hmm.
+Dealer: 850?
+Client: Ha 850.
+Dealer: Okay.
+Client: 850. Okay. Quantity.
+Dealer: Yes sir.
+Client: One lot.
+Dealer: One lot?
+Client: Ha, ha.
+Dealer: Okay sir.
+Client: Okay sir. Confirm, confirm.
+Dealer: Bank Nifty.
+Client: Ha.
+Dealer: 47,000 P.
+Client: Ha.
+Dealer: March.
+Client: Ha.
+Dealer: 850 buy.
+Client: Ha.
+Dealer: One lot?
+Client: Ha.
+Dealer: Okay sir.
+Client: Okay.
+Dealer: Done sir.
+Client: Thank you.

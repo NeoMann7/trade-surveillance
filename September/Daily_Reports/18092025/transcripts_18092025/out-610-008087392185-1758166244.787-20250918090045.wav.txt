@@ -1,0 +1,14 @@
+Dealer: Hello.
+Client: Hello, Hitesh bhai?
+Dealer: Ha.
+Client: Ha, Vicky baat kar raha hu.
+Dealer: Ha, bolo.
+Client: Achcha, main hai na abhi ek 30 lakh ka stock pledge kiya hai, uh, lagbhag aadha ghanta ho gayi par mujhe limit nahi aati uski.
+Dealer: Kon sa stock hai?
+Client: Mutual Funds hai.
+Dealer: Mutual Funds mein hai na, auto update nahi hoti. Kumbla ka na issue hai. Ek second. 336 ka kiya hai na?
+Client: Ha, ha 336.
+Dealer: Ek second. Ha, ye Prudential gayi hai ke abhi gayri. Paanch minute aap ruko main Rajesh ko bolta hu, wo aapko.
+Client: Ha, ha kaho na tum hi kaho. Maine phone kiya par wo kehta hai ki mujhe exchange se nahi aayega tab tak main nahi aapko.
+Dealer: Ha, nahi main karta hu.
+Client: Bhale, bhale. Ha, ha.

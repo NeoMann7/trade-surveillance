@@ -1,0 +1,4 @@
+Dealer: [Ringing sound]
+Dealer: 616 616 616
+Dealer: 616 616 Third school
+Client: [Unintelligible]

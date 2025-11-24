@@ -1,0 +1,13 @@
+Client: Hello. Hello. Kaun Piyush? Haan. Ashish bol raha hoon.
+Dealer: Haan bolo Ashish bhai.
+Client: Mere account mein Neo 5 mein kitna cash kitna pada hai abhi?
+Dealer: Ek minute.
+Dealer: Neo 5 mein, uh, cash hai available ₹40,000. Aur margin available hai ₹2,09,000.
+Client: Bolo iska do, iska do. Matlab kitna, paanch cheh share hi aayega na Indigo ka.
+Dealer: Indigo ka ek minute ruko.
+Client: Cheh share, cheh share le le chal Indigo mein. Kya price chal raha hai? Interglobe Aviation.
+Dealer: Indigo 5700, 589 matlab 89 chal raha hai 5789, 5790.
+Client: Haan jo bhi hai cheh share le le na.
+Dealer: Ek minute.
+Dealer: Theek hai, cheh share buy ho gaya 5790 mein Indigo.
+Client: Okay. Theek hai. Theek hai.

@@ -1,0 +1,29 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yeah.
+Client: Ah, tell me.
+Dealer: Uh, 20300 ka put option le lena hai aapko, 20300.
+Client: Kitne mein?
+Dealer: Uh, 520, 525, 520, 525.
+Client: 20300 put?
+Dealer: Yes.
+Client: Ok. Kitne lot?
+Dealer: Ek lot.
+Client: Ek lot 525 mein daal do.
+Dealer: Ok.
+Client: Uh, 525 is a stop loss.
+Dealer: Hmm.
+Client: Aur isko target, target mein 580, 590.
+Dealer: Ok, sir.
+Client: Yeah.
+Dealer: Main order place kar raha hun, just hold on.
+Client: Okay.
+Dealer: Uh, order place ho gaya hai 525 pe.
+Client: Oh, 525 pe. Okay.
+Dealer: Yes, sir. Stop loss will be 525 and target will be 580 to 590.
+Client: Okay.
+Dealer: Yes.
+Client: Thank you.
+Dealer: Welcome.
+Client: Yeah.
+Dealer: Call end ho gayi.

@@ -1,0 +1,63 @@
+Client: Hello.
+Client: Urgent ma kholo ne please, NSE ma urgent kholavo ne.
+Dealer: Kya kya? Piyoosh nahi hai, Piyoosh leave par hai. Kon bol rahe hai?
+Client: Piyoosh chutti mein hai.
+Client: Kiska kya bol raha hoon, 248 number mein urgent click ka open karwaiye na is ASM mein se.
+Dealer: Ek minute, kuch buy karna hai?
+Client: Ha, buy karna hai click.
+Dealer: Kya stock ka naam kya bole?
+Client: Kaal ka, ha. Stock ka naam bolo.
+Dealer: Ah, Kripa Click, Click Trucks, NSE mein. C.I.L.I.T.I.C.S. Click Trucks.
+Client: Click Trucks, ek minute.
+Dealer: Ha, NSE mein.
+Client: Ha ha.
+Dealer: Open karwaiye na.
+Client: Click, ha.
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha boliye.
+Client: Ah, ek minute, ek stock ma limit kholwana tha. Ka code ke?
+Dealer: Ha, woh 248 number. 248.
+Dealer: Vaasu.
+Client: Ha.
+Dealer: Ah theek hai. Achcha woh system mein hai nahi RNS wala. Main aapko call karwaoon thodi der mein?
+Client: Bhai urgent hai bhai, call karwaoge toh nahi mil payega mere ko.
+Dealer: Jab free mein dalna tha kya?
+Client: Ha, urgent hai thoda karwaiye na sir.
+Dealer: Ha main bolta hoon, maine bol diya hai unko.
+Client: Ha toh unko bolo nahi chalu phone mein karwane ko bolo unko, ke bolo chalu phone mein karo.
+Dealer: Ek minute.
+Dealer: Ek phone karta hoon.
+Client: Bhai sir thoda urgent karwaiye sir.
+Dealer: Rajesh kahan par hai?
+Client: Ha kahan par hai?
+Dealer: Achcha ye dekho na 248 Click Trust kholwana order dal diya 248 mein.
+Dealer: Yeah?
+Client: Ha sir daliye na ek baar wapas.
+Dealer: Ha ha dalta hoon. Ha.
+Client: Nahi sir, reject ho raha hai.
+Dealer: Reject ho raha hai usko bol.
+Client: Reject ho raha hai.
+Dealer: Margin shortfall aa raha hai. Ye actually BE mein hai na, ye isme 100% margin lagega sir shayad.
+Client: Toh kitna kitna aa raha hai? Maine RTGS karwa diya hai sir.
+Dealer: Toh uska kuch, ek minute. Uska RTGS kar diya hai.
+Client: Arey RTGS kiya hai humne, paisa transfer kiya hai.
+Dealer: Ha, kitna kiya hai?
+Dealer: Kitna kiya hai, sir?
+Client: Ha? Ketla kayra che?
+Dealer: Ha, kitna kiya hai?
+Client: Maine 12 lakh.
+Dealer: 12 lakh aaya hai.
+Client: Ha, 12 lakh kiya hai.
+Dealer: 12 lakh kiya hai.
+Client: 248 nani kaam chala ni? Ha ha. Ha vikrant, 380 dikh raha hai 380.
+Dealer: Ha 30 no pain batade che, Seth.
+Client: Ketlano?
+Dealer: 8 30.
+Client: 830.
+Dealer: Ha ha.
+Client: Nahi, vo bolta hai, mein bolta hu.
+Dealer: Kyuki aama che ne BE group wali che ne oli tetu tetu wali che, etle aama 100% margin lagse.
+Client: Samjiye.
+Dealer: Chalo koi baat nahi.
+Client: Achcha, theek hai.

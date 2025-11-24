@@ -1,0 +1,11 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Hello.
+Client: Ah, Deepak.
+Dealer: Ah.
+Client: Ah, Deepak, Nifty mein jo 17,200 ka call tha na?
+Dealer: Haan.
+Client: Usmein 1500 क्वांटिटी sell kar do, 89 pe.
+Dealer: Theek hai, 17,200 call 89 pe 1500 क्वांटिटी sell?
+Client: Haan.
+Dealer: Theek hai.

@@ -1,0 +1,5 @@
+Client: Hello
+Dealer: Haan, mail kiya hai?
+Client: Haan boliye sir.
+Dealer: Mail kiya hai mail aapko.
+Client: Haan haan, maine kar diya reply sir aapko kar raha hu kar raha hu.

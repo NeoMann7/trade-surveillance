@@ -1,0 +1,8 @@
+Dealer: Hello?
+Dealer: Hello? Ha, sir woh 9 lakh credit ho gaya tha funds. Toh kya buy karna tha aapko abhi?
+Client: Uh, that JSW Energy, na?
+Dealer: Okay, JSW Energy you want to buy, na? Poora 9 lakh ka na?
+Client: Haan, le lo.
+Dealer: Ek minute, poora 9 lakh. Theek hai, 1650 quantity JSW Energy I'm buying at 543. My code is N O W P 00296. Ek minute, on a ja. Theek hai, 1650 quantity buy ho gaya at 543.
+Client: Okay, thank you.
+Dealer: Okay. Bye.

@@ -1,0 +1,34 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yeah, tell me.
+Client: Hmm?
+Dealer: Tell me.
+Client: Oh, what's up?
+Dealer: Yeah, tell me.
+Client: Can you hear me?
+Dealer: I can hear you.
+Client: Yeah, yeah. Dealer code, what was it?
+Dealer: Uh, 33509.
+Client: 33509?
+Dealer: Yes.
+Client: Okay, I'll place an order for 23,200.
+Dealer: For what?
+Client: For...
+Dealer: Wait, wait, wait. Which script?
+Client: For a buy order.
+Dealer: Which script? Tell me the script name.
+Client: Hindustan Unilever.
+Dealer: Hindustan Unilever, okay.
+Client: At 23,200.
+Dealer: 23,200. How many shares?
+Client: Uh, two shares.
+Dealer: Two shares, limit order?
+Client: Yeah, limit order.
+Dealer: Two shares limit order 23,200 for buy Hindustan Unilever?
+Client: Yes, yes.
+Dealer: Okay, confirmed.
+Client: Okay.
+Dealer: Yes.
+Client: Thank you.
+Dealer: Okay, bye.
+Client: Bye.

@@ -1,0 +1,14 @@
+Dealer: "Hello, Ramachandra sir?"
+Dealer: "Good morning sir. Washee calling from Neo Wealth."
+Dealer: "Okay. I think so you had a word with Ruchira Madam regarding buying Puro Pharma, okay? Right now we have around 2,71,000 cash."
+Dealer: "So probably around 236 quantity we can buy at current rate. So should I proceed for that?"
+Client: "No."
+Dealer: "Okay, okay. Okay, just hold on."
+Dealer: "So 236 quantity or..."
+Client: [inaudible]
+Dealer: "I will buy 235 only. 235 quantity you want to buy Arun Pharma at market price."
+Dealer: "Client code is Neo WP00223."
+Client: [inaudible]
+Dealer: "Yeah, just a minute."
+Dealer: "Okay sir, 235 quantity bought at 114, sorry, 1144.20."
+Dealer: "Okay, okay. Okay, bye sir. Okay, thank you. Thank you."

@@ -1,0 +1,4 @@
+Client: Hello
+Dealer: Kahan Rajputana IT department ko main vashid bol raha hu kya?
+Client: Haan.
+Dealer: Theek hai, mai bas woh phone test kar raha tha, sorry.

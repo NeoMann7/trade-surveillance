@@ -1,0 +1,24 @@
+Dealer: Hello?
+Client: Hi sir.
+Dealer: Good morning.
+Client: Good morning. Hmm. Uh, S- sell 200 shares of IDFC First Bank.
+Dealer: Okay.
+Client: At 80.85.
+Dealer: Uh, 80.85, sir.
+Client: Okay.
+Dealer: Okay, sir. And?
+Client: Then? Uh, sell again. Sell 100 shares. Bharti Airtel.
+Dealer: Bharti Airtel.
+Client: 963.50.
+Dealer: 963.50.
+Client: Yes.
+Dealer: Okay. Sir, and?
+Client: Okay. Okay. And sell 50 shares. Tata Motors.
+Dealer: Tata Motors.
+Client: At 940.
+Dealer: 940.
+Client: Yes.
+Dealer: Okay. Okay. Sir, anything else?
+Client: No, that's it.
+Dealer: Okay, sir. Thank you.
+Client: Thank you.

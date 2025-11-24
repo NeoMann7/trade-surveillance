@@ -1,0 +1,21 @@
+Dealer: Hello?
+Client: Hello, Nipun sir. Very good morning. Uhm, sir, uhm, Blue Jet, uh, we have to place the order, right?
+Dealer: Yes, yes.
+Client: So, currently it is quoting at 688, okay? So what I'll do is, I'll keep your order of 725 shares at uh 685.10. Okay, in your code uhm N Y O W P 00296. Okay?
+Dealer: Okay. Yeah.
+Client: And uh another order I'll keep, that is at 683.10. Okay?
+Dealer: Okay.
+Client: So I've kept the spread. Okay?
+Dealer: All right.
+Client: Even if I think currently it is quoting at 686, 687. Okay? So it shouldn't be a problem.
+Dealer: Okay, perfect.
+Client: Okay? Yeah. So I've kept two orders. One is at 685.10, the other one is at 683.10.
+Dealer: That's fine.
+Client: Yeah.
+Dealer: All right, thank you.
+Client: One order I've got executed also.
+Dealer: Perfect.
+Client: Yeah.
+Dealer: I'm in a conversation with somebody, it's fine with me. Thank you.
+Client: Okay, fine. Thank you so much.
+Dealer: Yeah, yeah.

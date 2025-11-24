@@ -1,0 +1,25 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Bolo bolo.
+Client: Hmm. Vaasu ho na?
+Client: Haan?
+Dealer: Hello Vaasu bol raha hoon.
+Client: Achha haan, nikal gaya Himanshu hai.
+Client: Main bol raha, baat ho raha tha na?
+Dealer: Haan, baat hua tha. 12 baje baat hua tha toh nahane gaya tha, khel raha tha.
+Client: Achha, chid chid toh nahi kar raha hai na?
+Dealer: Nahi nahi, chid chid nahi kar raha hai. Abhi ye ha... ye jo rehta hai na, ye wala disease usko hua na, usko usko itch bhi nahi hogi. Sirf woh khane ke liye usko ye hoga problem. Chicken pox mein jaise itching hoti hai, poore body mein khujliyan hoti hai.
+Client: Uska muh?
+Dealer: Haan, pata hai. Isme khujliyan hogi hi nahi, usko pata bhi nahi chalega uske haath pair pe kuch hoga ya nahi hoga.
+Client: Toh khaya ki nahi? Khaya ki nahi?
+Dealer: Usne, nahane gaya tha usne bread toh banaya tha. Bread toast, waghaira toh ye normal abhi dekhti hoon khila ke.
+Client: Hmm.
+Client: Thik hai, chalega.
+Dealer: Thik hai. Ye tha number.
+Client: Haan, ye mera landline hai.
+Dealer: Haan, toh unhone ko mobile pe call kiya na?
+Client: Kya? Kyunki, nahi, landline pe call kiya tha.
+Dealer: Achha mera mobile I will tell, toh mobile se bhi karega toh mereko aayega.
+Client: Okay okay, thik hai, chalega.
+Dealer: Thik hai.
+Client: Ek number hai.

@@ -1,0 +1,3 @@
+Dealer: Hello?
+Dealer: Hello sir, you may order only five days before you are trading in.
+Client: Oh, okay. Thank you. Thank you.

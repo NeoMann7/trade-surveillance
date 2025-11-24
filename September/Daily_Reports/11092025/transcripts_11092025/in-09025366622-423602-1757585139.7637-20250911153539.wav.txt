@@ -1,0 +1,48 @@
+Dealer: Hello.
+Client: Haan bhaiya, woh letter ka bata denge taaki courier kar doon phir.
+Dealer: Haan, maine woh phone kiya tha actually. Uh, usmein woh...
+Client: Mereko koi miss call aaya nahi.
+Dealer: Nahi kiya tha maine. Aur koi baat nahi. Ismein aapko jo last mein likha na, jo sign hai aapka individual ka.
+Client: Last mein signature mein sole hai, second holder hai, third holder hai. Kisko theek se hi?
+Dealer: Sole, sole mein aayega na sole.
+Client: Theek hai. Aur ismein kya bharna hai mujhe? Kuch nahi bharna hai?
+Dealer: Nahi aapko client code, waapas jo bhi detail hai woh fill karke dena hai.
+Client: Kaunsa detail?
+Dealer: Ek minute.
+Client: DP ID already fill kiya hua hai.
+Dealer: Aapka client code hoga yahan par.
+Client: Kahan hoyega? Main client master report bhej raha hoon aapko.
+Dealer: Ek minute. Ek minute ha.
+Dealer: Aapka naam address 75399.
+Client: Sorry, 634.
+Dealer: Aur aapka sole primary holder pe sign kar dijiye.
+Client: Ek minute bhaiya.
+Client: Haan boliye ji.
+Dealer: Sole primary holder pe sign kar dijiye.
+Client: Theek hai.
+Dealer: Phir, closer, resetted by beneficial owner, wahan par aa jayega CDSL ka aa jayega. Peeche aapka normal naam detail bharna hai. Isme hai nahi aur kuch bhi.
+Client: Kya bol rahe ho mujhe samajh mein nahi aa raha hai kuch bhi.
+Dealer: Neeche sole primary holder pe sign kar dijiye.
+Client: Woh samajh mein aa gaya, wahan pe maine sign kar diya. Seal lagana hai?
+Dealer: Haan?
+Client: Seal lagana hai?
+Dealer: Ek aapka iska na, lagana padega stamp lagana padega.
+Client: Theek hai.
+Dealer: Ek second.
+Dealer: Stamp, stamp aur sign dono rahega aapka.
+Client: Theek hai.
+Dealer: Aur upar application, aapka trading ID bhi poocha hai dekho upar. Application number, trading ID.
+Client: Application number bataiye.
+Dealer: Ek minute.
+Client: Woh toh aap bataoge.
+Dealer: Trading ID aapka, trading ID, trading code dalna padega. Trading code.
+Client: Aur kaunsa dalu? Kaunsa trading code?
+Dealer: Trading code aur mein naam likh do. Baaki yahin fill ho jayega na? Baaki yahan fill kar denge hum.
+Client: Nahi toh aap mujhe ab batao ismein fill kya karna hai? Sirf main account holder ka detail mein client ID likh doon jo Kotak ka hai?
+Dealer: Nahi nahi, ye toh yahan ka DP ki baat kar raha hoon na main, yahan se jo bheja woh.
+Client: Mujhe kuch samajh mein nahi aa raha hai kya karna hai.
+Dealer: Achcha theek hai. Aap ek kaam kijiye sir. Aap neeche primary sole holder pe aapka sign kar dijiye.
+Client: Hmm.
+Dealer: Aur sign aur stamp karke bhej dijiye.
+Client: Theek hai.
+Dealer: Theek hai.

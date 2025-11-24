@@ -1,0 +1,18 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha, ha. Ketron bhai?
+Client: Ha. Are, tame, ne, NIO W M 00144 mokalyu che. E NIO 144 che pehla.
+Dealer: Ha.
+Client: Leh, zero nathi avta vache?
+Dealer: Na, na, ane biji vaat tame ema kaho ke tamare account ma em na thay, enna mate account register thi ema ja jase ne. Tamaru account ane enu account, bank account alag alag che.
+Client: Na, na, mara ma nahi, Hiren na potana savings account ma jovu che.
+Dealer: Achha, na, tame mail ma alag lakhyu che.
+Client: Eh, eh, account ne, ehni saath, ehni saath laghe che.
+Dealer: Nahi, tame ek kaam karo ne, khali ek mail karo. Nahi to mane aamaj verbally kehjo ne. Chalo, tamare NIO 144 ma payout karvu che ne?
+Client: Ha, payout karvu che. Bill joiye che. Ane ledger joiye che. Dono joiye che.
+Dealer: Bill ne ledger.
+Client: Bill ne ledger. Tamari je bill details hase. Bill.
+Dealer: Theek che, bill ne ledger mokalav chu ne, payout karavelu che enu. Ena register bank account ma j jase.
+Client: Hiren ne paunch.
+Dealer: Ha, Hiren ne paunch.
+Client: Okay sir.

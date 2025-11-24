@@ -1,0 +1,7 @@
+Client: Hello, hello, hello.
+Client: Ha bolo, ha bolo, chutta.
+Dealer: Ha bolo.
+Client: Are nahi bol rahe, Ayushman wala.
+Dealer: Nahi nahi, mere ko ice cream nahi chahiye re.
+Client: Achha theek hai.
+Dealer: Hmm.

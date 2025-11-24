@@ -1,0 +1,73 @@
+Dealer: Hello.
+Dealer: Bhai client ko bol order maarne ke liye tu kaise maar sakta hai client ka order? Kaun sa IPO ka?
+Dealer: Bhai ek minute Vicky ko deta hu.
+Dealer: Hello?
+Dealer: Haan, de nahi maar sakte order IPO ka.
+Client: Toh kidhar se karao?
+Dealer: Client ko karao, client ko bolne bola order login karke mobile application, web login karke.
+Client: Abhi uske paas nahi hai toh kya karne ka?
+Dealer: Haan?
+Client: Agar nahi hai toh karke?
+Dealer: Tumko set nahi kiya, dealer ko right nahi kiya maine woh.
+Client: Uske liye phone kiya kyunki isme maine abhi daala na IPO dikha raha hai toh maine apply kiya.
+Dealer: Sir usse usse uske uske toh UPI ID bhi lagega client ka.
+Client: Haan haan.
+Client: Sahi mein dala.
+Client: Zyada nahi hai do dedh lakh ka hai, 10 lot hai.
+Dealer: Toh kaise aapke paas request mode?
+Client: Maine phone se daala tha.
+Dealer: Tumhe maaru?
+Client: Haan marna main tereko sahi bol raha hu apne apne paas recorded line pe hai. Aur maine usko ye bhi bola main bola sir main aapko agar mera reject ho raha hai main bola sir main aapko call kara dunga. Agar tere paas access hai na toh tu client ke number, haa FC maarna hai toh recorded line se ek baar baat kar le.
+Dealer: Maine maine kar diya.
+Client: 10 10 lot hai.
+Dealer: 10 lot hai?
+Client: Haan.
+Dealer: Quantity batao pehle.
+Client: Quantity into 10 karna hai.
+Dealer: Price kya hai?
+Client: 130 quantity, sorry.
+Dealer: Price price.
+Client: Price cut-off pe daal de 1140.
+Dealer: Theek hai iska UPI ID bol.
+Client: UPI ID V I S P I.
+Dealer: This is well.
+Client: Well.
+Dealer: Team pe daalta hu sir.
+Client: Theek hai rukta hu.
+Dealer: Haan haan ek minute ruk.
+Dealer: Tulsi.
+Dealer: Ye dekh.
+Dealer: VSP Contractor-1@OKICICI.
+Client: Okay.
+Dealer: Okay.
+Dealer: Partner aana rahega aapko.
+Client: Nahi nahi yaha pe.
+Client: Amal ke sath.
+Dealer: Amal ke sath agar kisi tarah se baat kar lo agar.
+Client: Three to four, it's not.
+Dealer: Hmm.
+Client: 130 quantity.
+Dealer: Barabar humne setting clear kar diya.
+Client: Nahi kiya hai toh usko samjhao na bhai.
+Dealer: Woh check karega.
+Client: Amount year 200.
+Dealer: Chal order maar de order.
+Dealer: Toh usko bol dun na ki usko mandatory aayega okay kar do.
+Client: Theek hai sir theek hai sir.
+Client: Haan ye kya aaya message?
+Dealer: Teen aa raha hai.
+Client: Bhai UPI ID galat diya.
+Dealer: UPI ID toh jo usne diya wahi daala maine.
+Client: Galat hai bol raha na dekh na.
+Dealer: Toh dash dash one mein kya aayega?
+Client: Mujhe nahi pata client ko.
+Dealer: Maine dash ki jagah dash daalu ki minus maine dash ki jagah pe minus daala tha.
+Client: Kya diya usko puch na call karke usko bol deta hu.
+Dealer: Sir kya?
+Dealer: client mata kyu kharab kar raha hai.
+Dealer: Are client ne yahi bola mereko.
+Client: Nahi nahi main wohi bol raha hu toh usko bol galat hai na waise bol raha hu main.
+Dealer: Gara raha hai.
+Client: Theek hai main phone karta hu tere client ko.
+Dealer: Haan haan.
+Client: Hmm.

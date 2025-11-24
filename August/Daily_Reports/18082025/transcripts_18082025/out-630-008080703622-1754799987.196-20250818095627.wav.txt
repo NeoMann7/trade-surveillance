@@ -1,0 +1,4 @@
+Dealer: Hello, hello.
+Client: Hello.
+Client: Aaj yeh thairai hai?
+Dealer: Yeah, yeah, you call me on this landline number. Okay. Okay. Yeah, bye. Bye.

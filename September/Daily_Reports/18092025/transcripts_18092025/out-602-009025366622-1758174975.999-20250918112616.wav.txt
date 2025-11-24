@@ -1,0 +1,16 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Boliyega. Haan sir, woh brokerage nahi hai. Brokerage zero hi laga hai. Woh ₹150 ka brokerage nahi lagaya hai woh toh. Woh jo baaki ka jo amount hai woh toh sir taxes hai.
+Client: ₹5000 ka?
+Dealer: Haan, taxes hai sir. Brokerage toh ekdum nil hai, dikh raha hai yahan pe mujhe. Zero laga hai. Aapka jo laga hai woh taxes hai sir.
+Client: Theek hai, aap mujhe iska payout karwa dijiye.
+Dealer: Ek minute. 146.94 4.94 4.94. Haan, ₹5280 ke aas paas hai woh aapka taxes hai. Brokerage nil hai.
+Client: Theek hai, aap mujhe iska payout karwa dijiye aur woh account close kar dijiye.
+Dealer: Ek minute. Yeh aapka 000129. ₹49,42,123.30. Yeh payout karwa do, hai na?
+Client: Ek minute, maine band kar diya. Ek minute.
+Dealer: Haan, haan yehi dikha raha hai available cash balance.
+Client: Ek minute, bhaiya. Ek minute. Haan, bataiye figure bataiye wapas.
+Dealer: ₹49,42,123.30.
+Client: Haan, please yeh karwa dijiye.
+Dealer: Karwa deta hu sir, theek hai.
+Client: Aur account close.

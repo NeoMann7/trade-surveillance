@@ -1,0 +1,2 @@
+Dealer: This open call, Girila, is 300.
+Client: Hello.

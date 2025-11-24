@@ -1,0 +1,5 @@
+Client: Hello?
+Dealer: Hello? Sir, woh, uh, apply kar diya hai aapko mandate aayega UPI pe, woh sirf aapko approve kar dena ek baar.
+Client: Sure, no problem. Theek hai.
+Dealer: Okay. Okay, thank you.
+Client: Thank you.

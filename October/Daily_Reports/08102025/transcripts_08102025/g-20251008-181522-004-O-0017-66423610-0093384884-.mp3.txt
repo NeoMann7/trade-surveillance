@@ -1,0 +1,68 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes, sir.
+Client: Ah, good morning.
+Dealer: Good morning, sir.
+Client: Ek Titan ka hai.
+Client: 2950
+Client: Titan ka.
+Dealer: Okay.
+Client: 2950
+Client: call buy.
+Dealer: Okay.
+Client: 20 rupees.
+Dealer: Titan 2950 call at 20.
+Dealer: Okay.
+Client: Ji.
+Client: Aur ek Hindalco ka hai.
+Dealer: Hmm.
+Client: Hindalco ka.
+Client: 620.
+Client: 620 call.
+Client: 20 rupees.
+Dealer: 620 call at 20.
+Dealer: Hmm.
+Client: Ji.
+Client: Ek PVR ka hai.
+Dealer: PVR?
+Client: Ji.
+Client: 1450 put.
+Client: 1450 put.
+Client: 20 rupees.
+Dealer: 1450 put at 20.
+Client: Ji.
+Dealer: Hmm.
+Client: Aur ek hai.
+Client: Uh, ICICI Bank.
+Dealer: ICICI Bank.
+Client: Ji.
+Client: 1040 call.
+Client: 1040 call.
+Client: 20 rupees.
+Dealer: 1040 call at 20.
+Client: Ji.
+Client: Done?
+Dealer: Okay.
+Dealer: Uh, I will just confirm the price.
+Dealer: I will just confirm the price once again.
+Dealer: One second.
+Client: Okay.
+Client: Okay.
+Dealer: Titan 2950 call 20.
+Dealer: Hindalco 620 call 20.
+Dealer: PVR 1450 put 20.
+Dealer: ICICI Bank 1040 call 20.
+Dealer: All right?
+Client: Yes, yes.
+Client: All 20.
+Dealer: Okay.
+Client: Done.
+Dealer: I will place it for market, sir.
+Dealer: Market rate.
+Client: Market rate.
+Client: Yes.
+Dealer: Okay.
+Client: Thank you.
+Dealer: Okay.
+Dealer: Bye.
+Client: Bye.

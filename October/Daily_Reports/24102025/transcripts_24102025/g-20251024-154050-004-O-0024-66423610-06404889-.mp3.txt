@@ -1,0 +1,8 @@
+Dealer: Hello
+Client: 2610
+Client: 30 sell
+Dealer: Yeah
+Client: 2610 30 sell
+Dealer: Sell?
+Client: 2610
+Dealer: Okay

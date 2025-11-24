@@ -1,0 +1,21 @@
+Dealer: Hello.
+Client: Hello. Uh, Piyush nahi hai?
+Dealer: Idhar abhi, accha Primal Desai baat kar raha hoon.
+Client: Haan.
+Dealer: Uh, Neo 56.
+Client: Haan, kya karna hai?
+Dealer: Uh, Mody Lights Industries Technology Limited hai na? Dekh zara. Kaun idhar hai?
+Client: Hmm.
+Dealer: Haan, Mody.
+Client: Twenty five sixty fifty paisa hai.
+Dealer: Barabar baat kar, awaaz nahi a rahi dost.
+Client: Twenty five sixty, fifty paise mein khada hai. Fine se, fine se.
+Dealer: Maal toh bada accha hai.
+Client: Nahi, lower circuit pe toh nahi hai. Lower circuit Rs 25, 30 paise ka hai.
+Dealer: 25.30 ka hai na? Toh maal mil raha hai kya?
+Client: Haan, khareedna hai lekin 27.25 itna raha toh.
+Dealer: Matlab almost.
+Client: Almost 50 paisa niche wahan se hai. Matlab ₹2 ka fark hai almost.
+Dealer: Uh, accha accha. Theek hai. Theek hai. Chal abhi kuch chal raha hai toh phone karta hoon. Theek hai.
+Client: Theek hai. Bye.
+Dealer: Bye.

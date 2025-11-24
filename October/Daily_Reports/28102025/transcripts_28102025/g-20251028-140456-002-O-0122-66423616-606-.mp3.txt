@@ -1,0 +1,21 @@
+Dealer: Hello.
+Client: recording NWP 11
+Dealer: Haan.
+Client: Wo map nahi hai humare.
+Dealer: NWP 007.
+Client: Ha.
+Dealer: NWP code hai, NWP0060.
+Client: Nahi, NWP 07.
+Dealer: Haan, NW Western Pune 00607, aisa koi nahi hai na?
+Client: To mere ko isme wire me to dikh raha hai.
+Dealer: Kahan pe dikh raha hai tere ko?
+Client: Apna ye re middle wire.
+Dealer: Middle me dikh raha hai?
+Client: Haan, NWP.
+Dealer: Ek hold sir.
+Dealer: Last trade date.
+Dealer: Isme common nahi hai, common si mark hua hai code nahi hai.
+Dealer: NWP manager.
+Dealer: Ek minute, map to dikha raha hai, main ek chakkar karta hu do minute.
+Client: Haan.
+Dealer: Bye.

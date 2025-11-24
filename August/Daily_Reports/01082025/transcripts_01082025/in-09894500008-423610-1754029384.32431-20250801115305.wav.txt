@@ -1,0 +1,9 @@
+Client: Hello?
+Client: आप मेरे को इतना बताएंगे मेरे अकाउंट में डेबिट कितना अमाउंट भेजना था मुझे आपको?
+Dealer: हां एक मिनट मैडम।
+Dealer: अ मैडम 12985
+Client: ठीक है।
+Dealer: है ना?
+Client: ठीक है।
+Dealer: हां।
+Client: Okay.

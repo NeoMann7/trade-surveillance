@@ -1,0 +1,21 @@
+Dealer: Hello?
+Client: Hello Pratik, Pratik this is.
+Dealer: Yes sir, ha sir.
+Client: Apna Just dial? Bike? Equity solar holdings.
+Dealer: Equity solar. Kitna lena hai sir? Kitna hai abhi?
+Client: Kitna hai abhi?
+Dealer: Abhi aa raha hai sir 282, 282.30.
+Client: 50 le lo.
+Dealer: 50 Equitas Solar. 50 aa gaya sir apna 282.30 mein.
+Client: 30 mein. Okay. Then Adani Energy Solutions.
+Dealer: Adani Energy 802, 802.20.
+Client: Uska 10 le lo.
+Dealer: 10 aa gaya 802 mein.
+Client: Aur Segeility India Limited.
+Dealer: Segeility, Segeility aa raha hai sir 4571, 4575.
+Client: Uska 300 le lo.
+Dealer: 300 aa gaya sir 4575.
+Client: Okay. Done.
+Dealer: Theek hai sir.
+Client: Thank you.
+Dealer: Yes sir.

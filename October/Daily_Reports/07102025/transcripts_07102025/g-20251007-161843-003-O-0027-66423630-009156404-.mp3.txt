@@ -1,0 +1,8 @@
+Client: Hello?
+Dealer: Sanjay talking, good evening, Sanjay.
+Client: Hello?
+Dealer: Ha, bolie.
+Client: Yeah.
+Dealer: Hmm.
+Client: Sanjay, good evening. Sanjay, can you tell us today's call?
+Dealer: Hmm.

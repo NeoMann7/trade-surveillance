@@ -1,0 +1,18 @@
+Dealer: Hello?
+Client: Haan sir, good morning.
+Dealer: Ek minute.
+Dealer: Boliye sir.
+Client: Hmm sir, good morning. Uh Nifty 24,600 hai. 55 point minus hai. Aur RBI policy abhi just aaya hai. Repo rate unchanged raha hai sir.
+Dealer: Unchanged hai?
+Client: Haan, unchanged.
+Dealer: Aur koi commentary?
+Client: Nahi, abhi to chal raha hai.
+Dealer: Theek. Toh interest rate bhi kuch nahi kiya hai?
+Client: Nahi, filhaal to repo rate wo sab unchanged hi hai, unchanged at 5.5%. 5.5%
+Dealer: Interest rate ka kuch nahi bataya abhi tak?
+Client: Nahi, abhi tak kuch nahi.
+Dealer: Theek.
+Client: MS MSF rate unchanged at 5.75%.
+Dealer: Usne kya hai repo rate nahi change karega to mere khayal se interest rate bhi nahi karega theek hai.
+Client: Haan, haan, okay. Hmm.
+Dealer: Hmm.

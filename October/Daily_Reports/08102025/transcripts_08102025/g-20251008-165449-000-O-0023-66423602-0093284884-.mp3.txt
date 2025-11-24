@@ -1,0 +1,55 @@
+Client: Hello?
+Dealer: Hello?
+Client: Ha, bol.
+Dealer: Bol, kya hai?
+Client: 23600 C E buy kar sakte hai kya?
+Dealer: Kya?
+Client: 23600 C E.
+Dealer: Haan?
+Client: Buy kar sakte hai kya?
+Dealer: Kis mein? Bank Nifty?
+Client: Bank Nifty.
+Dealer: Haan.
+Client: Ismein?
+Dealer: Kitne pe?
+Client: Abhi 200...
+Dealer: Kya rate chal raha hai?
+Client: 200.. 200 ke upar hai. 200-205.
+Dealer: Aur kya?
+Client: Ismein?
+Dealer: Kya lot hai, kitne lot?
+Client: 50.
+Dealer: Kya?
+Client: 50, 50.
+Dealer: Kya lot size hai?
+Client: 50?
+Dealer: Haan?
+Client: Lot size kya hai?
+Dealer: 15.
+Client: 15?
+Dealer: Haan.
+Client: Toh 3 lot.
+Dealer: 3 lot?
+Client: Hmm.
+Dealer: Toh lot size kya hai? Bank Nifty ka lot size kya hai?
+Client: 15.
+Dealer: Toh 3 lot matlab kitna ho gaya?
+Client: 45.
+Dealer: Haan?
+Client: 45.
+Dealer: 45.
+Client: Hmm.
+Dealer: Buy karna hai?
+Client: Buy karna hai. 23600 C E. Bank Nifty.
+Dealer: 23600 C E. Rate kya?
+Client: 200 ke upar.
+Dealer: 200 ke upar. Okay. Kya? Target kya hai?
+Client: Ismein?
+Dealer: 200 ke upar. Market order laga doon?
+Client: Haan.
+Dealer: Okay.
+Client: Oh.
+Dealer: Okay, done.
+Client: Okay.
+Dealer: Hmm.
+Client: Okay.

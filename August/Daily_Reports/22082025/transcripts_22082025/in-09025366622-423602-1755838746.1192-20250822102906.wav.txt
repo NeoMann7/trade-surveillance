@@ -1,0 +1,74 @@
+Dealer: Hello.
+Client: Ha, Piyush.
+Dealer: Yes sir, good morning.
+Client: Nifty 24937, 146 point minus chal raha hai.
+Client: Kya de sakte ho aap put aur call mein?
+Dealer: Ek minute.
+Dealer: Call aapka 25400 ka call hai ₹11.90 paisa.
+Client: 25...
+Dealer: 25400 ka call ₹11, 70-75 paisa chal raha hai.
+Client: 450 ka?
+Dealer: ₹9.30 paise.
+Client: Theek hai, 400 ka. Aur niche ke side?
+Dealer: Niche ke side.
+Dealer: 24400 ka put ₹10.25 paisa.
+Client: Theek hai, 24400 ka put initiate kar dijiye.
+Dealer: Kitna?
+Client: 725 lot size hai. Ya 750 hai.
+Dealer: 750?
+Dealer: 750 kar dijiye na, 750.
+Client: 750 kar dijiye.
+Dealer: Theek hai, ye to bik gaya.
+Client: Kya bhaav?
+Dealer: Put bikka hai 750 quantity ₹10.30 paisa 24400 ka.
+Client: Theek hai. Aur call kar dijiye.
+Dealer: Ye kaun sa kar do aapko? 25400 ka na?
+Client: 25400 wala. 750 quantity.
+Dealer: Bik gaya 25400 ka call 750 quantity ₹11.85 paise.
+Client: Ah, margin kitna available hai?
+Dealer: Hai 16 lakh available abhi.
+Client: 16 lakh.
+Client: 525 quantity aur kar dijiye 24400 ka.
+Dealer: Put?
+Client: Put.
+Dealer: Bik gaya.
+Client: Total kitna quantity hua?
+Dealer: Put mein 24400 ke put mein total 1275 quantity hua. Selling average ₹10.36 paise.
+Client: Abhi kitna margin available hai kuch?
+Dealer: Hai 7 lakh 61 hazar.
+Client: 7 lakh.
+Client: 761000 hai.
+Client: Theek hai. 225 quantity call kar dijiye.
+Dealer: Bik gaya.
+Dealer: Call mein abhi total 25400 ke call mein 975 quantity sell hai. Selling average ₹11.78 paise.
+Client: Margin available hai aur?
+Dealer: Hai, 6.5 lakh.
+Client: 75 quantity aur kar dijiye.
+Client: Call ka.
+Dealer: Bik gaya.
+Client: Margin?
+Dealer: Margin hai available.
+Dealer: 6 lakh dikha raha hai.
+Client: Theek hai. 75-75 quantity aur put aur call ka kariye.
+Dealer: Ah, theek hai. Abhi total put mein 1325 quantity, 1350 quantity short hai. Call mein 1125.
+Client: Margin?
+Dealer: 387 available hai.
+Client: 75, ek-ek lot aur kar dijiye dono side.
+Dealer: Ah, 1425 quantity 24400 ka put sell hua hai total ₹10.36 paisa selling average.
+Client: Ne, ek minute, ek minute.
+Client: Average main baad me lunga.
+Client: Margin?
+Dealer: 1.65.
+Client: Bas theek hai. Wo rehne dijiye. Ab bata dijiye aap confirmation de dijiye mere.
+Dealer: 24400 ka put total sell quantity 1425.
+Client: Hmm.
+Dealer: ₹10.36 paise selling average.
+Client: Hmm.
+Dealer: Aur 25400 ka call.
+Client: Hmm.
+Dealer: 1200 quantity sell.
+Client: Hmm.
+Dealer: Selling average ₹11.73 paise.
+Dealer: Matlab 24400 ka put 1425 quantity sell hua hai. 25400 ka call 1200 quantity sell hua hai.
+Client: Theek hai. Thank you, bye.
+Dealer: Thank you.

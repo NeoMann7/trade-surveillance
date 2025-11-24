@@ -1,0 +1,7 @@
+Dealer: Hello.
+Client: Hello, good morning.
+Dealer: Good morning, sir. Good morning.
+Client: Yeah, how are you?
+Dealer: I'm fine, sir. Tell me, sir.
+Client: Yeah, give me 200, uh, Tata Power, uh, 10th October extension 610.
+Dealer: Okay.

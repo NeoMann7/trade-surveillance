@@ -1,0 +1,11 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Oh.
+Client: Yeah, I have actually sent you on Teams but it seems like you are offline as of now. So it's not getting delivered to you.
+Dealer: What actually error coming? Kya error aa kya raha hai aapka?
+Client: Error ye hai sir ke abhi jaise ki F3 maine press kiya hai. Okay, so there should be two windows opening. Okay, one is pending orders and one is closed orders. I am unable to open the closed order tab, you know, again. Only pending order ka jo tab hai, wahi open ho raha hai. So us pe agar main right click kar rahi hu toh dock and float ka aa raha hai option. But closed order ka tab hi nahi hai abhi mere paas.
+Dealer: Theek hai. Abhi aap F3 wapas se press kijiye ek aur baar F3.
+Client: Okay, give me a minute. Haan F3 wapas press kiya. Ab...
+Client: Hello?
+Client: Hello?
+Client: Hello?

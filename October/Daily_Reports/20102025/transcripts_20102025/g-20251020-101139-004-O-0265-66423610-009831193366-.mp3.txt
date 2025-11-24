@@ -1,0 +1,55 @@
+Dealer: Hello?
+Client: Hello.
+Dealer: Akhil?
+Client: Ji.
+Dealer: Vicky baat kar raha hu main Niyo Dealing se.
+Client: Hmm. Abhi theek hai?
+Dealer: Haan. Achha mujhe na Dripti ka mail tha Friday ko ki client ko kuch apna online app aur desktop version ka kuch demo chahiye tha.
+Client: Right.
+Dealer: Haan, toh woh client se direct coordinate kar lena hum log.
+Client: Hum sir lekin Diwali wale din toh koi nahi hota na Vicky? Us din toh koi response hi nahi tha.
+Dealer: Nahi, hum toh zaruri hai. Customer, client bol rahe the.
+Client: Kya response aaya hai mail pe toh?
+Dealer: Coordinate, Gignasha ne mail daala hai woh idea nahi hai kyunki Gignasha ko Tripti se coordinate. But Tripti ne call attend nahi kiya, fir Gignasha ne mail bhi bheja but usme bhi koi revert nahi tha. Abhi maine bhi subah kar raha hu but woh phone nahi utha rahi hai iske liye maine. Halaaki unko shayad kal Morat trading mein kal se kaam chalu karna hai, aisa kuch.
+Client: Okay.
+Dealer: Hmm.
+Client: Hmm.
+Dealer: Toh sir abhi toh I think ab kal kar lo I think aaj toh Diwali wale din toh koi free nahi hoga baat karne ke liye.
+Client: Right. Client will not be free. Abhi toh usko pura run through dena na. Abhi toh humne khali account khola. Client ko toh kuch ye bhi nahi bataya ki humara system kya hai, process kya hai. What are the margin requirement, etcetera, etcetera. Woh toh sab kuch samjhana hoga na client ko A to Z.
+Dealer: Hmm.
+Dealer: Toh ye generally sir abhi kaisa hai? Hum log yaha pe trading part jo bhi rehta na, hum log woh dekhte hain agar client ko kuch trade karna hai ye woh. Toh hum log yaha se woh dekhte hain. Baaki mostly ye sab jo bhi back-end kaam rehta na woh sab RM aur CS-os dekhte hain.
+Client: Haan.
+Dealer: Aisa hai.
+Client: Toh RM aur CS-os ko kaun bataega? What is the part in the back-end? Back-end kaam kya hai? Ye toh.
+Dealer: Hmm.
+Client: Ye toh back-end kaam nahi hai na. Aaj uska margins kya hai, lagega, nahi lagega, etcetera. Kitna exposure de sakta hai? Woh toh RM aur CSO ko kaise batayega yaar?
+Dealer: Hmm.
+Client: Woh toh dealing desk hi batayega bhai.
+Dealer: Haan, woh at a time agar kuch rehta na toh hum log uske liye guide karte hain. Chalo theek hai no issues, main client ke sath main ek baar.
+Client: I'm just saying that the, the whole process of onboarding has not been very great.
+Dealer: Okay.
+Client: Because aap kaise samjhaoge client ko? Aapko toh sirf client ka pehle holding chahiye tha jo transfer ho hi raha hai, right?
+Dealer: Haan.
+Client: Uske basis pe aap bataoge na. Fir woh holding mein bhi abhi jaise client ka kuch MTP chal raha hai. Toh woh toh MTP mein hai woh transfer ho nahi sakta.
+Dealer: Hmm.
+Client: So, I mean all of these things you know, should have been discussed etcetera because I don't think it's a 10-minute process.
+Dealer: Right.
+Client: The client is currently using Kotak ka apps. Right, the desktop version as well as the mobile version, dono use karti hai. Abhi woh humara pehle download karengi, unko pura run-through dena padega. Obviously ek baar mein ho sakta hai nahi sara yaad rahe client ko.
+Dealer: Haan, haan. Samjh gaya.
+Client: So, what does, kya hum de sakte hain? Kya? Samjhega na? Ye toh, ye toh dealing desk hi aage karega bahut.
+Dealer: Matlab broking team ye handle karta hai generally. Lekin sir abhi hum log jo bhi deal rehta na toh hum log direct trade generally hum log trade handle karte hain.
+Client: Besides you, who else is there? Is there somebody in broking sales who will handle this?
+Dealer: Haan woh Akshat broking sales jo bhi hai na woh pura Akshat abhi leave pe hai. So agar chahiye toh main ek bar client se discuss kar leta hu, unka time le leta hu agar aaj woh free nahi hai toh. Toh jab bhi woh bolenge toh unko uska thoda apna broking ka jo bhi details hai woh unke sath ek bar discuss kar lenge. Aur mobile app, desktop app ke liye main aid deta hu unse matlab unka time leke jaise bhi unko available, us hisab se fir ye connect karwa dete hain.
+Client: Hmm.
+Dealer: Aise hai. Hai na? Theek hai toh main ek bar direct client se coordinate kar leta hu.
+Client: Haanji, haanji.
+Dealer: Theek hai sir.
+Client: Mera naam likh do.
+Dealer: Haan theek hai.
+Client: Client ke liye bhi bol do please.
+Dealer: Theek hai, theek hai. Okay, ji.
+Client: Okay.
+Dealer: Bye.
+Client: Bye.
+Dealer: Vikas.
+Client: Hmm.

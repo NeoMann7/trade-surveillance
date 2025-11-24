@@ -1,0 +1,42 @@
+Client: Hello?
+Dealer: Hi Vicky.
+Client: Ekme Solar.
+Dealer: Ekme Solar... 276.80, 276.90.
+Client: Take 25.
+Dealer: 25 aa gaya sir, 277.05.
+Client: 277.05.
+Dealer: Haan.
+Client: Okay. Then, uh, Adani Energy Solution.
+Dealer: Adani Energy Solution. 292.60, 292.90.
+Client: Adani? Energy? Energy Solution, right?
+Dealer: Sorry, 792, 792.90.
+Client: Ha, take 20.
+Dealer: 792.05.
+Client: 792, no?
+Dealer: 792.05. Sorry.
+Client: Ha, okay, because you said 292.
+Dealer: Ha, woh.
+Client: Then, uh,ality India.
+Dealer: Sesa Goa.
+Client: Sesa Goa. Sesa Goa 44.85, 44.86. Take 100.
+Dealer: 100 44.84.
+Client: Pardon?
+Dealer: 44.84.
+Client: 84. Hmm. Okay. And Lauras Labs.
+Dealer: Lauras 850.25, 850.50.
+Client: 850, right? Take five.
+Dealer: Five?
+Client: Ha.
+Dealer: Paanch aa gaya, 850.30.
+Client: 30. Okay. That's all.
+Dealer: Yes sir.
+Client: Uh, how much is the balance?
+Dealer: Just a minute. Balance abhi sir 2292.
+Client: 2292. Okay, baal mein. Ha. Okay.
+Dealer: Okay.
+Client: There will be something on tax and all also, no?
+Dealer: Haan, woh bhi lag jayega apna.
+Client: Thik hai.
+Dealer: Thik hai.
+Client: Manday dekhenge. Okay. Fine. Okay. Thank you.
+Dealer: Okay. Thank you.

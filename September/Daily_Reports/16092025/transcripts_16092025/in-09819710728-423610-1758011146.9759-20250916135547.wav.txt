@@ -1,0 +1,6 @@
+Client: Hello
+Dealer: Hello. 610 test call.
+Client: Ha 610.
+Dealer: Theek hai. Lekin aur ek goh. 610 mein na call do second usse lagti hai.
+Client: Ha main bol deta na. Kareeb gateway gateway pass hota hai na nantar lagta hai.
+Dealer: Okay. Main ek bar wapas check karu. Hmm.

@@ -1,0 +1,9 @@
+Dealer: Hello.
+Client: Hello.
+Client: Ha?
+Dealer: Ha sir, dekhiye.
+Client: Ha sir, wo...
+Dealer: Ha.
+Dealer: Ye order dalne the sir apne ko.
+Client: Mai aapko call...
+Client: Hello?

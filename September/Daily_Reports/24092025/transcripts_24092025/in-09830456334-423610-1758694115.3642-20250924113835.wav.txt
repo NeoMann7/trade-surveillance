@@ -1,0 +1,14 @@
+Dealer: Hello
+Client: Ha bhaiya
+Dealer: Ha madam, ye RK Foge kitna lena tha?
+Client: 1000
+Dealer: 1000 na?
+Client: 58 ya usse kam mein.
+Dealer: Abhi ha 57.15 aur 57.50. But 57.50 mein sirf 30 share seller khada hai.
+Client: Koi baat nahi, 57.50 mein laga dijiye na aa jayega.
+Dealer: 557.50 mein main 1000 quantity lene daal raha hoon Sradha Jawal mein.
+Client: Sradha Jawal mein ha.
+Dealer: Ha ha Sradha Jawal mein maine daal diya. 57.
+Client: Aa gaya?
+Client: Theek hai, main unke phone se bhi phone karta hoon.
+Dealer: Ha ha chalega.

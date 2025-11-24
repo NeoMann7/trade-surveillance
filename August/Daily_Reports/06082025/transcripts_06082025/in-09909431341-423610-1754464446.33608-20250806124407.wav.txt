@@ -1,0 +1,14 @@
+Client: Hello
+Dealer: Hello
+Client: Ha, hu Priyam bolu chu.
+Dealer: Kon bole?
+Client: Vicky bhai?
+Dealer: Ah, Vicky is leave par hain.
+Client: Achcha, main Priyam bol raha hoon Naushere Marfat & Company Ahmedabad se.
+Dealer: Haa.
+Client: Ah, actually vo, humara vo demat trading account hai na toh vo shares kuch lene the thode toh main pooch raha tha ki kya abhi suggest kar rahe hai Neo means.
+Dealer: Sir actually hum log ko allow nahi hai kuch yahan se suggest karna.
+Client: Achcha aisa hai. toh main Neejal madam ko bolta hoon theek hai.
+Dealer: Hmm.
+Client: Theek hai thank you.
+Dealer: Call kar de ji.

@@ -1,0 +1,9 @@
+Dealer: Hello
+Client: Hello
+Client: Ha Vikram bhai?
+Dealer: Ha bolo.
+Client: Are tamare kai order online na kahya chhe jo jo cancel thaya chhe? Nakhi didha paacha?
+Dealer: Ha cancel thai.
+Client: Kai tamare, tamare yi thaya?
+Dealer: O jo jo tejal ben nu kai hoi to.
+Dealer: Hello.

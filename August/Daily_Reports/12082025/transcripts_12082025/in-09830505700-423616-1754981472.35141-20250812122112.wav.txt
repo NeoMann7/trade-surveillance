@@ -1,0 +1,9 @@
+Dealer: Hello?
+Dealer: Haan, Sri Ram Kumar.
+Client: Haan, bolo na.
+Client: Yeh, mereko abhi Manappuram ki position ka woh puchna tha, kya chal raha hai?
+Dealer: Haan, kaunsa code kya tha?
+Client: NWPM00270.
+Dealer: Prakash dekhte hain mera. 250 ka put abhi 280, 285 hai. Aur 260 ka put 735, 745 hai.
+Client: Ah, Manappuram. Achha. Theek hai. Yes. Theek hai. Right. Thank you.
+Dealer: Okay, bye.

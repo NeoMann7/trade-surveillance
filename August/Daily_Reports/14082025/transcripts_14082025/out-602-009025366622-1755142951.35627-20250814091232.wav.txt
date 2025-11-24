@@ -1,0 +1,28 @@
+Dealer: Hello.
+Client: Hello sir. Ah. Nifty 24660, 36 point plus hai. Aur shortage hai 878000 ka.
+Dealer: Ek kya bhao dono side?
+Client: Ek minute. 75 paise chal raha hai put 23050 ka. Aur ₹1.15 paise chal raha hai 25050 ka call.
+Dealer: Aapka bhao kya aa raha hai? Wapis boliye.
+Client: 25050 ka call chal raha hai ₹1.10 paisa.
+Dealer: Thik hai.
+Client: 23050 ka put chal raha hai 0.70. 70 paisa.
+Dealer: Put kaatiye aap 150 quantity.
+Client: Put kaato. Aapki voice clear nahi aa rahi mujhe.
+Dealer: Put kaatiye aap 150 quantity.
+Client: Thik hai. Put le liya 150. Abhi 7,32,000 hai.
+Dealer: Kitna?
+Client: 7,32,000. 7 lakh 32000.
+Dealer: Call kaatiye 75.
+Client: Aa gaya call. Abhi 5 lakh 17000 hai.
+Dealer: Aur 75 kaatiye call.
+Client: Kaat aa gaya. Abhi 3 lakh.
+Dealer: 75 aur call kaatiye.
+Client: Aa gaya. Abhi 87,000, 88,000 hai.
+Dealer: Put kaat dijiye.
+Client: Put put kaato ek lot?
+Dealer: Haan.
+Client: Ek minute. Thik hai. Aa gaya. Ek minute. Abhi mujhe sir ₹16,000 dikha raha hai.
+Dealer: Okay sir. 100 kaatiye.
+Client: Thik hai, ho gaya. Confirmation total apne 23800 ka 300 quantity buy kiya hai. 25050 ka call 225 quantity buy kiya hai.
+Dealer: Thik hai mujhe aap ek message kar dijiye.
+Client: Thik hai.

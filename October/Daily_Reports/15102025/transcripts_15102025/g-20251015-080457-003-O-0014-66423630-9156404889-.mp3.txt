@@ -1,0 +1,58 @@
+Dealer: Hello
+Client: Ha bol sir
+Dealer: Ha sir
+Client: Ha ha
+Client: Ha sir
+Dealer: Yes sir
+Client: Ha sir buy karna hai na
+Dealer: Ha
+Client: Ha
+Dealer: 17200 pe
+Client: Ha
+Dealer: 275 ka call
+Client: Ha
+Dealer: 1000 quantity
+Client: Ha
+Dealer: Rate lagana hai 370.
+Client: Kitna?
+Dealer: 370
+Client: 370 okay
+Client: 17200 ka call
+Dealer: Ha
+Client: 27th March
+Dealer: Ha
+Client: 27th April
+Dealer: Ah April
+Client: 27th April 275 rate
+Dealer: Ah 275 ka call strike price
+Client: Strike price okay
+Dealer: Ha
+Client: Rate kya lagana hai 370
+Dealer: 370
+Client: Theek hai
+Dealer: Ha
+Client: Theek hai rakh de
+Dealer: Okay sir
+Client: Hmm
+Dealer: Sir kya karoge aaj aap?
+Client: Ha kya?
+Dealer: Aaj kya karoge?
+Client: Aree aaj to market upar hi lag raha hai bhai
+Dealer: Ha
+Client: Ha aaj to upar lag raha hai
+Dealer: Hmm
+Client: Kal dekhna padega
+Dealer: Ha
+Client: Kal kya hoga?
+Dealer: Aaj to upar lag raha hai
+Client: Hmm
+Dealer: Theek hai sir
+Client: Theek hai
+Dealer: Hello
+Client: Theek hai
+Dealer: Rakhta hu sir
+Client: Hmm
+Dealer: Hmm
+Client: Hmm
+Dealer: Ok sir
+Client: Hmm

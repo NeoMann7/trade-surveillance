@@ -1,0 +1,13 @@
+Client: Hello?
+Dealer: Hello?
+Client: Haanji, ek ACC buy dijiye sir. ACC?
+Dealer: ACC.
+Client: Teen quantity.
+Dealer: Teen quantity. ACC buy, theek hai, hold pe rahiyega.
+Client: Hello?
+Dealer: Haanji.
+Client: Done?
+Dealer: Ek minute, pending hai.
+Client: Achha, theek hai.
+Dealer: Done.
+Client: Done. Okay, thank you.

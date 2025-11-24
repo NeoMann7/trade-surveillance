@@ -1,0 +1,6 @@
+Client: Hello.
+Dealer: Hello.
+Client: Hello. Ha. Ah, ye Piyush maine ye taiyar kar liya hai, isme kidhar sign karna hai bhaiya?
+Dealer: Sir, woh mai aapko do minute mein phone karunga, samne puch ke. Pura documentation taiyar kiya tha.
+Client: Aur kidhar bhejna hai woh bhi bata dijiye.
+Dealer: Theek hai, main karta hoon aapko phone.

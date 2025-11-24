@@ -1,0 +1,18 @@
+Client: Hello?
+Dealer: Hello. Hmm. Rajesh, ek code hai, usko bata, SKU hai ki nahi, Prashant, Neo 320, Neo 320.
+Dealer: Neo 320. Hmm. Hai na system mein koi Prashant too much karke hai wo.
+Dealer: Nahi, aisa koi code nahi hai bhai. Naam bata fir se.
+Client: Oh, Prashant too much, Neo 3, Neo 320.
+Dealer: Nahi yaar, aisa koi code.
+Client: Ek minute, ruk ja. Tere ko main team se bheja hai maine.
+Client: Rajesh, Rajesh. Ruk ja. Rajesh.
+Client: Dekh.
+Client: Kya bataye, activa hai nahi, wo dikh raha hai yaha pe.
+Dealer: Hmm. Nahi dikh raha mujhe yaha pe.
+Client: Kya activa nahi hai na?
+Dealer: Nahi, khud dikh hi nahi raha hai matlab wo. Na system mein hai na kahi pe bhi dikh raha hai.
+Client: To abhi kya, wo samne wale ko kya bolu?
+Dealer: Account opening wale ko pooch.
+Client: Usko bolu I, system mein nahi hai please ask the account opening team na.
+Dealer: Hmm, hmm.
+Client: Hello?

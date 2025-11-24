@@ -1,0 +1,39 @@
+Client: Hello.
+Dealer: Hello. Haan bolie, sir.
+Client: Shantipur se bol raha hoon, sir.
+Dealer: Kahan se bol rahe ho aap? Shaantipur se? Bolie na sir.
+Client: Shaantipur.
+Client: Boliye sir, bolna tha abhi jo sale kiya hai na, uska kitna margin abhi use kar sakte hain?
+Dealer: Ek minute, kaun sa?
+Client: Abhi jo sale kiya na, Nio 64, Nio 65, 74 mein.
+Dealer: Ek minute. Nio 64, Nio 74 mein abhi 3,68,000 available margin hai.
+Client: 3,68,000?
+Dealer: 3,68,000 available margin hai Nio 74 mein. Fir Nio 64 mein available margin hai 48,000. Aur ek minute, fir Nio 65 na?
+Client: Hmm.
+Dealer: Nio 65 mein 4 lakh available margin hai.
+Client: 4 lakh.
+Client: Hmm.
+Dealer: Ek second chhodo. Hello.
+Client: Yes bank kya aa raha hai?
+Dealer: Haan sir, bolo na, kya bol rahe ho?
+Client: Yes bank kya aa raha hai? Yes bank.
+Dealer: Yes Bank abhi 20.76, 20.77.
+Client: Nio 74 mein 17,000 plus ki jiye.
+Dealer: 17,000? 17,000 market mein lena hai? Theek hai? Client code hai Nio 74, okay?
+Client: Haan, Tushar sir.
+Dealer: Theek hai, 17,000 quantity 20.77 mein buy ho gaya.
+Client: Okay. Nio 64 mein kijiye aap 2000.
+Dealer: Kitna?
+Client: Yes Bank 2000. Nio 64 mein 2000.
+Dealer: Nio 64 mein 2000 quantity lena hai. Theek hai? Sanjay sir, theek hai?
+Dealer: Theek hai, 2000 quantity 20.77 mein aa gaya.
+Client: Nio 65.
+Dealer: Kitna?
+Client: 19,000, unnis hazaar.
+Dealer: 19,000 quantity Nio 65 mein Ajay sir mein, theek hai?
+Client: Okay, sir.
+Dealer: Theek hai, aa gaya.
+Client: Abhi aap mere ko teenon bol do na sir, kitna-kitna aaya?
+Dealer: Theek hai. Nio 65 mein 19,000 aaya 20.76. Nio 64 mein 2000, 20.77. Nio 74 mein 17,000 quantity 20.77.
+Client: 20.77. Okay, sir. Thank you.
+Dealer: Hmm.

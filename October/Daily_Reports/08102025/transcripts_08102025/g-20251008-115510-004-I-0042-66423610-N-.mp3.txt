@@ -1,0 +1,13 @@
+Client: हेलो
+Dealer: हां सर
+Client: हां
+Dealer: सिल्वर बीज 14561 14565
+Client: बाय 100
+Dealer: रनिंग है
+Client: सर 4572 हो गया है ले लूं ना?
+Dealer: 100 ले लो चलो
+Client: हां
+Client: 4570 में
+Client: हूं
+Client: हलो
+Client: हां

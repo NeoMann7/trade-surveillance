@@ -1,0 +1,16 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes sir.
+Client: Happy Diwali.
+Dealer: Happy Diwali sir, same to you. Boliye.
+Client: Yes.
+Dealer: Ha ha ha, chalu hai abhi.
+Client: So, to Nippon Silver.
+Dealer: Nippon Silver.
+Dealer: 30 na?
+Client: Ha, utne ka hi balance me mera rahega 1500.
+Dealer: Ha, 14460 chal raha hai sir.
+Client: Ha theek hai jo bhi hai, bhai ab to pura trading ke liye.
+Dealer: Ha ha ha.
+Client: Ha sir, update mein.
+Dealer: Okay, thanks. Yes.

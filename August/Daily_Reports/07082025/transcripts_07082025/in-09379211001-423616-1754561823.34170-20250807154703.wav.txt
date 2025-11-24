@@ -1,0 +1,7 @@
+Dealer: हेलो
+Dealer: बेंगलुरु सन ग्रुप से बोल रहा हूं मैडम।
+Client: कहां से?
+Dealer: बेंगलुरु सन ग्रुप।
+Client: हेलो सर आपका आवाज नहीं आ रहा है ठीक से।
+Dealer: (unintelligible)
+Client: (unintelligible, possibly background noise or a repeat of the problem)

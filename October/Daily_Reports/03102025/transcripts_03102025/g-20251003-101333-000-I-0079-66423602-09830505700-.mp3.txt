@@ -1,0 +1,14 @@
+Client: 270 ka Manna ka put batao.
+Client: Ek minute. Kon sa strike price?
+Client: Mannapuram.
+Client: 275, 270, dono batao.
+Dealer: Mannapuram ka 250 ka put toh kuch nahi chala 80 paisa.
+Client: Kon sa? Mannapuram na?
+Client: Kon sa strike batao? Hmm.
+Dealer: Ek minute, main bata hu.
+Dealer: Mannapuram kya chal raha hai bhai? Haan, 283 chal raha hai Mannapuram. Kon sa strike batao aap bolo?
+Client: 270 bataiye.
+Dealer: 270 chal raha hai ₹3 15 paisa 25 paisa.
+Client: 275 bataiye.
+Dealer: ₹4 45 paisa 60 paisa.
+Client: Achcha, theek hai. Hmm, okay.

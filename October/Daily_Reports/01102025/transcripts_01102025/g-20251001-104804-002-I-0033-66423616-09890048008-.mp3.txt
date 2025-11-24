@@ -1,0 +1,11 @@
+Dealer: Hello
+Client: Hanji
+Dealer: Kahan par the sorry Wasu Wasu ji?
+Client: Um kal na last teen char din se hum log ne Bharat kiya hai.
+Dealer: Hm hmm
+Client: Alag alag accounts mein toh total kitne hain woh dekhne ke the.
+Dealer: Achcha.
+Dealer: Confirm kar lete hain main ek do minute tak Wasu se.
+Client: Nahi toh aap Wasu aane ke baad bhi bolna toh chalega.
+Dealer: Theek hai theek hai.
+Client: Okay okay.

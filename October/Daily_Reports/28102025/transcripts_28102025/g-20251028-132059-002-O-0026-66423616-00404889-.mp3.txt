@@ -1,0 +1,18 @@
+Dealer: 90206 Second test.
+Client: Hello.
+Dealer: Hello.
+Client: Yes, sir.
+Dealer: Hello.
+Client: Sir, I want to sell 3000 shares of IDBI at 60 rupees.
+Dealer: IDBI 60 rupees, 3000 shares.
+Dealer: Sell, right?
+Client: Sell, yes.
+Dealer: Done, sir. One second.
+Dealer: Done.
+Client: Okay, sir.
+Dealer: Sir, today it's trading between 60.5 and 60.
+Client: Okay, okay.
+Dealer: Okay?
+Client: Okay.
+Dealer: Thank you.
+Client: Thank you.

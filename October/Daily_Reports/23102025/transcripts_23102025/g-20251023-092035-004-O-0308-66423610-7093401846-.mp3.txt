@@ -1,0 +1,59 @@
+Dealer: Hello.
+Client: Hello.
+Client: Nikhil bol raha hoon.
+Dealer: Haan haan, bolo na.
+Client: To Sensex mein call sell kar do 86000 ki.
+Dealer: 86000 ki call?
+Client: Haan, 86000 ki.
+Dealer: Kitna quantity karu?
+Client: Kitna karte hai apne? 1100 karte hai na isme?
+Dealer: Haan, 1100.
+Client: 1000 karo ek baar. 1100 hi kar do bhale.
+Client: Thoda fatfat karna. Jitna zyada kar le. 65000. Hmm.
+Client: 690, 7 rupay ho gaya.
+Dealer: 1100 bika apna 6.95 mein. Aur put kaun sa bechna hai?
+Client: 1100.
+Client: 6 80000 83900. 83900.
+Dealer: 83900 ka put 1100 quantity mein bech raha hoon.
+Dealer: Okay, haan.
+Dealer: Margin shortfall.
+Client: 1000 kar do ek baar quantity.
+Dealer: 1000 bika hai apna, aur baaki arey 100 bika hai. Baaki margin shortfall aaya. 1000 ka order reject hua. Ek minute.
+Client: Usko aadhe aadhe kar do.
+Dealer: Main par? Haan, 500 bika hai. Batata hoon.
+Client: Ye 83500 kar diya kya apne?
+Dealer: Ek minute, haan, 83500 gaya.
+Client: 83500 karna hai.
+Dealer: Ye kaat do ek.
+Client: Haan, kaatna padega.
+Dealer: 83500. Haan, ek minute ruko.
+Dealer: 300 kaat lo.
+Dealer: Haan, ye 3 kaat liya. Aur ye 300 wapas mein.
+Dealer: Haan, ye abhi 900 hua. Aur ek baar 200, 100 dalta hoon.
+Dealer: Nahi, reject ho raha hai. Ek call 1100 hue, ye 900 isme.
+Client: Aur call kam kar do. Aur kam kar do. 200.
+Client: 200 quantity kam kar do aur apni buy kar lo.
+Dealer: Buy kar lo na?
+Client: 1100. Kitna hua hai?
+Dealer: Haan, ye call 1100 bike aur put 900 bike hai.
+Client: 200 quantity kam kar.
+Client: Theek hai isme se 200 quantity kam kar do isme.
+Dealer: 1100 mein 200 kam karu na?
+Client: 100 quantity kam kar do isme, udhar laga do.
+Dealer: 100 kam karu, ek minute ruko.
+Dealer: Haan, 100 ye kaat liya. Abhi 100 isko badhau.
+Dealer: Pending mein hai. 860 mein de du na? Ek baar.
+Client: Haan.
+Dealer: Dono 1000-1000.
+Dealer: Minimum hua hai 15600 net.
+Dealer: Margin. Kya ho gaya apna?
+Client: Pehle kuch lay hua hua bacha hai kya?
+Dealer: Nahi hai, maine check kiya subah hi. Kuch bhi nahi hai.
+Dealer: Rakha margin available hai sirf 141.
+Client: Hmm.
+Dealer: Hai na? Cash hai apne paas. But cash to margin utilize ho gaya hai apna.
+Client: Kitna cash hai?
+Dealer: Cash 5 lakh cash hai apne paas total. Matlab wo abhi aaj use hua hai apna. Khatam hoga to 5 lakh. Cash aur jo bhi add hoga aaj ka, wo usme add ho jayega.
+Client: Haan. 5 lakh. Theek hai.
+Dealer: Hai na?
+Client: Hmm.

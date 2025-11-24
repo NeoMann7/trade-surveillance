@@ -1,0 +1,14 @@
+Client: Hello?
+Dealer: Hello, Aditi?
+Client: Yes?
+Dealer: Aditi, Vicky baat kar raha hoon main dealing team se.
+Client: Haan boliye Vicky.
+Dealer: Achha ye, woh Lloyd ka kuch trade karna tha na?
+Client: Nahi yaar actually woh unhone na Nirmal Bang ke saath kar liya hai.
+Dealer: Achha kar liya wahan se?
+Client: Haan ye aap woh rights wala bol rahe ho na?
+Dealer: Haan haan haan.
+Client: Haan yaar actually woh na Nirmal Bang ne le liya, woh bada trade tha kaafi. I got to know on 25th that they are doing it through Nirmal Bang.
+Dealer: Right. Theek hai, chalega no issue.
+Client: Okay.
+Dealer: Okay.

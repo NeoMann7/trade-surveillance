@@ -1,0 +1,10 @@
+Dealer: Hello.
+Client: Piyush, ha?
+Dealer: Ha.
+Client: Uh, Piyush hai?
+Dealer: Piyush at bol do bol.
+Client: Piyush boloch, eh, sack chhe, okay?
+Dealer: Ha.
+Client: Na na dabba ma sack chhe.
+Dealer: Hello. Arey pachhi ha theek chhe bole bole.
+Client: Ha.

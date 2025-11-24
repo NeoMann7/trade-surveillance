@@ -1,0 +1,12 @@
+Client: Hello. Hello Ritesh?
+Dealer: Ha.
+Client: Sun na bit ek ka aaya ki nahi? Uska message forward kiya hai 256 ko bank se.
+Dealer: Are yaar, main to dekha maine. Mere paas nahi dikhega. Tere ko banking option tere ko dikhega woh.
+Client: Matlab, mil gaya mere ko reply bhi nahi aa raha hai. Kamal dhoondh gaya. Mere ko puchh raha tha.
+Dealer: Are, udhar hi baitha hai seedha.
+Client: Ritesh ko?
+Dealer: Ha, Ritesh ko phone kar. Udhar hi baitha hai woh.
+Client: Okay.
+Dealer: Hm. Achha. Alag number nahi.
+Client: Achha isme hi karna padega.
+Dealer: Hm. Theek.

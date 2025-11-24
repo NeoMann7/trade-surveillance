@@ -1,0 +1,4 @@
+Client: Hello
+Dealer: Yes.
+Client: Takers October 8166. Second desktop.
+Dealer:

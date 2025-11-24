@@ -1,0 +1,11 @@
+Dealer: H-hello.
+Client: Yeah hi. Mainko Praveen se baat karna hai.
+Dealer: Ha sir.
+Client: Praveen.
+Dealer: Praveen, uh no actually this is daily inquiries. Sir your name?
+Client: My name is Prerak. I want to speak to Praveen.
+Dealer: Praveen is not. This is
+Client: Can I speak to Vicky?
+Dealer: Yeah. I'll just call you back.
+Client: Okay.
+Dealer: Our executive will call you back. Kahne wale the, ha.

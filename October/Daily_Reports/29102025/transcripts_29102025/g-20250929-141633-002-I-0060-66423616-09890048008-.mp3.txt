@@ -1,0 +1,22 @@
+Dealer: हॅलो
+Dealer: हॅलो
+Dealer: बोलो
+Client: GLCL टेक्सटाइल आहे एचएम मध्ये
+Dealer: एचएम मध्ये नाही आहे GLCL टेक्सटाईल
+Client: अं नाही आहे सर
+Dealer: GLCL
+Client: हां हां
+Dealer: काय होतं ते?
+Client: काय होतं ते?
+Dealer: कारण आता तुमच्यावरच ते टेक्स्टाईल फ्री आलेले आहे
+Client: हा पण एचएम ने विकले असला तरी कोणीच नाही
+Dealer: पण हे जे आता परवा बिगरनी रिपोर्ट काढून पाठवले ना हं त्याच्यामध्ये हे दाखवतंय जे GLCL टेक्सटाईल एचएम मध्ये
+Dealer: तुम्ही जरा दुसऱ्या अकाउंट मध्ये चेक करा ना बघा जरा
+Client: नाही मी चेक केले असते फक्त विजुअल मध्ये दिसते ते
+Dealer: ओके
+Client: [mumble]
+Client: [mumble]
+Client: [mumble]
+Client: [mumble]
+Client: [mumble]
+Client: [mumble]

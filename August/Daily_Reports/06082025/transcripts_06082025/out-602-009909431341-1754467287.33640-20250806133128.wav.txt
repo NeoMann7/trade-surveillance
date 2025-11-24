@@ -1,0 +1,27 @@
+Client: Hello.
+Dealer: Hello. Ha, sir. New dealing, sir. Uh, ha, aapko trade karna tha, sir?
+Client: Ha ha. Woh recommendation.
+Dealer: Uh, recommendation kis cheez ke liye, sir? Matlab market ka...?
+Client: Sir, buy karna ke liye.
+Dealer: Achha, okay. Uh, market update de raha hu, sir. Nifty 24,616 hai. 33 point uh, minus chal raha hai.
+Client: Aur woh to sab dekh sakte hain.
+Dealer: Aap Gujarati ho, sir?
+Client: Ho, ha, Gujarati.
+Dealer: Achha, Gujarati ho. Bolo, sir.
+Client: Arre, tamare tamaru atyare research shu chhe? Pick kayu chhe?
+Dealer: Uh, atle aam ahiyan thodu... ek ek minute tamne stocks kau. Uh, atle Genesis ane uh, Sajality nu chhe. Uh, delivery based call chhe.
+Client: Sajality to ghani badhi gaya, saru?
+Dealer: Arre Sajality ₹45.26 paisa nu bhav chhe, saheb.
+Client: Ne laage to 8-10% vadhyo to evu maara dhyan mein.
+Dealer: Ha, hamna vachhe thodu niche jaine paacho upar aavyo chhe. ₹45.26 paisa na aaspas to bhav chhe. Aa thodu delivery based call chhe.
+Client: Su chhe?
+Dealer: Delivery, delivery based.
+Client: Ha, delivery based ni j baat kariye jay aap.
+Dealer: Ha ha. Atle tamare...
+Dealer: Genesis ane Saj... Genesis ane Sajality chhe.
+Client: Okay.
+Dealer: Atle have... am tamare shu karvu e... tamare evo laage chhe ke kadaach thodu saru laage chhe. Baaki tamare je call levo hoy tamare...
+Client: Su target ane time period?
+Dealer: Time period ne target to maare puchhvu padse tyaan. Pan aa be stock nu chhe. Atle jyare ke aa thodu laage chhe aam karva jevu. Baaki tamari personal choice tamare aama karvu chhe ke nai, to.
+Client: Okay, to but obvious chhe. Saru, chalo hu ek vaar discuss kari lau ne pachi call karu. Ha.
+Dealer: Okay, thank you.

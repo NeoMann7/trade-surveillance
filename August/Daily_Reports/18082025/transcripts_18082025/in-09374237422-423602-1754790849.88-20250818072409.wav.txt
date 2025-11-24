@@ -1,0 +1,39 @@
+Client: Hello.
+Dealer: Ha, good morning, Vitthal bhai.
+Client: Good morning.
+Dealer: Ha, LIC juo ne, vichvu ma, Minor ma vichvama ko chho.
+Client: Ek minute ha.
+Dealer: Ha.
+Client: LIC.
+Dealer: Ha.
+Client: LIC chalu chhe, atyare, LIC Housing ke khali LIC?
+Dealer: LIC, Life Insurance. Housing nahi.
+Client: 976, 837 em bhav chhe.
+Dealer: Ha, e 970 ma, Mahi ma ne Krupa ma be minor ma vechva mukvana chhe. Jaroor hoy to call karjo.
+Client: Bolo, vechva ketla quantity? Rate bolo.
+Dealer: Ah, chalu rakho. 970, badle ma 970 no rate.
+Client: Ek minute, ek minute. Quantity, quantity? Tamara em chhe ke Mahi ma?
+Dealer: Ha chhe, chhe. Delivery chhe. 148 number, 148.
+Client: Ha, ha, ha. Ketla ma rakhu? Ketla ketla rupiya ma muku?
+Dealer: 900
+Dealer: Vichvama muko. 970.
+Client: Pura 60, 68 share ne?
+Dealer: Ha, 68 share vechvama.
+Client: Theek chhe. Ane bija kem chhe?
+Dealer: Bija 77 share vechva mukvana.
+Client: Nahi nahi ek Mahi ma mukidida. Bija koi code?
+Dealer: 146 number Krupa.
+Client: 146.
+Dealer: Hello.
+Client: Kon chhe ko, kon, kon, kon chhe?
+Dealer: Ha bolo.
+Client: Ek minute.
+Dealer: Bol bhai, bol. Bol.
+Dealer: Kaam batao, kaam batao pachi jaroor.
+Client: Ha mukidida chhe bhai. Ek minute. Ek ma gya chhe.
+Client: Ha.
+Client: 47 ma ketla, 48 ma kem nahi jata?
+Client: Niya 970, zero.
+Dealer: Kitna quantity bola tu ne? Ye dekh abhi ek ek upar jaa raha hai, ek ek nahi jaana chahiye.
+Client: Theek chhe. Hello.
+Dealer: Ha, badla na...

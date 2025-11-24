@@ -1,0 +1,15 @@
+Dealer: Hello.
+Client: Hello sir.
+Dealer: Yeah.
+Client: Sir, buy 150 shares of IRCTC.
+Dealer: IRCTC at?
+Client: IRCTC 150 shares.
+Dealer: Price?
+Client: Current price sir.
+Dealer: Current rate. Okay.
+Client: Yes.
+Dealer: One minute. IRCTC buy 150 shares. Buy order placed.
+Client: Okay sir.
+Dealer: Hmm.
+Client: Thank you sir.
+Dealer: Welcome.

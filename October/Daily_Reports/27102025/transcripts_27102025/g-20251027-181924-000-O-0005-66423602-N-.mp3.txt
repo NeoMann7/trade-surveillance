@@ -1,0 +1,88 @@
+Dealer: हेलो
+Dealer: हां जी सर, की लेना सर?
+Dealer: हां हां हां, हां जी सर।
+Client: अह... रिलायंस।
+Dealer: हम्म।
+Client: लिखो रिलायंस।
+Dealer: हम्म।
+Client: 500 का।
+Dealer: हम्म।
+Client: 1405।
+Dealer: ठीक है सर।
+Client: 1405।
+Dealer: हां जी 1405।
+Client: बाय।
+Dealer: बाय 500।
+Client: बाय।
+Dealer: हां 1405।
+Client: ठीक है।
+Dealer: हां जी।
+Client: ठीक है।
+Dealer: और सर।
+Client: और दे दे एक एसबीआई।
+Dealer: हम्म।
+Client: एसबीआई।
+Dealer: हां जी।
+Client: 2000 376।
+Dealer: ठीक है।
+Client: 376 2000।
+Dealer: 376 2000।
+Dealer: हां जी।
+Client: सेल्।
+Dealer: सेल 2000 376।
+Dealer: हां जी।
+Client: हां जी।
+Client: ठीक है।
+Dealer: और सर।
+Client: और दे एक बंधन बैंक।
+Dealer: हम्म।
+Client: 500 बंधन बैंक।
+Dealer: हम्म।
+Client: 366।
+Dealer: 366।
+Dealer: हम्म।
+Client: 366 बाय।
+Dealer: बाय 500 366।
+Dealer: हम्म।
+Client: ठीक है।
+Dealer: ठीक है सर।
+Client: ठीक है।
+Client: और।
+Dealer: और सर।
+Client: अह एक टीसीएस।
+Dealer: हम्म।
+Client: टीसीएस 100।
+Dealer: हम्म।
+Client: टीसीएस 100।
+Dealer: ठीक है।
+Client: 2046।
+Dealer: 2046।
+Dealer: हम्म।
+Client: बाय।
+Dealer: बाय 100 2046।
+Client: हां।
+Dealer: ठीक है सर।
+Dealer: और सर।
+Client: और।
+Client: अह... और देओ एक कोटक महिंद्रा।
+Dealer: हम्म।
+Client: कोटक महिंद्रा।
+Dealer: हां जी।
+Client: 100।
+Dealer: हम्म।
+Client: 1720।
+Dealer: 1720।
+Dealer: हम्म।
+Client: बाय।
+Dealer: बाय 100 1720।
+Dealer: हम्म।
+Client: ठीक है।
+Dealer: ठीक है सर।
+Client: ठीक है।
+Dealer: ठीक है सर।
+Dealer: हां जी सर।
+Dealer: ठीक है सर।
+Client: ठीक है।
+Client: ठीक है।
+Client: बाय बाय।
+Dealer: बाय सर।

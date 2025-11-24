@@ -1,0 +1,22 @@
+Dealer: Hello.
+Client: Mayank October extension sixty eight hundred and sixty. Yes.
+Dealer: Sir, good morning.
+Client: Good morning.
+Dealer: Sir, Bank Nifty buy sir.
+Client: Hmm?
+Dealer: Bank Nifty buy.
+Client: Okay.
+Dealer: 44,500.
+Client: Okay.
+Dealer: And 44,600.
+Client: Okay.
+Dealer: Dono 80.
+Client: Okay.
+Dealer: Stop loss 44,450.
+Client: Okay.
+Dealer: Target 44,700 and 44,800.
+Client: Okay.
+Dealer: Okay sir.
+Client: Done.
+Dealer: Thank you sir.
+Client: Thank you.

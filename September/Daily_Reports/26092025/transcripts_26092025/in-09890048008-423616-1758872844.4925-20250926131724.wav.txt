@@ -1,0 +1,8 @@
+Dealer: Hello?
+Client: Hello?
+Dealer: Yes.
+Client: Wasu? Wasu?
+Dealer: Um, Wasu nahi hai sir. Woh lunch ke liye gaye hain. Bataiye na sir.
+Client: Ah, theek hai, koi baat nahi. Main baad mein karunga.
+Client: Unko aane ke baad Tendulkar sir ko phone karne ka.
+Dealer: Achcha theek hai, theek hai.

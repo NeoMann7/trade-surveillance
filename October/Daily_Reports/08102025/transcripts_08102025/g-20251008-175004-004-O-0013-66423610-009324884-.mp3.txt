@@ -1,0 +1,15 @@
+Dealer: हेलो
+Client: हां जी नमस्कार सर
+Dealer: नमस्कार
+Client: अह, सर वो रिलायंस फ्यूचर में 2110 का
+Dealer: जी
+Client: अह, 250 शेयर सेल कर देना
+Dealer: 250 Reliance Futures 2110 से सेल?
+Client: जी
+Dealer: ठीक है। आपका नाम?
+Client: अह, प्रदीप कुमार
+Dealer: प्रदीप कुमार ठीक है। सर
+Client: ठीक है सर।
+Dealer: ठीक है सर।
+Client: थैंक यू
+Dealer: नमस्कार।

@@ -1,0 +1,15 @@
+Client: Hello.
+Dealer: Hello.
+Client: Yes sir.
+Dealer: Yes.
+Client: Ah, how much is Bharat Dynamics?
+Dealer: BDL is, sir, 1569, 156, 1570.
+Client: Take 10.
+Dealer: 10 bought at 1568.30.
+Client: Okay. And Adani Enterprise?
+Dealer: Adani Enterprise 2588, 2588.90.
+Client: Take five.
+Dealer: Five pending hai sir. 8970 90 ho gaya. Le lo, modify kar ke.
+Client: Theek hai, haan, le lo.
+Dealer: Haan, five aa gaya sir 91 mein.
+Client: Okay, five. Thank you.

@@ -1,0 +1,441 @@
+Dealer: Hello?
+Client: Uh, market, uh, Indian market.
+Dealer: Hmm.
+Client: Upar, upar.
+Dealer: Hmm.
+Client: 50 points.
+Dealer: Hmm.
+Client: Uh, 3500 points.
+Dealer: Hmm.
+Client: Aisa bola.
+Dealer: Achcha.
+Client: Ah, 50 points.
+Dealer: Hmm.
+Client: Bankifty.
+Dealer: Hmm.
+Client: Oh.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Aaj ka.
+Dealer: Hmm.
+Client: Closing.
+Dealer: Hmm.
+Client: Uh, lagbhag.
+Dealer: Hmm.
+Client: 50.
+Dealer: Hmm.
+Client: 50.
+Dealer: Hmm.
+Client: Bol raha.
+Dealer: Hmm.
+Client: Tha.
+Dealer: Hmm.
+Client: Aisa.
+Dealer: Hmm.
+Client: Market.
+Dealer: Hmm.
+Client: Lagbhag.
+Dealer: Hmm.
+Client: 50 point.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Hmm.
+Client: Uh.
+Dealer: Hmm.
+Client: Closing karega.
+Dealer: Hmm.
+Client: Ha.
+Dealer: Hmm.
+Client: Kaisa.
+Dealer: Hmm.
+Client: Laga?
+Dealer: Hmm.
+Client: Thoda.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Aayega.
+Dealer: Hmm.
+Client: Uh, 50.
+Dealer: Hmm.
+Client: Points.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Closing.
+Dealer: Hmm.
+Client: Karne ka.
+Dealer: Hmm.
+Client: Ha.
+Dealer: Hmm.
+Client: Chance.
+Dealer: Hmm.
+Client: Hai.
+Dealer: Hmm.
+Client: Bankifty.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Ho gaya.
+Dealer: Hmm.
+Client: Hmm.
+Client: Hmm.
+Dealer: Hmm.
+Client: Bankifty.
+Dealer: Hmm.
+Client: 50 point.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Ho gaya.
+Dealer: Hmm.
+Client: Hai.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Hmm.
+Client: Achcha.
+Dealer: Hmm.
+Client: Kya laga?
+Dealer: Hmm.
+Client: Indian market.
+Dealer: Hmm.
+Client: Kitna upar.
+Dealer: Hmm.
+Client: Jayega.
+Dealer: Hmm.
+Client: Aaj?
+Dealer: Hmm.
+Client: Kitna upar.
+Dealer: Hmm.
+Client: Ja raha hai?
+Dealer: Hmm.
+Client: Aaj ka.
+Dealer: Hmm.
+Client: Market.
+Dealer: Hmm.
+Client: 35.
+Dealer: Hmm.
+Client: 35.
+Dealer: Hmm.
+Client: Ah.
+Dealer: Hmm.
+Client: 50 points.
+Dealer: Hmm.
+Client: Aisa.
+Dealer: Hmm.
+Client: Bola.
+Dealer: Hmm.
+Client: Tha.
+Dealer: Hmm.
+Client: Hmm.
+Client: Bankifty.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: 50.
+Dealer: Hmm.
+Client: Points.
+Dealer: Hmm.
+Client: Ho gaya.
+Dealer: Hmm.
+Client: Ho gaya.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Hmm.
+Client: Achcha.
+Dealer: Hmm.
+Client: Kya laga?
+Dealer: Hmm.
+Client: Aayega upar.
+Dealer: Hmm.
+Client: Ya nahi?
+Dealer: Hmm.
+Client: Lagbhag.
+Dealer: Hmm.
+Client: 50.
+Dealer: Hmm.
+Client: Points.
+Dealer: Hmm.
+Client: Aayega?
+Dealer: Hmm.
+Client: Ya nahi?
+Dealer: Hmm.
+Client: Ha.
+Dealer: Hmm.
+Client: Aa gaya.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Hmm.
+Client: Hmm.
+Client: Hmm.
+Dealer: Hmm.
+Client: Bankifty.
+Dealer: Hmm.
+Client: Hmm.
+Client: Ah.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Hmm.
+Client: Indian market.
+Dealer: Hmm.
+Client: Abhi kitna?
+Dealer: Hmm.
+Client: Upar jayega?
+Dealer: Hmm.
+Client: Bol raha tha.
+Dealer: Hmm.
+Client: Aaj ka closing.
+Dealer: Hmm.
+Client: Lagbhag.
+Dealer: Hmm.
+Client: 50.
+Dealer: Hmm.
+Client: Points.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Karega.
+Dealer: Hmm.
+Client: Hmm.
+Client: Aaj ka.
+Dealer: Hmm.
+Client: Closing.
+Dealer: Hmm.
+Client: Indian market.
+Dealer: Hmm.
+Client: Kitna upar.
+Dealer: Hmm.
+Client: Karega?
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Ya niche?
+Dealer: Hmm.
+Client: Karega.
+Dealer: Hmm.
+Client: 50.
+Dealer: Hmm.
+Client: Point.
+Dealer: Hmm.
+Client: Aaj ka.
+Dealer: Hmm.
+Client: Closing.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Karega.
+Dealer: Hmm.
+Client: Hmm.
+Client: Hmm.
+Dealer: Hmm.
+Client: 50 point.
+Dealer: Hmm.
+Client: Up.
+Dealer: Hmm.
+Client: Karega.
+Dealer: Hmm.
+Client: Aisa.
+Dealer: Hmm.
+Client: Bol raha.
+Dealer: Hmm.
+Client: Tha.
+Dealer: Hmm.
+Client: Hmm.
+Client: Indian market.
+Dealer: Hmm.
+Client: Lagbhag.
+Dealer: Hmm.
+Client: 50.
+Dealer: Hmm.
+Client: Points.
+Dealer: Hmm.
+Client: Aayega.
+Dealer: Hmm.
+Client: Bol raha tha.
+Dealer: Hmm.
+Client: Abhi aaya.
+Dealer: Hmm.
+Client: Ya nahi?
+Dealer: Hmm.
+Client: Hmm.
+Client: Aayega.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: 50.
+Dealer: Hmm.
+Client: Points.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Aayega.
+Dealer: Hmm.
+Client: Indian market.
+Dealer: Hmm.
+Client: Hmm.
+Client: Bankifty.
+Dealer: Hmm.
+Client: Bankifty.
+Dealer: Hmm.
+Client: Bankifty.
+Dealer: Hmm.
+Client: Kitna upar.
+Dealer: Hmm.
+Client: Jayega?
+Dealer: Hmm.
+Client: Lagbhag.
+Dealer: Hmm.
+Client: 50.
+Dealer: Hmm.
+Client: Points.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Aayega.
+Dealer: Hmm.
+Client: Bol raha.
+Dealer: Hmm.
+Client: Tha.
+Dealer: Hmm.
+Client: Hmm.
+Client: Ah.
+Dealer: Hmm.
+Client: Uh.
+Dealer: Hmm.
+Client: Aayega?
+Dealer: Hmm.
+Client: Ya nahi?
+Dealer: Hmm.
+Client: Hmm.
+Client: Aaj ka.
+Dealer: Hmm.
+Client: Closing.
+Dealer: Hmm.
+Client: Bankifty.
+Dealer: Hmm.
+Client: Lagbhag.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Karega.
+Dealer: Hmm.
+Client: Hmm.
+Client: Hmm.
+Dealer: Hmm.
+Client: Hmm.
+Client: 50 points.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Karega.
+Dealer: Hmm.
+Client: Hmm.
+Client: Indian market.
+Dealer: Hmm.
+Client: Kitna upar.
+Dealer: Hmm.
+Client: Jayega?
+Dealer: Hmm.
+Client: 50.
+Dealer: Hmm.
+Client: Points.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Jayega.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Hmm.
+Client: Hmm.
+Client: Hmm.
+Client: 50 points.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Jayega.
+Dealer: Hmm.
+Client: Ha.
+Dealer: Hmm.
+Client: Hmm.
+Client: Hmm.
+Dealer: Hmm.
+Client: Indian market.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Jayega.
+Dealer: Hmm.
+Client: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Jayega.
+Dealer: Hmm.
+Client: Hmm.
+Client: Haan.
+Dealer: Hmm.
+Client: Indian market.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Kitna upar?
+Dealer: Hmm.
+Client: 50 points.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Jayega.
+Dealer: Hmm.
+Client: Aisa.
+Dealer: Hmm.
+Client: Bol raha.
+Dealer: Hmm.
+Client: Tha.
+Dealer: Hmm.
+Client: Hmm.
+Client: Aaj ka.
+Dealer: Hmm.
+Client: Closing.
+Dealer: Hmm.
+Client: Lagbhag.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Jayega.
+Dealer: Hmm.
+Client: Aisa.
+Dealer: Hmm.
+Client: Bol raha.
+Dealer: Hmm.
+Client: Tha.
+Dealer: Hmm.
+Client: Hmm.
+Client: Hmm.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Hmm.
+Client: Indian market.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Jayega.
+Dealer: Hmm.
+Client: Ha.
+Dealer: Hmm.
+Client: Hmm.
+Client: Ha.
+Dealer: Hmm.
+Client: Hmm.
+Client: Okay.
+Dealer: Hmm.
+Client: 50 points.
+Dealer: Hmm.
+Client: Upar.
+Dealer: Hmm.
+Client: Jayega.
+Dealer: Hmm.
+Client: Okay.
+Dealer: Hmm.
+Client: Thank you.
+Dealer: Hmm.

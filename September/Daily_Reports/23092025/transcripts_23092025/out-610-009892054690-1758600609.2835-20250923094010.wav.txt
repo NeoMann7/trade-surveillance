@@ -1,0 +1,9 @@
+Dealer: Hello? Hello? Ha sir Vicky.
+Client: Vicky.
+Dealer: Ha sir, ye Swan Defense temporary suspend hua hai sir.
+Client: Hmm.
+Dealer: Mai bola aapko inform kar doon. Maine abhi website pe check kiya na NSE ki site pe, toh temporary suspend dikha raha hai ab se.
+Client: Theek hai, abhi baad me dekh lenge. Agar hoga toh kuch tension nahi hai. Let me know, woh wali mein aur kya lena hai karke.
+Dealer: Theek hai sir, chalega. Ha, agar ek baar clear hoga toh then I can think of other stocks, nahi toh woh block ho ke rakhte hain.
+Client: Theek hai, theek hai sir, chalega.
+Dealer: Theek hai, no problem. Ha.

@@ -1,0 +1,6 @@
+Dealer: Hello.
+Client: Hello sir.
+Dealer: Hello.
+Client: Yeah, 10th October
+Dealer: Okay.
+Client: Second stock.

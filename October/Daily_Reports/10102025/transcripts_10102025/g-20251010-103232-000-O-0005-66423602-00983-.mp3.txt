@@ -1,0 +1,11687 @@
+Client: Hello
+Dealer: Hello.
+Client: Hmm.
+Dealer: Ahh sir, Good morning.
+Client: Hmm.
+Dealer: Ahh, India, India VIX, sir, ahh 14.50. 0.38 points.
+Client: The market is in the range of 18000 and 18300. So what will happen?
+Dealer: Yes sir, exactly.
+Client: Yes.
+Dealer: The market is in that range only. So I think it may go up to 18300.
+Client: Ha, from where it will fall?
+Dealer: Yes, from there, maybe, there will be some corrections.
+Client: Ha, ha.
+Dealer: Yes.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Yes.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hmm.
+Client: Hmm.
+Dealer: Yes.
+Client: Hello?
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Hmm.
+Dealer: Hmm.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hello?
+Client: What do you say? Nothing is happening. The market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.Client: Hello.
+Dealer: Hello.
+Client: Hmm.
+Dealer: Ahh sir, good morning.
+Client: Hmm.
+Dealer: Ahh India, India VIX sir, ahh 14.50. 0.38 points.
+Client: The market is in the range of 18000 and 18300. So what will happen?
+Dealer: Yes sir, exactly.
+Client: Yes.
+Dealer: The market is in that range only. So I think it may go up to 18300.
+Client: Ha, from where it will fall?
+Dealer: Yes, from there, maybe, there will be some corrections.
+Client: Ha, ha.
+Dealer: Yes.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Yes.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hmm.
+Client: Hmm.
+Dealer: Yes.
+Client: Hello?
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Hmm.
+Dealer: Hmm.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hello?
+Client: What do you say? Nothing is happening. The market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hello?
+Client: What do you say? Nothing is happening. The market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hello?
+Client: What do you say? Nothing is happening. The market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hello?
+Client: What do you say? Nothing is happening. The market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hello?
+Client: What do you say? Nothing is happening. The market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Okay, okay.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hello?
+Client: What do you say, nothing is happening, market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hello?
+Client: What do you say, nothing is happening, market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Hello?
+Client: What do you say, nothing is happening, market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client Ok, what do you say nothing is happening. The market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client Ok, what do you say, nothing is happening, market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client Ok, what do you say, nothing is happening, market is not going up or down.
+Dealer: Yes sir. Because you see, the market has not fallen too much and it has not even gone too high. So that is why it is consolidating at the moment, in the range of 18000 to 18300.
+Client: Yes.
+Dealer: After that, it will break out and then it will start moving up or down.
+Client: Yes.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes.
+Client: Ok.
+Dealer: Yes sir.
+Client: Hmm.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes sir.
+Client: Ok.
+Dealer: Yes

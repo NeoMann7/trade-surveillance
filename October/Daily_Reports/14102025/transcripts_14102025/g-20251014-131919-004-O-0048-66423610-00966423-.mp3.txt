@@ -1,0 +1,7 @@
+Dealer: Hello.
+Client: Hello. Piyush, phone aa gaya?
+Dealer: Haan.
+Client: Wallpaper mate?
+Dealer: Ah, eni sathe vaat kar le ne ek vaar.
+Client: Haan, theek.
+Dealer: Haan.

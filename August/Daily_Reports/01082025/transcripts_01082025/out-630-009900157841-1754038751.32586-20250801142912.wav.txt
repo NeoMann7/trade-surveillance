@@ -1,0 +1,66 @@
+Dealer: jo vechai jaise to screen par le lejo.
+Dealer: Tum baat karoge?
+Client: Hello.
+Dealer: Ma'am, Akshat ke Akshat se baat hui thi.
+Client: Hello.
+Dealer: Hello.
+Dealer: Yes. Uh, ma'am, this is Jignasha, calling you from Neo Wealth Equities. Okay. So, uh, ma'am, actually in exclusivity we have a auction deal. Okay. So, we are expecting that, you know, from here we can participate in this.
+Client: Okay, are you part of Akshat's team?
+Dealer: Yeah, yeah. I'm from the Akshat's team.
+Client: Okay, okay. Uh, are you saying we should purchase it?
+Dealer: Yeah, purchase.
+Client: Um, do I have the funds there?
+Dealer: Sir, uh, ma'am, we have to sell. We have to sell.
+Client: Oh, it's a sell you're saying. Okay, okay, okay. Yeah, because I thought we'd already purchased it, so I'm not sure. I see. So, um, sure, we can. How much are you planning to?
+Dealer: How much, how much are you willing to? 4000.
+Client: 4000 hai na mere paas? Ek hi baar mein liya tha kya? One shot or we had bought it?
+Dealer: Humne ek hi baar mein liya tha, just a minute, I'll just check.
+Client: Ek hi baar mein liya tha. So what is the gain right now?
+Dealer: 45.30 pe aapne liya tha. Abhi... One minute.
+Client: What's the purchase?
+Dealer: Just a minute, ma'am, main aapko bata deti hu. Aapne liya tha 43.59 pe, sir. Your buying price is 43.59.
+Client: Hmm.
+Dealer: Agar aap abhi sell bhi kar rahe ho na, hum wapas se le lenge tomorrow. That way we will do it.
+Client: Okay, so how much is the?
+Dealer: 46.
+Dealer: In an auction they have a short amount that they need. So we can give it to them. If it goes for 49, and we try for 49. If it goes for 49, then we will take it from the market at 46.
+Dealer: Uh, we have to bid at 49, around 49.50. Okay. Just in case, even if the order goes at 49. Okay. And we can buy it back at 46 also. So abhi ke liye 4000 shares agar aap batate ho, to fir main selling order rakh deti hu 49 pe. If it is okay with you?
+Client: But I mean, what are we gaining here? Why are we doing this?
+Dealer: What are we gaining here? Why are we doing this? It's a trading opportunity.
+Dealer: It's just a trading opportunity, nothing else.
+Client: Hmm.
+Dealer: Akshat said that we can give you a call and he gave you this call.
+Client: Okay, so it's like 7% up.
+Dealer: Yeah, yeah.
+Client: I see. Okay. Um. And then we have to take into consideration taxes also.
+Dealer: If it goes, if this bid goes at 49, okay, then we'll buy it back also.
+Client: I know at the current rate.
+Dealer: Which is at 46 right now.
+Client: Hmm.
+Dealer: Correct?
+Client: Okay, yeah. Um, okay, theek hai.
+Dealer: Theek hai. So, I'll just place your.
+Client: Akshat asked you, right?
+Dealer: Yeah, yeah, Akshat asked me. Okay, theek hai.
+Client: All right.
+Dealer: Yeah, chalu hua? Kuch aa raha hai kya? Put the order. 4000 shares, yeah. She said okay.
+Supervisor: Kitne mein dala tune?
+Dealer: Ek baar to ye nahi ho raha hai.
+Supervisor: Dekhiye order dala kya bata rahe hain?
+Dealer: It's reject ho raha hai.
+Supervisor: Kya bol rahe hain? Kya bol rahe hain?
+Dealer: Okay, done, ma'am.
+Client: What's your name again?
+Dealer: Jignasha.
+Client: Jignasha, has it done it?
+Supervisor: Nahin mara?
+Dealer: Yeah, yeah. I have done it. I've taken your confirmation. If this gets done, I'll I'll give you a post confirmation again. Don't worry.
+Client: Usually I don't think we do for six 5-6%.
+Dealer: So you want me to hand over the call to Akshat? He's right besides me.
+Client: Uh, yeah, okay, sure, why not?
+Dealer: Okay, I'll transfer.
+Supervisor: Haan ji madam. Yes ma'am.
+Client: Haan, Akshat. Akshat. Paanch percent mein karein hum log?
+Supervisor: Main aapko batata hu call karke, ye kya cheez hai. It's not the profit booking.
+Client: Achcha theek hai.
+Supervisor: Hmm. Okay.

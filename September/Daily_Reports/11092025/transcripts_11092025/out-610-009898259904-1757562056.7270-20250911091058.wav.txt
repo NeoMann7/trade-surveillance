@@ -1,0 +1,26 @@
+The person you have called is speaking to someone else.
+Dealer: Hello, hello. Haan sir.
+Client: Haan, main aapko call kiya tha.
+Dealer: Maine aapko mail kar diya hu.
+Client: Haan, maine mail check kiya. Main ye bol raha tha ki sir apan ne...
+Dealer: Aap apne hisab se aapko jitni security jo cheez karni hai teenon mein...
+Client: Haan haan.
+Dealer: Aa woh place kar lijiye aap.
+Client: Haan, but aapne order pe sir teenon ka hazaar-hazaar dala hai.
+Dealer: Haan. Teenon hazaar. Isliye thoda sa place zyada kar lijiyega. Ab hum calculate karke kitna kitna chahiye kis mein.
+Client: Achcha. Kyunki do do script apna 500-500 aayega, ek hazaar aayega. Aisa hai.
+Dealer: Haan.
+Dealer: Nahi, aap teenon ka hazaar kar do na.
+Client: Toh apna phir margin short fall aa raha hai na? Toh thoda margin...
+Dealer: Margin badha lijiye na thoda aur.
+Client: Haan toh woh fund transfer karna padega aapko phir. Apna jitna paisa hai na apne paas, woh pura utilize karke woh dono script 500-500 ho raha hai apna. Main ye bol raha hu aapko.
+Dealer: Toh aap pledge thoda aur badha lijiye na.
+Client: Pledge, pledge badha do, aisa aap bol rahe ho?
+Dealer: Haan pledge, dekhiye mere ko kya hai? Pledge badha re, main aapko fund transfer karu. Phir aapke paas mera nahi aaya. Phir main aapse return lu. Toh ye hi chalta rahega.
+Client: Ye main aapko kya bol raha hu? Ye jo script hai na sir, ye X group wali hai na? Toh isme pura cash lagta hai. Ek minute ruko. Ek minute, 35,000 apne paas hai isme. Apne paas stock mein aur kya kya hai?
+Client: Haan, stock toh bahut hai apne paas. Theek hai, chalo toh phir apan stock pledge kar lete hain. Chalega, main...
+Dealer: Haan, kyun? Dekhiye isme hota kya hai sir, main aapko margin cash du, phir aaj nahi aaya toh aap mujhe paise transfer karoge. Aur jis din aa gaya, main ussi din same day aapko paisa transfer kar dunga. Aapka SMS aa jaayega ya mere ko message kar doge ki sir ye aa gaya, balance transfer kar do. Toh main first kar dunga aapko.
+Client: Chalega. But...
+Dealer: Toh kya roz hai? Khaali roz hai. Main in karunga, out karunga, in karunga, out karunga, khaali apna hi isme banking statement bhar jaayega khaali.
+Client: Nahi nahi theek hai, sahi baat hai. Toh chalo mujhe abhi market chaalu ho raha hai. Main abhi toh ye wala order apna place kar deta hu. Aur baaki ka balance ka na, main thodi der baad mein 9:30 tak aapko call karta hu wapas aur pledge karke pledge kar dete hain apan script. Hai na?
+Dealer: Theek hai sir. Okay sir.

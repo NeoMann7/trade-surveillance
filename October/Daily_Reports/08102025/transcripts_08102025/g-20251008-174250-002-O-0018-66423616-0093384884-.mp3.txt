@@ -1,0 +1,27 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes, sir.
+Client: HDFC Life.
+Dealer: Uh, HDFC Life, yes.
+Client: Call 570.
+Dealer: 570 call.
+Client: Haan.
+Dealer: Kya rate hai sir?
+Client: Haan, usko becho.
+Dealer: Sell, kitna quantity?
+Client: 1000 quantity.
+Dealer: 1000 quantity. Yes, sir.
+Client: Haan.
+Dealer: Kitna price hai? Abhi rate kya chal raha hai uska?
+Client: 23 chal raha hai.
+Dealer: 23 chal raha hai. Okay. Sir. 23.
+Client: 23. Haan.
+Dealer: Theek hai. Sir, 23. Okay.
+Client: 23.
+Dealer: Yes. Kitna? 1000 quantity, sir. HDFC Life 570 call.
+Client: Haan.
+Dealer: Yes, sir. Booked ho gaya.
+Client: Okay.
+Dealer: Okay, sir.
+Client: Okay.
+Dealer: Bye.

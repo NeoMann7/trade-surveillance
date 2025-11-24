@@ -1,0 +1,4 @@
+Client: <binary data, 1 bytes><binary data, 1 bytes><binary data, 1 bytes>
+Dealer: Hello.
+Client: Hello.
+Dealer: Yeah.

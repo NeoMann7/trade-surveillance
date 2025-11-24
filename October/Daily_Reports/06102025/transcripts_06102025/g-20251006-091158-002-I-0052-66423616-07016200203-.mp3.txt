@@ -1,0 +1,13 @@
+Client: Hello. Ek minute, Piyush. Hello, Piyush.
+Dealer: Haan bolo.
+Client: Nirmal as.
+Dealer: Bolo bolo, good morning.
+Client: Good morning. Ah je maragi kaal levi hati.
+Dealer: Nifty 56 mein dekh lena.
+Client: Margi ne bola koi six 34 lakh jitni.
+Dealer: Maare cha ne? Hmm. Ah char lakh na pehle lot of developer.
+Client: Aha. Unke, market khola to send karo abhi.
+Dealer: Aa 20 20 paisa je khule to tarak j karu, han karu, han karu. Mein jene ne Ahmedabad land. Okay.
+Client: Hmm.
+Dealer: Okay, bye.
+Client: Bye.

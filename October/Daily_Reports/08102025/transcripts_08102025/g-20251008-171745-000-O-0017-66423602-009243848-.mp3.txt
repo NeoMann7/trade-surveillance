@@ -1,0 +1,19 @@
+Client: Hello
+Dealer: Good morning sir.
+Client: Good morning.
+Dealer: Sir, bataiye.
+Client: Nifty uh Nifty buy karein 20500 call?
+Dealer: 20500 call buy karein. February?
+Client: Haan February.
+Dealer: Kitne lot sir?
+Client: Ek lot.
+Dealer: 20500 call, February ka buy ek lot.
+Client: Hmm.
+Dealer: Kya rate chal raha hai sir uska?
+Client: 153.
+Dealer: 153. One five three. Confirm hai sir.
+Client: Haan.
+Dealer: Done sir, 153.
+Client: Okay.
+Dealer: Thank you sir.
+Client: Hmm.

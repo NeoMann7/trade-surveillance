@@ -1,0 +1,53 @@
+Client: Hello
+Dealer: Hello
+Client: Haan. Haan sir.
+Dealer: Haan, abhi mujhe Viki ne aapko
+Client: Haan.
+Dealer: Toh aap mujhe mail kar doge sir?
+Client: Kya mail?
+Dealer: Jo chahiye woh detail.
+Client: Nahi email address nahi pata mere ko.
+Dealer: Nahi ek minute ab toh aapko main
+Dealer: Haan theek hai na?
+Dealer: I'm not going to understand the functioning of this.
+Client: Kya?
+Dealer: Batao.
+Client: Haan batao mere ko aapko.
+Dealer: Ji, kya chahiye aapko?
+Client: Maine bheja tha na.
+Dealer: Kaunsa? Abhi recent?
+Client: Bheja tha. Saare shares bheje the na aapne?
+Dealer: Haan haan.
+Client: Woh shares ke prices chahiye aur uske charges kya hain aur net amount kya hai. Woh sheet mein chahiye.
+Dealer: Aapko maine mail
+Client: Woh mere ko mil nahi raha. Main research kiya tha. Bata dijiye kab mail kiya tha agar mil jaaye toh fir kuch nahi chahiye.
+Dealer: Ek minute. Jis din trade hua na, daily mail hua rahega aapko. Ek minute yahan
+Dealer: Nahi nahi.
+Dealer: Ek minute wait karo.
+Client: Yeh alag kya? Kaun bhejta hai? Kaun bhejta hai?
+Dealer: Yeh dekho aapko maine bheja tha, September.
+Client: 17th September.
+Client: 17th September maine dekha tha, usme 00 karke aa raha hai. Detail nahi hai usme.
+Dealer: Ek minute. Challan? Kar doon?
+Dealer: Resend kar diya.
+Dealer: Bheja aapko.
+Dealer: Ek minute.
+Client: Dekhiye isme 0000 aa raha hai. Net buy, sell sab 0 aa raha hai. Selling average price.
+Dealer: Nahi na. Diya na.
+Client: Aage nahi ja raha. Aap mobile mein dekh rahe ho kya sir? Computer pe?
+Dealer: Nahi dikh raha. Dekho sab dikha raha hai selling average price dikh raha hai. Net sell value, net quantity.
+Client: Ek minute aage nahi ja raha.
+Dealer: Hello.
+Client: Haan bolie na.
+Dealer: Agar isme aage hai toh main ye mail dusre computer mein bhej ke usme dekh leta hoon.
+Client: Haan isme aage hai. Yeh likha hua hai aage.
+Dealer: Haan hai na isme selling average price diya hai. Net sale quantity. Khaali isme charges nahi rahega. Yeh jo rate hai jo terminal pe hua hai woh yeh uska hai detail. Aur charges jo hai na woh sab
+Client: Contract note bhi nahi aaya mere ko.
+Dealer: Aa nahi sir by default pahunchta hai.
+Client: Aaya hoyega toh usme dhyaan nahi kiya hoyega.
+Dealer: Haan woh by default hai baaki yeh actual trade hai isme charges woh sab nahi hai. Woh add hoga. Mail karte bahut, shayad.
+Client: Resend request kiya tha.
+Dealer: Thoda bahut rahega.
+Client: Theek hai. Okay main ye dekhta hoon agar kuch zaroorat hoga.
+Dealer: Theek hai. Okay.
+Client: Okay.

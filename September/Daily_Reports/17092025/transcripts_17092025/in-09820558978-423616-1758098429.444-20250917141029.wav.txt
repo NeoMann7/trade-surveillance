@@ -1,0 +1,12 @@
+Dealer: Hello
+Dealer: Hello
+Dealer: Hello yes
+Client: Vasu?
+Dealer: Vasu is not here, he's gone for lunch. Your good name?
+Client: Hello
+Client: Hello
+Dealer: Yes sir, your good name?
+Client: Vinayak ko, Vinayak ko bhejo na mujhe.
+Client: Hello
+Dealer: Ohhh...
+Client: Office ka naam.

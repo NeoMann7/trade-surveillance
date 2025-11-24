@@ -1,0 +1,4 @@
+Dealer: Hello?
+Client: Yes, October extension six first this one.
+Dealer: Hello?
+Client: Yes, doctor.

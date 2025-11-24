@@ -1,0 +1,51 @@
+Dealer: Hello.
+Client: Hello, Han ji.
+Dealer: Han ji sir.
+Client: Ek to na...
+Dealer: Hmm.
+Client: Ek to ye ITC jo hai na.
+Dealer: Hmm.
+Client: Ye 435 ka hai.
+Dealer: Ji.
+Client: Isko bech de.
+Dealer: Ji, kitne hain sir?
+Client: 1500 share hain.
+Dealer: Ji, 1500 ITC.
+Client: Haan.
+Dealer: Sir, ek minute hold karna, abhi main login karta hoon.
+Client: Achha theek hai.
+Dealer: Hello.
+Client: Hmm.
+Dealer: Haan sir, 1500 ITC?
+Client: 1500 ITC, 435 ka sale kar do.
+Dealer: 435 ka sell, okay.
+Client: Hmm.
+Dealer: Aur kya hai sir?
+Client: Achha... aur Reliance hai 2500 ka, 2500 ka sale kiya hua hai.
+Dealer: Ji.
+Client: 2580 ka sale kiya hua hai.
+Dealer: Haan.
+Client: Isko 2570 mein buy kar de.
+Dealer: Ji, 2570 pe Reliance buy, kitne?
+Client: 100 share hain.
+Dealer: Ji.
+Client: Haan.
+Dealer: 100 share 2570.
+Client: Haan.
+Dealer: Okay.
+Client: Achha, abhi market kitna hai, ek baar check kar ke batao.
+Dealer: Sir, market abhi 22,091 hai.
+Client: Achha.
+Dealer: Haan, 22,091.
+Client: Achha theek hai.
+Dealer: Aur kya hai sir?
+Client: Theek hai, abhi do hi.
+Dealer: Okay.
+Client: Haan.
+Dealer: ITC 435 ka sale 1500. Reliance 2570 ka buy 100. Right?
+Client: Correct.
+Dealer: Okay sir.
+Client: Okay.
+Dealer: Okay sir.
+Client: Thank you.
+Dealer: Thank you.

@@ -1,0 +1,5 @@
+Client: Hello.
+Dealer: Hello.
+Client: Yeah.
+Dealer: A bit of the money is going to come.
+Client: I think it's 610. 30, it's called.

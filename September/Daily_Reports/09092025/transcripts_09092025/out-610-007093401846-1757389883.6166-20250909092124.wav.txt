@@ -1,0 +1,54 @@
+Dealer: Hello.
+Dealer: Hello, ha sir.
+Client: Ha, ye Nikhil bol raha hu. Sir, order place karna hai mere account me.
+Dealer: Ha, boliye.
+Client: Ek toh call aur put short karna hai 25050 pe.
+Dealer: 250 uh 25050 ka call aa raha hai ₹6 ho raha hai.
+Client: Ha.
+Dealer: Bechu woh?
+Client: Ha.
+Dealer: Inhone stock padde hain inko sir, these are the cases diya tha aapne?
+Dealer: Ha, ye 2400 gaya apna ₹6 me. Dusra put kaun sa bechna hai?
+Client: Put bechna hai 24600 ka.
+Dealer: 24600 ka put aa raha hai ₹4.
+Dealer: Aare vo.
+Client: Kitna maximum bech pa rahe hain?
+Dealer: Ha, ye 2400 gaya apna ₹4 me. Ah, ek minute mai margin dekh leta hu.
+Client: Quantity kitni ho gayi? Kitna bachi margin?
+Dealer: 2400 2400 gaya, abhi bhi 19 lakh, 19 lakh hai apne paas credit.
+Client: Ha. Toh woh bhi kar do na.
+Dealer: Ha, aur 300 300 marta hu mai. Ah, ek minute.
+Client: Rate kam ho gayi na ab toh?
+Dealer: Char char me pending hai apna. Ek, gaya apna char me. Ah, put bik gaya apna. Aur, call mai de raha hu aur.
+Dealer: De du na current date pe? 4.50 chal raha hai.
+Client: Ruko, ek sir, ek. 4.70 hua hai, 5 laga ke rakho na. Try karo 5 pe, nahi toh.
+Dealer: 5 me mai dal raha hu ek baar.
+Dealer: Ha, apna put bik gaya hai, ye apne 5 me dala hua hai.
+Client: Ha.
+Client: Kam hote hi ja raha hai. Chalo jo bhi aa raha hai ek bar. 4.55 pe karo. 4.60 ho gaya.
+Dealer: Karu modify? 4.55?
+Client: Ha.
+Dealer: 4.55 kiya hai.
+Dealer: 4.10 ho gaya.
+Client: Ha. 4.30 hua hai abhi, 4.40 hua hai.
+Dealer: Hmm, gaya apna.
+Dealer: 2700 quantity gaya dono me. Abhi bhi apne paas 7 lakh rupees hai. Abhi mere khayal se ek ek lot jana chahiye, aur ek ek lot bechu?
+Client: Ha, bech do sir woh bhi.
+Dealer: Hmm.
+Dealer: 4.55 me pending hai call.
+Dealer: Ek lot de deta hu mai, 4.40 aa raha hai.
+Client: Ha.
+Dealer: Ha, gaya apna 4.40 me. Abhi apna total quantity bika hai 2775 quantity. Put apna gaya hai 4.20 me aur call gaya hai 5.80 me. Total apna net premium hua hai 9.82. Dono ka pakad ke, 27000, 27250.
+Client: Ha na? Theek.
+Dealer: Theek hai. Yep.
+Client: Ek bar woh bhi batana, apan ne overnight kiya tha na toh kitna charge laga uska?
+Dealer: Kiska?
+Client: Last me apan ne ek trade kiya tha overnight.
+Dealer: Ha ha.
+Client: Margin overnight use kari thi toh kitna charge laga? Batana ek bar.
+Dealer: Charge toh apna wahi rahega, overnight ho ya intraday ho. Charge toh wahi rahega na, apna lot lot lot wise hai na apna brokerage?
+Client: Nahi, margin ke hisab se, margin kitni thi ye puch raha hu. Margin ke upar cost of capital lagaya jata hai, kuch tha aisa.
+Dealer: Okay, ha toh mai check karta hu, chalo.
+Client: Ek bar Akshat ko puchna.
+Dealer: Theek hai, mai check kar leta hu ek bar. Theek hai.
+Dealer: Banda chala raha hai sab logo ka.

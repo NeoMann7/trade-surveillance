@@ -1,0 +1,16 @@
+Client: Hello
+Dealer: Hello.
+Dealer: Ah, main Sudhir baat kar raha hoon New Equity Dealing Team se.
+Client: Ah, actually sir, maine pichhle call kiya tha, abhi 49.30 ke aas paas trade ho raha tha, uska exit ka call aaya tha. Toh hamare paas around 15,000 quantity buy tha, Selility.
+Dealer: Selility.
+Client: Haan, 15,000. Hamara rate 45.01. Right now 136.
+Dealer: Right now 36.
+Client: 136.
+Dealer: Okay. So, should I sell?
+Client: Haan, kar dijiye.
+Dealer: Theek hai. 15,000 Selility market rate mein sell kar raha hoon main. Client code hai New 121, Shree Dharam Manjits Private Limited.
+Dealer: Ab hum quantity 49.36 mein chala gaya. Main aas paas amount ka main Liquid Bees bhi buy kar loon na?
+Client: Haan ji, kar do.
+Dealer: Theek hai, chalega. Okay, main Liquid Bees hamara aa raha hai. 735 Liquid Bees le raha hoon main. Neo 121.
+Dealer: Theek hai sir?
+Client: Theek hai. 1000 rupees mein aa gaya Liquid Bees. Neo 121. Okay.

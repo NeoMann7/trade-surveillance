@@ -1,0 +1,22 @@
+Dealer: Hello.
+Dealer: Hello.
+Dealer: Sir, good evening sir.
+Client: Yes, good evening.
+Dealer: Yes sir, go on sir.
+Client: Yes, buy, Talasbari right, Talasbari.
+Dealer: Talasbari, 25 lakhs.
+Client: Yeah.
+Client: Can we round off that? How much is the price now?
+Dealer: Uh, currently 514, sir.
+Client: Okay.
+Client: 514 means...
+Dealer: Uh, 514 is for, uh, 12, uh, I mean, if I divide this, uh, 12 lakhs by 514, sir, so, uh, you apna 400 quantity hoga.
+Client: Okay, round off करके करीबन.
+Dealer: Haan, haan. 480 me le raha hu quantity.
+Client: No, no. 5000 kar do na.
+Dealer: 5000 kar do? Theek hai sir. Chalega. Mai 5000 buy kar leta hu.
+Client: Will be 26 lakhs na.
+Dealer: Yes sir.
+Dealer: 25.70.
+Client: Okay, done. Okay. Yeah.
+Dealer: Theek hai sir. Okay.

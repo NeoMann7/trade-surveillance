@@ -1,0 +1,20 @@
+Dealer: Hello.
+Client: Hello. Uh, Shubham Tendulkar here.
+Dealer: Shubham Tendulkar. Okay.
+Client: Yeah, yeah.
+Dealer: Boliyana, sir.
+Client: Uh, equity lena tha.
+Dealer: Ha ha, what do you want to buy?
+Client: Uh, Aurobindo Pharma.
+Dealer: Aurobindo Pharma. Okay. Just a minute, huh, sir. One minute.
+Client: Okay.
+Dealer: Okay, Auro Pharma.
+Dealer: Sir, currently it is quoting at 1101.
+Client: 1101.
+Client: Ha, 1101 ko piece dal dijiye.
+Dealer: Okay, how many shares?
+Client: 20.
+Dealer: 20 shares at 1101. Okay. Yeah, sir. And Shubham Tendulkar, correct?
+Client: Yeah, yeah.
+Dealer: Yeah, so your code is DWM00204, okay? Yeah, 204. Okay, sir. Thank you.
+Client: Thank you.

@@ -1,0 +1,26 @@
+Client: Hello?
+Dealer: Ha, hello Rajni.
+Client: Yeah.
+Dealer: Ha, Rajni, Wasu here, calling from New Dealing. Aapne phone karne bola tha na?
+Client: Trade ke liye.
+Dealer: Achha ha bolo na kya karna tha?
+Client: CG ka consent lene ka tha na aapko?
+Dealer: Ha nahi wahi uske liye phone kiya. Aapka client code hai Neo WM00623.
+Client: Ha ha.
+Dealer: Ha toh aapko kya lena tha?
+Client: Woh Compton Greaves ka hai na?
+Dealer: Okay, CG Power lena hai.
+Client: Haa ji.
+Dealer: Theek hai, kitne amount ka lena hai?
+Client: 50,000 ka.
+Dealer: 50,000 divided by...
+Client: Abhi kya rate chal raha hai?
+Dealer: 742.50.
+Client: Ha toh aap le lijiye.
+Dealer: Toh around 20 quantity aayega, okay theek hai?
+Client: Chalega.
+Dealer: Okay, 20 quantity Compton Greaves buy kar raha hoon market price mein. Client code hai Neo WM00623. Rajni sharan, theek hai?
+Client: Yes, yes.
+Dealer: Okay, 20 quantity bought at 741.45. Client code is Neo WM00623, okay?
+Client: Superb, okay, thank you.
+Dealer: Okay.

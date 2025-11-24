@@ -1,0 +1,11 @@
+Client: Hello, hello Devesh.
+Dealer: Yes.
+Client: Devesh Akshat.
+Dealer: Ek minute, ek minute. Main Devesh ko phone de raha hun.
+Dealer: Hello.
+Client: Haan Devesh.
+Dealer: Yeah.
+Client: Haan, kitne baje ka next karna hai? 48?
+Dealer: Akshat, same time karenge na? 48.
+Client: Theek hai. Done. Okay.
+Dealer: Theek hai? Haan. Okay. Okay.

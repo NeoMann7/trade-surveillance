@@ -1,0 +1,31 @@
+Dealer: Hello, hello, Ajit.
+Client: Yes, Ajit vicky baat kar raha hu main neeche Equity se.
+Dealer: Haan haan boliye na.
+Client: Accha ye Tuesday ko trade ho raha hai kuch idea hai aapko bada.
+Dealer: Nahi matlab mujhe idea nahi hai.
+Client: kiska?
+Client: Multiple clients hai, to actually main Ganesh ko laga raha tha call but abhi shayad maine dekha wo bahar hai. To mujhe
+Dealer: Chutti pe hai ha.
+Client: Haan, to ye sab trades ke mujhe pre-trade confirmation lagenge. To Tuesday ko trade hona hai to wo mostly Monday, Monday tak apne ko lagega pura pre-trade confirmation. To
+Dealer: Kitne kitne client hai?
+Client: Around kitne number of kitne hai? 15-16.
+Client: 15-16 client hai.
+Dealer: Toh list hai kya? Fir main respective CSOs ko bolta hu log la ke de denge.
+Client: Haan main wahi to usi ke liye baat karna tha to mere paas jaise list update hota hai na, to main aapko list mail karta hu.
+Dealer: Correct.
+Client: Haan ji.
+Client: Ek minute. Kya bol raha hai?
+Client: CSOs ke naam? Tere ko chahiye? Achha Sandeep ne bhi ek mail kiya hai dekho na aapko.
+Client: Usko bhi woh sab CSOs ke details chahiye. Kon se kaun sa CSO hai kya hai.
+Dealer: Yeh toh again, matlab RMs hai. Inka toh de dunga main.
+Client: Are RMs ka hai ki CSOs chahiye tere ko Sandeep.
+Dealer: Nahi nahi matlab inhone RM ka naam diya uske saamne CSO chahiye.
+Client: Haan haan haan.
+Client: Haan toh mil jayega, woh de deta hu.
+Client: Mil jayega na. Haan theek hai. Aur ye main mere paas jaise list update hota hai na main aapko mail karta hu. To uska fir ek baar main aapko aap mail check karoge na toh aapko pata chal jayega matlab bada bada deal hai ek Tuesday ko morning ko jaise pre-open mein hi matlab jaise market khulega na 9:15 ko hi deal ho jayega. To matlab uske pehle apne ko Monday end tak sab confirmation ke sath mein apne ko ready rehna hai.
+Dealer: To aap jo doge usme trade price aur aise hi sab rahega na?
+Client: Haan haan haan woh main aapko pura file bhejta hu. Woh to abhi kaise woh, ye to aapko malum hai na pre-trade kaise lete hai apan.
+Dealer: Haan woh pata hai mujhe.
+Client: Bas bas main aapko rate to mostly sabka ek hi hai kyuki deal ho raha hai to ek hi rate hai. To quantity sabka alag alag hai khali. Ammount ke hisab se hai na? To mere paas jaise sheet update hota hai na main aapko mail karta hu.
+Dealer: Chalega theek hai. bye.
+Client: bye.

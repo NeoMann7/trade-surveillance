@@ -1,0 +1,20 @@
+Dealer: Hello.
+Dealer: Yes. Uh this is Kunal from New Equity dealing team.
+Client: Ha, ha, say yes.
+Dealer: Uh sir, actually Aksha told me to call you. You want to sell some share, right now?
+Client: Correct. Yeah, Bajaj Auto.
+Dealer: Okay, Bajaj Auto, you have 29 quantity. So you want to sell all.
+Client: Yes.
+Dealer: Okay, 29 quantity Bajaj Auto you want to sell at market price. Your code is New WM0047, right?
+Client: Yeah.
+Dealer: Uh, okay. 29 quantity sold. 97.50. And another stock is I think so Dalmia Sugar.
+Client: Dalmia Sugar, yeah.
+Dealer: Okay. So, sell Dalmia Sugar at market price. You have 100 quantity. Uh.
+Dealer: Okay. Dalmia Sugar sold 100 quantity at 344.
+Client: Okay, fine.
+Dealer: Okay, so, uh, you want to buy, I think so, uh 2,94,000 around we have received the money by selling. You want to split in Granules and AuroPharma or you want to buy both?
+Client: Um.
+Client: Uh, split it between the both of them.
+Dealer: Okay. So, what I'll do, uh, around 1,45,000 I'll buy Granules and uh around 1,45,000 I'll buy AuroPharma. Uh, I'll give you the confirm chat after 5 minutes once limit gets updated, okay sir?
+Client: Yeah, okay sir. Okay, okay.
+Dealer: Okay.

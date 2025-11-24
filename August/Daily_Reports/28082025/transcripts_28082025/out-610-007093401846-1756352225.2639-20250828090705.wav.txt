@@ -1,0 +1,14 @@
+Client: Hello.
+Dealer: Hello. Ha sir.
+Client: Ha ye Indigo ka apna jo block pe sale aa raha hai na uske liye 25, ek second ha.
+Dealer: 25 quantity mein daalu ek baar?
+Client: 25 quantity dal do.
+Dealer: Theek hai chalega. Main aur aur apne ko deal hone ke baad bhi le lena hai na current rate jo bhi rahega us pe?
+Client: Ha.
+Dealer: Theek hai, toh main ek baar deal ke liye main kya rate daalu?
+Client: Ha 30 quantity daal do. 30 dal do, 3030.
+Dealer: 30 quantity mein Indigo dal raha hoon. Main filhal matlab abhi dekho abhi uska open dikha raha hai mujhe uh 5875. Toh kitne mein daalu ek baar? 5850 ke around daalu ek baar?
+Client: 5850, 5850 pe daal do.
+Dealer: Hai na? 5850 point 10-20 paisa upar mein dalta hoon main. Aur agar deal ho gaya, maan nahi aayega, toh ek baar current rate jo bhi rahega uspe main le lunga.
+Client: Theek hai.
+Dealer: Hai na? Theek hai, chalega. Ha ha.

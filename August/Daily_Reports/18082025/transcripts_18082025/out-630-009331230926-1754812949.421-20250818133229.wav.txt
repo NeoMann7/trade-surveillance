@@ -1,0 +1,8 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Haan.
+Client: Yes, boliye.
+Dealer: Apne niche taskbar mein Futs Bol likha hua dikha raha hoga white color ka.
+Client: Taskbar...
+Client: Haan, so isme kya karna hai? Logs mein na, aap logs ka bata rahe ho, right?
+Dealer: Hello.

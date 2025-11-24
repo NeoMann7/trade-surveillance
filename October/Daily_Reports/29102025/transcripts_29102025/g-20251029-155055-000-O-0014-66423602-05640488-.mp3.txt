@@ -1,0 +1,35 @@
+Client: Hello
+Dealer: Hello.
+Client: Hello.
+Dealer: Yes, sir.
+Client: Hmm.
+Dealer: Yes, tell me.
+Client: Yes.
+Client: Can I speak with Mr. Sunil?
+Dealer: Sunil is not available right now. Tell me what you need.
+Client: I just wanted to ask him about the market.
+Dealer: What do you want to ask about the market, sir?
+Client: What's your view on the market?
+Dealer: Sir, the market looks bullish. Nifty is holding 19,700 and will go up to 19,850.
+Client: Hmm.
+Dealer: What are you looking to do, sir?
+Client: I have 25,000, and I want to put them in the market.
+Dealer: Sir, you can invest it. It's a good time to invest.
+Client: Hmm.
+Dealer: Sir, which stocks are you looking to buy?
+Client: I wanted to buy Reliance.
+Dealer: Reliance, sir. What is the current price?
+Client: Its current price is 2,420.
+Dealer: Sir, how many shares are you looking to buy?
+Client: Hmm, I am looking to buy 10 shares.
+Dealer: Sir, for 10 shares, you'll need 24,200 rupees.
+Client: Hmm.
+Dealer: So you can buy it, sir.
+Client: Okay, I want to buy 10 shares of Reliance.
+Dealer: Okay, sir. Your order has been placed.
+Client: Okay.
+Dealer: Sir, do you want to do anything else?
+Client: No, that's all. Thank you.
+Dealer: Okay, sir. Thank you.
+Client: Thank you.
+Dealer: Thank you.

@@ -1,0 +1,27 @@
+Dealer: Hello.
+Client: Hello. Yes.
+Dealer: Yes.
+Client: Can I speak to Piyush?
+Dealer: Sorry sir.
+Client: Can I speak to Piyush please?
+Dealer: Uh, yeah, so one minute. Sir, your good name?
+Client: Aditya Gupta.
+Dealer: Okay. Aditya Gupta.
+Dealer: Hello.
+Dealer: Ah, Piyush. Boliye sir.
+Client: Bhaiya, woh closing ka maine letter bheja tha aapko, hafta bhar se upar ho gaya hai.
+Dealer: Toh wapas second time bheja tha aapne.
+Client: Hello?
+Client: Confirm nahi kiya tha ki bheja hai.
+Client: Nahi nahi, wapas aapko correction... mera account toh close ho chuka hai mera.
+Dealer: Abhi main check karke batata hoon sir. Usko mila ki nahi, Sandeep ko puchh leta hoon.
+Client: Toh ek baar online pe check kar lijiye mera account band ho gaya hai ya nahi.
+Dealer: Main check karta hoon sir. Mujhe do minute dijiye.
+Dealer: Main check kar leta hoon.
+Client: Isme bhaiya, phir aap log ko hafta hafta bhar pehle bhejte hain, phir aap log ko ektaan karte ho.
+Dealer: Ji, actually mere, maine matlab, maine jo aadmi hai, back end team kaam karti hai, puchh leta hoon.
+Dealer: Main pooch ke aapko update karta hoon.
+Client: Aaya nahi kya? Aaye nahi aaye, aap log ko matlab nahi hai.
+Dealer: Main pooch ke baat karta hoon abhi aapko.
+Client: Aapko jab zaroorat lagega, koi lagega, phir apne dono ladke karenge.
+Dealer: Main abhi aapko do minute pooch ke karta hoon sir, dekh ke kya ho gaya status.

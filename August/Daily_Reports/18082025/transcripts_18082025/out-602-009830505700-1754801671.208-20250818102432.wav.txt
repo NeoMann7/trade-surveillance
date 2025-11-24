@@ -1,0 +1,20 @@
+Dealer: holding se
+Client: Haan ji, hello.
+Dealer: Haan ji.
+Client: Haan sir, good morning, please batao.
+Dealer: 106 rupaye 99 paise. 98 paise pe laga do, 98 paise pe laga do.
+Client: 106 rupaye. Abhi KRT chal raha hai 106 rupaye 99 paise.
+Dealer: Nikal do.
+Client: 18600 quantity niqal do na.
+Client: Hello?
+Dealer: Yes.
+Client: Selling is not allowed, kyun?
+Client: Arre, isme se hi maar raha hoon direct mein.
+Client: Ek minute. Rajesh ko de do.
+Dealer: Chalo, aapka order mil gaya, main rakhta hoon.
+Client: Haan, main abhi, sell nahi hua hai aapka abhi.
+Dealer: Theek hai.
+Client: Hello?
+Dealer: Kyun nahi hua?
+Client: Haan, main, sell karta hoon, sell karta hoon. Actually, wahan se, karwaata hoon, sell kar deta hoon.
+Dealer: Okay.

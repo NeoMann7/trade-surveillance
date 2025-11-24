@@ -1,0 +1,6 @@
+Dealer: Hello.
+Client: 249 mein limit ho gaya hai.
+Dealer: Ek minute. 249 na Vasu?
+Client: Limit ho gaya hai dekh.
+Dealer: Haan theek hai.
+Client: Obliga...

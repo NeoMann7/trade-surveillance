@@ -1,0 +1,12 @@
+Dealer: हेलो। क्या बोलना पड़ेगा?
+Client: बोलना?
+Dealer: हाँ।
+Dealer: Vaise to PNB ka call diya tha PNB Housing ka. हाँ।
+Client: कितने बजे दिया था कॉल या क्या था?
+Dealer: अपने आप पे दिया था ना कॉल?
+Dealer: पता नहीं, एक मिनट रुक, मॉडल पोर्टफोलियो में पता चलेगा।
+Dealer: August pe kuch call diya tha. 10:30 pe kuch call diya tha. August mein tha.
+Client: क्यूं दिया?
+Dealer: PNB Housing ka diya tha 831.
+Client: Okay.
+Dealer: Okay.

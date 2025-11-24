@@ -1,0 +1,24 @@
+Dealer: Hello?
+Client: Hello, I wanted to buy equity. Niyo's WM00204.
+Dealer: Just a minute sir.
+Client: Yeah.
+Dealer: Niyo WM...
+Client: 00...
+Dealer: Hmm.
+Client: 204.
+Dealer: 204. Shubham Tendulkar?
+Client: Yeah, yeah, Shubham Tendulkar.
+Dealer: Haan sir, boliye na, kya lena hai?
+Client: 50 Coal India.
+Dealer: Coal India.
+Client: Price kya chal raha hai?
+Dealer: Ek minute sir.
+Dealer: Price abhi aa raha hai 373.80, 373.95.
+Client: Jitna chal raha hai. Okay?
+Client: 373.80 market price pe karu. Theek hai, market price pe le lijiye.
+Dealer: Kitna quantity lu sir?
+Client: 50.
+Dealer: 50 quantity na? 50 quantity.
+Dealer: 50 quantity aa gaya sir apna 373.95 mein.
+Client: Okay, okay. Thank you.
+Dealer: Yeah, yeah.

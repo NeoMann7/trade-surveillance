@@ -1,0 +1,48 @@
+Client: Hello.
+Dealer: Yes. Oh, Jignasha here, calling you from Neo Wealth. Um, sir, you wanted to place any order today?
+Client: Who is this?
+Dealer: Jignasha, on behalf of Piyush, since Piyush has not come today.
+Client: Okay.
+Dealer: Yeah.
+Client: Uh, 5600 put into Globe.
+Dealer: Indigo 5600 put, right? 28th October expiry.
+Client: 28th September.
+Dealer: Oh, okay. September.
+Client: September expiry.
+Dealer: September expiry, now. Okay, fine. The prices is 95.
+Client: September expiry now. Okay, fine. The prices is 95.
+Dealer: 95, 96.
+Client: Now, is there a lot?
+Dealer: Lot is around 150.
+Client: 150.
+Dealer: Hmm.
+Client: Okay. Let's go ahead and sell it.
+Dealer: Okay. How many lots?
+Client: One lot.
+Dealer: One lot, okay. So, I'll sell Indigo 5600 put, 30th September expiry, one lot in Neptune Capital. Okay?
+Client: That's right.
+Dealer: Yeah, thank you.
+Client: There is a company called Taylormade Renewables, T R L. I need to buy 500.
+Dealer: Oh, I'm just keeping this order over here. Okay? Uh, one lot I'll keep at 95.3, okay?
+Client: Yeah. Yeah.
+Dealer: Okay. And, uh, can you just, uh, help me in spelling with that company?
+Client: Taylormade. T A Y L O R, M A D E. Taylormade Renewables.
+Dealer: Yeah, right. Correct.
+Client: Hanji?
+Dealer: Yeah, one I, okay. I'll just tell you the rate. It is at.
+Client: It's under a share kar li jiye 196 tak ka.
+Dealer: Ha. So currently it's seller is at 196.50, point five zero.
+Client: Uh, kar lo. Kar lo.
+Dealer: So aapne liya hua hai ya phir you want to buy?
+Client: Kar. Okay. How many shares?
+Dealer: Okay. How many shares?
+Client: 1000 shares.
+Dealer: 1000 shares, right?
+Client: Yes.
+Dealer: Okay. At what rate? At 196.50?
+Client: Yeah, that's right.
+Dealer: Okay. In Neptune. Correct?
+Client: Yes. Yes.
+Dealer: Okay, fine. Yeah. Thank you.
+Client: Yeah, thank you so much.
+Dealer: Yeah.

@@ -1,0 +1,43 @@
+Dealer: Hello.
+Client: Piyush.
+Dealer: Ha, ek minute. Kon?
+Client: Primal.
+Dealer: Ek minute.
+Dealer: Hello.
+Client: Piyush, ha, Primal waat karu.
+Dealer: Bolo Primal bhai.
+Client: Maare che ne, Cupid vechwa che.
+Dealer: Ek minute varjo.
+Client: Ha. Cupid.
+Dealer: Oh, 218 rupiya 58 paisa, 218 72.
+Client: Hmm, bolo.
+Dealer: 6000.
+Client: Ketlama vechu? 6000 quantity ne? Hmm. Ketlama?
+Dealer: 218 ketla kidha ta?
+Client: 218 rupiya 65 paisa che, pan bhai actually just kon? Saame buyer badha ochha che, matlab 500 share, 50 share, 200 ek amuk vaat.
+Dealer: Toh ena api do toh 6000 share.
+Client: 218 karine aapu?
+Dealer: Ha, api do.
+Dealer: Vecha gaya. Cupid 6000 share, 218 rupiya 47 paisa ma. NEO 56.
+Client: Ha, super. Have ek kaam kar. Maare TCSL leva che, aaje lai sakashe? Etlaj amount na.
+Dealer: Ek minute.
+Client: Early pay-in kevu kai thay ke kaale?
+Dealer: Ketlana leva che tamare?
+Client: Etla, aana ketla, total ketla paisa avya?
+Dealer: Ek minute varjo aana.
+Dealer: Aana takriban tamare kai 13 lakh 10 hazar thi vadhe lakh return tamne 13 lakh samjo ne.
+Client: 13 lakh, 13 lakh na maare TCSL leva to lakh.
+Dealer: 2 lakh 27 hazar che. Ek minute. 2 lakh 25 hazar into. Lai sakta. Am to 10-11 lakh sudhi to lai sakso tame. Karan ke margin 2 lakh available dekhade che 2 lakh 27 hazar.
+Client: To bijah paisa kyare karse tu pachi?
+Dealer: To early pay-in karu? Pela pela pela aatlana lai lau jetlana malshe.
+Client: Ketlana malshe?
+Dealer: Ek minute. Maare khali 10 ek lakh rupiya sudhi to lai sakso.
+Client: Nai, khyal thi nai, confirm bol ne beta.
+Dealer: Ek minute, confirm tamaru margin atyare available che 2 lakh 27 hazar. So 2 lakh 26 hazar into 5. 11 lakh 30 hazar rupiya jeva lai sakso. 11 lakh round up, 11 lakh rupiya sudhi.
+Client: Achha, have suppose ke 11 lakh na annelai lidha, barabar che? Hmm, hmm. Ane kaale pachi early, kaale pay-in avshe to eni saame saame adjust thai jashe ne?
+Dealer: Ha, jetlu hase e to adjust thai jashe.
+Client: Maare kai paisa nathi apvana ne extra?
+Dealer: Na, etle je ha, etle aa nu credit avse to ek na tame mane be minute apo, hu early pay-in kar dau.
+Client: Ha to early pay-in tu toh early pay-in karine mane phone kar pachi.
+Dealer: Ha, early pay-in karine call karu tamne.
+Client: Sarun, jaldi kar.

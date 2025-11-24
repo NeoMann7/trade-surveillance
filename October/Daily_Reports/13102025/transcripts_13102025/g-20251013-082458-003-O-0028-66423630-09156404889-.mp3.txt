@@ -1,0 +1,8 @@
+Client: हॅलो
+Dealer: बोलिए फर्स्ट हा
+Client: हा हॅलो
+Dealer: हा बोलिए
+Client: हे काय चाललंय हे
+Dealer: काय झालं?
+Client: निफ्टी 50 काय चाललंय
+Dealer: निफ्टी वाढेल

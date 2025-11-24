@@ -1,0 +1,24 @@
+Client: हेलो हेलो हेलो
+Client: हेलो हेलो
+Dealer: Hello.
+Client: हेलो
+Dealer: Hello.
+Client: हेलो।
+Client: सर।
+Client: अ...
+Client: एसबीआई लाइफ का 1120 का कॉल।
+Client: 1100, 1120 का कॉल 21.65 में बाय।
+Dealer: Hmm.
+Client: एसबीआई लाइफ 1120 कॉल 21.65 में बाय।
+Dealer: ओके।
+Client: 1000 क्वांटिटी।
+Dealer: 1000 क्वांटिटी?
+Client: हां।
+Dealer: अ... एसबीआई लाइफ 1120 कॉल 21.65 में बाय। 1000 क्वांटिटी ना?
+Client: हां।
+Dealer: अ... ले लिया है।
+Client: ठीक है।
+Dealer: अ... ठीक है सर, ऑर्डर बुक में चेक कीजिए।
+Client: ठीक है।
+Dealer: ओके सर।
+Client: थैंक यू।

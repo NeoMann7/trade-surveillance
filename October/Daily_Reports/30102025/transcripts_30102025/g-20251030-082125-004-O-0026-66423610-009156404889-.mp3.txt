@@ -1,0 +1,11 @@
+Dealer: 3326630, First.
+Client: Hello?
+Dealer: Hello?
+Client: Haanji, ek SBI 610.
+Dealer: SBI 610.
+Client: Ka 2500 quantity.
+Dealer: 2500.
+Client: Short sell.
+Dealer: SBI 610, 2500 quantity, short sell. Ok?
+Client: Yes.
+Dealer: Ok.

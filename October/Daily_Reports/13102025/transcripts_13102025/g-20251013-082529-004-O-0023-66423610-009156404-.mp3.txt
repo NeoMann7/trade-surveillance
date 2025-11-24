@@ -1,0 +1,4 @@
+Dealer: 13th October, extension 610, first test call.
+Client: (unclear)
+Dealer: Hello?
+Client: (unclear)

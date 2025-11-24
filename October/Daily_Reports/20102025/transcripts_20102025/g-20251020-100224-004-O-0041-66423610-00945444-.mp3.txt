@@ -1,0 +1,4 @@
+Dealer: Hello?
+Client: Hello, sir. Are you there?
+Dealer: Yes, I am there.
+Client: I want to place...

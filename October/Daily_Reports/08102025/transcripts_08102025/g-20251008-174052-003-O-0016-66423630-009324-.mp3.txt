@@ -1,0 +1,28 @@
+Client: Hello.
+Dealer: Ha bolye sir.
+Client: Nifty ka kya view hai sir?
+Dealer: Nifty sir, abhi to filhal to upar hi dikh raha hai. Target hai 21850 tak ka. Upar mein.
+Client: Uhm.
+Dealer: Agar 21700 ke niche jaata hai to fir thoda sa weak hoga. Warna abhi to bullish hai.
+Client: Okay. Aur bank nifty?
+Dealer: Bank nifty mein sir 46000 ka support hai. Upar mein 46500, 46700 tak ja sakta hai.
+Client: Okay.
+Dealer: Upar mein 46500, 46700 tak.
+Client: Okay.
+Dealer: Kya karna chahenge sir?
+Client: Reliance ka kya view hai?
+Dealer: Reliance sir filhal to 2900 ka support hai. Upar mein 2950, 2980 tak ja sakta hai.
+Client: Okay.
+Dealer: Buy kar sakte hain agar 2910 ke upar rehta hai to.
+Client: Okay. Aur Tata Motors?
+Dealer: Tata Motors mein sir filhal to upar hi dikh raha hai. Target hai 900 tak ka.
+Client: Okay.
+Dealer: Support hai 880 ka.
+Client: Okay.
+Dealer: Buy kar sakte hain.
+Client: Okay.
+Dealer: Aur koi trade lena hai sir?
+Client: Nahi abhi to yahi information chahiye thi. Thank you.
+Dealer: Theek hai sir.
+Client: Okay.
+Dealer: Thank you.

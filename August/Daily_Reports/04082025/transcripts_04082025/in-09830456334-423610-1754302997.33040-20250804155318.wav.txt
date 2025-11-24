@@ -1,0 +1,106 @@
+Client: Hello.
+Dealer: Hello, yes.
+Client: Hello.
+Dealer: Hello, hello, hello.
+Client: Janna tha kya trade hua hai 0083 mein?
+Dealer: Uh, one minute ma'am, I'll just tell you. Give me a minute.
+Dealer: Aapka pura code kya hai? Near WM na?
+Client: Haan WM.
+Dealer: 00 Aapka last four digits kya hai ma'am?
+Client: Ek hai 83, ek hai 79. 0083, 0079.
+Client: And it's your Mahindra Chawla.
+Dealer: Okay, one minute ma'am.
+Dealer: Ek minute. Aapka jahan se kya ho gaya?
+Dealer: Aapka trade to aaj ke din pe kuch bhi nahi hua hai ma'am.
+Client: Kaise nahi hua hai? Do trade to humko khud hi confirm kar diye woh. Kaun se account mein aap dekh rahe hain?
+Dealer: Aapka naam kya hai, ma'am? What's your name?
+Client: Aa Anant Chawla ya Mahindra Chawla, kiske naam pe theek hai aap? Aap 83 mein dekh rahe ki 79 mein dekh rahe?
+Dealer: Main 83 mein dekh rahi thi.
+Client: Mahendra Kumar Chawla mein?
+Client: Hello.
+Dealer: Yeah, yeah, ma'am. One minute.
+Client: 83 Mahendra Kumar Chawla ka hai?
+Dealer: Apoorva, ek minute. Main Apoorva mein abhi hun. Theek hai. Aapka Apoorva hi hai na?
+Client: Nahi, Apoorva nahi hai humara.
+Client: Didi, please aap woh aadmi ko dijiye na jo mujhse deal diya tha. Kahan hai woh?
+Dealer: Uh, one minute, haa.
+Dealer: Hello.
+Client: Haan.
+Dealer: Haan. So, aapka aaj jo hai Dixson jo hai, theek hai, woh do lot sell hua hai. Sorry, do quantity sell hua hai. Okay, one almost 17,002 pe close hua hai. Aapka selling average jo hai woh 17,085 pe hai, okay, two quantity. Alok Industries bhi apne buy kiya hai, 709 shares. Okay, so buying average hai, aapka 18.75. And this is some LJ Rubber karke hai, apne jo buy, buy karwaya yahan se, 1400 shares hai. Okay, 51.66 pe buy hua hai. And this is in 083. And what is the other account?
+Client: Oh, and one more transaction that I done, woh nahi hua kya?
+Dealer: Nahi, nahi, ye teen hi hua hai aapka 083 mein.
+Dealer: Dusra account kaun sa hai aap bata rahe ho?
+Client: 00083, sorry, 79.
+Dealer: 79.
+Dealer: Okay. Isme bhi LG Rubber buy hua hai. 1400 shares. 51.66 pe.
+Client: Hello.
+Dealer: Hello.
+Dealer: Ma'am aapko aawaz aa rahi hai?
+Client: Hello, yes, yes, yes, boliye Madam.
+Dealer: Yeah, I'm saying LG Rubber buy hua hai aapka Mahindra Jhawar mein. 1400 shares.
+Client: Mahendra Jhawar mein to hua hai, ma'am. Aap Anand Jhawar ka bataiye 79 ka bataiye.
+Dealer: 79.
+Dealer: 78 rahega.
+Client: Haa, sorry, sorry, 78.
+Dealer: 78 nahi hai, kuch bhi nahi hua hai.
+Client: Kaise nahi hua hai? Ma'am, sell hua hai to hum buy kiye to main LG Rubber ispe bhi buy hua hai, aaj. Sell hua hai Dixson Technology sell kiye hai.
+Dealer: Kuch nahi hua hai.
+Client: Aap kaun se ID dekh rahe hain? Mujhe to mujhe confirm kiya hai.
+Dealer: Hello.
+Client: Haan.
+Dealer: Aapko hai na confirmation mail aa gaya rahega, ma'am, aapke mail ID pe. Aap please ek baar check kar sakte.
+Client: Nahi, rupee transfer karna hai na mujhe, rupee karwana padega na.
+Dealer: Kya bol rahe ho?
+Client: Woh bhaiya to mere ko woh unka baat tha mujhe call karne ka, kya hua nahi hua. Unhone call nahi kiya. Theek hai?
+Dealer: Okay, one minute, one minute. Aapne...
+Client: Aap kaise bol rahe trade nahi hua hai? Mere saamne trade hua hai do-do.
+Dealer: Ek to 83 mein hua hai aur ek jo hua hai aapka 79 mein hua hai. 72 mein hua hai.
+Client: Haan. Toh main 79 hi bol rahi thi. 79.
+Dealer: 72. 79 mein kuch bhi nahi hua hai aapka.
+Client: Anant Jhawar, Anant Jhawar hai.
+Dealer: Aapne diya nahi hai order 79 mein.
+Client: Haan, nahi usme nahi diya. Anant Jhawar maine kiya hai. Actually main gaadi mein hun, mujhe number theek se yaad nahi hai. Lekin isi ke aas paas hi hai. 72 hai ki 78 hai, I don't know. Dekhiye isi.
+Dealer: 72, 72 Mahendra Jhawar mein hua hai.
+Client: Aur Anant Jhawar ka kya ID hai?
+Dealer: Anant Jhawar mein hua na 83 mein? Aapko bataya to sahi abhi maine.
+Client: Achha, to abhi Mahendra Jhawar mein kya hua, bata dijiye.
+Dealer: Mahendra Jhawar mein LG Rubber hi buy hua hai. 1400 shares. 51.66 pe.
+Client: Alok Industries buy nahi hua hai?
+Dealer: Nahi.
+Client: Aur woh sell karne wala bhi nahi hua hai?
+Dealer: Nahi, nahi, sirf yahi buy hua hai, sirf buy hua hai isme aur kuch nahi hua hai.
+Client: Achha, to kitna rupee bhejna hai? Pehle ka kuch rupee tha kya?
+Client: Hello.
+Dealer: Yeah, one minute, I'll just check ki aapka kitna fund hai and then accordingly you transfer that much of fund.
+Dealer: Aapko kuch abhi fund hai 40,390 available fund hai. Hmm.
+Client: Kitna? Kitna aur humko dena padega?
+Dealer: Sorry.
+Client: Kitna aur jama karna padega?
+Dealer: Yeah, one minute. Exactly, ma'am, just a minute. Including your brokerage.
+Client: Hello.
+Dealer: Hmm, one minute. Kitna aur dena padega, Madam?
+Dealer: Aapne kuch 51.66 pe buy kiya hai. Okay, 1400 shares. So 72,324 hota hai. And aapka available cash bhi hai yahan pe, okay, 40,000 jitna. So almost 35,000 jitna aapko dena padega.
+Client: 35.
+Dealer: Hmm.
+Client: Achha, aur Anant Jhawar mein kitna dena padega? I think kuch bhi nahi dena padega. Hm.
+Client: Check karke.
+Dealer: Theek hai.
+Client: Anant Jhawar mein kitna dena padega?
+Dealer: Ma'am, usme, ek minute, main aapko batati hun.
+Dealer: Isme aapka cash already sirf 23,000 hai. Okay.
+Client: Sell bhi hua hai Dixson aur ek aur hua hai sell na?
+Dealer: Hmm.
+Client: Dixson aur ek shayad Naik hue the.
+Dealer: Hmm, apne woh Dixson sell kiya hai, theek hai. So 17.
+Client: Aur ek sale hua tha woh bhi hua hoga?
+Dealer: Kya? Haa, haa. Sell do, haa.
+Client: Sell hua hai aur do cheez buy hua hai, right?
+Dealer: Haan. Haan, exactly. Ek hi sell hua hai aapka.
+Client: Sell ek hi hua hai kya? Achha, thik hai.
+Dealer: Hmm.
+Client: Dixson hi hua hai kya? Sirf kya? Haan, achha. Toh kitna aur dena humko?
+Dealer: Ma'am, aapko isme bhi kuch 40,000 jitna dena hai. 46, 47,000 jitna with brokerage.
+Client: Okay.
+Dealer: Theek hai?
+Client: Hmm.
+Dealer: Okay, thank you.

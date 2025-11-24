@@ -1,0 +1,22 @@
+Dealer: 23rd October extension second day score
+Client:
+Dealer: Hello
+Client: Yeah
+Dealer: Ha boliye sir.
+Client: Yeah, I want to place an order.
+Dealer: Okay.
+Client: For Axis Bank futures.
+Dealer: Axis Bank futures, buy, sell?
+Client: Buy.
+Dealer: Buy.
+Client: 500 shares.
+Dealer: 500 shares.
+Client: At 720.
+Dealer: 720. Axis Bank, October futures, buy 500 at 720. Okay, I'll place the order.
+Client: Okay.
+Dealer: Just a minute.
+Client: Okay. Thank you.
+Dealer: Hello? Line pe raho sir, bolta hu.
+Dealer: Yes sir, your order has been executed at 720.
+Client: Okay. Thank you.
+Dealer: Thank you.

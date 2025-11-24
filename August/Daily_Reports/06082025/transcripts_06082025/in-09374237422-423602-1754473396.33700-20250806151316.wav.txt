@@ -1,0 +1,13 @@
+Client: Hello.
+Dealer: Hello.
+Client: Ah, humne keh le amount ko na, humne mobile try karunga thoda.
+Dealer: Aap Prameela mein, 3 25 na?
+Client: Hmm, 3 25.
+Dealer: 3 25. ₹3,25,000. At a turn 22, turn 22, 800 chhe. Etle tame khali 3 25 kari do jio.
+Client: 3 25 kari do na?
+Dealer: Ha, etle 1000 1500 rupees upar rehse.
+Client: Ha, eno vadano nathi. 3 25.
+Dealer: Ha, 3 25 karo.
+Dealer: 3,25,000.
+Dealer: Hmm.
+Dealer: Hmm.

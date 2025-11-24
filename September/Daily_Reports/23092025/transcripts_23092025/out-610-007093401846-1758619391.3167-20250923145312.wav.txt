@@ -1,0 +1,36 @@
+Dealer: Hello?
+Client: Hello?
+Dealer: Haan, main toh kal pehle. Hmm.
+Client: Ek stock kharidna tha. Check kijiye HPL engineering, kitne ka hai kitna price chala?
+Dealer: Dono ek-ek lakh ka le lu?
+Client: Haan. Haan.
+Dealer: Ek minute. Ek lakh ka Secoent 495 quantity. Ek minute. Su. Su.
+Client: Hmm.
+Dealer: Okay. Haan.
+Client: Kya kar rahe hain?
+Dealer: Haan. 495 quantity Secoent aaya hai 201.80 mein. Aur kaun dusra kaun sa bola?
+Client: Dusra HBL engineering.
+Dealer: HBL engineering. Yeh iska rate chal raha hai 813. One. One. 122 quantity.
+Client: Haan.
+Dealer: Haan. HBL engineering 122 quantity.
+Client: HPL engineering?
+Dealer: Ek kaam kariye, ek lakh ka gold bhi le lo.
+Client: Kya?
+Dealer: Ek minute, yeh le lu na pehle?
+Client: Thank you.
+Dealer: HPL. Haan, HBL apna 122 quantity buy ho gaya 813.50 mein. Haan aur abhi kya karna hai?
+Client: Ek lakh ka Gold bhi le lo. Gold bhi. Hello?
+Dealer: Gold Bees.
+Client: Hello?
+Dealer: Ek minute.
+Client: Aapki awaaz, meri awaaz aa rahi hai aapko? Kam aa rahi hai? Haan. Do din mein kar do. Matlab aaj 25.
+Dealer: Nippon ka na?
+Client: Haan.
+Dealer: Nippon ka Gold Bees aa raha hai 95.12.
+Client: 95.12. Hello?
+Dealer: 1050 1050 le raha hu main. Hmm.
+Client: 492.
+Dealer: 1050 quantity 95.12 mein aa gaya Gold Bees.
+Client: Okay.
+Dealer: Theek hai?
+Client: Theek hai.

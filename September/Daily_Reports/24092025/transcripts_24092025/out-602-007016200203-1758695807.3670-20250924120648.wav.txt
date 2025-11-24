@@ -1,0 +1,64 @@
+Dealer: Hello.
+Client: Hello.
+Client: How many Cupid shares are there?
+Dealer: Cupid, 2350 quantity.
+Client: 2350, right?
+Dealer: Yes.
+Client: Sell it. Just sell it.
+Client: At what price?
+Dealer: Currently, 220 rupees... 220 rupees and 5 paise, or 220.20.
+Client: Sell.
+Dealer: Should I sell all of it?
+Client: Hmm.
+Dealer: Uh, 440 are still pending. Shall I give it at 219?
+Client: Hmm, give it.
+Dealer: Uh, okay. 2350 quantity of Cupid sold at 219 rupees and 79 paise in Neo 56.
+Client: What was the value? What's the...?
+Client: What was the value of the goods sold?
+Dealer: 5,16,499 rupees.
+Client: Out of that, you need to take three Lotus for that.
+Client: Can you do that?
+Dealer: Three Lotus...
+Dealer: Yes, it can be taken.
+Client: That amount, an equivalent amount, right?
+Dealer: Just a minute, I'll check.
+Dealer: I'm doing 5,15,000.
+Dealer: Three Lotus at 198.40. You already have it. There's 5000 quantity.
+Client: Yes, yes.
+Dealer: 5,15,000...
+Dealer: Shall I take 2550 quantity?
+Client: Hmm.
+Dealer: At market price, right?
+Client: Hmm.
+Dealer: Uh, 5,06,700. Do you still want to take it?
+Client: How much? 5 lakh?
+Dealer: 5,06,696. 2550 quantity taken.
+Client: At what price?
+Dealer: 198 rupees 70 paise.
+Client: Just a minute.
+Client: How much did you sell for?
+Dealer: You sold for 5,16,499.
+Client: No, no. How much quantity did you sell?
+Dealer: You sold 2350 quantity of Cupid.
+Client: At what price?
+Dealer: At 219 rupees and 69... 219.79.
+Client: And the Lotus that I need to take, what price did you take it at?
+Dealer: If you want to take it as margin, then you still have, according to the money, you still have...
+Dealer: You can still take about 6 lakh rupees worth. If you don't take it, then you'll have to make the payment tomorrow.
+Client: No, 5 lakh worth of Lotus.
+Dealer: Okay, 5 lakh worth of Lotus.
+Client: Hmm.
+Client: If the payment comes by tomorrow, will it be okay?
+Dealer: Yes, so take another 2550 quantity.
+Client: Hmm.
+Client: So it will be 5000 and 100?
+Dealer: Yes, total your... understand, it will be 5100.
+Client: Okay.
+Client: Take it?
+Dealer: Take it.
+Client: Just a minute.
+Dealer: Ah, it's done. Total Lotus you bought 5100 quantity in Neo 56 at 198.61 on average.
+Client: Perfect. Now, how much money should I send you tomorrow?
+Dealer: Yes, I'll tell you. Currently, I've taken this in your margin, 20% margin.
+Client: Okay, okay.
+Dealer: Okay.

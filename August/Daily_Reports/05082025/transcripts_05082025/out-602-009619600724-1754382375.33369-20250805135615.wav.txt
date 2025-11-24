@@ -1,0 +1,11 @@
+Dealer: Hello?
+Client: Hello?
+Dealer: Sir, Bhaiji, uh, aaj aur trade hai ya file bheju?
+Client: Bhai, wohi tha sir, do, do the.
+Dealer: Achha, yeh Turbine aur Manappuram, woh toh nahi, USFC ka toh woh dono ho gaye hain. Aur, aur nahi hai na?
+Client: Hello?
+Dealer: Nahi, aur nahi hai.
+Dealer: Theek hai, toh main file bhej deta hu. Aur aapko maine mail kiya hai aaj, OK trade done karke bhi.
+Client: Ok.
+Dealer: Han, ok.
+Client: Hmm. Ok.

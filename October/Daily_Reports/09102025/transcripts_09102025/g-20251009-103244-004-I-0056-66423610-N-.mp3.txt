@@ -1,0 +1,9 @@
+Client: Hello, good morning.
+Dealer: Good morning, sir.
+Client: Sir, I want to call for silver B 16155.
+Dealer: Sir, you want to modify?
+Client: Ha, sir, 6190 me agaya. And uh, two Karnataka 150.
+Dealer: 100 and 156.
+Dealer: Theek hai sir, order place kar diya.
+Client: Thank you.
+Dealer: Right.

@@ -1,0 +1,9 @@
+Dealer: Hello, good morning.
+Client: Yes. Yeah. Bolo. Aur kuch?
+Dealer: Yes, yes.
+Client: Kya karna hai sir?
+Dealer: Ellenberry gas hai na woh wala.
+Client: Ellenberry. Kitna lena hai sir?
+Dealer: Itna hai 52. 449.50, 449.50
+Client: Hmm. 45 lakhs ka.
+Dealer: 45 lakhs ka. Theek hai.

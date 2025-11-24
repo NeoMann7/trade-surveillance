@@ -1,0 +1,25 @@
+Dealer: Hmm, bolo na.
+Client: Aake aake kuch intraday hota hai toh kya baat hai?
+Dealer: Nahi, are main intraday karta hi nahi hu kuch. Main intraday avoid karta hu.
+Client: Achcha.
+Dealer: Matlab hi nahi sakta karke trading karke.
+Client: Tata Tata Invest kaisa hai?
+Dealer: Arre usme usme thodi trading kar sakte hai intraday.
+Client: Nahi trade nahi, agar usme leke leke rakhe toh?
+Dealer: Nahi nahi, already badhiya maaza nahi.
+Client: Aisa?
+Dealer: Hmm.
+Client: Tu kon sa stock hai?
+Dealer: Ha?
+Dealer: Ha.
+Dealer: Yeh ek leke rakh lo Zuari Agro Chemical.
+Client: Kon sa?
+Dealer: Zuari Agro Chemical.
+Client: Spelling bol?
+Dealer: Zuari Z.U.A.R.I.
+Client: Achha.
+Client: Kaisa hai ye?
+Dealer: Achha hai, long term ke liye leke rakh do.
+Client: Ek minute. theek hai main likh leta hu sir.
+Dealer: Hmm.
+Client: Okay.

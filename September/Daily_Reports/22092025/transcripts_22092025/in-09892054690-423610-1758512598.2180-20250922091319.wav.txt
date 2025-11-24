@@ -1,0 +1,16 @@
+Client: Hello
+Dealer: Hello, haan sir.
+Client: Haan, uss ka ho raha hai kya?
+Dealer: Woh bech diya, order daal diya sir maine.
+Client: Haan, toh ek kaam karna aur 100 ka bhi daal dena.
+Dealer: Aur 100 daalun na?
+Client: Haan.
+Dealer: Theek hai sir, yeh bazaar chaalu hote hi main daal deta hoon aur 100.
+Client: Haan, toh pehle 100 bola tha na, ki 200 ka daal dena.
+Dealer: Theek hai. Matlab isi ko modify karun ke naya daalun order?
+Client: Abay kar na, up to you, do order daalo ek, piche karo, mujhe kuch fark nahi padta.
+Dealer: Theek hai, main wo main naya 100 ka daal deta hoon, kyunki wo modify karenge toh apna number aur piche aa jaayega.
+Client: Correct. Woh sahi hai. Toh 100 daalna.
+Dealer: Theek hai, theek hai. Barabar. Haan haan. Okay.
+Client: Thank you.
+Dealer: Yes sir.

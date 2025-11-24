@@ -1,0 +1,32 @@
+Dealer: Hello.
+Client: Hello, Vicky. Yeah, about that IPO.
+Dealer: IPO, na? Ek minute, sir. LG. Electronics. Gujarati this hai.
+Client: Ha, Gujarati, okay.
+Dealer: Oh. Theek hai. Sir, ek minute, sir. Kagra at the rat ki roti hai. Ek minute, sir. 26. Under the under baaki hai. LG India, na?
+Client: Ha, LG Electronics, I think.
+Dealer: Ha, ha. LG India wala. 10 1080 wala jo rate hai 1140.
+Client: Ha, 1140 wala, barabar.
+Dealer: Ha. Ek minute, sir. Kitna kitna lot dalna hai, sir?
+Client: 130, means 10 lots. 13 ka FC lot hai na?
+Dealer: Ha, ha. So 10 lots.
+Client: 13 lots.
+Dealer: 13 lot. Ek minute. Bhai, tum log gold gold mein trade karte ho? Ha. Gold mein bhi trade nahi. This facility we have. This gold mein nahi. Theek hai, na, sir? Ek minute, sir. Koi UPI bhi nahi chalu hai.
+Client: Koi UPI bhi nahi chalu hai.
+Dealer: Ye kya hai, sir?
+Client: Ha. Vipi is Vippi Contractor.
+Dealer: Vippi, ek minute. V I P P I C O N T R A T O R. Correct ka hai ki nahi? I mean, C U N T R A T R, I'm not able to make it.
+Client: V I P P I C O N T R A C T O R.
+Dealer: Hmm.
+Client: Guys one.
+Dealer: Slash one.
+Client: Dash dash. Slash one.
+Dealer: Slash one. At the rate. Okay, okay. I C I I C I.
+Client: I C I I C I.
+Dealer: Okay. Ya, okay. Theek hai, na, sir. Ek minute, sir. Dekho, main ek baar repeat karta hu. V I P I. P I T R A R. Dash one. Wo dash hai na, underscore nahi hai na, sir?
+Client: Dash.
+Dealer: Okay, dash one. At the rate I C I I C I. Theek hai. Quantity cut-off price mein main daal raha hu. Aap rate aa raha hai total amount 1000 200.
+Client: Correct.
+Dealer: Theek hai.
+Client: To abhi mere ko UPI mein aa ja raha hai.
+Dealer: Ah, actually not said. Main backend se aapko call karwata hu. Main yaha kuch rejection aa raha hai. Main ab karwata hu, sir. Theek hai. No problem, theek hai. Okay, bye.
+Client: Bye.

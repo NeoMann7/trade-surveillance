@@ -1,0 +1,15 @@
+Dealer: Hello.
+Dealer: Hello, sir, Viki here from dealing desk.
+Client: Yeah, Viki.
+Dealer: Uh, sir, accessibility 8 lakh auction mein buyer khada hai. Toh we have opportunity to participate in accessibility.
+Client: Hmm.
+Client: Is it no?
+Client: Kya humko kharidna hai ki bechna hai? Kya karna hai?
+Dealer: Bechna hai. Apne paas jo hai na wo bechna hai.
+Dealer: Agar agar current, haan, agar agar hum log bid kar sakte hain 49 mein. Agar hamara bik gaya na, toh hum current rate current rate around 45 something aa raha hai toh wo hum buy kar lenge.
+Client: Arbitrage ha yahi theek hai jo bhi karna hai kar lo.
+Dealer: Karu na?
+Client: Ha.
+Dealer: Theek hai?
+Client: Okay, sir, ya.
+Dealer: Yeah.

@@ -1,0 +1,17 @@
+Client: Hello?
+Dealer: Hello?
+Client: Hello.
+Dealer: Hello sir, good morning.
+Client: Good morning.
+Dealer: Yeah. Sir, I just wanted to confirm your sell order.
+Client: Yeah.
+Dealer: I'll sell 500 shares of Reliance at the current market price?
+Client: No, sir, buy. Buy.
+Dealer: Buy 500 shares of Reliance at current market price?
+Client: Yes.
+Dealer: Okay sir. Confirm.
+Client: Yes.
+Dealer: Okay.
+Client: Right.
+Dealer: Thank you.
+Client: Thank you.

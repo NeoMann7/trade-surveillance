@@ -1,0 +1,17 @@
+Dealer: Hello
+Client: Hello
+Dealer: Ha
+Client: Yes, I'm here.
+Dealer: Wait, I'm just looking for your payment.
+Client: Wait a minute.
+Dealer: We are looking for an amount of, uh, I have 3646. If you send 3...
+Client: I am telling you 365.
+Dealer: Okay. Send 365, then it will be 2000 rupees in this.
+Client: Okay.
+Dealer: And if you want to take it now,
+Client: Okay, I am sending you 400 right now. I will tell you.
+Dealer: Okay.
+Client: I will make the payment now. I will tell you.
+Dealer: Okay.
+Client: Bye.
+Dealer: Bye, bye, bye.

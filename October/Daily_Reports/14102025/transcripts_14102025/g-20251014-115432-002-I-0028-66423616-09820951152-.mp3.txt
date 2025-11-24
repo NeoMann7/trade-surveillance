@@ -1,0 +1,9 @@
+Dealer: Hello.
+Client: Hello.
+Dealer: Ha.
+Client: Nahi he's not available.
+Dealer: Ha. Is that is on uh is not on desk.
+Client: No, he's not on desk actually.
+Dealer: Chalo theek hai. So when can I call him?
+Client: After some time. Ha.
+Dealer: Thank you.

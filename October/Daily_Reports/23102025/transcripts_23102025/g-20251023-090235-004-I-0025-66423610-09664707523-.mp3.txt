@@ -1,0 +1,14 @@
+Client: Hello?
+Dealer: Hello?
+Client: Haan?
+Client: Tumne kya IDFC ma petrol chhe ne?
+Dealer: Haan haan. Ni paave chhe.
+Client: Theek chhe.
+Dealer: Kai nathi.
+Client: Hmmm.
+Client: Dekhu toh ne?
+Dealer: Tha, che joi lo je kai hato.
+Dealer: Haan, che joi lo.
+Client: Hmmm.
+Dealer: Haan, che joi lo.
+Client: OK.

@@ -1,0 +1,7 @@
+Dealer: Hello.
+Client: Yeah. Hello. Hi, Shakib.
+Dealer: Hi. I received your email. Now, here you have mentioned 13th August, which was yesterday. But I did in all the trades is 13th October.
+Client: Yeah. The client has not accepted it. It is because the problem is that, see mostly, there will be pricing issues also. So change the trade dates, get the approval.
+Dealer: No, no, the voice approval will not at all come from the client because we are continuously following up. Yeah, I dropped the voice to the client stating that for the trade dates will not.
+Client: Yeah, okay. So just mention that the below trade will be placed on the 14th.
+Dealer: I will, I'll update it. Okay. Yeah, thank you.

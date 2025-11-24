@@ -1,0 +1,6 @@
+Client: Hello. Haan. Mein Tendulkar mein Maan Industries.
+Dealer: Maan Industries.
+Client: Theek hai? Uh, 100. 368 pe.
+Dealer: 368 mein haara hu, Ma'am. Vidula Tendulkar.
+Client: Theek hai, sir.
+Dealer: Okay.

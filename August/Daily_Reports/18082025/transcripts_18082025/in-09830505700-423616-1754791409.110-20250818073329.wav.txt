@@ -1,0 +1,36 @@
+Client: Hello?
+Dealer: Hello.
+Client: Hmm.
+Client: Piyush se baat karaenge?
+Dealer: Haan, haan, ek minute, sir.
+Dealer: Hello.
+Client: Kon hai? Kon?
+Dealer: Hello. Haan, Prerak, bolo.
+Client: Call pe koi nahi hai bhai, call pe koi nahi hai.
+Dealer: Chalu hai na call?
+Client: Hello, Prerak.
+Dealer: Aap Prerak sun rahe ho? Bolo, bolo.
+Client: Hello, pre-opening lagwana tha uska order.
+Dealer: Bhai, aawaz aa rahi hai. Birsauda, le lo.
+Client: Hello.
+Dealer: Haan ji.
+Client: Haan, sir.
+Client: KRT ka pre-opening mein laga do.
+Dealer: Kitna daalu, sir?
+Dealer: Aapke account mein hi dalna hai na?
+Client: Haan.
+Client: Haan, kitna daalu?
+Client: 102 pe, uh,
+Dealer: Ek minute, ek minute, ek minute. Konsa hai aapka?
+Client: 10,000 quantity daal do.
+Dealer: 10,000 quantity daal raha hu, 102 pe.
+Dealer: Ek minute, haan, sir.
+Dealer: 270 hai na apna client code?
+Client: 102. Kitna daloge?
+Dealer: Haan, 102 pe ek daala aur 103 pe 10,000 aur daal raha hu.
+Dealer: Invalid hai.
+Client: Theek hai, sir. Daal diya dono.
+Dealer: Okay.
+Dealer: Haan, thank you.
+Dealer: Kya plot hai? Plot kya hai?
+Client: Plot.
