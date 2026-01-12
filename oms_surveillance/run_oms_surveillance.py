@@ -12,11 +12,39 @@ import shutil
 from datetime import datetime
 from pathlib import Path
 import logging
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # Add the oms_surveillance directory to the path
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from fetch_oms_emails import OMSEmailFetcher
+# S3 support
+USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+SURVEILLANCE_BASE_PATH = os.getenv('SURVEILLANCE_BASE_PATH', '/app/data')
+
+S3_AVAILABLE = False
+if USE_S3 and S3_BUCKET_NAME:
+    try:
+        # Try importing from dashboard.backend first (Docker location)
+        from dashboard.backend.s3_utils import (
+            s3_file_exists, download_file_from_s3
+        )
+        S3_AVAILABLE = True
+    except ImportError:
+        try:
+            # Fallback to root level s3_utils
+            sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+            from s3_utils import (
+                s3_file_exists, download_file_from_s3
+            )
+            S3_AVAILABLE = True
+        except ImportError:
+            print("⚠️ S3 utilities not available, falling back to local filesystem")
+
 from oms_order_alert_processor import process_oms_emails_from_file
 from oms_order_validation import OMSOrderValidator
 
@@ -46,34 +74,100 @@ class OMSSurveillanceOrchestrator:
     
     def step1_fetch_oms_emails(self, target_date: str) -> str:
         """
-        Step 1: Fetch OMS emails from Microsoft Graph API.
+        Step 1: Load OMS emails from S3 (from email_surveillance file).
         
         Args:
             target_date: Date in YYYY-MM-DD format
         
         Returns:
-            Path to fetched emails file or None if failed
+            Path to OMS emails file or None if failed
         """
         
-        print("📧 Step 1: Fetching OMS emails from Microsoft Graph API...")
+        print("📧 Step 1: Loading OMS emails from S3...")
         print("-" * 60)
         
         try:
-            fetcher = OMSEmailFetcher()
-            output_file = fetcher.fetch_and_save_oms_emails(target_date)
+            # Convert YYYY-MM-DD to DDMMYYYY format
+            date_obj = datetime.strptime(target_date, '%Y-%m-%d')
+            ddmmyyyy = date_obj.strftime('%d%m%Y')
+            year = date_obj.strftime('%Y')
+            month_names = {
+                1: "January", 2: "February", 3: "March", 4: "April",
+                5: "May", 6: "June", 7: "July", 8: "August",
+                9: "September", 10: "October", 11: "November", 12: "December"
+            }
+            month_name = month_names[date_obj.month]
             
-            if output_file:
-                # Make path absolute
-                abs_path = os.path.abspath(output_file)
-                self.temp_files.append(abs_path)
-                print(f"✅ Step 1 completed: OMS emails processed and saved to {output_file}")
-                return abs_path
+            # Try S3 first if enabled
+            email_surveillance_file = None
+            if USE_S3 and S3_AVAILABLE:
+                s3_key = f"{S3_BASE_PREFIX}/Email_Data/{year}/{month_name}/email_surveillance_{ddmmyyyy}.json"
+                if s3_file_exists(s3_key):
+                    print(f"📧 Found email surveillance file in S3: {s3_key}")
+                    try:
+                        email_surveillance_file = download_file_from_s3(s3_key)
+                        print(f"✅ Downloaded email surveillance file from S3")
+                    except Exception as e:
+                        print(f"❌ Error downloading from S3: {e}")
+                        return None
+                else:
+                    print(f"⚠️ Email surveillance file not found in S3: {s3_key}")
+            
+            # Try local filesystem if S3 didn't work
+            if not email_surveillance_file:
+                local_file = os.path.join(SURVEILLANCE_BASE_PATH, f'email_surveillance_{ddmmyyyy}.json')
+                if os.path.exists(local_file):
+                    email_surveillance_file = local_file
+                    print(f"📧 Found email surveillance file locally: {local_file}")
+                else:
+                    print(f"❌ Email surveillance file not found: {local_file}")
+                    print(f"💡 Please run the daily email fetch job first:")
+                    print(f"   python email_fetch_daily_job.py {target_date}")
+                    return None
+            
+            # Load the email surveillance file and extract OMS emails
+            print(f"📋 Loading email surveillance data from: {email_surveillance_file}")
+            with open(email_surveillance_file, 'r', encoding='utf-8') as f:
+                email_data = json.load(f)
+            
+            # Extract OMS emails (emails with "New Order Alert - OMS!" in subject)
+            all_emails = email_data.get('all_results', []) or email_data.get('email_analyses', [])
+            oms_emails = []
+            for email in all_emails:
+                subject = email.get('subject', '')
+                if 'New Order Alert - OMS!' in subject:
+                    oms_emails.append(email)
+            
+            print(f"📧 Found {len(oms_emails)} OMS emails out of {len(all_emails)} total emails")
+            
+            # Create OMS emails file in the format expected by step2
+            # Format: { "email_analyses": [...] }
+            oms_file_data = {
+                "email_analyses": oms_emails
+            }
+            
+            # Save to temporary file
+            output_file = f"oms_emails_{ddmmyyyy}.json"
+            output_path = os.path.join(self.base_dir, output_file)
+            
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(oms_file_data, f, indent=2, ensure_ascii=False)
+            
+            # Make path absolute
+            abs_path = os.path.abspath(output_path)
+            self.temp_files.append(abs_path)
+            
+            if len(oms_emails) == 0:
+                print(f"⚠️ No OMS emails found for {target_date} (this is normal if no OMS orders were placed)")
             else:
-                print("❌ Step 1 failed: OMS email processing failed")
-                return None
+                print(f"✅ Step 1 completed: Extracted {len(oms_emails)} OMS emails and saved to {output_file}")
+            
+            return abs_path
                 
         except Exception as e:
             logger.error(f"❌ Step 1 failed with error: {e}")
+            import traceback
+            traceback.print_exc()
             return None
     
     def step2_parse_oms_emails(self, emails_file: str) -> str:

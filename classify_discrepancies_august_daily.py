@@ -14,10 +14,29 @@ from openai import OpenAI
 from datetime import datetime
 import time
 import json
+import tempfile
 from dotenv import load_dotenv
 
 # Load environment variables
 load_dotenv()
+
+# S3 Configuration
+USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+
+# Check if S3 is available (boto3 imported successfully)
+S3_AVAILABLE = False
+try:
+    import boto3
+    from s3_utils import (
+        s3_file_exists, read_excel_from_s3, upload_file_to_s3
+    )
+    S3_AVAILABLE = True
+except ImportError:
+    print("Boto3 not installed, S3 functions will not be available.")
+except Exception as e:
+    print(f"Error importing S3 utilities: {e}")
 
 # Initialize OpenAI client
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
@@ -108,18 +127,38 @@ def classify_discrepancies_for_date(date_str):
     month_name = month_names[month]
     excel_file = f"{month_name}/Daily_Reports/{date_str}/Final_Trade_Surveillance_Report_{date_str}_with_Email_and_Trade_Analysis.xlsx"
     
-    # Check if file exists
-    if not os.path.exists(excel_file):
-        print(f"❌ Excel file not found: {excel_file}")
-        return False
-    
-    # Load Excel file
-    try:
-        df = pd.read_excel(excel_file)
-        print(f"📊 Loaded Excel file with {len(df)} rows")
-    except Exception as e:
-        print(f"❌ Error loading Excel file: {e}")
-        return False
+    # Get S3 key if using S3
+    if USE_S3 and S3_AVAILABLE:
+        excel_s3_key = f"{S3_BASE_PREFIX}/{excel_file}"
+        
+        # Check if file exists in S3
+        if not s3_file_exists(excel_s3_key):
+            print(f"❌ Excel file not found in S3: {excel_s3_key}")
+            return False
+        
+        # Load Excel file from S3
+        try:
+            df = read_excel_from_s3(excel_s3_key)
+            print(f"📊 Loaded Excel file from S3 with {len(df)} rows")
+        except Exception as e:
+            print(f"❌ Error loading Excel file from S3: {e}")
+            import traceback
+            traceback.print_exc()
+            return False
+    else:
+        # Local filesystem
+        # Check if file exists
+        if not os.path.exists(excel_file):
+            print(f"❌ Excel file not found: {excel_file}")
+            return False
+        
+        # Load Excel file
+        try:
+            df = pd.read_excel(excel_file)
+            print(f"📊 Loaded Excel file with {len(df)} rows")
+        except Exception as e:
+            print(f"❌ Error loading Excel file: {e}")
+            return False
     
     # Check if discrepancy column exists
     if 'discrepancy' not in df.columns:
@@ -159,8 +198,22 @@ def classify_discrepancies_for_date(date_str):
     
     # Save updated Excel file
     try:
-        df.to_excel(excel_file, index=False)
-        print(f"💾 Updated Excel file saved: {excel_file}")
+        # Save to temporary file first
+        temp_output_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+        df.to_excel(temp_output_file.name, index=False)
+        
+        # Upload to S3 or save locally
+        if USE_S3 and S3_AVAILABLE:
+            upload_file_to_s3(temp_output_file.name, excel_s3_key)
+            print(f"💾 Updated Excel file saved to S3: {excel_s3_key}")
+        else:
+            import shutil
+            shutil.move(temp_output_file.name, excel_file)
+            print(f"💾 Updated Excel file saved: {excel_file}")
+        
+        # Clean up temp file
+        if os.path.exists(temp_output_file.name):
+            os.unlink(temp_output_file.name)
         
         # Print summary
         if 'discrepancy_type' in df.columns:
@@ -175,6 +228,8 @@ def classify_discrepancies_for_date(date_str):
         
     except Exception as e:
         print(f"❌ Error saving Excel file: {e}")
+        import traceback
+        traceback.print_exc()
         return False
 
 def main():

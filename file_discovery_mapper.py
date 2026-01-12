@@ -117,7 +117,8 @@ class FileDiscoveryMapper:
         if file_type == 'orders':
             return f"OrderBook-Closed-{ddmmyyyy}.csv"
         elif file_type == 'ucc':
-            return f"UCC_{ddmmyyyy}.csv"
+            # UCC files should use fixed filename "UCC Database.xlsx" in month root
+            return "UCC Database.xlsx"
         elif file_type == 'audios':
             # For audios, keep original filename but ensure proper extension
             if original_filename:
@@ -173,8 +174,9 @@ class FileDiscoveryMapper:
                     os.makedirs(expected_dir, exist_ok=True)
                     surveillance_path = os.path.join(expected_dir, expected_filename)
                 elif file_type == 'ucc':
-                    # Place UCC under <Month>/UCC Files/ (keep folder), filename from generator
-                    expected_dir = os.path.join(self.base_dir, month_name, "UCC Files")
+                    # Place UCC in month root directory as "UCC Database.xlsx"
+                    # This matches what extract_call_info_august_daily.py expects
+                    expected_dir = os.path.join(self.base_dir, month_name)
                     os.makedirs(expected_dir, exist_ok=True)
                     surveillance_path = os.path.join(expected_dir, expected_filename)
                 else:
@@ -221,8 +223,42 @@ class FileDiscoveryMapper:
                     failed_count += 1
                     continue
                 
-                # Copy file
-                shutil.copy2(original_path, surveillance_path)
+                # Special handling for UCC files: convert to Excel format if needed
+                if 'UCC Database.xlsx' in surveillance_path:
+                    # Check if source is CSV or Excel
+                    source_ext = os.path.splitext(original_path)[1].lower()
+                    target_ext = os.path.splitext(surveillance_path)[1].lower()
+                    
+                    # Try to read as Excel first (handles .csv files that are actually Excel)
+                    df = None
+                    try:
+                        df = pd.read_excel(original_path)
+                        logger.info(f"Detected Excel format (even with .csv extension): {os.path.basename(original_path)}")
+                    except Exception:
+                        # Not Excel, try CSV
+                        try:
+                            df = pd.read_csv(original_path)
+                            logger.info(f"Detected CSV format: {os.path.basename(original_path)}")
+                        except Exception as e:
+                            logger.error(f"Failed to read file as Excel or CSV: {e}")
+                            df = None
+                    
+                    if df is not None:
+                        # Convert to Excel format
+                        try:
+                            df.to_excel(surveillance_path, index=False)
+                            logger.info(f"Converted to Excel: {os.path.basename(original_path)} -> {os.path.basename(surveillance_path)}")
+                        except Exception as e:
+                            logger.error(f"Failed to write Excel file: {e}")
+                            # Fallback to regular copy
+                            shutil.copy2(original_path, surveillance_path)
+                    else:
+                        # Couldn't read as DataFrame, try regular copy
+                        logger.warning(f"Could not read file as DataFrame, attempting direct copy")
+                        shutil.copy2(original_path, surveillance_path)
+                else:
+                    # Regular file copy for non-UCC files
+                    shutil.copy2(original_path, surveillance_path)
                 
                 # Verify copy was successful
                 if os.path.exists(surveillance_path):

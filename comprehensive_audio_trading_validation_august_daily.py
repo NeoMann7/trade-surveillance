@@ -2,6 +2,23 @@ import pandas as pd
 import os
 import glob
 from datetime import datetime, timedelta
+import tempfile
+
+# S3 support
+USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+
+S3_AVAILABLE = False
+if USE_S3 and S3_BUCKET_NAME:
+    try:
+        from s3_utils import (
+            read_excel_from_s3, read_csv_from_s3,
+            upload_file_to_s3, get_s3_key, s3_file_exists, list_s3_objects
+        )
+        S3_AVAILABLE = True
+    except ImportError:
+        print("⚠️ S3 utilities not available, falling back to local filesystem")
 
 def parse_time(ts):
     """Parse timestamp string to datetime object"""
@@ -103,42 +120,78 @@ def validate_audio_trading_for_date(date_str):
     ucc_db_path = f"{month_name}/UCC Database.xlsx"
     output_path = f"{month_name}/Daily_Reports/{date_str}/audio_order_kl_orgtimestamp_validation_{date_str}.xlsx"
     
-    # Check if call info file exists
-    if not os.path.exists(call_info_path):
-        print(f"Call info file not found: {call_info_path}")
-        return None
-    
-    # Load call info
-    try:
-        calls = pd.read_excel(call_info_path, dtype=str)
+    # Get S3 keys if using S3
+    if USE_S3 and S3_AVAILABLE:
+        call_info_s3_key = f"{S3_BASE_PREFIX}/{call_info_path}"
+        ucc_db_s3_key = f"{S3_BASE_PREFIX}/{ucc_db_path}"
+        output_s3_key = f"{S3_BASE_PREFIX}/{output_path}"
         
-        # PERMANENT FIX: Handle empty call info file gracefully (no audio files for this date)
-        if len(calls) == 0:
-            print(f"ℹ️  Call info file is empty (no audio files for {date_str})")
-            print(f"📝 Creating empty audio-order validation output file...")
-            
-            # Create empty output file with required structure
-            with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
+        # Check if call info file exists in S3
+        if not s3_file_exists(call_info_s3_key):
+            print(f"Call info file not found in S3: {call_info_s3_key}")
+            return None
+        
+        # Load call info from S3
+        try:
+            calls = read_excel_from_s3(call_info_s3_key)
+            calls = calls.astype(str)  # Convert to string dtype
+        except Exception as e:
+            print(f"Error loading call info from S3: {e}")
+            return None
+    else:
+        # Local filesystem
+        # Check if call info file exists
+        if not os.path.exists(call_info_path):
+            print(f"Call info file not found: {call_info_path}")
+            return None
+        
+        # Load call info
+        try:
+            calls = pd.read_excel(call_info_path, dtype=str)
+        except Exception as e:
+            print(f"Error loading call info: {e}")
+            return None
+    
+    # PERMANENT FIX: Handle empty call info file gracefully (no audio files for this date)
+    if len(calls) == 0:
+        print(f"ℹ️  Call info file is empty (no audio files for {date_str})")
+        print(f"📝 Creating empty audio-order validation output file...")
+        
+        # Create empty output file with required structure
+        temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+        try:
+            with pd.ExcelWriter(temp_file.name, engine='openpyxl') as writer:
                 # Create empty DataFrames with required columns for each sheet
                 pd.DataFrame(columns=['audio_filename', 'client_id', 'all_client_ids', 'call_date', 'call_start', 'call_end', 'order_match_status', 'matched_order_ids', 'order_count']).to_excel(writer, sheet_name='Audio_To_Orders', index=False)
                 pd.DataFrame(columns=['order_id', 'client_id', 'order_date', 'order_time', 'symbol', 'quantity', 'price', 'side', 'user', 'status', 'match_status', 'mapped_audio_filenames', 'min_time_diff_seconds', 'has_audio', 'note']).to_excel(writer, sheet_name='Order_Audio_Mapping', index=False)
                 pd.DataFrame(columns=['filename', 'mobile_number', 'present_in_ucc', 'call_start', 'call_end', 'duration_seconds', 'client_id', 'call_start_dt', 'call_end_dt', 'call_date', 'all_client_ids']).to_excel(writer, sheet_name='All_Audio_Files', index=False)
             
-            print(f"✅ Created empty audio-order validation file: {output_path}")
-            print(f"✅ Audio-order validation completed (no audio files for this date)")
-            return output_path
+            # Upload to S3 or save locally
+            if USE_S3 and S3_AVAILABLE:
+                upload_file_to_s3(temp_file.name, output_s3_key)
+                print(f"✅ Created empty audio-order validation file in S3: {output_s3_key}")
+            else:
+                os.rename(temp_file.name, output_path)
+                print(f"✅ Created empty audio-order validation file: {output_path}")
+        finally:
+            if os.path.exists(temp_file.name):
+                os.unlink(temp_file.name)
         
-        calls['call_start_dt'] = pd.to_datetime(calls['call_start'], errors='coerce')
-        calls['call_end_dt'] = pd.to_datetime(calls['call_end'], errors='coerce')
-        calls['call_date'] = calls['call_start_dt'].dt.date
-        print(f"Loaded call info with {len(calls)} records")
-    except Exception as e:
-        print(f"Error loading call info: {e}")
-        return None
+        print(f"✅ Audio-order validation completed (no audio files for this date)")
+        return output_path
+    
+    calls['call_start_dt'] = pd.to_datetime(calls['call_start'], errors='coerce')
+    calls['call_end_dt'] = pd.to_datetime(calls['call_end'], errors='coerce')
+    calls['call_date'] = calls['call_start_dt'].dt.date
+    print(f"Loaded call info with {len(calls)} records")
     
     # Load UCC database
     try:
-        ucc_df = pd.read_excel(ucc_db_path, dtype=str)
+        if USE_S3 and S3_AVAILABLE:
+            ucc_df = read_excel_from_s3(ucc_db_s3_key)
+            ucc_df = ucc_df.astype(str)  # Convert to string dtype
+        else:
+            ucc_df = pd.read_excel(ucc_db_path, dtype=str)
         print(f"Loaded UCC database with {len(ucc_df)} records")
     except Exception as e:
         print(f"Error loading UCC database: {e}")
@@ -159,37 +212,80 @@ def validate_audio_trading_for_date(date_str):
         f"OrderBook_Closed-{date_str}.csv"
     ]
     order_file_path = None
-    for pattern in order_file_patterns:
-        test_path = os.path.join(order_files_path, pattern)
-        if os.path.exists(test_path):
-            order_file_path = test_path
-            break
+    order_file_s3_key = None
+    
+    if USE_S3 and S3_AVAILABLE:
+        # Check S3 for order files - try both Order Files and Daily_Reports locations
+        order_locations = [
+            f"{S3_BASE_PREFIX}/{order_files_path}/",  # Standard location
+            f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{date_str}/"  # Alternative location (where uploads go)
+        ]
+        for location in order_locations:
+            for pattern in order_file_patterns:
+                test_s3_key = f"{location}{pattern}"
+                if s3_file_exists(test_s3_key):
+                    order_file_s3_key = test_s3_key
+                    print(f"Found order file in S3: {test_s3_key}")
+                    break
+            if order_file_s3_key:
+                break
+    else:
+        # Check local filesystem - try both locations
+        locations = [
+            order_files_path,  # Standard location
+            f"{month_name}/Daily_Reports/{date_str}"  # Alternative location
+        ]
+        for location in locations:
+            for pattern in order_file_patterns:
+                test_path = os.path.join(location, pattern)
+                if os.path.exists(test_path):
+                    order_file_path = test_path
+                    print(f"Found order file: {test_path}")
+                    break
+            if order_file_path:
+                break
     
     # PERMANENT FIX: Handle missing OrderBook file gracefully
-    if not order_file_path:
+    if not order_file_path and not order_file_s3_key:
         print(f"⚠️  Order file not found for any pattern: {order_file_patterns}")
         print(f"📝 Creating empty audio-order validation output file (no orders for this date)...")
         
         # Create empty output file with required structure
-        with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
-            # Create empty DataFrames with required columns for each sheet
-            pd.DataFrame(columns=['audio_filename', 'client_id', 'all_client_ids', 'call_date', 'call_start', 'call_end', 'order_match_status', 'matched_order_ids', 'order_count']).to_excel(writer, sheet_name='Audio_To_Orders', index=False)
-            pd.DataFrame(columns=['order_id', 'client_id', 'order_date', 'order_time', 'symbol', 'quantity', 'price', 'side', 'user', 'status', 'match_status', 'mapped_audio_filenames', 'min_time_diff_seconds', 'has_audio', 'note']).to_excel(writer, sheet_name='Order_Audio_Mapping', index=False)
-            # Include calls DataFrame if it exists (even if empty)
-            if len(calls) > 0:
-                calls.to_excel(writer, sheet_name='All_Audio_Files', index=False)
+        temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+        try:
+            with pd.ExcelWriter(temp_file.name, engine='openpyxl') as writer:
+                # Create empty DataFrames with required columns for each sheet
+                pd.DataFrame(columns=['audio_filename', 'client_id', 'all_client_ids', 'call_date', 'call_start', 'call_end', 'order_match_status', 'matched_order_ids', 'order_count']).to_excel(writer, sheet_name='Audio_To_Orders', index=False)
+                pd.DataFrame(columns=['order_id', 'client_id', 'order_date', 'order_time', 'symbol', 'quantity', 'price', 'side', 'user', 'status', 'match_status', 'mapped_audio_filenames', 'min_time_diff_seconds', 'has_audio', 'note']).to_excel(writer, sheet_name='Order_Audio_Mapping', index=False)
+                # Include calls DataFrame if it exists (even if empty)
+                if len(calls) > 0:
+                    calls.to_excel(writer, sheet_name='All_Audio_Files', index=False)
+                else:
+                    pd.DataFrame(columns=['filename', 'mobile_number', 'present_in_ucc', 'call_start', 'call_end', 'duration_seconds', 'client_id']).to_excel(writer, sheet_name='All_Audio_Files', index=False)
+                # Empty KL orders sheet
+                pd.DataFrame(columns=['order_id', 'client_id', 'order_date', 'order_time', 'symbol', 'quantity', 'price', 'side', 'user', 'status']).to_excel(writer, sheet_name='All_KL_Orders', index=False)
+            
+            # Upload to S3 or save locally
+            if USE_S3 and S3_AVAILABLE:
+                upload_file_to_s3(temp_file.name, output_s3_key)
+                print(f"✅ Created empty audio-order validation file in S3: {output_s3_key}")
             else:
-                pd.DataFrame(columns=['filename', 'mobile_number', 'present_in_ucc', 'call_start', 'call_end', 'duration_seconds', 'client_id']).to_excel(writer, sheet_name='All_Audio_Files', index=False)
-            # Empty KL orders sheet
-            pd.DataFrame(columns=['order_id', 'client_id', 'order_date', 'order_time', 'symbol', 'quantity', 'price', 'side', 'user', 'status']).to_excel(writer, sheet_name='All_KL_Orders', index=False)
+                os.rename(temp_file.name, output_path)
+                print(f"✅ Created empty audio-order validation file: {output_path}")
+        finally:
+            if os.path.exists(temp_file.name):
+                os.unlink(temp_file.name)
         
-        print(f"✅ Created empty audio-order validation file: {output_path}")
         print(f"✅ Audio-order validation completed (no order file for this date)")
         return output_path
     
     # Load order data
     try:
-        orders = pd.read_csv(order_file_path, dtype=str)
+        if USE_S3 and S3_AVAILABLE:
+            orders = read_csv_from_s3(order_file_s3_key)
+            orders = orders.astype(str)  # Convert to string dtype
+        else:
+            orders = pd.read_csv(order_file_path, dtype=str)
         print(f"Loaded order file with {len(orders)} records")
         print(f"Order file columns: {orders.columns.tolist()}")
     except Exception as e:
@@ -444,12 +540,25 @@ def validate_audio_trading_for_date(date_str):
                 })
     
     # Create output Excel with multiple sheets
-    with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
-        pd.DataFrame(audio_to_orders).to_excel(writer, sheet_name='Audio_To_Orders', index=False)
-        pd.DataFrame(orders_to_audio).to_excel(writer, sheet_name='Orders_To_Audio', index=False)
-        pd.DataFrame(order_audio_mapping).to_excel(writer, sheet_name='Order_Audio_Mapping', index=False)
-        calls.to_excel(writer, sheet_name='All_Audio_Files', index=False)
-        kl_orders.to_excel(writer, sheet_name='All_KL_Orders', index=False)
+    temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+    try:
+        with pd.ExcelWriter(temp_file.name, engine='openpyxl') as writer:
+            pd.DataFrame(audio_to_orders).to_excel(writer, sheet_name='Audio_To_Orders', index=False)
+            pd.DataFrame(orders_to_audio).to_excel(writer, sheet_name='Orders_To_Audio', index=False)
+            pd.DataFrame(order_audio_mapping).to_excel(writer, sheet_name='Order_Audio_Mapping', index=False)
+            calls.to_excel(writer, sheet_name='All_Audio_Files', index=False)
+            kl_orders.to_excel(writer, sheet_name='All_KL_Orders', index=False)
+        
+        # Upload to S3 or save locally
+        if USE_S3 and S3_AVAILABLE:
+            upload_file_to_s3(temp_file.name, output_s3_key)
+            print(f"✅ Results saved to S3: {output_s3_key}")
+        else:
+            os.rename(temp_file.name, output_path)
+            print(f"✅ Results saved to: {output_path}")
+    finally:
+        if os.path.exists(temp_file.name):
+            os.unlink(temp_file.name)
     
     # Print summary stats
     matched_in_range = len([x for x in order_audio_mapping if x['match_status'] == 'matched_in_time_range'])

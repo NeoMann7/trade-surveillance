@@ -7,26 +7,57 @@ import json
 from collections import defaultdict
 import re
 import numpy as np
+import tempfile
 
 # Load environment variables
 load_dotenv()
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
-def read_transcript_file(filepath):
+# S3 support
+USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+
+S3_AVAILABLE = False
+if USE_S3 and S3_BUCKET_NAME:
     try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            return f.read().strip()
+        from s3_utils import (
+            read_excel_from_s3, read_text_from_s3, list_s3_objects,
+            upload_file_to_s3, get_s3_key, s3_file_exists
+        )
+        S3_AVAILABLE = True
+    except ImportError:
+        print("⚠️ S3 utilities not available, falling back to local filesystem")
+
+def read_transcript_file(filepath_or_s3_key):
+    """Read transcript file from local filesystem or S3"""
+    try:
+        if USE_S3 and S3_AVAILABLE and not os.path.exists(filepath_or_s3_key):
+            # Assume it's an S3 key
+            return read_text_from_s3(filepath_or_s3_key)
+        else:
+            # Local filesystem
+            with open(filepath_or_s3_key, 'r', encoding='utf-8') as f:
+                return f.read().strip()
     except Exception as e:
-        print(f"Error reading {filepath}: {e}")
+        print(f"Error reading {filepath_or_s3_key}: {e}")
         return ""
 
 def get_transcript_path(filename, transcripts_path):
+    """Get transcript path (local or S3 key)"""
     if filename.endswith('.wav'):
-        return os.path.join(transcripts_path, filename + '.txt')
+        transcript_filename = filename + '.txt'
     elif filename.endswith('.wav.txt'):
-        return os.path.join(transcripts_path, filename)
+        transcript_filename = filename
     else:
-        return os.path.join(transcripts_path, filename + '.txt')
+        transcript_filename = filename + '.txt'
+    
+    if USE_S3 and S3_AVAILABLE:
+        # Return S3 key
+        return f"{S3_BASE_PREFIX}/{transcripts_path}/{transcript_filename}"
+    else:
+        # Return local path
+        return os.path.join(transcripts_path, transcript_filename)
 
 def build_ai_prompt(order_group, transcript_content, audio_file):
     prompt_orders = []
@@ -174,22 +205,56 @@ def analyze_orders_for_date(date_str):
     output_path = f"{month_name}/Daily_Reports/{date_str}/order_transcript_analysis_{date_str}.xlsx"
     progress_file = f"{month_name}/Daily_Reports/{date_str}/order_transcript_analysis_progress_{date_str}.jsonl"
     
-    # Check if input files exist
-    if not os.path.exists(audio_order_file):
-        print(f"Audio-order validation file not found: {audio_order_file}")
-        return None
-    
-    if not os.path.exists(transcripts_path):
-        print(f"Transcripts directory not found: {transcripts_path}")
-        return None
-    
-    # Load audio-order mapping
-    try:
-        mapping_df = pd.read_excel(audio_order_file, sheet_name='Order_Audio_Mapping')
-        print(f"Loaded {len(mapping_df)} order-audio mappings")
-    except Exception as e:
-        print(f"Error loading audio-order mapping: {e}")
-        return None
+    # Get S3 keys if using S3
+    if USE_S3 and S3_AVAILABLE:
+        audio_order_s3_key = f"{S3_BASE_PREFIX}/{audio_order_file}"
+        output_s3_key = f"{S3_BASE_PREFIX}/{output_path}"
+        progress_s3_key = f"{S3_BASE_PREFIX}/{progress_file}"
+        
+        # Check if input file exists in S3
+        if not s3_file_exists(audio_order_s3_key):
+            print(f"Audio-order validation file not found in S3: {audio_order_s3_key}")
+            return None
+        
+        # Check if transcripts directory exists in S3
+        transcripts_s3_prefix = f"{S3_BASE_PREFIX}/{transcripts_path}/"
+        all_transcript_objects = list_s3_objects(transcripts_s3_prefix)
+        # Filter for .txt files
+        transcript_files = [obj for obj in all_transcript_objects if obj.lower().endswith('.txt')]
+        if not transcript_files:
+            print(f"⚠️ No transcript files found in S3: {transcripts_s3_prefix}")
+            # Continue anyway, some orders might not have transcripts
+        
+        # Load audio-order mapping from S3 - must read specific sheet
+        try:
+            from s3_utils import download_file_from_s3
+            temp_file_path = download_file_from_s3(audio_order_s3_key)
+            mapping_df = pd.read_excel(temp_file_path, sheet_name='Order_Audio_Mapping')
+            print(f"Loaded {len(mapping_df)} order-audio mappings from S3")
+            os.unlink(temp_file_path)
+        except Exception as e:
+            print(f"Error loading audio-order mapping from S3: {e}")
+            import traceback
+            traceback.print_exc()
+            return None
+    else:
+        # Local filesystem
+        # Check if input files exist
+        if not os.path.exists(audio_order_file):
+            print(f"Audio-order validation file not found: {audio_order_file}")
+            return None
+        
+        if not os.path.exists(transcripts_path):
+            print(f"Transcripts directory not found: {transcripts_path}")
+            return None
+        
+        # Load audio-order mapping
+        try:
+            mapping_df = pd.read_excel(audio_order_file, sheet_name='Order_Audio_Mapping')
+            print(f"Loaded {len(mapping_df)} order-audio mappings")
+        except Exception as e:
+            print(f"Error loading audio-order mapping: {e}")
+            return None
     
     # Get all KL orders and orders with audio
     all_kl_orders = mapping_df.copy()
@@ -246,8 +311,19 @@ def analyze_orders_for_date(date_str):
             'Status': 'status'
         })
         
-        all_kl_orders.to_excel(output_path, index=False)
-        print(f"\nAnalysis completed! Results saved to: {output_path}")
+        # Save to S3 or local
+        if USE_S3 and S3_AVAILABLE:
+            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+            try:
+                all_kl_orders.to_excel(temp_file.name, index=False)
+                upload_file_to_s3(temp_file.name, output_s3_key)
+                print(f"\nAnalysis completed! Results saved to S3: {output_s3_key}")
+            finally:
+                if os.path.exists(temp_file.name):
+                    os.unlink(temp_file.name)
+        else:
+            all_kl_orders.to_excel(output_path, index=False)
+            print(f"\nAnalysis completed! Results saved to: {output_path}")
         print(f"Total KL orders in final report: {len(all_kl_orders)} (no audio mappings found)")
         return output_path
     
@@ -262,15 +338,30 @@ def analyze_orders_for_date(date_str):
     
     # Load progress if exists
     processed_orders = set()
-    if os.path.exists(progress_file):
-        with open(progress_file, 'r') as f:
-            for line in f:
-                try:
-                    data = json.loads(line.strip())
-                    processed_orders.add(data.get('order_id', ''))
-                except:
-                    continue
-        print(f"Loaded {len(processed_orders)} previously processed orders")
+    if USE_S3 and S3_AVAILABLE:
+        if s3_file_exists(progress_s3_key):
+            try:
+                progress_content = read_text_from_s3(progress_s3_key)
+                for line in progress_content.split('\n'):
+                    if line.strip():
+                        try:
+                            data = json.loads(line.strip())
+                            processed_orders.add(data.get('order_id', ''))
+                        except:
+                            continue
+                print(f"Loaded {len(processed_orders)} previously processed orders from S3")
+            except Exception as e:
+                print(f"Error loading progress from S3: {e}")
+    else:
+        if os.path.exists(progress_file):
+            with open(progress_file, 'r') as f:
+                for line in f:
+                    try:
+                        data = json.loads(line.strip())
+                        processed_orders.add(data.get('order_id', ''))
+                    except:
+                        continue
+            print(f"Loaded {len(processed_orders)} previously processed orders")
     
     # Process each audio file group
     for audio_file, group in audio_groups:
@@ -294,7 +385,14 @@ def analyze_orders_for_date(date_str):
             
             for single_audio_file in audio_files_list:
                 transcript_file = get_transcript_path(single_audio_file, transcripts_path)
-                if os.path.exists(transcript_file):
+                # Check if file exists (local or S3)
+                file_exists = False
+                if USE_S3 and S3_AVAILABLE:
+                    file_exists = s3_file_exists(transcript_file)
+                else:
+                    file_exists = os.path.exists(transcript_file)
+                
+                if file_exists:
                     transcript_content = read_transcript_file(transcript_file)
                     if transcript_content:
                         combined_transcript.append(f"=== {single_audio_file} ===")
@@ -307,7 +405,14 @@ def analyze_orders_for_date(date_str):
                 continue
         else:  # Single audio file
             transcript_file = get_transcript_path(audio_file, transcripts_path)
-            if not os.path.exists(transcript_file):
+            # Check if file exists (local or S3)
+            file_exists = False
+            if USE_S3 and S3_AVAILABLE:
+                file_exists = s3_file_exists(transcript_file)
+            else:
+                file_exists = os.path.exists(transcript_file)
+            
+            if not file_exists:
                 print(f"Transcript not found: {transcript_file}")
                 continue
             
@@ -366,8 +471,26 @@ def analyze_orders_for_date(date_str):
                     progress_result = result.copy()
                     if 'order_time' in progress_result and pd.notna(progress_result['order_time']):
                         progress_result['order_time'] = str(progress_result['order_time'])
-                    with open(progress_file, 'a') as f:
-                        f.write(json.dumps(progress_result) + '\n')
+                    
+                    # Write progress to S3 or local
+                    if USE_S3 and S3_AVAILABLE:
+                        # Append to S3 file (download, append, upload)
+                        try:
+                            if s3_file_exists(progress_s3_key):
+                                existing_content = read_text_from_s3(progress_s3_key)
+                            else:
+                                existing_content = ""
+                            new_line = json.dumps(progress_result) + '\n'
+                            temp_progress = tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.jsonl')
+                            temp_progress.write(existing_content + new_line)
+                            temp_progress.close()
+                            upload_file_to_s3(temp_progress.name, progress_s3_key)
+                            os.unlink(temp_progress.name)
+                        except Exception as e:
+                            print(f"Warning: Could not save progress to S3: {e}")
+                    else:
+                        with open(progress_file, 'a') as f:
+                            f.write(json.dumps(progress_result) + '\n')
                     
                     processed_orders.add(str(order['order_id']))
         else:
@@ -413,8 +536,19 @@ def analyze_orders_for_date(date_str):
         else:
             results_df = analyzed_df
         
-        results_df.to_excel(output_path, index=False)
-        print(f"\nAnalysis completed! Results saved to: {output_path}")
+        # Save to S3 or local
+        if USE_S3 and S3_AVAILABLE:
+            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+            try:
+                results_df.to_excel(temp_file.name, index=False)
+                upload_file_to_s3(temp_file.name, output_s3_key)
+                print(f"\nAnalysis completed! Results saved to S3: {output_s3_key}")
+            finally:
+                if os.path.exists(temp_file.name):
+                    os.unlink(temp_file.name)
+        else:
+            results_df.to_excel(output_path, index=False)
+            print(f"\nAnalysis completed! Results saved to: {output_path}")
         print(f"Total orders analyzed: {len(analyzed_df)}")
         print(f"Total orders without audio: {len(orders_without_audio) if len(orders_without_audio) > 0 else 0}")
         print(f"Total KL orders in final report: {len(results_df)}")
@@ -441,8 +575,19 @@ def analyze_orders_for_date(date_str):
             'Status': 'status'
         })
         
-        all_kl_orders.to_excel(output_path, index=False)
-        print(f"\nAnalysis completed! Results saved to: {output_path}")
+        # Save to S3 or local
+        if USE_S3 and S3_AVAILABLE:
+            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+            try:
+                all_kl_orders.to_excel(temp_file.name, index=False)
+                upload_file_to_s3(temp_file.name, output_s3_key)
+                print(f"\nAnalysis completed! Results saved to S3: {output_s3_key}")
+            finally:
+                if os.path.exists(temp_file.name):
+                    os.unlink(temp_file.name)
+        else:
+            all_kl_orders.to_excel(output_path, index=False)
+            print(f"\nAnalysis completed! Results saved to: {output_path}")
         print(f"Total KL orders in final report: {len(all_kl_orders)} (no audio mappings found)")
         return output_path
 

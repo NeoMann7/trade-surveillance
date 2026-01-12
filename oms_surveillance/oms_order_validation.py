@@ -20,6 +20,30 @@ load_dotenv()
 # Add the oms_surveillance directory to the path
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
+# S3 support
+USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+
+S3_AVAILABLE = False
+if USE_S3 and S3_BUCKET_NAME:
+    try:
+        # Try importing from dashboard.backend first (Docker location)
+        from dashboard.backend.s3_utils import (
+            s3_file_exists, read_csv_from_s3
+        )
+        S3_AVAILABLE = True
+    except ImportError:
+        try:
+            # Fallback to root level s3_utils
+            sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..'))
+            from s3_utils import (
+                s3_file_exists, read_csv_from_s3
+            )
+            S3_AVAILABLE = True
+        except ImportError:
+            logger.warning("S3 utilities not available, falling back to local filesystem")
+
 from wealth_spectrum_api_client import WealthSpectrumAPIClient
 
 # Initialize OpenAI client (same as email surveillance)
@@ -155,23 +179,63 @@ class OMSOrderValidator:
             logger.error(f"Invalid month number: {month_num}")
             return None
         
-        # Use dynamic month path (absolute path to avoid CWD issues)
-        base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-        order_file = os.path.join(base_dir, month_name, 'Order Files', f'OrderBook-Closed-{orderbook_date}.csv')
-        logger.info(f"[KL LOAD] Looking for OrderBook file: {order_file}")
-        print(f"[PRINT KL LOAD] path={order_file} exists={os.path.exists(order_file)}")
-        if not os.path.exists(order_file):
-            logger.error(f"OrderBook file not found: {order_file}")
+        df = None
+        
+        # Try S3 first if enabled
+        if USE_S3 and S3_AVAILABLE:
+            # Try multiple possible S3 paths
+            order_file_patterns = [
+                f"{S3_BASE_PREFIX}/{month_name}/Order Files/OrderBook-Closed-{orderbook_date}.csv",
+                f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{orderbook_date}/OrderBook-Closed-{orderbook_date}.csv",
+                f"{S3_BASE_PREFIX}/{month_name}/Order Files/OrderBook_Closed-{orderbook_date}.csv",
+            ]
+            
+            order_file_s3_key = None
+            for pattern_key in order_file_patterns:
+                if s3_file_exists(pattern_key):
+                    order_file_s3_key = pattern_key
+                    logger.info(f"[KL LOAD] Found order file in S3: {order_file_s3_key}")
+                    break
+            
+            if order_file_s3_key:
+                try:
+                    df = read_csv_from_s3(order_file_s3_key)
+                    logger.info(f"[KL LOAD] Loaded {len(df)} orders from S3")
+                except Exception as e:
+                    logger.error(f"[KL LOAD] Error loading order file from S3: {e}")
+                    import traceback
+                    traceback.print_exc()
+                    return None
+        
+        # Try local filesystem if S3 didn't work
+        if df is None:
+            # Use dynamic month path (absolute path to avoid CWD issues)
+            base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+            order_file = os.path.join(base_dir, month_name, 'Order Files', f'OrderBook-Closed-{orderbook_date}.csv')
+            logger.info(f"[KL LOAD] Looking for OrderBook file locally: {order_file}")
+            print(f"[PRINT KL LOAD] path={order_file} exists={os.path.exists(order_file)}")
+            if not os.path.exists(order_file):
+                logger.error(f"OrderBook file not found: {order_file}")
+                return None
+            
+            try:
+                # Load all orders from OrderBook file
+                # Use pandas defaults (works in direct test) with low_memory disabled
+                df = pd.read_csv(order_file, low_memory=False)
+                logger.info(f"[KL LOAD] Loaded {len(df)} total orders from {order_file}")
+                logger.info(f"[KL LOAD] Columns: {list(df.columns)}")
+                print(f"[PRINT KL LOAD] rows={len(df)} cols_sample={list(df.columns)[:6]}")
+            except Exception as e:
+                logger.error(f"[KL LOAD] Error loading order file: {e}")
+                import traceback
+                traceback.print_exc()
+                return None
+        
+        if df is None:
+            logger.error(f"[KL LOAD] Failed to load OrderBook file from both S3 and local filesystem")
             return None
         
         try:
-            # Load all orders from OrderBook file
-            # Use pandas defaults (works in direct test) with low_memory disabled
-            df = pd.read_csv(order_file, low_memory=False)
-            logger.info(f"[KL LOAD] Loaded {len(df)} total orders from {order_file}")
-            logger.info(f"[KL LOAD] Columns: {list(df.columns)}")
-            print(f"[PRINT KL LOAD] rows={len(df)} cols_sample={list(df.columns)[:6]}")
-            
             # Filter for KL orders (User column starts with 'KL') - same as email surveillance
             if 'User' in df.columns:
                 kl_orders = df[df['User'].astype(str).str.startswith('KL', na=False)]
@@ -572,8 +636,9 @@ class OMSOrderValidator:
                 return False
         
         if not oms_order_mapping:
-            logger.warning("No OMS matches to apply")
-            return False
+            # No matches is now a warning; continue so pipeline does not fail on zero matches.
+            logger.warning("No OMS matches to apply (0 matches); continuing without Excel updates")
+            return True
         
         # Date is already in DDMMYYYY format (e.g., 03102025)
         # Parse to determine month directory
@@ -827,11 +892,12 @@ class OMSOrderValidator:
             oms_order_mapping = self.match_oms_to_orders(oms_data, kl_orders, client_mapping)
             logger.info(f"🔍 [VALIDATE] Step 4: match_oms_to_orders returned {len(oms_order_mapping) if oms_order_mapping else 0} matches")
             if not oms_order_mapping:
-                logger.warning(f"⚠️ [VALIDATE] No OMS orders matched to KL orders for {date}")
-                print("⚠️ No OMS orders matched to KL orders")
-                return False
-            logger.info(f"✅ [VALIDATE] Step 4: Successfully matched {len(oms_order_mapping)} OMS orders")
-            print(f"✅ [VALIDATE] Step 4: Successfully matched {len(oms_order_mapping)} OMS orders")
+                # No matches is a warning, not a failure; continue so pipeline can proceed.
+                logger.warning(f"⚠️ [VALIDATE] No OMS orders matched to KL orders for {date} (continuing)")
+                print("⚠️ No OMS orders matched to KL orders (continuing)")
+            else:
+                logger.info(f"✅ [VALIDATE] Step 4: Successfully matched {len(oms_order_mapping)} OMS orders")
+                print(f"✅ [VALIDATE] Step 4: Successfully matched {len(oms_order_mapping)} OMS orders")
         except Exception as e:
             logger.error(f"❌ [VALIDATE] Error matching OMS orders: {e}")
             import traceback

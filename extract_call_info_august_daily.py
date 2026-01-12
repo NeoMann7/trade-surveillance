@@ -3,6 +3,23 @@ import os
 import re
 from datetime import datetime, timedelta
 import glob
+import tempfile
+
+# S3 support
+USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+
+S3_AVAILABLE = False
+if USE_S3 and S3_BUCKET_NAME:
+    try:
+        from s3_utils import (
+            read_excel_from_s3, list_s3_objects,
+            upload_file_to_s3, get_s3_key, s3_file_exists
+        )
+        S3_AVAILABLE = True
+    except ImportError:
+        print("⚠️ S3 utilities not available, falling back to local filesystem")
 
 def extract_mobile(filename):
     """Extract mobile number using the same logic as original June script"""
@@ -41,22 +58,36 @@ def extract_call_info_for_date(date_str):
     ucc_db_path = f"{month_name}/UCC Database.xlsx"
     output_path = f"{month_name}/Daily_Reports/{date_str}/call_info_output_{date_str}.xlsx"
     
-    # Create Daily_Reports directory if it doesn't exist
-    os.makedirs(f"{month_name}/Daily_Reports/{date_str}", exist_ok=True)
-    
-    # PERMANENT FIX: Create call records directory if it doesn't exist (graceful handling)
-    if not os.path.exists(call_records_path):
-        print(f"⚠️  Call records directory not found: {call_records_path}")
-        print(f"📁 Creating directory...")
-        os.makedirs(call_records_path, exist_ok=True)
-        print(f"✅ Directory created: {call_records_path}")
-    
-    # Get all audio files for the specific date (including .729 files)
-    audio_files = (
-        glob.glob(os.path.join(call_records_path, "*.wav")) + 
-        glob.glob(os.path.join(call_records_path, "*.mp3")) +
-        glob.glob(os.path.join(call_records_path, "*.729"))
-    )
+    # Get S3 keys if using S3
+    if USE_S3 and S3_AVAILABLE:
+        call_records_s3_prefix = f"{S3_BASE_PREFIX}/{call_records_path}/"
+        ucc_db_s3_key = f"{S3_BASE_PREFIX}/{ucc_db_path}"
+        output_s3_key = f"{S3_BASE_PREFIX}/{output_path}"
+        
+        # List audio files from S3
+        all_objects = list_s3_objects(call_records_s3_prefix)
+        # Filter for audio file extensions
+        audio_extensions = ['.wav', '.mp3', '.729']
+        audio_files = [obj for obj in all_objects if any(obj.lower().endswith(ext) for ext in audio_extensions)]
+        print(f"Found {len(audio_files)} audio files in S3 for {date_str}")
+    else:
+        # Local filesystem
+        # Create Daily_Reports directory if it doesn't exist
+        os.makedirs(f"{month_name}/Daily_Reports/{date_str}", exist_ok=True)
+        
+        # PERMANENT FIX: Create call records directory if it doesn't exist (graceful handling)
+        if not os.path.exists(call_records_path):
+            print(f"⚠️  Call records directory not found: {call_records_path}")
+            print(f"📁 Creating directory...")
+            os.makedirs(call_records_path, exist_ok=True)
+            print(f"✅ Directory created: {call_records_path}")
+        
+        # Get all audio files for the specific date (including .729 files)
+        audio_files = (
+            glob.glob(os.path.join(call_records_path, "*.wav")) + 
+            glob.glob(os.path.join(call_records_path, "*.mp3")) +
+            glob.glob(os.path.join(call_records_path, "*.729"))
+        )
     
     # PERMANENT FIX: Handle empty audio files gracefully - create empty output file instead of failing
     if not audio_files:
@@ -70,8 +101,18 @@ def extract_call_info_for_date(date_str):
         ])
         
         # Save empty file to indicate processing completed (even with no audio)
-        empty_df.to_excel(output_path, index=False)
-        print(f"✅ Created empty call info file: {output_path}")
+        if USE_S3 and S3_AVAILABLE:
+            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+            try:
+                empty_df.to_excel(temp_file.name, index=False)
+                upload_file_to_s3(temp_file.name, output_s3_key)
+                print(f"✅ Created empty call info file in S3: {output_s3_key}")
+            finally:
+                if os.path.exists(temp_file.name):
+                    os.unlink(temp_file.name)
+        else:
+            empty_df.to_excel(output_path, index=False)
+            print(f"✅ Created empty call info file: {output_path}")
         print(f"✅ Audio file processing completed (no audio files for this date)")
         return output_path
     
@@ -79,7 +120,11 @@ def extract_call_info_for_date(date_str):
     
     # Load UCC database
     try:
-        ucc_df = pd.read_excel(ucc_db_path, dtype=str)
+        if USE_S3 and S3_AVAILABLE:
+            ucc_df = read_excel_from_s3(ucc_db_s3_key)
+            ucc_df = ucc_df.astype(str)  # Convert to string dtype
+        else:
+            ucc_df = pd.read_excel(ucc_db_path, dtype=str)
         # Create set of mobile numbers for faster lookup
         ucc_numbers = set(ucc_df['MOBILE'].astype(str).str.replace(r'\D', '', regex=True))
         print(f"Loaded UCC database with {len(ucc_df)} records")
@@ -91,7 +136,13 @@ def extract_call_info_for_date(date_str):
     call_info_list = []
     
     for audio_file in audio_files:
-        filename = os.path.basename(audio_file)
+        # Handle S3 keys vs local paths
+        if USE_S3 and S3_AVAILABLE:
+            # audio_file is an S3 key, extract filename from it
+            filename = os.path.basename(audio_file)
+        else:
+            # audio_file is a local path
+            filename = os.path.basename(audio_file)
         
         # Extract mobile number using the same logic as original
         mobile_number = extract_mobile(filename)
@@ -159,8 +210,18 @@ def extract_call_info_for_date(date_str):
     # Create DataFrame and save
     if call_info_list:
         call_info_df = pd.DataFrame(call_info_list)
-        call_info_df.to_excel(output_path, index=False)
-        print(f"Call info saved to: {output_path}")
+        if USE_S3 and S3_AVAILABLE:
+            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+            try:
+                call_info_df.to_excel(temp_file.name, index=False)
+                upload_file_to_s3(temp_file.name, output_s3_key)
+                print(f"Call info saved to S3: {output_s3_key}")
+            finally:
+                if os.path.exists(temp_file.name):
+                    os.unlink(temp_file.name)
+        else:
+            call_info_df.to_excel(output_path, index=False)
+            print(f"Call info saved to: {output_path}")
         print(f"Processed {len(call_info_df)} audio files")
         return output_path
     else:
@@ -171,8 +232,18 @@ def extract_call_info_for_date(date_str):
             'filename', 'mobile_number', 'present_in_ucc', 'call_start', 
             'call_end', 'duration_seconds', 'client_id'
         ])
-        empty_df.to_excel(output_path, index=False)
-        print(f"✅ Created empty call info file: {output_path}")
+        if USE_S3 and S3_AVAILABLE:
+            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+            try:
+                empty_df.to_excel(temp_file.name, index=False)
+                upload_file_to_s3(temp_file.name, output_s3_key)
+                print(f"✅ Created empty call info file in S3: {output_s3_key}")
+            finally:
+                if os.path.exists(temp_file.name):
+                    os.unlink(temp_file.name)
+        else:
+            empty_df.to_excel(output_path, index=False)
+            print(f"✅ Created empty call info file: {output_path}")
         print(f"✅ Audio file processing completed")
         return output_path
 

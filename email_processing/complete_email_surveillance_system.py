@@ -7,6 +7,7 @@ Achieves 91% coverage for email trade surveillance
 
 import json
 import re
+import sys
 import openai
 import os
 from datetime import datetime
@@ -316,11 +317,13 @@ def get_manual_extractions():
         }
     }
 
-def call_openai_model(model_name, attempt, max_retries, prompt):
+def call_openai_model(model_name, attempt, max_retries, prompt, email_index=None, total_emails=None):
     """Call OpenAI model with appropriate parameters"""
     try:
         client = openai.OpenAI()
-        print(f"  [AI] Analyzing email with {model_name}... (Attempt {attempt}/{max_retries})")
+        email_info = f"Email {email_index}/{total_emails}: " if email_index and total_emails else ""
+        print(f"  [API CALL] {email_info}Calling {model_name} API (Attempt {attempt}/{max_retries})...")
+        sys.stdout.flush()  # Ensure immediate output
         
         # Use different parameters based on model
         if model_name == "o3":
@@ -344,7 +347,9 @@ def call_openai_model(model_name, attempt, max_retries, prompt):
                 temperature=0.1
             )
         
-        print(f"  [AI] Analysis complete with {model_name}.")
+        email_info = f"Email {email_index}/{total_emails}: " if email_index and total_emails else ""
+        print(f"  [API CALL] {email_info}{model_name} API call completed successfully")
+        sys.stdout.flush()
         content = response.choices[0].message.content
         if not content or not content.strip():
             raise ValueError("Empty AI response")
@@ -361,16 +366,23 @@ def call_openai_model(model_name, attempt, max_retries, prompt):
         return ai_analysis, None
         
     except Exception as e:
-        print(f"  [AI] Error with {model_name} (Attempt {attempt}): {e}")
+        email_info = f"Email {email_index}/{total_emails}: " if email_index and total_emails else ""
+        print(f"  [API CALL] {email_info}Error with {model_name} (Attempt {attempt}): {e}")
+        sys.stdout.flush()
         if attempt == max_retries:
-            print(f"  [AI] All retries failed for {model_name}.")
+            print(f"  [API CALL] {email_info}All retries failed for {model_name}")
+            sys.stdout.flush()
         else:
-            print(f"  [AI] Retrying with {model_name}...")
+            print(f"  [API CALL] {email_info}Retrying with {model_name}...")
+            sys.stdout.flush()
         return None, e
 
-def analyze_email_with_ai(subject, clean_text, sender, table_data=None, attachments=None):
+def analyze_email_with_ai(subject, clean_text, sender, table_data=None, attachments=None, email_index=None, total_emails=None):
     """Analyze email using AI for intent and order details - can extract multiple instructions"""
     try:
+        if email_index and total_emails:
+            print(f"  [PROCESSING] Email {email_index}/{total_emails}: {subject[:60]}...")
+            sys.stdout.flush()
         # Prepare PDF attachment information for AI
         attachment_info = ""
         if attachments:
@@ -439,7 +451,7 @@ def analyze_email_with_ai(subject, clean_text, sender, table_data=None, attachme
             best = None
             best_len = -1
             for attempt in range(1, 4):
-                result, error = call_openai_model(model_name, attempt, 1, prompt)
+                result, error = call_openai_model(model_name, attempt, 1, prompt, email_index, total_emails)
                 if result is not None:
                     details = result.get('ai_order_details') if isinstance(result, dict) else None
                     curr_len = len(details) if isinstance(details, list) else (1 if isinstance(details, dict) else 0)
@@ -461,13 +473,14 @@ def analyze_email_with_ai(subject, clean_text, sender, table_data=None, attachme
         # Default: try o3, then gpt-4.1
         max_retries = 1
         for attempt in range(1, max_retries + 1):
-            result, error = call_openai_model("o3", attempt, max_retries, prompt)
+            result, error = call_openai_model("o3", attempt, max_retries, prompt, email_index, total_emails)
             if result is not None:
                 return result
             if attempt == max_retries:
-                print(f"  [AI] Switching to gpt-4.1 for email: {subject}")
+                print(f"  [API CALL] Email {email_index}/{total_emails if total_emails else '?'}: Switching to gpt-4.1 for: {subject[:60]}")
+                sys.stdout.flush()
                 for gpt_attempt in range(1, 3):
-                    result, error = call_openai_model("gpt-4.1", gpt_attempt, 2, prompt)
+                    result, error = call_openai_model("gpt-4.1", gpt_attempt, 2, prompt, email_index, total_emails)
                     if result is not None:
                         return result
                     if gpt_attempt == 2:
@@ -518,14 +531,47 @@ def main():
     if isinstance(data, list):
         emails = data
     else:
+        # Check for email_analyses first (raw emails)
         emails = data.get('email_analyses', [])
+        # If not found, check for all_results (already analyzed emails)
+        # In this case, we should skip re-analysis since emails are already analyzed
+        if not emails and 'all_results' in data:
+            all_results = data.get('all_results', [])
+            print(f"   ⚠️  File contains all_results ({len(all_results)} emails) - emails are already analyzed")
+            print(f"   ⚠️  Skipping re-analysis. If you need to re-analyze, use email_analyses format.")
+            # Return early with existing results
+            output_data = {
+                'all_results': all_results,
+                'trade_instructions': {
+                    'total': len([e for e in all_results if e.get('ai_analysis', {}).get('ai_email_intent') == 'trade_instruction']),
+                    'emails': [e for e in all_results if e.get('ai_analysis', {}).get('ai_email_intent') == 'trade_instruction']
+                },
+                'trade_confirmations': {
+                    'total': len([e for e in all_results if e.get('ai_analysis', {}).get('ai_email_intent') == 'trade_confirmation']),
+                    'emails': [e for e in all_results if e.get('ai_analysis', {}).get('ai_email_intent') == 'trade_confirmation']
+                },
+                'other_emails': {
+                    'total': len([e for e in all_results if e.get('ai_analysis', {}).get('ai_email_intent') not in ['trade_instruction', 'trade_confirmation']]),
+                    'emails': [e for e in all_results if e.get('ai_analysis', {}).get('ai_email_intent') not in ['trade_instruction', 'trade_confirmation']]
+                }
+            }
+            output_file = f'complete_surveillance_results_{timestamp}.json'
+            with open(output_file, 'w') as f:
+                json.dump(output_data, f, indent=2, default=str)
+            print(f"\n📁 Results saved to: {output_file}")
+            print(f"📊 Using existing analysis: {output_data['trade_instructions']['total']} trade instructions")
+            return
+    
     print(f"   Loaded {len(emails)} emails for analysis")
     
     # Get manual extractions
     manual_extractions = get_manual_extractions()
     
     # Process all emails
-    print(f"\n🤖 Starting AI analysis for {len(emails)} emails...")
+    total_emails = len(emails)
+    print(f"\n🤖 Starting AI analysis for {total_emails} emails...")
+    print(f"📊 Will make API calls for each email to classify and extract trade instructions")
+    sys.stdout.flush()
     
     results = []
     trade_instructions = []
@@ -533,22 +579,35 @@ def main():
     other_emails = []
     
     for i, email in enumerate(emails, 1):
-        subject = email.get('subject', '')
+        print(f"\n{'='*70}")
+        print(f"📧 AI ANALYSIS: Email {i}/{total_emails}")
+        print(f"{'='*70}")
+        sys.stdout.flush()
+        subject = email.get('subject', 'No Subject')
         clean_text = email.get('clean_text', '')
-        sender = email.get('sender', '')
+        sender = email.get('sender', 'Unknown Sender')
         attachments = email.get('attachments', [])
         has_attachments = email.get('has_attachments', False)
         
-        print(f"\n[{i}/{len(emails)}] Analyzing: {subject[:60]}...")
+        print(f"📌 Subject: {subject}")
+        print(f"👤 Sender: {sender}")
+        print(f"📊 Content length: {len(clean_text)} characters")
         if has_attachments:
-            print(f"   📎 Email has {len(attachments)} attachments")
+            print(f"📎 Attachments: {len(attachments)} file(s)")
+            for idx, att in enumerate(attachments, 1):
+                att_name = att.get('name', 'Unknown')
+                att_type = att.get('content_type', 'Unknown type')
+                print(f"   {idx}. {att_name} ({att_type})")
+        sys.stdout.flush()
         
         # Step 1: AI Analysis
         table_data = email.get('table_data', [])
         
         # Force legacy analysis (old system)
-        print(f"   🤖 Using legacy analysis (gpt-4.1)...")
-        ai_analysis = analyze_email_with_ai(subject, clean_text, sender, table_data, attachments)
+        print(f"\n🤖 Starting AI analysis for this email...")
+        print(f"   Model: gpt-4.1")
+        sys.stdout.flush()
+        ai_analysis = analyze_email_with_ai(subject, clean_text, sender, table_data, attachments, i, total_emails)
         
         # Step 2: Enhanced Extraction for Trade Instructions
         if ai_analysis.get('ai_email_intent') == 'trade_instruction':
@@ -717,27 +776,52 @@ def main():
     # Save results with fixed naming format
     output_file = f'complete_surveillance_results_{timestamp}.json'
     
+    final_payload = {
+        'timestamp': timestamp,
+        'total_emails_analyzed': total_emails,
+        'trade_instructions': {
+            'total': total_trade_instructions,
+            'with_order_details': len(trade_instructions_with_details),
+            'without_order_details': trade_instructions_without_details,
+            'coverage_percentage': coverage_percentage,
+            'emails': trade_instructions
+        },
+        'trade_confirmations': {
+            'total': total_confirmations,
+            'emails': trade_confirmations
+        },
+        'other_emails': {
+            'total': total_other,
+            'emails': other_emails
+        },
+        'all_results': results
+    }
+    
     with open(output_file, 'w') as f:
-        json.dump({
-            'timestamp': timestamp,
-            'total_emails_analyzed': total_emails,
-            'trade_instructions': {
-                'total': total_trade_instructions,
-                'with_order_details': len(trade_instructions_with_details),
-                'without_order_details': trade_instructions_without_details,
-                'coverage_percentage': coverage_percentage,
-                'emails': trade_instructions
-            },
-            'trade_confirmations': {
-                'total': total_confirmations,
-                'emails': trade_confirmations
-            },
-            'other_emails': {
-                'total': total_other,
-                'emails': other_emails
-            },
-            'all_results': results
-        }, f, indent=2)
+        json.dump(final_payload, f, indent=2)
+    
+    # Detailed per-email classification log for debugging
+    print(f"\n📋 PER-EMAIL CLASSIFICATION SUMMARY")
+    print(f"{'-'*80}")
+    trade_count = 0
+    confirm_count = 0
+    other_count = 0
+    for idx, email in enumerate(results, 1):
+        subject = email.get('subject', '')[:80]
+        ai_analysis = email.get('ai_analysis', {}) or {}
+        intent = ai_analysis.get('ai_email_intent', 'NOT_ANALYZED')
+        if intent == 'trade_instruction':
+            trade_count += 1
+        elif intent == 'trade_confirmation':
+            confirm_count += 1
+        else:
+            other_count += 1
+        print(f"[{idx:02d}] {intent:<18} | {subject}")
+    
+    print(f"\n📊 CATEGORY COUNTS (from per-email loop):")
+    print(f"   Trade instructions:   {trade_count}")
+    print(f"   Trade confirmations:  {confirm_count}")
+    print(f"   Other / not analyzed: {other_count}")
     
     # Final summary
     print(f"\n{'='*80}")

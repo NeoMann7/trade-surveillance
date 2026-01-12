@@ -2,6 +2,32 @@ import pandas as pd
 import os
 import glob
 import json
+import tempfile
+import shutil
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+# S3 Configuration
+USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+
+# Check if S3 is available (boto3 imported successfully)
+S3_AVAILABLE = False
+try:
+    import boto3
+    from s3_utils import (
+        s3_file_exists, read_excel_from_s3, read_csv_from_s3,
+        read_text_from_s3, read_json_from_s3, upload_file_to_s3,
+        download_file_from_s3, list_s3_objects
+    )
+    S3_AVAILABLE = True
+except ImportError:
+    print("Boto3 not installed, S3 functions will not be available.")
+except Exception as e:
+    print(f"Error importing S3 utilities: {e}")
 
 def add_required_columns_for_date(date_str):
     """
@@ -32,67 +58,162 @@ def add_required_columns_for_date(date_str):
     email_mapping_file = f"{month_name}/Daily_Reports/{date_str}/email_order_mapping_{date_str}.json"
     output_path = f"{month_name}/Daily_Reports/{date_str}/order_transcript_analysis_{date_str}_with_required_columns.xlsx"
     
-    # Check if analysis file exists
-    if not os.path.exists(analysis_file):
-        print(f"Analysis file not found: {analysis_file}")
-        print("Note: This step requires Step 4 (AI Analysis) to be completed first")
-        return None
-    
-    # Load the analysis file
-    try:
-        df = pd.read_excel(analysis_file)
-        print(f"Loaded analysis file with {len(df)} records")
-    except Exception as e:
-        print(f"Error loading analysis file: {e}")
-        return None
-    
-    # Load call info
-    try:
-        call_info_df = pd.read_excel(call_info_file)
-        print(f"Loaded call info with {len(call_info_df)} records")
-    except Exception as e:
-        print(f"Error loading call info: {e}")
-        return None
-    
-    # Find order file for the specific date
-    order_file_pattern = f"OrderBook-Closed-{date_str}.csv"
-    order_file_path = os.path.join(order_files_path, order_file_pattern)
-    
-    if not os.path.exists(order_file_path):
-        print(f"Order file not found: {order_file_path}")
-        return None
-    
-    # Load order data
-    try:
-        order_df = pd.read_csv(order_file_path)
-        print(f"Loaded order file with {len(order_df)} records")
-    except Exception as e:
-        print(f"Error loading order file: {e}")
-        return None
-    
-    # Load audio validation data if available
-    audio_validation_df = None
-    if os.path.exists(audio_validation_file):
+    # Get S3 keys if using S3
+    if USE_S3 and S3_AVAILABLE:
+        analysis_s3_key = f"{S3_BASE_PREFIX}/{analysis_file}"
+        call_info_s3_key = f"{S3_BASE_PREFIX}/{call_info_file}"
+        audio_validation_s3_key = f"{S3_BASE_PREFIX}/{audio_validation_file}"
+        transcripts_s3_prefix = f"{S3_BASE_PREFIX}/{transcripts_path}/"
+        email_mapping_s3_key = f"{S3_BASE_PREFIX}/{email_mapping_file}"
+        output_s3_key = f"{S3_BASE_PREFIX}/{output_path}"
+        
+        # Check if analysis file exists
+        if not s3_file_exists(analysis_s3_key):
+            print(f"Analysis file not found in S3: {analysis_s3_key}")
+            print("Note: This step requires Step 6 (AI Analysis) to be completed first")
+            return None
+        
+        # Load the analysis file from S3
         try:
-            audio_validation_df = pd.read_excel(audio_validation_file, sheet_name='Order_Audio_Mapping')
-            print(f"Loaded audio validation data with {len(audio_validation_df)} records")
-            print(f"Audio matches found: {len(audio_validation_df[audio_validation_df['has_audio'] == 'Y'])}")
+            df = read_excel_from_s3(analysis_s3_key)
+            print(f"Loaded analysis file from S3 with {len(df)} records")
         except Exception as e:
-            print(f"Error loading audio validation data: {e}")
-    else:
-        print("Audio validation file not found - proceeding without audio validation data")
-    
-    # Load email mapping data if available
-    email_mapping_data = None
-    if os.path.exists(email_mapping_file):
+            print(f"Error loading analysis file from S3: {e}")
+            import traceback
+            traceback.print_exc()
+            return None
+        
+        # Load call info from S3
         try:
-            with open(email_mapping_file, 'r') as f:
-                email_mapping_data = json.load(f)
-            print(f"Loaded email mapping data with {len(email_mapping_data.get('matches', []))} matches")
+            call_info_df = read_excel_from_s3(call_info_s3_key)
+            print(f"Loaded call info from S3 with {len(call_info_df)} records")
         except Exception as e:
-            print(f"Error loading email mapping data: {e}")
+            print(f"Error loading call info from S3: {e}")
+            import traceback
+            traceback.print_exc()
+            return None
+        
+        # Find order file for the specific date in S3
+        order_file_patterns = [
+            f"{S3_BASE_PREFIX}/{order_files_path}/OrderBook-Closed-{date_str}.csv",
+            f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{date_str}/OrderBook-Closed-{date_str}.csv",
+            f"{S3_BASE_PREFIX}/{order_files_path}/OrderBook_Closed-{date_str}.csv",
+            f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{date_str}/OrderBook_Closed-{date_str}.csv"
+        ]
+        
+        order_file_s3_key = None
+        for pattern_key in order_file_patterns:
+            if s3_file_exists(pattern_key):
+                order_file_s3_key = pattern_key
+                print(f"Found order file in S3: {order_file_s3_key}")
+                break
+        
+        if not order_file_s3_key:
+            print(f"Order file not found in S3 for any pattern: {order_file_patterns}")
+            return None
+        
+        # Load order data from S3
+        try:
+            order_df = read_csv_from_s3(order_file_s3_key)
+            print(f"Loaded order file from S3 with {len(order_df)} records")
+        except Exception as e:
+            print(f"Error loading order file from S3: {e}")
+            import traceback
+            traceback.print_exc()
+            return None
+        
+        # Load audio validation data if available from S3
+        audio_validation_df = None
+        if s3_file_exists(audio_validation_s3_key):
+            try:
+                # Download and read specific sheet
+                temp_file_path = download_file_from_s3(audio_validation_s3_key)
+                audio_validation_df = pd.read_excel(temp_file_path, sheet_name='Order_Audio_Mapping')
+                os.unlink(temp_file_path)
+                print(f"Loaded audio validation data from S3 with {len(audio_validation_df)} records")
+                print(f"Audio matches found: {len(audio_validation_df[audio_validation_df['has_audio'] == 'Y'])}")
+            except Exception as e:
+                print(f"Error loading audio validation data from S3: {e}")
+                import traceback
+                traceback.print_exc()
+        else:
+            print("Audio validation file not found in S3 - proceeding without audio validation data")
+        
+        # Load email mapping data if available from S3
+        email_mapping_data = None
+        if s3_file_exists(email_mapping_s3_key):
+            try:
+                email_mapping_data = read_json_from_s3(email_mapping_s3_key)
+                print(f"Loaded email mapping data from S3 with {len(email_mapping_data.get('matches', []))} matches")
+            except Exception as e:
+                print(f"Error loading email mapping data from S3: {e}")
+                import traceback
+                traceback.print_exc()
+        else:
+            print("Email mapping file not found in S3 - proceeding without email data")
     else:
-        print("Email mapping file not found - proceeding without email data")
+        # Local filesystem
+        # Check if analysis file exists
+        if not os.path.exists(analysis_file):
+            print(f"Analysis file not found: {analysis_file}")
+            print("Note: This step requires Step 6 (AI Analysis) to be completed first")
+            return None
+        
+        # Load the analysis file
+        try:
+            df = pd.read_excel(analysis_file)
+            print(f"Loaded analysis file with {len(df)} records")
+        except Exception as e:
+            print(f"Error loading analysis file: {e}")
+            return None
+        
+        # Load call info
+        try:
+            call_info_df = pd.read_excel(call_info_file)
+            print(f"Loaded call info with {len(call_info_df)} records")
+        except Exception as e:
+            print(f"Error loading call info: {e}")
+            return None
+        
+        # Find order file for the specific date
+        order_file_pattern = f"OrderBook-Closed-{date_str}.csv"
+        order_file_path = os.path.join(order_files_path, order_file_pattern)
+        
+        if not os.path.exists(order_file_path):
+            print(f"Order file not found: {order_file_path}")
+            return None
+        
+        # Load order data
+        try:
+            order_df = pd.read_csv(order_file_path)
+            print(f"Loaded order file with {len(order_df)} records")
+        except Exception as e:
+            print(f"Error loading order file: {e}")
+            return None
+        
+        # Load audio validation data if available
+        audio_validation_df = None
+        if os.path.exists(audio_validation_file):
+            try:
+                audio_validation_df = pd.read_excel(audio_validation_file, sheet_name='Order_Audio_Mapping')
+                print(f"Loaded audio validation data with {len(audio_validation_df)} records")
+                print(f"Audio matches found: {len(audio_validation_df[audio_validation_df['has_audio'] == 'Y'])}")
+            except Exception as e:
+                print(f"Error loading audio validation data: {e}")
+        else:
+            print("Audio validation file not found - proceeding without audio validation data")
+        
+        # Load email mapping data if available
+        email_mapping_data = None
+        if os.path.exists(email_mapping_file):
+            try:
+                with open(email_mapping_file, 'r') as f:
+                    email_mapping_data = json.load(f)
+                print(f"Loaded email mapping data with {len(email_mapping_data.get('matches', []))} matches")
+            except Exception as e:
+                print(f"Error loading email mapping data: {e}")
+        else:
+            print("Email mapping file not found - proceeding without email data")
     
     # Add required columns
     print("Adding required columns...")
@@ -223,13 +344,22 @@ def add_required_columns_for_date(date_str):
         
         # Build set of all valid audio files from call info
         valid_audio_files = set()
-        if os.path.exists(call_info_file):
-            try:
-                call_info_df_check = pd.read_excel(call_info_file)
-                if 'filename' in call_info_df_check.columns:
-                    valid_audio_files = set(call_info_df_check['filename'].dropna().astype(str))
-            except Exception as e:
-                print(f"Warning: Could not read call info to validate audio files: {e}")
+        if USE_S3 and S3_AVAILABLE:
+            if s3_file_exists(call_info_s3_key):
+                try:
+                    call_info_df_check = read_excel_from_s3(call_info_s3_key)
+                    if 'filename' in call_info_df_check.columns:
+                        valid_audio_files = set(call_info_df_check['filename'].dropna().astype(str))
+                except Exception as e:
+                    print(f"Warning: Could not read call info from S3 to validate audio files: {e}")
+        else:
+            if os.path.exists(call_info_file):
+                try:
+                    call_info_df_check = pd.read_excel(call_info_file)
+                    if 'filename' in call_info_df_check.columns:
+                        valid_audio_files = set(call_info_df_check['filename'].dropna().astype(str))
+                except Exception as e:
+                    print(f"Warning: Could not read call info to validate audio files: {e}")
         
         # For orders with audio file but audio_mapped='no', check if file is valid
         for idx, row in df.iterrows():
@@ -283,29 +413,49 @@ def add_required_columns_for_date(date_str):
             individual_files = [f.strip() for f in audio_file.split(',')]
             combined_transcript = ""
             for individual_file in individual_files:
-                transcript_file = os.path.join(transcripts_path, individual_file + ".txt")
-                if os.path.exists(transcript_file):
-                    try:
-                        with open(transcript_file, 'r', encoding='utf-8') as f:
-                            transcript = f.read()
-                        if combined_transcript:
-                            combined_transcript += f"\n\n=== {individual_file} ===\n"
-                        combined_transcript += transcript
-                    except Exception as e:
-                        print(f"Error reading transcript for {individual_file}: {e}")
+                if USE_S3 and S3_AVAILABLE:
+                    transcript_s3_key = f"{transcripts_s3_prefix}{individual_file}.txt"
+                    if s3_file_exists(transcript_s3_key):
+                        try:
+                            transcript = read_text_from_s3(transcript_s3_key)
+                            if combined_transcript:
+                                combined_transcript += f"\n\n=== {individual_file} ===\n"
+                            combined_transcript += transcript
+                        except Exception as e:
+                            print(f"Error reading transcript from S3 for {individual_file}: {e}")
+                else:
+                    transcript_file = os.path.join(transcripts_path, individual_file + ".txt")
+                    if os.path.exists(transcript_file):
+                        try:
+                            with open(transcript_file, 'r', encoding='utf-8') as f:
+                                transcript = f.read()
+                            if combined_transcript:
+                                combined_transcript += f"\n\n=== {individual_file} ===\n"
+                            combined_transcript += transcript
+                        except Exception as e:
+                            print(f"Error reading transcript for {individual_file}: {e}")
             
             if combined_transcript:
                 df.at[idx, 'Call Extract'] = combined_transcript[:1000] + "..." if len(combined_transcript) > 1000 else combined_transcript
         else:
             # Single audio file
-            transcript_file = os.path.join(transcripts_path, audio_file + ".txt")
-            if os.path.exists(transcript_file):
-                try:
-                    with open(transcript_file, 'r', encoding='utf-8') as f:
-                        transcript = f.read()
-                    df.at[idx, 'Call Extract'] = transcript[:1000] + "..." if len(transcript) > 1000 else transcript
-                except Exception as e:
-                    print(f"Error reading transcript for {audio_file}: {e}")
+            if USE_S3 and S3_AVAILABLE:
+                transcript_s3_key = f"{transcripts_s3_prefix}{audio_file}.txt"
+                if s3_file_exists(transcript_s3_key):
+                    try:
+                        transcript = read_text_from_s3(transcript_s3_key)
+                        df.at[idx, 'Call Extract'] = transcript[:1000] + "..." if len(transcript) > 1000 else transcript
+                    except Exception as e:
+                        print(f"Error reading transcript from S3 for {audio_file}: {e}")
+            else:
+                transcript_file = os.path.join(transcripts_path, audio_file + ".txt")
+                if os.path.exists(transcript_file):
+                    try:
+                        with open(transcript_file, 'r', encoding='utf-8') as f:
+                            transcript = f.read()
+                        df.at[idx, 'Call Extract'] = transcript[:1000] + "..." if len(transcript) > 1000 else transcript
+                    except Exception as e:
+                        print(f"Error reading transcript for {audio_file}: {e}")
     
     # 10. Call File Name - already present
     df['Call File Name'] = df['audio_file']
@@ -318,21 +468,29 @@ def add_required_columns_for_date(date_str):
     # OR preserve OMS_MATCH status from existing Excel (if Step 4 ran after Step 9)
     
     # PERMANENT FIX: Check for OMS matches intermediate file first
-    # This handles the case where Step 4 ran before Step 9 (Excel didn't exist yet)
+    # This handles the case where Step 8 ran before Step 9 (Excel didn't exist yet)
     # FIX: Use absolute path to ensure file is found regardless of current working directory
     base_dir = os.path.dirname(os.path.abspath(__file__))
     oms_matches_file = os.path.join(base_dir, 'oms_surveillance', f'oms_matches_{date_str}.json')
     existing_oms_matches = {}
     
-    print(f"🔍 [STEP9] Looking for OMS matches file: {oms_matches_file}")
-    print(f"🔍 [STEP9] File exists: {os.path.exists(oms_matches_file)}")
+    # Check for OMS matches file (local or S3)
+    if USE_S3 and S3_AVAILABLE:
+        # OMS matches file is stored locally in the container, not in S3
+        # So we still check the local path
+        oms_matches_file_local = oms_matches_file
+    else:
+        oms_matches_file_local = oms_matches_file
+    
+    print(f"🔍 [STEP9] Looking for OMS matches file: {oms_matches_file_local}")
+    print(f"🔍 [STEP9] File exists: {os.path.exists(oms_matches_file_local)}")
     print(f"🔍 [STEP9] Current working directory: {os.getcwd()}")
     print(f"🔍 [STEP9] Base directory: {base_dir}")
     
-    if os.path.exists(oms_matches_file):
+    if os.path.exists(oms_matches_file_local):
         try:
-            print(f"📋 Found OMS matches intermediate file: {oms_matches_file}")
-            with open(oms_matches_file, 'r', encoding='utf-8') as f:
+            print(f"📋 Found OMS matches intermediate file: {oms_matches_file_local}")
+            with open(oms_matches_file_local, 'r', encoding='utf-8') as f:
                 oms_matches_data = json.load(f)
             
             matches = oms_matches_data.get('matches', {})
@@ -363,7 +521,7 @@ def add_required_columns_for_date(date_str):
             import traceback
             print(f"⚠️ [STEP9] Traceback: {traceback.format_exc()}")
     else:
-        print(f"⚠️ [STEP9] OMS matches intermediate file NOT found: {oms_matches_file}")
+        print(f"⚠️ [STEP9] OMS matches intermediate file NOT found: {oms_matches_file_local}")
         print(f"⚠️ [STEP9] This means either:")
         print(f"   1. Step 8 didn't run yet")
         print(f"   2. Step 8 ran but Excel existed, so intermediate file was deleted")
@@ -375,36 +533,72 @@ def add_required_columns_for_date(date_str):
     final_report_name = f"Final_Trade_Surveillance_Report_{date_str}_with_Email_and_Trade_Analysis.xlsx"
     final_report_path = os.path.join(os.path.dirname(output_path), final_report_name)
     
+    # Get S3 key for final report if using S3
+    if USE_S3 and S3_AVAILABLE:
+        final_report_s3_key = f"{S3_BASE_PREFIX}/{os.path.dirname(output_path)}/{final_report_name}"
+    else:
+        final_report_s3_key = None
+    
     # FIX: Always check existing Excel file, not just when existing_oms_matches is empty
     # This ensures OMS matches are preserved even if Step 8 ran after Step 9
-    if os.path.exists(final_report_path):
-        try:
-            df_existing = pd.read_excel(final_report_path)
-            if 'Order ID' in df_existing.columns and 'Email-Order Match Status' in df_existing.columns:
-                # Create mapping of order ID to OMS_MATCH status
-                oms_matched = df_existing[df_existing['Email-Order Match Status'] == 'OMS_MATCH']
-                if len(oms_matched) > 0:
-                    print(f"📋 Found {len(oms_matched)} existing OMS matches in Final Excel file")
-                    # Normalize order IDs for matching
-                    def normalize_order_id_to_string(val):
-                        if pd.isna(val):
-                            return None
-                        try:
-                            return str(int(float(val)))
-                        except (ValueError, TypeError):
-                            s = str(val)
-                            return s[:-2] if s.endswith('.0') else s
-                    
-                    # Merge with existing_oms_matches (don't overwrite if already found from intermediate file)
-                    for idx, row in oms_matched.iterrows():
-                        order_id = normalize_order_id_to_string(row['Order ID'])
-                        if order_id and order_id not in existing_oms_matches:
-                            existing_oms_matches[order_id] = 'OMS_MATCH'
-                    
-                    if len(existing_oms_matches) > 0:
-                        print(f"✅ Preserving {len(existing_oms_matches)} OMS matches from Step 8 (from Final Excel)")
-        except Exception as e:
-            print(f"⚠️  Warning: Could not read existing Excel file to preserve OMS matches: {e}")
+    if USE_S3 and S3_AVAILABLE:
+        if s3_file_exists(final_report_s3_key):
+            try:
+                df_existing = read_excel_from_s3(final_report_s3_key)
+                if 'Order ID' in df_existing.columns and 'Email-Order Match Status' in df_existing.columns:
+                    # Create mapping of order ID to OMS_MATCH status
+                    oms_matched = df_existing[df_existing['Email-Order Match Status'] == 'OMS_MATCH']
+                    if len(oms_matched) > 0:
+                        print(f"📋 Found {len(oms_matched)} existing OMS matches in Final Excel file from S3")
+                        # Normalize order IDs for matching
+                        def normalize_order_id_to_string(val):
+                            if pd.isna(val):
+                                return None
+                            try:
+                                return str(int(float(val)))
+                            except (ValueError, TypeError):
+                                s = str(val)
+                                return s[:-2] if s.endswith('.0') else s
+                        
+                        # Merge with existing_oms_matches (don't overwrite if already found from intermediate file)
+                        for idx, row in oms_matched.iterrows():
+                            order_id = normalize_order_id_to_string(row['Order ID'])
+                            if order_id and order_id not in existing_oms_matches:
+                                existing_oms_matches[order_id] = 'OMS_MATCH'
+                        
+                        if len(existing_oms_matches) > 0:
+                            print(f"✅ Preserving {len(existing_oms_matches)} OMS matches from Step 8 (from Final Excel in S3)")
+            except Exception as e:
+                print(f"⚠️  Warning: Could not read existing Excel file from S3 to preserve OMS matches: {e}")
+    else:
+        if os.path.exists(final_report_path):
+            try:
+                df_existing = pd.read_excel(final_report_path)
+                if 'Order ID' in df_existing.columns and 'Email-Order Match Status' in df_existing.columns:
+                    # Create mapping of order ID to OMS_MATCH status
+                    oms_matched = df_existing[df_existing['Email-Order Match Status'] == 'OMS_MATCH']
+                    if len(oms_matched) > 0:
+                        print(f"📋 Found {len(oms_matched)} existing OMS matches in Final Excel file")
+                        # Normalize order IDs for matching
+                        def normalize_order_id_to_string(val):
+                            if pd.isna(val):
+                                return None
+                            try:
+                                return str(int(float(val)))
+                            except (ValueError, TypeError):
+                                s = str(val)
+                                return s[:-2] if s.endswith('.0') else s
+                        
+                        # Merge with existing_oms_matches (don't overwrite if already found from intermediate file)
+                        for idx, row in oms_matched.iterrows():
+                            order_id = normalize_order_id_to_string(row['Order ID'])
+                            if order_id and order_id not in existing_oms_matches:
+                                existing_oms_matches[order_id] = 'OMS_MATCH'
+                        
+                        if len(existing_oms_matches) > 0:
+                            print(f"✅ Preserving {len(existing_oms_matches)} OMS matches from Step 8 (from Final Excel)")
+            except Exception as e:
+                print(f"⚠️  Warning: Could not read existing Excel file to preserve OMS matches: {e}")
     
     # PERMANENT FIX: Preserve existing OMS_MATCH status from source file
     # If the analysis file already has OMS_MATCH status (from Step 8), preserve it
@@ -629,10 +823,13 @@ def add_required_columns_for_date(date_str):
         # Save the final file with enhanced naming
         final_report_name = f"Final_Trade_Surveillance_Report_{date_str}_with_Email_and_Trade_Analysis.xlsx"
         final_report_path = os.path.join(os.path.dirname(output_path), final_report_name)
-        df_final.to_excel(final_report_path, index=False)
+        
+        # Save to temporary file first (for highlighting)
+        temp_output_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+        df_final.to_excel(temp_output_file.name, index=False)
         
         # Load the workbook for highlighting
-        workbook = load_workbook(final_report_path)
+        workbook = load_workbook(temp_output_file.name)
         worksheet = workbook.active
         
         # Define highlighting styles
@@ -655,17 +852,28 @@ def add_required_columns_for_date(date_str):
                 no_source_count += 1
         
         # Save the updated file with highlighting
-        workbook.save(final_report_path)
+        workbook.save(temp_output_file.name)
+        
+        # Upload to S3 or save locally
+        if USE_S3 and S3_AVAILABLE:
+            upload_file_to_s3(temp_output_file.name, final_report_s3_key)
+            print(f"Final comprehensive trade surveillance report saved to S3: {final_report_s3_key}")
+        else:
+            shutil.move(temp_output_file.name, final_report_path)
+            print(f"Final comprehensive trade surveillance report saved to: {final_report_path}")
+        
+        # Clean up temp file
+        if os.path.exists(temp_output_file.name):
+            os.unlink(temp_output_file.name)
         
         # PERMANENT FIX: Delete OMS matches intermediate file if it exists and matches were applied
-        if os.path.exists(oms_matches_file) and existing_oms_matches:
+        if os.path.exists(oms_matches_file_local) and existing_oms_matches:
             try:
-                os.remove(oms_matches_file)
+                os.remove(oms_matches_file_local)
                 print(f"🗑️  Deleted OMS matches intermediate file (matches applied to Excel)")
             except Exception as e:
                 print(f"⚠️  Warning: Could not delete OMS matches intermediate file: {e}")
         
-        print(f"Final comprehensive trade surveillance report saved to: {final_report_path}")
         print(f"Total records: {len(df_final)}")
         print(f"⚠️  Orders with no source (highlighted in red): {no_source_count}")
         
@@ -673,17 +881,31 @@ def add_required_columns_for_date(date_str):
         print("openpyxl not available - saving without highlighting")
         final_report_name = f"Final_Trade_Surveillance_Report_{date_str}_with_Email_and_Trade_Analysis.xlsx"
         final_report_path = os.path.join(os.path.dirname(output_path), final_report_name)
-        df_final.to_excel(final_report_path, index=False)
+        
+        # Save to temporary file first
+        temp_output_file = tempfile.NamedTemporaryFile(delete=False, suffix='.xlsx')
+        df_final.to_excel(temp_output_file.name, index=False)
+        
+        # Upload to S3 or save locally
+        if USE_S3 and S3_AVAILABLE:
+            upload_file_to_s3(temp_output_file.name, final_report_s3_key)
+            print(f"Final comprehensive trade surveillance report saved to S3: {final_report_s3_key}")
+        else:
+            shutil.move(temp_output_file.name, final_report_path)
+            print(f"Final comprehensive trade surveillance report saved to: {final_report_path}")
+        
+        # Clean up temp file
+        if os.path.exists(temp_output_file.name):
+            os.unlink(temp_output_file.name)
         
         # PERMANENT FIX: Delete OMS matches intermediate file if it exists and matches were applied
-        if os.path.exists(oms_matches_file) and existing_oms_matches:
+        if os.path.exists(oms_matches_file_local) and existing_oms_matches:
             try:
-                os.remove(oms_matches_file)
+                os.remove(oms_matches_file_local)
                 print(f"🗑️  Deleted OMS matches intermediate file (matches applied to Excel)")
             except Exception as e:
                 print(f"⚠️  Warning: Could not delete OMS matches intermediate file: {e}")
         
-        print(f"Final comprehensive trade surveillance report saved to: {final_report_path}")
         print(f"Total records: {len(df_final)}")
     
     # Print summary with correct logic

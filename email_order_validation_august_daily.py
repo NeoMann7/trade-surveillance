@@ -15,6 +15,7 @@ from datetime import datetime, timedelta
 import re
 from openai import OpenAI
 from dotenv import load_dotenv
+import tempfile
 
 # Load environment variables
 load_dotenv()
@@ -22,12 +23,183 @@ load_dotenv()
 # Initialize OpenAI client
 client = OpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
+# S3 support
+USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+SURVEILLANCE_BASE_PATH = os.getenv('SURVEILLANCE_BASE_PATH', '/app/data')
+
+S3_AVAILABLE = False
+if USE_S3 and S3_BUCKET_NAME:
+    try:
+        from s3_utils import (
+            read_excel_from_s3, read_text_from_s3, read_csv_from_s3,
+            list_s3_objects, upload_file_to_s3, get_s3_key, s3_file_exists,
+            download_file_from_s3
+        )
+        S3_AVAILABLE = True
+    except ImportError:
+        try:
+            from dashboard.backend.s3_utils import (
+                read_excel_from_s3, read_text_from_s3, read_csv_from_s3,
+                list_s3_objects, upload_file_to_s3, get_s3_key, s3_file_exists,
+                download_file_from_s3
+            )
+            S3_AVAILABLE = True
+        except ImportError:
+            print("⚠️ S3 utilities not available, falling back to local filesystem")
+
 def load_email_surveillance_results(date_str):
     """Load email surveillance results for the specific date."""
     try:
         # STANDARDIZED FORMAT: Email surveillance files are in DDMMYYYY format
-        # e.g., 03102025 -> email_surveillance_03102025.json
-        email_file = f"email_surveillance_{date_str}.json"
+        # e.g., 03102025 -> email_surveillance_{date_str}.json
+        
+        # Convert DDMMYYYY to YYYY-MM-DD format for S3 path
+        date_obj = datetime.strptime(date_str, '%d%m%Y')
+        year = date_obj.strftime('%Y')
+        month_names = {
+            1: "January", 2: "February", 3: "March", 4: "April",
+            5: "May", 6: "June", 7: "July", 8: "August",
+            9: "September", 10: "October", 11: "November", 12: "December"
+        }
+        month_name = month_names[date_obj.month]
+        
+        # CRITICAL FIX: Check local file FIRST (analyzed results from Step 2)
+        # Step 2 saves analyzed results locally, and we should use those instead of S3
+        # S3 should keep email_analyses (raw) for re-analysis, not all_results
+        email_file = os.path.join(SURVEILLANCE_BASE_PATH, f'email_surveillance_{date_str}.json')
+        if os.path.exists(email_file):
+            print(f"📧 Loading email surveillance results from LOCAL file: {email_file}")
+            try:
+                with open(email_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                
+                # Extract trade instructions from the data structure
+                # Handle both email_analyses (raw) and all_results (analyzed) formats
+                if 'all_results' in data:
+                    all_results = data.get('all_results', [])
+                    print(f"📧 DEBUG: Found all_results with {len(all_results)} emails")
+                elif 'email_analyses' in data:
+                    # If we have raw emails, they need to be analyzed first
+                    print(f"⚠️  Warning: Local file contains email_analyses (raw emails) but no all_results (analyzed)")
+                    print(f"⚠️  Email-order validation requires analyzed emails. Please run Step 2 (AI analysis) first.")
+                    all_results = []
+                else:
+                    print(f"⚠️  DEBUG: File structure - keys: {list(data.keys())}")
+                    all_results = []
+                
+                # DEBUG: Check email structure and classification
+                print(f"📧 DEBUG: Analyzing {len(all_results)} emails for trade instructions...")
+                trade_instructions = []
+                for idx, email in enumerate(all_results):
+                    ai_analysis = email.get('ai_analysis', {})
+                    if not ai_analysis:
+                        print(f"   Email {idx+1}: No ai_analysis found")
+                        continue
+                    intent = ai_analysis.get('ai_email_intent', 'NOT_SET')
+                    if intent == 'trade_instruction':
+                        trade_instructions.append(email)
+                        print(f"   Email {idx+1}: ✅ trade_instruction - {email.get('subject', '')[:60]}")
+                    else:
+                        print(f"   Email {idx+1}: {intent} - {email.get('subject', '')[:60]}")
+                
+                print(f"📧 Loaded {len(trade_instructions)} trade instructions from email surveillance")
+                if len(trade_instructions) == 0 and len(all_results) > 0:
+                    print(f"⚠️  WARNING: {len(all_results)} emails analyzed but 0 classified as trade_instruction!")
+                    print(f"⚠️  This may indicate an issue with AI classification.")
+                return data
+            except Exception as e:
+                print(f"❌ Error loading email file from local: {e}")
+                import traceback
+                traceback.print_exc()
+                # Fall through to try S3
+        
+        # Try S3 as fallback - check Daily_Reports first (analyzed results), then Email_Data (raw)
+        if USE_S3 and S3_AVAILABLE:
+            # CRITICAL FIX: Check Daily_Reports first for analyzed results (all_results)
+            reports_s3_key = f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{date_str}/email_surveillance_{date_str}.json"
+            if s3_file_exists(reports_s3_key):
+                print(f"📧 Local file not found, trying S3 Daily_Reports: {reports_s3_key}")
+                try:
+                    temp_file = download_file_from_s3(reports_s3_key)
+                    with open(temp_file, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                    os.unlink(temp_file)
+                    
+                    if 'all_results' in data:
+                        all_results = data.get('all_results', [])
+                        print(f"✅ Found analyzed results (all_results) in S3 Daily_Reports: {len(all_results)} emails")
+                        trade_instructions = [e for e in all_results if e.get('ai_analysis', {}).get('ai_email_intent') == 'trade_instruction']
+                        print(f"📧 Loaded {len(trade_instructions)} trade instructions from S3")
+                        return data
+                    else:
+                        print(f"⚠️  S3 Daily_Reports file exists but doesn't contain all_results")
+                except Exception as e:
+                    print(f"❌ Error loading from S3 Daily_Reports: {e}")
+                    # Fall through to try Email_Data
+            
+            # Fallback: Try Email_Data (should contain email_analyses, not all_results)
+            s3_key = f"{S3_BASE_PREFIX}/Email_Data/{year}/{month_name}/email_surveillance_{date_str}.json"
+            if s3_file_exists(s3_key):
+                print(f"📧 Daily_Reports not found, trying S3 Email_Data: {s3_key}")
+                print(f"⚠️  Note: Email_Data contains email_analyses (raw), but we need all_results (analyzed)")
+                print(f"⚠️  This means Step 2 (AI analysis) may not have completed successfully")
+                try:
+                    temp_file = download_file_from_s3(s3_key)
+                    with open(temp_file, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                    os.unlink(temp_file)
+                    
+                    # Extract trade instructions from the data structure
+                    # Handle both email_analyses (raw) and all_results (analyzed) formats
+                    if 'all_results' in data:
+                        all_results = data.get('all_results', [])
+                        print(f"📧 DEBUG: Found all_results with {len(all_results)} emails")
+                    elif 'email_analyses' in data:
+                        # If we have raw emails, they need to be analyzed first
+                        print(f"⚠️  Warning: File contains email_analyses (raw emails) but no all_results (analyzed)")
+                        print(f"⚠️  Email-order validation requires analyzed emails. Please run Step 2 (AI analysis) first.")
+                        all_results = []
+                    else:
+                        print(f"⚠️  DEBUG: File structure - keys: {list(data.keys())}")
+                        all_results = []
+                    
+                    # DEBUG: Check email structure and classification
+                    print(f"📧 DEBUG: Analyzing {len(all_results)} emails for trade instructions...")
+                    trade_instructions = []
+                    for idx, email in enumerate(all_results):
+                        ai_analysis = email.get('ai_analysis', {})
+                        if not ai_analysis:
+                            print(f"   Email {idx+1}: No ai_analysis found")
+                            continue
+                        intent = ai_analysis.get('ai_email_intent', 'NOT_SET')
+                        if intent == 'trade_instruction':
+                            trade_instructions.append(email)
+                            print(f"   Email {idx+1}: ✅ trade_instruction - {email.get('subject', '')[:60]}")
+                        else:
+                            print(f"   Email {idx+1}: {intent} - {email.get('subject', '')[:60]}")
+                    
+                    print(f"📧 Loaded {len(trade_instructions)} trade instructions from email surveillance")
+                    if len(trade_instructions) == 0 and len(all_results) > 0:
+                        print(f"⚠️  WARNING: {len(all_results)} emails analyzed but 0 classified as trade_instruction!")
+                        print(f"⚠️  This may indicate an issue with AI classification.")
+                    return data
+                except Exception as e:
+                    print(f"❌ Error loading email file from S3: {e}")
+                    import traceback
+                    traceback.print_exc()
+                    return None
+            else:
+                print(f"⚠️ Email surveillance file not found in S3: {s3_key}")
+        
+        # Try local filesystem (fallback)
+        if not os.path.exists(email_file):
+            # Try current directory
+            email_file = f"email_surveillance_{date_str}.json"
+        if not os.path.exists(email_file):
+            # Try current directory
+            email_file = f"email_surveillance_{date_str}.json"
         
         if os.path.exists(email_file):
             print(f"📧 Loading email surveillance results from: {email_file}")
@@ -35,13 +207,43 @@ def load_email_surveillance_results(date_str):
                 data = json.load(f)
             
             # Extract trade instructions from the data structure
-            # Use all_results instead of trade_instructions.emails to get emails with multiple instructions
-            all_results = data.get('all_results', [])
-            trade_instructions = [email for email in all_results if email.get('ai_analysis', {}).get('ai_email_intent') == 'trade_instruction']
+            # Handle both email_analyses (raw) and all_results (analyzed) formats
+            if 'all_results' in data:
+                all_results = data.get('all_results', [])
+                print(f"📧 DEBUG: Found all_results with {len(all_results)} emails")
+            elif 'email_analyses' in data:
+                # If we have raw emails, they need to be analyzed first
+                print(f"⚠️  Warning: File contains email_analyses (raw emails) but no all_results (analyzed)")
+                print(f"⚠️  Email-order validation requires analyzed emails. Please run AI analysis first.")
+                all_results = []
+            else:
+                print(f"⚠️  DEBUG: File structure - keys: {list(data.keys())}")
+                all_results = []
+            
+            # DEBUG: Check email structure and classification
+            print(f"📧 DEBUG: Analyzing {len(all_results)} emails for trade instructions...")
+            trade_instructions = []
+            for idx, email in enumerate(all_results):
+                ai_analysis = email.get('ai_analysis', {})
+                if not ai_analysis:
+                    print(f"   Email {idx+1}: No ai_analysis found")
+                    continue
+                intent = ai_analysis.get('ai_email_intent', 'NOT_SET')
+                if intent == 'trade_instruction':
+                    trade_instructions.append(email)
+                    print(f"   Email {idx+1}: ✅ trade_instruction - {email.get('subject', '')[:60]}")
+                else:
+                    print(f"   Email {idx+1}: {intent} - {email.get('subject', '')[:60]}")
+            
             print(f"📧 Loaded {len(trade_instructions)} trade instructions from email surveillance")
+            if len(trade_instructions) == 0 and len(all_results) > 0:
+                print(f"⚠️  WARNING: {len(all_results)} emails analyzed but 0 classified as trade_instruction!")
+                print(f"⚠️  This may indicate an issue with AI classification.")
             return data
         else:
             print(f"❌ Email surveillance file not found: {email_file}")
+            if USE_S3 and S3_AVAILABLE:
+                print(f"💡 Tried S3: {S3_BASE_PREFIX}/Email_Data/{year}/{month_name}/email_surveillance_{date_str}.json")
             return None
             
     except Exception as e:
@@ -98,8 +300,52 @@ def load_kl_orders(date_str):
             return None
         
         month_name = month_names[month]
+        
+        # Try S3 first if enabled
+        if USE_S3 and S3_AVAILABLE:
+            # Try multiple possible S3 paths
+            order_file_patterns = [
+                f"{S3_BASE_PREFIX}/{month_name}/Order Files/OrderBook-Closed-{date_str}.csv",
+                f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{date_str}/OrderBook-Closed-{date_str}.csv",
+                f"{S3_BASE_PREFIX}/{month_name}/Order Files/OrderBook_Closed-{date_str}.csv",
+            ]
+            
+            order_file_s3_key = None
+            for pattern_key in order_file_patterns:
+                if s3_file_exists(pattern_key):
+                    order_file_s3_key = pattern_key
+                    print(f"📊 Found order file in S3: {order_file_s3_key}")
+                    break
+            
+            if order_file_s3_key:
+                try:
+                    df = read_csv_from_s3(order_file_s3_key)
+                    print(f"📊 Loaded {len(df)} orders from S3")
+                    
+                    # Filter for KL orders (User column starts with 'KL')
+                    kl_orders = df[df['User'].str.startswith('KL', na=False)]
+                    print(f"📊 Filtered to {len(kl_orders)} KL orders")
+                    return kl_orders
+                except Exception as e:
+                    print(f"❌ Error loading order file from S3: {e}")
+                    import traceback
+                    traceback.print_exc()
+                    return None
+            else:
+                print(f"⚠️ Order file not found in S3 for any pattern: {order_file_patterns}")
+        
+        # Try local filesystem
         order_file = f"{month_name}/Order Files/OrderBook-Closed-{date_str}.csv"
         print(f"📊 Loading KL orders from: {order_file}")
+        
+        if not os.path.exists(order_file):
+            # Try alternative path
+            alt_order_file = f"{month_name}/Daily_Reports/{date_str}/OrderBook-Closed-{date_str}.csv"
+            if os.path.exists(alt_order_file):
+                order_file = alt_order_file
+            else:
+                print(f"❌ Order file not found: {order_file} or {alt_order_file}")
+                return None
         
         df = pd.read_csv(order_file)
         
@@ -110,6 +356,8 @@ def load_kl_orders(date_str):
         return kl_orders
     except Exception as e:
         print(f"❌ Error loading KL orders: {e}")
+        import traceback
+        traceback.print_exc()
         return None
 
 def extract_client_code_from_email(email):
@@ -863,13 +1111,32 @@ def save_mapping_data(matches, date_str):
     
     output_file = f"{month_name}/Daily_Reports/{date_str}/email_order_mapping_{date_str}.json"
     
-    # Ensure directory exists
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    if USE_S3 and S3_AVAILABLE:
+        # Save to S3
+        s3_key = f"{S3_BASE_PREFIX}/{output_file}"
+        # Create temporary file to upload
+        import tempfile
+        with tempfile.NamedTemporaryFile(mode='w', suffix='.json', delete=False) as tmp_file:
+            json.dump(mapping_data, tmp_file, indent=2, default=str)
+            tmp_file_path = tmp_file.name
+        
+        try:
+            upload_file_to_s3(tmp_file_path, s3_key)
+            print(f"💾 Email-order mapping data saved to S3: {s3_key}")
+        finally:
+            # Clean up temp file
+            if os.path.exists(tmp_file_path):
+                os.unlink(tmp_file_path)
+    else:
+        # Save locally
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+        
+        with open(output_file, 'w') as f:
+            json.dump(mapping_data, f, indent=2, default=str)
+        
+        print(f"💾 Email-order mapping data saved: {output_file}")
     
-    with open(output_file, 'w') as f:
-        json.dump(mapping_data, f, indent=2, default=str)
-    
-    print(f"💾 Email-order mapping data saved: {output_file}")
     return mapping_data
 
 def normalize_order_id(order_id):
@@ -1175,8 +1442,26 @@ def main():
     print("📅 Step 2: Getting trade instructions...")
     # Use all_results instead of trade_instructions.emails to get complete email data with all instructions
     all_results = all_emails.get('all_results', [])
+    print(f"📧 DEBUG: Total emails in all_results: {len(all_results)}")
+    
+    # DEBUG: Show breakdown of email intents
+    intent_counts = {}
+    for email in all_results:
+        ai_analysis = email.get('ai_analysis', {})
+        intent = ai_analysis.get('ai_email_intent', 'NOT_SET') if ai_analysis else 'NO_ANALYSIS'
+        intent_counts[intent] = intent_counts.get(intent, 0) + 1
+    
+    print(f"📧 DEBUG: Email intent breakdown: {intent_counts}")
+    
     date_emails = [email for email in all_results if email.get('ai_analysis', {}).get('ai_email_intent') == 'trade_instruction']
     print(f"📧 Found {len(date_emails)} trade instructions")
+    
+    if len(date_emails) == 0:
+        print(f"⚠️  WARNING: No trade instructions found! This will result in 0 email matches.")
+        print(f"⚠️  Check if:")
+        print(f"   1. Emails were properly analyzed by complete_email_surveillance_system.py")
+        print(f"   2. AI classified emails as 'trade_instruction' (not 'trade_confirmation' or 'other')")
+        print(f"   3. The email_surveillance file contains 'all_results' with proper structure")
     
     # Step 3: Load KL orders
     print("📊 Step 3: Loading KL orders...")
