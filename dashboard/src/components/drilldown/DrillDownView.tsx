@@ -174,7 +174,8 @@ export const DrillDownView: React.FC<DrillDownViewProps> = ({
       }
       
       // Make request to export endpoint
-      const response = await fetch(`http://localhost:5001/api/surveillance/export/${metricType}?${params}`);
+      const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5001';
+      const response = await fetch(`${apiUrl}/api/surveillance/export/${metricType}?${params}`);
       
       if (!response.ok) {
         throw new Error(`Export failed: ${response.statusText}`);

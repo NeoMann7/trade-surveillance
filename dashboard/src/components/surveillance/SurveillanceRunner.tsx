@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { API_CONFIG } from '../../config/api';
 import { Card } from '../ui/card';
 import { Button } from '../ui/button';
 import { Progress } from '../ui/progress';
@@ -33,6 +34,15 @@ interface SurveillanceJob {
   excel_file_available?: boolean;
 }
 
+interface EmailProgress {
+  total_emails: number;
+  processed_emails: number;
+  successful_emails: number;
+  remaining_emails: number;
+  progress_percent: number;
+  timestamp: string;
+}
+
 interface SurveillanceResults {
   jobId: string;
   status: 'running' | 'completed' | 'failed';
@@ -43,6 +53,7 @@ interface SurveillanceResults {
     failedSteps: number;
     totalDuration: number;
   };
+  email_progress?: EmailProgress;
   metrics?: {
     totalTrades: number;
     emailMatches: number;
@@ -74,6 +85,7 @@ export const SurveillanceRunner: React.FC<SurveillanceRunnerProps> = ({
   const [jobHistory, setJobHistory] = useState<SurveillanceJob[]>([]);
   const [showCompletion, setShowCompletion] = useState(false);
   const [completionData, setCompletionData] = useState<any>(null);
+  const [emailProgress, setEmailProgress] = useState<EmailProgress | null>(null);
 
   // Load job history on component mount
   useEffect(() => {
@@ -82,7 +94,8 @@ export const SurveillanceRunner: React.FC<SurveillanceRunnerProps> = ({
 
   const loadJobHistory = async () => {
     try {
-      const response = await fetch('http://localhost:5001/api/surveillance/jobs/history');
+      const apiUrl = API_CONFIG.baseUrl;
+      const response = await fetch(`${apiUrl}/api/surveillance/jobs/history`);
       if (response.ok) {
         const data = await response.json();
         setJobHistory(data.jobs || []);
@@ -94,7 +107,8 @@ export const SurveillanceRunner: React.FC<SurveillanceRunnerProps> = ({
 
   const downloadReport = async (jobId: string) => {
     try {
-      const response = await fetch(`http://localhost:5001/api/surveillance/download/${jobId}`);
+      const apiUrl = API_CONFIG.baseUrl;
+      const response = await fetch(`${apiUrl}/api/surveillance/download/${jobId}`);
       if (response.ok) {
         const blob = await response.blob();
         const url = window.URL.createObjectURL(blob);
@@ -122,7 +136,8 @@ export const SurveillanceRunner: React.FC<SurveillanceRunnerProps> = ({
       setLogs([]);
       setSteps([]);
 
-      const response = await fetch('http://localhost:5001/api/surveillance/run', {
+      const apiUrl = API_CONFIG.baseUrl;
+      const response = await fetch(`${apiUrl}/api/surveillance/run`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -150,10 +165,16 @@ export const SurveillanceRunner: React.FC<SurveillanceRunnerProps> = ({
   const pollJobStatus = async (jobId: string) => {
     const poll = async () => {
       try {
-        const response = await fetch(`http://localhost:5001/api/surveillance/job/${jobId}`);
+        const apiUrl = API_CONFIG.baseUrl;
+        const response = await fetch(`${apiUrl}/api/surveillance/job/${jobId}`);
         if (!response.ok) return;
 
         const status = await response.json();
+        
+        // DEBUG: Log entire status to see what we're receiving
+        console.log('🔍 Full job status:', status);
+        console.log('🔍 Has email_progress?', 'email_progress' in status);
+        console.log('🔍 email_progress value:', status.email_progress);
         
         if (status.steps) {
           setSteps(status.steps);
@@ -165,6 +186,19 @@ export const SurveillanceRunner: React.FC<SurveillanceRunnerProps> = ({
         
         if (status.logs) {
           setLogs(status.logs);
+        }
+        
+        // Update email progress if available
+        if (status.email_progress) {
+          console.log('✅ Setting email progress:', status.email_progress);
+          setEmailProgress(status.email_progress);
+        } else {
+          console.log('⚠️ No email_progress in status');
+          // Clear progress if email step is not running
+          const emailStep = status.steps?.find((s: SurveillanceStep) => s.id === 2);
+          if (emailStep && emailStep.status !== 'running') {
+            setEmailProgress(null);
+          }
         }
 
         if (status.status === 'completed' || status.status === 'failed') {
@@ -354,6 +388,41 @@ export const SurveillanceRunner: React.FC<SurveillanceRunnerProps> = ({
                   <span className="text-sm font-medium text-blue-800">Current Step:</span>
                 </div>
                 <p className="text-sm text-blue-700 mt-1">{currentStep}</p>
+              </div>
+            )}
+            
+            {/* DEBUG: Always show emailProgress state */}
+            <div className="p-2 bg-gray-100 border border-gray-300 rounded text-xs">
+              <strong>DEBUG:</strong> emailProgress = {emailProgress ? JSON.stringify(emailProgress) : 'null'}
+            </div>
+            
+            {emailProgress ? (
+              <div className="p-3 bg-green-50 border border-green-200 rounded-lg">
+                <div className="flex items-center justify-between mb-2">
+                  <div className="flex items-center gap-2">
+                    <span className="text-sm font-medium text-green-800">📧 Email Processing:</span>
+                  </div>
+                  <span className="text-sm font-bold text-green-700">
+                    {emailProgress.processed_emails} / {emailProgress.total_emails}
+                  </span>
+                </div>
+                <div className="space-y-1">
+                  <div className="flex justify-between text-xs text-green-700">
+                    <span>Processed: {emailProgress.processed_emails}</span>
+                    <span>Remaining: {emailProgress.remaining_emails}</span>
+                  </div>
+                  <Progress 
+                    value={emailProgress.progress_percent} 
+                    className="h-2"
+                  />
+                  <div className="text-xs text-green-600 text-center">
+                    {emailProgress.progress_percent}% Complete
+                  </div>
+                </div>
+              </div>
+            ) : (
+              <div className="p-2 bg-yellow-50 border border-yellow-200 rounded text-xs text-yellow-800">
+                ⚠️ Email progress not available yet
               </div>
             )}
             

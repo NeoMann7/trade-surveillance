@@ -26,6 +26,30 @@ interface SidebarProps {
 
 const mockMonths: MonthData[] = [
   {
+    month: 'December',
+    year: 2025,
+    totalTrades: 0,
+    emailMatches: 0,
+    audioMatches: 0,
+    unmatchedOrders: 0,
+    discrepancies: 0,
+    lastUpdated: new Date('2025-12-01'),
+    hasRecentRun: false,
+    runStatus: 'pending'
+  },
+  {
+    month: 'November',
+    year: 2025,
+    totalTrades: 0,
+    emailMatches: 0,
+    audioMatches: 0,
+    unmatchedOrders: 0,
+    discrepancies: 0,
+    lastUpdated: new Date('2025-11-01'),
+    hasRecentRun: false,
+    runStatus: 'pending'
+  },
+  {
     month: 'October',
     year: 2025,
     totalTrades: 0,

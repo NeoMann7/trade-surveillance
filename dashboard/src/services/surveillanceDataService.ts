@@ -1,6 +1,8 @@
 // Data service to read real surveillance data from Excel and JSON files
 // This will be implemented to read from your actual surveillance output files
 
+import { API_CONFIG } from '../config/api';
+
 export interface RealOrder {
   id: string;
   orderId: string;
@@ -86,24 +88,38 @@ export interface RealDiscrepancy {
 }
 
 class SurveillanceDataService {
-  private baseUrl = 'http://localhost:5001/api/surveillance'; // Backend API endpoint
+  private baseUrl = API_CONFIG.baseUrl;
+  private apiBase = API_CONFIG.apiBase;
+  
+  constructor() {
+    // Debug: Log the API URL being used
+    console.log('🔧 SurveillanceDataService initialized with API URL:', this.baseUrl);
+    console.log('🔧 Environment variable REACT_APP_API_URL:', process.env.REACT_APP_API_URL);
+  }
 
   // Get real orders for a specific metric type and date
   async getOrdersForMetric(metricType: string, month: string, year: number, startDate?: string, endDate?: string): Promise<RealOrder[]> {
+    let url = `${this.apiBase}/orders/${year}/${month}/${metricType}`;
+    
+    // Add date filtering parameters if provided
+    const params = new URLSearchParams();
+    if (startDate) params.append('startDate', startDate);
+    if (endDate) params.append('endDate', endDate);
+    if (params.toString()) {
+      url += `?${params.toString()}`;
+    }
+    
     try {
-      let url = `${this.baseUrl}/orders/${year}/${month}/${metricType}`;
-      
-      // Add date filtering parameters if provided
-      const params = new URLSearchParams();
-      if (startDate) params.append('startDate', startDate);
-      if (endDate) params.append('endDate', endDate);
-      if (params.toString()) {
-        url += `?${params.toString()}`;
-      }
-      
       console.log(`Fetching orders from: ${url}`);
       // This will call your backend API to read from actual Excel files
-      const response = await fetch(url);
+      // Add cache-busting and ensure fresh data
+      const response = await fetch(url, {
+        cache: 'no-store',
+        headers: {
+          'Cache-Control': 'no-cache',
+          'Pragma': 'no-cache'
+        }
+      });
       console.log('Response status:', response.status);
       if (!response.ok) {
         throw new Error(`Failed to fetch orders: ${response.statusText}`);
@@ -113,16 +129,18 @@ class SurveillanceDataService {
       return data;
     } catch (error) {
       console.error('Error fetching orders:', error);
-      console.log('Falling back to mock data');
-      // Fallback to mock data for development
-      return this.getMockOrdersForMetric(metricType);
+      console.error('API URL attempted:', url);
+      console.error('Full error details:', error);
+      // Don't fallback to mock data - return empty array so user knows there's an issue
+      // This will help debug why API calls are failing
+      throw error; // Re-throw so caller knows the request failed
     }
   }
 
   // Get available dates for a month
   async getAvailableDates(year: number, month: string): Promise<{value: string, label: string, day: number, month: number, year: number}[]> {
     try {
-      const response = await fetch(`${this.baseUrl}/available-dates/${year}/${month}`);
+      const response = await fetch(`${this.apiBase}/available-dates/${year}/${month}`);
       if (!response.ok) {
         throw new Error(`Failed to fetch available dates: ${response.statusText}`);
       }
@@ -136,7 +154,7 @@ class SurveillanceDataService {
   // Get real audio evidence for an order
   async getAudioEvidence(orderId: string, date: string): Promise<RealAudioEvidence | null> {
     try {
-      const response = await fetch(`${this.baseUrl}/audio/${orderId}/${date}`);
+      const response = await fetch(`${this.apiBase}/audio/${orderId}/${date}`);
       if (!response.ok) {
         return null;
       }
@@ -150,7 +168,7 @@ class SurveillanceDataService {
   // Get real email evidence for an order
   async getEmailEvidence(orderId: string, date: string): Promise<RealEmailEvidence | null> {
     try {
-      const response = await fetch(`${this.baseUrl}/email/${orderId}/${date}`);
+      const response = await fetch(`${this.apiBase}/email/${orderId}/${date}`);
       if (!response.ok) {
         return null;
       }
@@ -164,7 +182,7 @@ class SurveillanceDataService {
   // Get real discrepancy details for an order
   async getDiscrepancyDetails(orderId: string, date: string): Promise<RealDiscrepancy | null> {
     try {
-      const response = await fetch(`${this.baseUrl}/discrepancy/${orderId}/${date}`);
+      const response = await fetch(`${this.apiBase}/discrepancy/${orderId}/${date}`);
       if (!response.ok) {
         return null;
       }

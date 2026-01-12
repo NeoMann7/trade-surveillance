@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Button } from '../ui/button';
 import { Calendar, Filter, X } from 'lucide-react';
+import { getApiUrl } from '../../config/api';
 
 export interface DateOption {
   value: string;  // DDMMYYYY format
@@ -33,12 +34,25 @@ export const DateFilter: React.FC<DateFilterProps> = ({
     const loadAvailableDates = async () => {
       setIsLoading(true);
       try {
-        const response = await fetch(`http://localhost:5001/api/surveillance/available-dates/${year}/${month}`);
+        const url = getApiUrl(`/api/surveillance/available-dates/${year}/${month}`);
+        console.log(`📅 Loading available dates for ${month} ${year}: ${url}`);
+        
+        // Add cache-busting to prevent stale data
+        const response = await fetch(url, {
+          cache: 'no-cache',
+          headers: {
+            'Cache-Control': 'no-cache',
+            'Pragma': 'no-cache'
+          }
+        });
+        
         if (response.ok) {
           const dates = await response.json();
+          console.log(`✅ Loaded ${dates.length} dates for ${month} ${year}`);
+          console.log(`   First date: ${dates[0]?.label}, Last date: ${dates[dates.length - 1]?.label}`);
           setAvailableDates(dates);
         } else {
-          console.error('Failed to load available dates');
+          console.error(`❌ Failed to load available dates: ${response.status} ${response.statusText}`);
         }
       } catch (error) {
         console.error('Error loading available dates:', error);
