@@ -76,6 +76,17 @@ function App() {
           surveillanceDataService.getOrdersForMetric('unmatchedOrders', 'December', 2025)
         ]);
 
+        // Fetch January 2026 data
+        const [januaryTotalTrades, januaryEmailMatches, januaryOmsMatches, januaryAudioMatches, januaryActualDiscrepancies, januaryReportingDiscrepancies, januaryUnmatchedOrders] = await Promise.all([
+          surveillanceDataService.getOrdersForMetric('totalTrades', 'January', 2026),
+          surveillanceDataService.getOrdersForMetric('emailMatches', 'January', 2026),
+          surveillanceDataService.getOrdersForMetric('omsMatches', 'January', 2026),
+          surveillanceDataService.getOrdersForMetric('audioMatches', 'January', 2026),
+          surveillanceDataService.getOrdersForMetric('discrepancies', 'January', 2026),
+          surveillanceDataService.getOrdersForMetric('reportingDiscrepancies', 'January', 2026),
+          surveillanceDataService.getOrdersForMetric('unmatchedOrders', 'January', 2026)
+        ]);
+
         setRealData(prev => ({
           ...prev,
           August: {
@@ -127,6 +138,16 @@ function App() {
             actualDiscrepancies: decemberActualDiscrepancies.length,
             reportingDiscrepancies: decemberReportingDiscrepancies.length,
             unmatchedOrders: decemberUnmatchedOrders.length
+          },
+          January: {
+            ...prev.January,
+            totalTrades: januaryTotalTrades.length,
+            emailMatches: januaryEmailMatches.length,
+            omsMatches: januaryOmsMatches.length,
+            audioMatches: januaryAudioMatches.length,
+            actualDiscrepancies: januaryActualDiscrepancies.length,
+            reportingDiscrepancies: januaryReportingDiscrepancies.length,
+            unmatchedOrders: januaryUnmatchedOrders.length
           }
         }));
       } catch (error) {
@@ -248,6 +269,19 @@ function App() {
     December: {
       month: 'December',
       year: 2025,
+      totalTrades: 0, // Will be fetched from backend
+      emailMatches: 0, // Will be fetched from backend
+      omsMatches: 0, // Will be fetched from backend
+      audioMatches: 0, // Will be fetched from backend
+      unmatchedOrders: 0, // Will be calculated
+      actualDiscrepancies: 0, // Will be fetched from backend
+      reportingDiscrepancies: 0, // Will be fetched from backend
+      cancelledOrders: 0, // Will be fetched from backend
+      rejectedOrders: 0 // Will be fetched from backend
+    },
+    January: {
+      month: 'January',
+      year: 2026,
       totalTrades: 0, // Will be fetched from backend
       emailMatches: 0, // Will be fetched from backend
       omsMatches: 0, // Will be fetched from backend

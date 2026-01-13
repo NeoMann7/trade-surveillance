@@ -105,17 +105,38 @@ def get_call_records_path(month):
     """Get call records path for month (works for both S3 and local)"""
     return f"{month}/Call Records"
 
-# Month paths (for backward compatibility)
+# Month paths (for backward compatibility) - All 12 months
+JANUARY_REPORTS_PATH = get_reports_path("January")
+FEBRUARY_REPORTS_PATH = get_reports_path("February")
+MARCH_REPORTS_PATH = get_reports_path("March")
+APRIL_REPORTS_PATH = get_reports_path("April")
+MAY_REPORTS_PATH = get_reports_path("May")
+JUNE_REPORTS_PATH = get_reports_path("June")
+JULY_REPORTS_PATH = get_reports_path("July")
 AUGUST_REPORTS_PATH = get_reports_path("August")
 SEPTEMBER_REPORTS_PATH = get_reports_path("September")
 OCTOBER_REPORTS_PATH = get_reports_path("October")
 NOVEMBER_REPORTS_PATH = get_reports_path("November")
 DECEMBER_REPORTS_PATH = get_reports_path("December")
+JANUARY_ORDER_FILES_PATH = get_order_files_path("January")
+FEBRUARY_ORDER_FILES_PATH = get_order_files_path("February")
+MARCH_ORDER_FILES_PATH = get_order_files_path("March")
+APRIL_ORDER_FILES_PATH = get_order_files_path("April")
+MAY_ORDER_FILES_PATH = get_order_files_path("May")
+JUNE_ORDER_FILES_PATH = get_order_files_path("June")
+JULY_ORDER_FILES_PATH = get_order_files_path("July")
 AUGUST_ORDER_FILES_PATH = get_order_files_path("August")
 SEPTEMBER_ORDER_FILES_PATH = get_order_files_path("September")
 OCTOBER_ORDER_FILES_PATH = get_order_files_path("October")
 NOVEMBER_ORDER_FILES_PATH = get_order_files_path("November")
 DECEMBER_ORDER_FILES_PATH = get_order_files_path("December")
+JANUARY_CALL_RECORDS_PATH = get_call_records_path("January")
+FEBRUARY_CALL_RECORDS_PATH = get_call_records_path("February")
+MARCH_CALL_RECORDS_PATH = get_call_records_path("March")
+APRIL_CALL_RECORDS_PATH = get_call_records_path("April")
+MAY_CALL_RECORDS_PATH = get_call_records_path("May")
+JUNE_CALL_RECORDS_PATH = get_call_records_path("June")
+JULY_CALL_RECORDS_PATH = get_call_records_path("July")
 AUGUST_CALL_RECORDS_PATH = get_call_records_path("August")
 SEPTEMBER_CALL_RECORDS_PATH = get_call_records_path("September")
 OCTOBER_CALL_RECORDS_PATH = get_call_records_path("October")
@@ -137,6 +158,13 @@ def _parse_percentage(value):
 def get_date_paths(year, month):
     """Get all available date paths for the given year/month - dynamically discovers dates"""
     month_to_path = {
+        "January": JANUARY_REPORTS_PATH,
+        "February": FEBRUARY_REPORTS_PATH,
+        "March": MARCH_REPORTS_PATH,
+        "April": APRIL_REPORTS_PATH,
+        "May": MAY_REPORTS_PATH,
+        "June": JUNE_REPORTS_PATH,
+        "July": JULY_REPORTS_PATH,
         "August": AUGUST_REPORTS_PATH,
         "September": SEPTEMBER_REPORTS_PATH,
         "October": OCTOBER_REPORTS_PATH,
@@ -144,7 +172,7 @@ def get_date_paths(year, month):
         "December": DECEMBER_REPORTS_PATH
     }
     
-    if month in month_to_path and year == 2025:
+    if month in month_to_path:
         reports_path = month_to_path[month]
         
         if USE_S3:
@@ -217,6 +245,13 @@ def get_month_paths_from_date(date_str):
         year = int(date_str[4:])
         
         month_to_paths = {
+            1: {"reports": JANUARY_REPORTS_PATH, "orders": JANUARY_ORDER_FILES_PATH, "calls": JANUARY_CALL_RECORDS_PATH},
+            2: {"reports": FEBRUARY_REPORTS_PATH, "orders": FEBRUARY_ORDER_FILES_PATH, "calls": FEBRUARY_CALL_RECORDS_PATH},
+            3: {"reports": MARCH_REPORTS_PATH, "orders": MARCH_ORDER_FILES_PATH, "calls": MARCH_CALL_RECORDS_PATH},
+            4: {"reports": APRIL_REPORTS_PATH, "orders": APRIL_ORDER_FILES_PATH, "calls": APRIL_CALL_RECORDS_PATH},
+            5: {"reports": MAY_REPORTS_PATH, "orders": MAY_ORDER_FILES_PATH, "calls": MAY_CALL_RECORDS_PATH},
+            6: {"reports": JUNE_REPORTS_PATH, "orders": JUNE_ORDER_FILES_PATH, "calls": JUNE_CALL_RECORDS_PATH},
+            7: {"reports": JULY_REPORTS_PATH, "orders": JULY_ORDER_FILES_PATH, "calls": JULY_CALL_RECORDS_PATH},
             8: {"reports": AUGUST_REPORTS_PATH, "orders": AUGUST_ORDER_FILES_PATH, "calls": AUGUST_CALL_RECORDS_PATH},
             9: {"reports": SEPTEMBER_REPORTS_PATH, "orders": SEPTEMBER_ORDER_FILES_PATH, "calls": SEPTEMBER_CALL_RECORDS_PATH},
             10: {"reports": OCTOBER_REPORTS_PATH, "orders": OCTOBER_ORDER_FILES_PATH, "calls": OCTOBER_CALL_RECORDS_PATH},
@@ -224,7 +259,7 @@ def get_month_paths_from_date(date_str):
             12: {"reports": DECEMBER_REPORTS_PATH, "orders": DECEMBER_ORDER_FILES_PATH, "calls": DECEMBER_CALL_RECORDS_PATH}
         }
         
-        if month_num in month_to_paths and year == 2025:
+        if month_num in month_to_paths:
             return month_to_paths[month_num]
     except (ValueError, IndexError):
         pass
@@ -344,6 +379,13 @@ def read_transcript(date_path, audio_filename):
 def get_order_file_paths(year, month):
     """Get all available order file paths for the given year/month"""
     month_to_order_dir = {
+        "January": JANUARY_ORDER_FILES_PATH,
+        "February": FEBRUARY_ORDER_FILES_PATH,
+        "March": MARCH_ORDER_FILES_PATH,
+        "April": APRIL_ORDER_FILES_PATH,
+        "May": MAY_ORDER_FILES_PATH,
+        "June": JUNE_ORDER_FILES_PATH,
+        "July": JULY_ORDER_FILES_PATH,
         "August": AUGUST_ORDER_FILES_PATH,
         "September": SEPTEMBER_ORDER_FILES_PATH,
         "October": OCTOBER_ORDER_FILES_PATH,
@@ -351,7 +393,7 @@ def get_order_file_paths(year, month):
         "December": DECEMBER_ORDER_FILES_PATH
     }
     
-    if month in month_to_order_dir and year == 2025:
+    if month in month_to_order_dir:
         # Get all order files for the month
         order_files = []
         order_dir = month_to_order_dir[month]
@@ -935,8 +977,10 @@ def upload_files():
                 # Order files go to Month/Daily_Reports/DDMMYYYY/
                 s3_key = f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{ddmmyyyy}/{filename}"
             elif file_type == 'ucc':
-                # UCC files go to root of S3_BASE_PREFIX
-                s3_key = f"{S3_BASE_PREFIX}/{filename}"
+                # UCC files go to month-specific folder (matches script expectations)
+                # Script expects: {S3_BASE_PREFIX}/{month_name}/UCC Database.xlsx
+                # Use "UCC Database.xlsx" (with space) instead of secure_filename which adds underscores
+                s3_key = f"{S3_BASE_PREFIX}/{month_name}/UCC Database.xlsx"
             else:
                 return jsonify({'error': f'Invalid file type: {file_type}. Supported types: audio, orders, ucc'}), 400
             
