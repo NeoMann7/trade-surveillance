@@ -118,7 +118,8 @@ export const EvidenceViewer: React.FC<EvidenceViewerProps> = ({
       const audio = new Audio();
       
       // Construct the audio file path with full backend URL
-      const audioPath = `http://localhost:5001/api/surveillance/audio-file/${audioEvidence.filename}`;
+      const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5001';
+      const audioPath = `${apiUrl}/api/surveillance/audio-file/${audioEvidence.filename}`;
       audio.src = audioPath;
       audio.volume = volume / 100;
       
@@ -160,7 +161,8 @@ export const EvidenceViewer: React.FC<EvidenceViewerProps> = ({
   const handleDownload = () => {
     if (type === 'audio') {
       const audioEvidence = evidence as AudioEvidence;
-      const audioPath = `http://localhost:5001/api/surveillance/audio-file/${audioEvidence.filename}`;
+      const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5001';
+      const audioPath = `${apiUrl}/api/surveillance/audio-file/${audioEvidence.filename}`;
       window.open(audioPath, '_blank');
     } else {
       console.log('Downloading evidence for order:', orderId);

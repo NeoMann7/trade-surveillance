@@ -18,9 +18,35 @@ import threading
 import uuid
 import shutil
 from werkzeug.utils import secure_filename
+from dotenv import load_dotenv
+from s3_utils import (
+    get_s3_key, s3_file_exists, read_excel_from_s3, read_csv_from_s3,
+    read_json_from_s3, read_text_from_s3, list_s3_objects, list_s3_directories,
+    upload_file_to_s3
+)
+
+# Load environment variables
+load_dotenv()
 
 app = Flask(__name__)
-CORS(app, origins=['http://localhost:3000', 'http://localhost:3001'])
+
+# CORS configuration from environment variable
+# CORS_ORIGINS should be a comma-separated list of allowed origins
+# Example: CORS_ORIGINS=http://localhost:3000,http://localhost:3001,https://your-frontend-url.trycloudflare.com
+CORS_ORIGINS_STR = os.getenv('CORS_ORIGINS', 'http://localhost:3000,http://localhost:3001')
+CORS_ORIGINS = [origin.strip() for origin in CORS_ORIGINS_STR.split(',') if origin.strip()]
+
+# Also allow the frontend URL from environment if specified
+FRONTEND_URL = os.getenv('FRONTEND_URL', '')
+if FRONTEND_URL and FRONTEND_URL not in CORS_ORIGINS:
+    CORS_ORIGINS.append(FRONTEND_URL)
+
+# Use CORS with the configured origins, or allow all if CORS_ORIGINS is empty
+if CORS_ORIGINS:
+    CORS(app, origins=CORS_ORIGINS, supports_credentials=True)
+else:
+    # Fallback: allow all origins (for development only)
+    CORS(app, origins='*', supports_credentials=True)
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -57,18 +83,66 @@ def get_recent_jobs():
     
     return recent_jobs
 
-# Base paths for surveillance data
-SURVEILLANCE_BASE_PATH = "/Users/Mann.Sanghvi/Desktop/code/trade-surveillance"
-AUGUST_REPORTS_PATH = os.path.join(SURVEILLANCE_BASE_PATH, "August", "Daily_Reports")
-SEPTEMBER_REPORTS_PATH = os.path.join(SURVEILLANCE_BASE_PATH, "September", "Daily_Reports")
-OCTOBER_REPORTS_PATH = os.path.join(SURVEILLANCE_BASE_PATH, "October", "Daily_Reports")
-AUGUST_ORDER_FILES_PATH = os.path.join(SURVEILLANCE_BASE_PATH, "August", "Order Files")
-SEPTEMBER_ORDER_FILES_PATH = os.path.join(SURVEILLANCE_BASE_PATH, "September", "Order Files")
-OCTOBER_ORDER_FILES_PATH = os.path.join(SURVEILLANCE_BASE_PATH, "October", "Order Files")
-AUGUST_CALL_RECORDS_PATH = os.path.join(SURVEILLANCE_BASE_PATH, "August", "Call Records")
-SEPTEMBER_CALL_RECORDS_PATH = os.path.join(SURVEILLANCE_BASE_PATH, "September", "Call Records")
-OCTOBER_CALL_RECORDS_PATH = os.path.join(SURVEILLANCE_BASE_PATH, "October", "Call Records")
-EMAIL_SURVEILLANCE_PATH = SURVEILLANCE_BASE_PATH
+# Base paths for surveillance data - now using S3
+# For S3, we use logical paths that map to S3 keys
+# Set USE_S3=true to use S3, otherwise use local filesystem (for development)
+USE_S3 = os.getenv('USE_S3', 'true').lower() == 'true'
+SURVEILLANCE_BASE_PATH = os.getenv('SURVEILLANCE_BASE_PATH', '/app/data')  # For local dev fallback
+
+# S3 base prefix (folder in S3 bucket)
+S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+
+# Logical paths (same structure for both S3 and local)
+def get_reports_path(month):
+    """Get reports path for month (works for both S3 and local)"""
+    return f"{month}/Daily_Reports"
+
+def get_order_files_path(month):
+    """Get order files path for month (works for both S3 and local)"""
+    return f"{month}/Order Files"
+
+def get_call_records_path(month):
+    """Get call records path for month (works for both S3 and local)"""
+    return f"{month}/Call Records"
+
+# Month paths (for backward compatibility) - All 12 months
+JANUARY_REPORTS_PATH = get_reports_path("January")
+FEBRUARY_REPORTS_PATH = get_reports_path("February")
+MARCH_REPORTS_PATH = get_reports_path("March")
+APRIL_REPORTS_PATH = get_reports_path("April")
+MAY_REPORTS_PATH = get_reports_path("May")
+JUNE_REPORTS_PATH = get_reports_path("June")
+JULY_REPORTS_PATH = get_reports_path("July")
+AUGUST_REPORTS_PATH = get_reports_path("August")
+SEPTEMBER_REPORTS_PATH = get_reports_path("September")
+OCTOBER_REPORTS_PATH = get_reports_path("October")
+NOVEMBER_REPORTS_PATH = get_reports_path("November")
+DECEMBER_REPORTS_PATH = get_reports_path("December")
+JANUARY_ORDER_FILES_PATH = get_order_files_path("January")
+FEBRUARY_ORDER_FILES_PATH = get_order_files_path("February")
+MARCH_ORDER_FILES_PATH = get_order_files_path("March")
+APRIL_ORDER_FILES_PATH = get_order_files_path("April")
+MAY_ORDER_FILES_PATH = get_order_files_path("May")
+JUNE_ORDER_FILES_PATH = get_order_files_path("June")
+JULY_ORDER_FILES_PATH = get_order_files_path("July")
+AUGUST_ORDER_FILES_PATH = get_order_files_path("August")
+SEPTEMBER_ORDER_FILES_PATH = get_order_files_path("September")
+OCTOBER_ORDER_FILES_PATH = get_order_files_path("October")
+NOVEMBER_ORDER_FILES_PATH = get_order_files_path("November")
+DECEMBER_ORDER_FILES_PATH = get_order_files_path("December")
+JANUARY_CALL_RECORDS_PATH = get_call_records_path("January")
+FEBRUARY_CALL_RECORDS_PATH = get_call_records_path("February")
+MARCH_CALL_RECORDS_PATH = get_call_records_path("March")
+APRIL_CALL_RECORDS_PATH = get_call_records_path("April")
+MAY_CALL_RECORDS_PATH = get_call_records_path("May")
+JUNE_CALL_RECORDS_PATH = get_call_records_path("June")
+JULY_CALL_RECORDS_PATH = get_call_records_path("July")
+AUGUST_CALL_RECORDS_PATH = get_call_records_path("August")
+SEPTEMBER_CALL_RECORDS_PATH = get_call_records_path("September")
+OCTOBER_CALL_RECORDS_PATH = get_call_records_path("October")
+NOVEMBER_CALL_RECORDS_PATH = get_call_records_path("November")
+DECEMBER_CALL_RECORDS_PATH = get_call_records_path("December")
+EMAIL_SURVEILLANCE_PATH = ""  # Root of surveillance data
 
 def _parse_percentage(value):
     """Parse percentage string to float"""
@@ -84,44 +158,82 @@ def _parse_percentage(value):
 def get_date_paths(year, month):
     """Get all available date paths for the given year/month - dynamically discovers dates"""
     month_to_path = {
+        "January": JANUARY_REPORTS_PATH,
+        "February": FEBRUARY_REPORTS_PATH,
+        "March": MARCH_REPORTS_PATH,
+        "April": APRIL_REPORTS_PATH,
+        "May": MAY_REPORTS_PATH,
+        "June": JUNE_REPORTS_PATH,
+        "July": JULY_REPORTS_PATH,
         "August": AUGUST_REPORTS_PATH,
         "September": SEPTEMBER_REPORTS_PATH,
-        "October": OCTOBER_REPORTS_PATH
+        "October": OCTOBER_REPORTS_PATH,
+        "November": NOVEMBER_REPORTS_PATH,
+        "December": DECEMBER_REPORTS_PATH
     }
     
-    if month in month_to_path and year == 2025:
+    if month in month_to_path:
         reports_path = month_to_path[month]
-        if not os.path.exists(reports_path):
-            return []
         
-        # Dynamically discover dates - include dates with any surveillance files (not just final reports)
-        # This allows showing in-progress surveillance dates
-        dates = []
-        for item in os.listdir(reports_path):
-            date_path = os.path.join(reports_path, item)
-            if os.path.isdir(date_path):
-                # Check if Final_Trade_Surveillance_Report exists (completed)
-                report_pattern = f"Final_Trade_Surveillance_Report_{item}_with_Email_and_Trade_Analysis.xlsx"
-                final_report_path = os.path.join(date_path, report_pattern)
+        if USE_S3:
+            # List directories in S3
+            s3_prefix = f"{S3_BASE_PREFIX}/{reports_path}/"
+            date_dirs = list_s3_directories(s3_prefix)
+            dates = []
+            
+            for date_dir in date_dirs:
+                # Extract date name from path (e.g., "August/Daily_Reports/01082025" -> "01082025")
+                date_name = date_dir.split('/')[-1] if '/' in date_dir else date_dir
+                date_s3_path = f"{reports_path}/{date_name}"
                 
-                # Also check for intermediate files (in-progress surveillance)
-                has_intermediate_files = any(
-                    os.path.exists(os.path.join(date_path, f))
-                    for f in [
-                        f"call_info_output_{item}.xlsx",
-                        f"audio_order_kl_orgtimestamp_validation_{item}.xlsx",
-                        f"order_transcript_analysis_{item}.xlsx",
-                        f"email_order_mapping_{item}.xlsx"
-                    ]
-                )
+                # Check if final report exists
+                report_key = f"{S3_BASE_PREFIX}/{date_s3_path}/Final_Trade_Surveillance_Report_{date_name}_with_Email_and_Trade_Analysis.xlsx"
                 
-                # Include if final report exists OR if intermediate files exist (in-progress)
-                if os.path.exists(final_report_path) or has_intermediate_files:
-                    dates.append(item)
-        
-        # Return sorted dates
-        return [os.path.join(reports_path, date) for date in sorted(dates)]
-    
+                # Check for intermediate files
+                intermediate_files = [
+                    f"{S3_BASE_PREFIX}/{date_s3_path}/call_info_output_{date_name}.xlsx",
+                    f"{S3_BASE_PREFIX}/{date_s3_path}/audio_order_kl_orgtimestamp_validation_{date_name}.xlsx",
+                    f"{S3_BASE_PREFIX}/{date_s3_path}/order_transcript_analysis_{date_name}.xlsx",
+                    f"{S3_BASE_PREFIX}/{date_s3_path}/email_order_mapping_{date_name}.xlsx"
+                ]
+                
+                has_intermediate_files = any(s3_file_exists(f) for f in intermediate_files)
+                
+                if s3_file_exists(report_key) or has_intermediate_files:
+                    dates.append(date_name)
+            
+            return [f"{reports_path}/{date}" for date in sorted(dates)]
+        else:
+            # Local filesystem
+            full_reports_path = os.path.join(SURVEILLANCE_BASE_PATH, reports_path)
+            if not os.path.exists(full_reports_path):
+                return []
+            
+            dates = []
+            for item in os.listdir(full_reports_path):
+                date_path = os.path.join(full_reports_path, item)
+                if os.path.isdir(date_path):
+                    # Check if Final_Trade_Surveillance_Report exists (completed)
+                    report_pattern = f"Final_Trade_Surveillance_Report_{item}_with_Email_and_Trade_Analysis.xlsx"
+                    final_report_path = os.path.join(date_path, report_pattern)
+                    
+                    # Also check for intermediate files (in-progress surveillance)
+                    has_intermediate_files = any(
+                        os.path.exists(os.path.join(date_path, f))
+                        for f in [
+                            f"call_info_output_{item}.xlsx",
+                            f"audio_order_kl_orgtimestamp_validation_{item}.xlsx",
+                            f"order_transcript_analysis_{item}.xlsx",
+                            f"email_order_mapping_{item}.xlsx"
+                        ]
+                    )
+                    
+                    # Include if final report exists OR if intermediate files exist (in-progress)
+                    if os.path.exists(final_report_path) or has_intermediate_files:
+                        dates.append(item)
+            
+            # Return sorted dates
+            return [os.path.join(reports_path, date) for date in sorted(dates)]
     return []
 
 def get_month_paths_from_date(date_str):
@@ -133,12 +245,21 @@ def get_month_paths_from_date(date_str):
         year = int(date_str[4:])
         
         month_to_paths = {
+            1: {"reports": JANUARY_REPORTS_PATH, "orders": JANUARY_ORDER_FILES_PATH, "calls": JANUARY_CALL_RECORDS_PATH},
+            2: {"reports": FEBRUARY_REPORTS_PATH, "orders": FEBRUARY_ORDER_FILES_PATH, "calls": FEBRUARY_CALL_RECORDS_PATH},
+            3: {"reports": MARCH_REPORTS_PATH, "orders": MARCH_ORDER_FILES_PATH, "calls": MARCH_CALL_RECORDS_PATH},
+            4: {"reports": APRIL_REPORTS_PATH, "orders": APRIL_ORDER_FILES_PATH, "calls": APRIL_CALL_RECORDS_PATH},
+            5: {"reports": MAY_REPORTS_PATH, "orders": MAY_ORDER_FILES_PATH, "calls": MAY_CALL_RECORDS_PATH},
+            6: {"reports": JUNE_REPORTS_PATH, "orders": JUNE_ORDER_FILES_PATH, "calls": JUNE_CALL_RECORDS_PATH},
+            7: {"reports": JULY_REPORTS_PATH, "orders": JULY_ORDER_FILES_PATH, "calls": JULY_CALL_RECORDS_PATH},
             8: {"reports": AUGUST_REPORTS_PATH, "orders": AUGUST_ORDER_FILES_PATH, "calls": AUGUST_CALL_RECORDS_PATH},
             9: {"reports": SEPTEMBER_REPORTS_PATH, "orders": SEPTEMBER_ORDER_FILES_PATH, "calls": SEPTEMBER_CALL_RECORDS_PATH},
-            10: {"reports": OCTOBER_REPORTS_PATH, "orders": OCTOBER_ORDER_FILES_PATH, "calls": OCTOBER_CALL_RECORDS_PATH}
+            10: {"reports": OCTOBER_REPORTS_PATH, "orders": OCTOBER_ORDER_FILES_PATH, "calls": OCTOBER_CALL_RECORDS_PATH},
+            11: {"reports": NOVEMBER_REPORTS_PATH, "orders": NOVEMBER_ORDER_FILES_PATH, "calls": NOVEMBER_CALL_RECORDS_PATH},
+            12: {"reports": DECEMBER_REPORTS_PATH, "orders": DECEMBER_ORDER_FILES_PATH, "calls": DECEMBER_CALL_RECORDS_PATH}
         }
         
-        if month_num in month_to_paths and year == 2025:
+        if month_num in month_to_paths:
             return month_to_paths[month_num]
     except (ValueError, IndexError):
         pass
@@ -148,100 +269,166 @@ def get_month_paths_from_date(date_str):
 
 def read_final_surveillance_report(date_path):
     """Read the final surveillance report Excel file"""
-    final_report_path = os.path.join(date_path, f"Final_Trade_Surveillance_Report_{os.path.basename(date_path)}_with_Email_and_Trade_Analysis.xlsx")
+    date_name = os.path.basename(date_path) if os.path.sep in date_path else date_path
+    filename = f"Final_Trade_Surveillance_Report_{date_name}_with_Email_and_Trade_Analysis.xlsx"
     
-    if not os.path.exists(final_report_path):
-        logger.warning(f"Final report not found: {final_report_path}")
-        return None
-    
-    try:
-        df = pd.read_excel(final_report_path)
-        return df
-    except Exception as e:
-        logger.error(f"Error reading final report {final_report_path}: {e}")
-        return None
+    if USE_S3:
+        # For S3: date_path is like "August/Daily_Reports/01082025"
+        s3_key = f"{S3_BASE_PREFIX}/{date_path}/{filename}" if date_path else f"{S3_BASE_PREFIX}/{filename}"
+        if not s3_file_exists(s3_key):
+            logger.warning(f"Final report not found in S3: {s3_key}")
+            return None
+        try:
+            df = read_excel_from_s3(s3_key)
+            return df
+        except Exception as e:
+            logger.error(f"Error reading final report from S3 {s3_key}: {e}")
+            return None
+    else:
+        # Local filesystem
+        final_report_path = os.path.join(SURVEILLANCE_BASE_PATH, date_path, filename) if date_path else os.path.join(SURVEILLANCE_BASE_PATH, filename)
+        if not os.path.exists(final_report_path):
+            logger.warning(f"Final report not found: {final_report_path}")
+            return None
+        try:
+            df = pd.read_excel(final_report_path)
+            return df
+        except Exception as e:
+            logger.error(f"Error reading final report {final_report_path}: {e}")
+            return None
 
 def read_email_mapping(date_path):
     """Read email mapping JSON file"""
-    email_mapping_path = os.path.join(date_path, f"email_order_mapping_{os.path.basename(date_path)}.json")
+    date_name = os.path.basename(date_path) if os.path.sep in date_path else date_path
+    filename = f"email_order_mapping_{date_name}.json"
     
-    if not os.path.exists(email_mapping_path):
-        return None
-    
-    try:
-        with open(email_mapping_path, 'r') as f:
-            return json.load(f)
-    except Exception as e:
-        logger.error(f"Error reading email mapping {email_mapping_path}: {e}")
-        return None
+    if USE_S3:
+        s3_key = f"{S3_BASE_PREFIX}/{date_path}/{filename}" if date_path else f"{S3_BASE_PREFIX}/{filename}"
+        if not s3_file_exists(s3_key):
+            return None
+        try:
+            return read_json_from_s3(s3_key)
+        except Exception as e:
+            logger.error(f"Error reading email mapping from S3 {s3_key}: {e}")
+            return None
+    else:
+        email_mapping_path = os.path.join(SURVEILLANCE_BASE_PATH, date_path, filename) if date_path else os.path.join(SURVEILLANCE_BASE_PATH, filename)
+        if not os.path.exists(email_mapping_path):
+            return None
+        try:
+            with open(email_mapping_path, 'r') as f:
+                return json.load(f)
+        except Exception as e:
+            logger.error(f"Error reading email mapping {email_mapping_path}: {e}")
+            return None
 
 def read_transcript(date_path, audio_filename):
     """Read transcript file for audio evidence"""
-    transcript_dir = os.path.join(date_path, f"transcripts_{os.path.basename(date_path)}")
+    date_name = os.path.basename(date_path) if os.path.sep in date_path else date_path
+    transcript_dir = f"{date_path}/transcripts_{date_name}" if date_path else f"transcripts_{date_name}"
     
     # PERMANENT FIX: Handle audio filename with or without extension
     # Transcript files are typically named: filename.mp3.txt or filename.wav.txt
     # But Excel might have filename without extension
     base_filename = audio_filename
+    transcript_candidates = []
+    
     if base_filename.endswith('.mp3') or base_filename.endswith('.wav'):
         # If extension is present, use it
-        transcript_file = os.path.join(transcript_dir, f"{base_filename}.txt")
+        transcript_candidates.append(f"{base_filename}.txt")
     else:
         # If no extension, try with .mp3 first (most common)
-        transcript_file = os.path.join(transcript_dir, f"{base_filename}.mp3.txt")
+        transcript_candidates.append(f"{base_filename}.mp3.txt")
+        transcript_candidates.append(f"{base_filename}.txt")
     
-    logger.info(f"Looking for transcript file: {transcript_file}")
-    logger.info(f"Transcript file exists: {os.path.exists(transcript_file)}")
-    
-    if not os.path.exists(transcript_file):
-        # Try without .mp3 extension (in case transcript is just filename.txt)
-        if not base_filename.endswith('.mp3') and not base_filename.endswith('.wav'):
-            transcript_file_alt = os.path.join(transcript_dir, f"{base_filename}.txt")
-            if os.path.exists(transcript_file_alt):
-                transcript_file = transcript_file_alt
-                logger.info(f"Found transcript without .mp3 extension: {transcript_file}")
-            else:
-                logger.warning(f"Transcript file not found: {transcript_file} or {transcript_file_alt}")
-                return None
-        else:
-            logger.warning(f"Transcript file not found: {transcript_file}")
-            return None
-    
-    try:
-        with open(transcript_file, 'r') as f:
-            content = f.read()
-            logger.info(f"Successfully read transcript file, length: {len(content)}")
-            return content
-    except Exception as e:
-        logger.error(f"Error reading transcript {transcript_file}: {e}")
+    if USE_S3:
+        # Try each candidate in S3
+        for transcript_filename in transcript_candidates:
+            s3_key = f"{S3_BASE_PREFIX}/{transcript_dir}/{transcript_filename}"
+            if s3_file_exists(s3_key):
+                logger.info(f"Found transcript in S3: {s3_key}")
+                try:
+                    content = read_text_from_s3(s3_key)
+                    logger.info(f"Successfully read transcript file, length: {len(content)}")
+                    return content
+                except Exception as e:
+                    logger.error(f"Error reading transcript from S3 {s3_key}: {e}")
+                    return None
+        
+        logger.warning(f"Transcript file not found in S3 for {audio_filename} in {transcript_dir}")
+        return None
+    else:
+        # Local filesystem
+        for transcript_filename in transcript_candidates:
+            transcript_file = os.path.join(SURVEILLANCE_BASE_PATH, transcript_dir, transcript_filename)
+            logger.info(f"Looking for transcript file: {transcript_file}")
+            if os.path.exists(transcript_file):
+                logger.info(f"Transcript file exists: {transcript_file}")
+                try:
+                    with open(transcript_file, 'r') as f:
+                        content = f.read()
+                        logger.info(f"Successfully read transcript file, length: {len(content)}")
+                    return content
+                except Exception as e:
+                    logger.error(f"Error reading transcript {transcript_file}: {e}")
+                    return None
+        
+        logger.warning(f"Transcript file not found for {audio_filename} in {transcript_dir}")
         return None
 
 def get_order_file_paths(year, month):
     """Get all available order file paths for the given year/month"""
     month_to_order_dir = {
+        "January": JANUARY_ORDER_FILES_PATH,
+        "February": FEBRUARY_ORDER_FILES_PATH,
+        "March": MARCH_ORDER_FILES_PATH,
+        "April": APRIL_ORDER_FILES_PATH,
+        "May": MAY_ORDER_FILES_PATH,
+        "June": JUNE_ORDER_FILES_PATH,
+        "July": JULY_ORDER_FILES_PATH,
         "August": AUGUST_ORDER_FILES_PATH,
         "September": SEPTEMBER_ORDER_FILES_PATH,
-        "October": OCTOBER_ORDER_FILES_PATH
+        "October": OCTOBER_ORDER_FILES_PATH,
+        "November": NOVEMBER_ORDER_FILES_PATH,
+        "December": DECEMBER_ORDER_FILES_PATH
     }
     
-    if month in month_to_order_dir and year == 2025:
+    if month in month_to_order_dir:
         # Get all order files for the month
         order_files = []
         order_dir = month_to_order_dir[month]
-        if os.path.exists(order_dir):
-            for filename in os.listdir(order_dir):
+        
+        if USE_S3:
+            s3_prefix = f"{S3_BASE_PREFIX}/{order_dir}/"
+            s3_objects = list_s3_objects(s3_prefix)
+            for obj_key in s3_objects:
+                filename = obj_key.split('/')[-1]
                 if filename.startswith('OrderBook-Closed-') and filename.endswith('.csv'):
-                    # Extract date from filename
-                    date_part = filename.replace('OrderBook-Closed-', '').replace('OrderBook_Closed-', '').replace('Orderbook-Closed-', '').replace('.csv', '')
-                    order_files.append(os.path.join(order_dir, filename))
+                    # Return relative path (without S3_BASE_PREFIX)
+                    relative_path = obj_key.replace(f"{S3_BASE_PREFIX}/", "")
+                    order_files.append(relative_path)
+        else:
+            full_order_dir = os.path.join(SURVEILLANCE_BASE_PATH, order_dir)
+            if os.path.exists(full_order_dir):
+                for filename in os.listdir(full_order_dir):
+                    if filename.startswith('OrderBook-Closed-') and filename.endswith('.csv'):
+                        order_files.append(os.path.join(order_dir, filename))
         return order_files
     return []
 
 def read_order_file(file_path):
     """Read order file and return DataFrame"""
     try:
-        df = pd.read_csv(file_path)
-        return df
+        if USE_S3:
+            # file_path is like "August/Order Files/filename.csv"
+            s3_key = f"{S3_BASE_PREFIX}/{file_path}"
+            df = read_csv_from_s3(s3_key)
+            return df
+        else:
+            # Local filesystem
+            full_path = os.path.join(SURVEILLANCE_BASE_PATH, file_path)
+            df = pd.read_csv(full_path)
+            return df
     except Exception as e:
         logger.error(f"Error reading order file {file_path}: {e}")
         return None
@@ -645,7 +832,7 @@ def serve_audio_file(filename):
             filenames_to_try.append(f"{filename}.wav")
         
         # Search all months for the file
-        for month_path in [AUGUST_CALL_RECORDS_PATH, SEPTEMBER_CALL_RECORDS_PATH, OCTOBER_CALL_RECORDS_PATH]:
+        for month_path in [AUGUST_CALL_RECORDS_PATH, SEPTEMBER_CALL_RECORDS_PATH, OCTOBER_CALL_RECORDS_PATH, NOVEMBER_CALL_RECORDS_PATH, DECEMBER_CALL_RECORDS_PATH]:
             if os.path.exists(month_path):
                 for root, dirs, files in os.walk(month_path):
                     for try_filename in filenames_to_try:
@@ -762,6 +949,71 @@ def upload_files():
                 logger.error(error_msg)
                 return jsonify({'error': error_msg}), 400
         
+        # Check if using S3
+        USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+        S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+        S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+        
+        if USE_S3 and S3_BUCKET_NAME:
+            # Upload to S3
+            logger.info(f"📦 Uploading to S3: {S3_BUCKET_NAME}")
+            
+            # Convert date to DDMMYYYY format for S3 path (matches existing structure)
+            date_obj = datetime.strptime(formatted_date, '%Y-%m-%d')
+            month_num = date_obj.month
+            ddmmyyyy = date_obj.strftime('%d%m%Y')
+            month_names = {
+                1: "January", 2: "February", 3: "March", 4: "April",
+                5: "May", 6: "June", 7: "July", 8: "August",
+                9: "September", 10: "October", 11: "November", 12: "December"
+            }
+            month_name = month_names.get(month_num, "Unknown")
+            
+            # Determine S3 path based on file type
+            if file_type == 'audio':
+                # Audio files go to Month/Call Records/Call_DDMMYYYY/
+                s3_key = f"{S3_BASE_PREFIX}/{month_name}/Call Records/Call_{ddmmyyyy}/{filename}"
+            elif file_type == 'orders':
+                # Order files go to Month/Daily_Reports/DDMMYYYY/
+                s3_key = f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{ddmmyyyy}/{filename}"
+            elif file_type == 'ucc':
+                # UCC files go to month-specific folder (matches script expectations)
+                # Script expects: {S3_BASE_PREFIX}/{month_name}/UCC Database.xlsx
+                # Use "UCC Database.xlsx" (with space) instead of secure_filename which adds underscores
+                s3_key = f"{S3_BASE_PREFIX}/{month_name}/UCC Database.xlsx"
+            else:
+                return jsonify({'error': f'Invalid file type: {file_type}. Supported types: audio, orders, ucc'}), 400
+            
+            # Save file temporarily, then upload to S3
+            import tempfile
+            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix=os.path.splitext(filename)[1])
+            try:
+                file.save(temp_file.name)
+                temp_file.close()
+                
+                # Upload to S3
+                upload_file_to_s3(temp_file.name, s3_key)
+                logger.info(f"✅ File uploaded to S3: s3://{S3_BUCKET_NAME}/{s3_key}")
+                
+                # Clean up temp file
+                os.unlink(temp_file.name)
+                
+                return jsonify({
+                    'status': 'success',
+                    'message': f'File {filename} uploaded successfully to S3',
+                    'file_type': file_type,
+                    'date': date,
+                    'destination': f's3://{S3_BUCKET_NAME}/{s3_key}'
+                })
+            except Exception as e:
+                # Clean up temp file on error
+                if os.path.exists(temp_file.name):
+                    os.unlink(temp_file.name)
+                raise
+        else:
+            # Local filesystem upload (fallback)
+            logger.info(f"📁 Uploading to local filesystem")
+        
         # Create uploads directory structure that FileDiscoveryMapper expects
         uploads_dir = os.path.join(SURVEILLANCE_BASE_PATH, "uploads", formatted_date)
         
@@ -769,15 +1021,12 @@ def upload_files():
         if file_type == 'audio':
             # Audio files go to uploads/YYYY-MM-DD/audios/
             dest_dir = os.path.join(uploads_dir, "audios")
-            
         elif file_type == 'orders':
             # Order files go to uploads/YYYY-MM-DD/orders/
             dest_dir = os.path.join(uploads_dir, "orders")
-            
         elif file_type == 'ucc':
             # UCC files go to uploads/YYYY-MM-DD/ucc/
             dest_dir = os.path.join(uploads_dir, "ucc")
-            
         else:
             return jsonify({'error': f'Invalid file type: {file_type}. Supported types: audio, orders, ucc'}), 400
         
@@ -856,6 +1105,10 @@ def run_surveillance():
 
 def run_surveillance_process(job_id, date):
     """Run the surveillance process in background with detailed step tracking"""
+    print(f"🔵 [DEBUG] run_surveillance_process started for job {job_id}, date {date}")
+    logger.info(f"🔵 [DEBUG] run_surveillance_process started for job {job_id}, date {date}")
+    import sys
+    sys.stdout.flush()
     try:
         job = surveillance_jobs[job_id]
         
@@ -916,6 +1169,9 @@ def run_surveillance_process(job_id, date):
             }
         ]
         
+        print(f"🔵 [DEBUG] Job initialized, about to execute {len(surveillance_steps)} steps")
+        logger.info(f"🔵 [DEBUG] Job initialized, about to execute {len(surveillance_steps)} steps")
+        
         # Initialize steps in job status
         job['steps'] = []
         for step in surveillance_steps:
@@ -944,9 +1200,15 @@ def run_surveillance_process(job_id, date):
             job['current_step'] = f"Running Step {step['id']}: {step['name']}"
             job['logs'].append(f"Starting Step {step['id']}: {step['name']}")
             
+            # DEBUG: Print step execution
+            print(f"🔵 [DEBUG] About to execute Step {step['id']}: {step['name']}")
+            logger.info(f"🔵 [DEBUG] About to execute Step {step['id']}: {step['name']}")
+            
             try:
                 # Execute the step
                 step_result = execute_surveillance_step(step, date, job_id)
+                print(f"🔵 [DEBUG] Step {step['id']} returned: success={step_result.get('success')}")
+                logger.info(f"🔵 [DEBUG] Step {step['id']} returned: success={step_result.get('success')}")
                 
                 step_end_time = datetime.now()
                 duration = (step_end_time - step_start_time).total_seconds()
@@ -956,21 +1218,38 @@ def run_surveillance_process(job_id, date):
                     job['steps'][i]['endTime'] = step_end_time.isoformat()
                     job['steps'][i]['duration'] = duration
                     job['logs'].append(f"✅ Step {step['id']} completed successfully in {duration:.2f}s")
-                    job['logs'].extend(step_result.get('logs', []))
+                    step_logs = step_result.get('logs', [])
+                    job['logs'].extend(step_logs)
+                    # Add logs to step's logs array for visibility
+                    job['steps'][i]['logs'].extend(step_logs)
                 else:
                     job['steps'][i]['status'] = 'failed'
                     job['steps'][i]['endTime'] = step_end_time.isoformat()
                     job['steps'][i]['duration'] = duration
                     job['steps'][i]['error'] = step_result['error']
                     job['logs'].append(f"❌ Step {step['id']} failed: {step_result['error']}")
-                    job['logs'].extend(step_result.get('logs', []))
+                    step_logs = step_result.get('logs', [])
+                    job['logs'].extend(step_logs)
+                    # Add logs to step's logs array for visibility
+                    job['steps'][i]['logs'].extend(step_logs)
                     
-                    # Stop execution on failure
-                    job['status'] = 'failed'
-                    job['current_step'] = f"Failed at Step {step['id']}: {step['name']}"
-                    job['error'] = step_result['error']
-                    job['completed_at'] = datetime.now().isoformat()
-                    return
+                    # NON-BLOCKING: Steps 2, 7, and 8 failures should not stop the pipeline
+                    # Step 2: Email Processing (may fail due to auth issues)
+                    # Step 7: Email-Order Validation (may fail if email processing was skipped)
+                    # Step 8: OMS Surveillance (may fail due to data issues)
+                    # Allow other steps to continue
+                    if step['id'] in [2, 7, 8]:  # Non-blocking steps
+                        step_name = step['name']
+                        job['logs'].append(f"⚠️ {step_name} failed, but continuing with other steps...")
+                        job['logs'].append(f"📋 Pipeline will continue to next step")
+                        # Continue to next step instead of returning
+                    else:
+                        # For other critical steps, stop execution on failure
+                        job['status'] = 'failed'
+                        job['current_step'] = f"Failed at Step {step['id']}: {step['name']}"
+                        job['error'] = step_result['error']
+                        job['completed_at'] = datetime.now().isoformat()
+                        return
                     
             except Exception as e:
                 step_end_time = datetime.now()
@@ -982,35 +1261,70 @@ def run_surveillance_process(job_id, date):
                 job['steps'][i]['error'] = str(e)
                 job['logs'].append(f"❌ Step {step['id']} failed with exception: {str(e)}")
                 
-                # Stop execution on failure
-                job['status'] = 'failed'
-                job['current_step'] = f"Failed at Step {step['id']}: {step['name']}"
-                job['error'] = str(e)
-                job['completed_at'] = datetime.now().isoformat()
-                return
+                # NON-BLOCKING: Steps 2, 7, and 8 exceptions should not stop the pipeline
+                # Step 2: Email Processing (may fail due to auth issues)
+                # Step 7: Email-Order Validation (may fail if email processing was skipped)
+                # Step 8: OMS Surveillance (may fail due to data issues)
+                if step['id'] in [2, 7, 8]:  # Non-blocking steps
+                    step_name = step['name']
+                    job['logs'].append(f"⚠️ {step_name} exception, but continuing with other steps...")
+                    job['logs'].append(f"📋 Pipeline will continue to next step")
+                    # Continue to next step instead of returning
+                else:
+                    # For other critical steps, stop execution on exception
+                    job['status'] = 'failed'
+                    job['current_step'] = f"Failed at Step {step['id']}: {step['name']}"
+                    job['error'] = str(e)
+                    job['completed_at'] = datetime.now().isoformat()
+                    return
         
-        # All steps completed successfully
-        job['status'] = 'completed'
-        job['current_step'] = 'Surveillance completed successfully'
-        job['logs'].append("🎉 All surveillance steps completed successfully!")
-        job['completed_at'] = datetime.now().isoformat()
+        # Check if any non-blocking steps failed but others succeeded
+        non_blocking_steps = [2, 7, 8]  # Email Processing, Email-Order Validation, OMS Surveillance
+        failed_non_blocking = []
+        for step_id in non_blocking_steps:
+            step = next((s for s in job['steps'] if s.get('id') == step_id), None)
+            if step and step.get('status') == 'failed':
+                step_name = next((s['name'] for s in surveillance_steps if s['id'] == step_id), f"Step {step_id}")
+                failed_non_blocking.append(step_name)
+        
+        if failed_non_blocking:
+            job['status'] = 'completed_with_warnings'
+            failed_steps_str = ', '.join(failed_non_blocking)
+            job['current_step'] = f'Completed with warnings ({failed_steps_str} failed, but other steps succeeded)'
+            job['logs'].append(f"⚠️ Job completed with warnings: {failed_steps_str} failed, but other steps completed successfully")
+            job['logs'].append("📋 Pipeline completed - non-critical steps failed but critical steps succeeded")
+        else:
+            job['status'] = 'completed'
+            job['current_step'] = 'Surveillance completed successfully'
+            job['logs'].append("🎉 All surveillance steps completed successfully!")
+            job['completed_at'] = datetime.now().isoformat()
         
         # Set Excel file path
-        month = int(date[2:4])
-        month_names = {
-            1: "January", 2: "February", 3: "March", 4: "April",
-            5: "May", 6: "June", 7: "July", 8: "August",
-            9: "September", 10: "October", 11: "November", 12: "December"
-        }
-        month_name = month_names.get(month, "Unknown")
-        excel_file_path = f"{month_name}/Daily_Reports/{date}/Final_Trade_Surveillance_Report_{date}_with_Email_and_Trade_Analysis.xlsx"
-        job['excel_file_path'] = excel_file_path
+        try:
+            month = int(date[2:4])
+            month_names = {
+                1: "January", 2: "February", 3: "March", 4: "April",
+                5: "May", 6: "June", 7: "July", 8: "August",
+                9: "September", 10: "October", 11: "November", 12: "December"
+            }
+            month_name = month_names.get(month, "Unknown")
+            excel_file_path = f"{month_name}/Daily_Reports/{date}/Final_Trade_Surveillance_Report_{date}_with_Email_and_Trade_Analysis.xlsx"
+            job['excel_file_path'] = excel_file_path
+        except Exception as e:
+            logger.warning(f"Error setting Excel file path: {e}")
+            job['excel_file_path'] = None
         
         # Update summary
-        completed_steps = len([step for step in job['steps'] if step['status'] == 'completed'])
-        failed_steps = len([step for step in job['steps'] if step['status'] == 'failed'])
-        job['summary']['completed_steps'] = completed_steps
-        job['summary']['failed_steps'] = failed_steps
+        try:
+            completed_steps = len([step for step in job['steps'] if step['status'] == 'completed'])
+            failed_steps = len([step for step in job['steps'] if step['status'] == 'failed'])
+            job['summary']['completed_steps'] = completed_steps
+            job['summary']['failed_steps'] = failed_steps
+        except Exception as e:
+            logger.warning(f"Error updating summary: {e}")
+        
+        # Log completion
+        logger.info(f"✅ Surveillance pipeline completed for job {job_id} with status: {job['status']}")
         
     except Exception as e:
         job = surveillance_jobs[job_id]
@@ -1027,15 +1341,45 @@ def execute_surveillance_step(step, date_str, job_id):
         job = surveillance_jobs[job_id]
         logs = []
         
+        # Helper function to add logs in real-time
+        def add_log(message):
+            logs.append(message)
+            # Also add to step's logs array for real-time visibility
+            step_index = next((idx for idx, s in enumerate(job.get('steps', [])) if s.get('id') == step['id']), None)
+            if step_index is not None:
+                job['steps'][step_index]['logs'].append(message)
+            # Also add to main job logs
+            job['logs'].append(message)
+        
         # Handle special steps
         if step.get('is_file_discovery_step', False):
-            return execute_file_discovery_step(date_str, logs)
+            result = execute_file_discovery_step(date_str, logs)
+            # Update logs in step
+            step_index = next((idx for idx, s in enumerate(job.get('steps', [])) if s.get('id') == step['id']), None)
+            if step_index is not None:
+                job['steps'][step_index]['logs'].extend(logs)
+            return result
         elif step.get('is_email_step', False):
-            return execute_email_processing_step(date_str, logs)
+            result = execute_email_processing_step(date_str, logs, add_log_callback=add_log)
+            # Update logs in step
+            step_index = next((idx for idx, s in enumerate(job.get('steps', [])) if s.get('id') == step['id']), None)
+            if step_index is not None:
+                job['steps'][step_index]['logs'].extend(logs)
+            return result
         elif step.get('is_oms_step', False):
-            return execute_oms_surveillance_step(date_str, logs)
+            result = execute_oms_surveillance_step(date_str, logs)
+            # Update logs in step
+            step_index = next((idx for idx, s in enumerate(job.get('steps', [])) if s.get('id') == step['id']), None)
+            if step_index is not None:
+                job['steps'][step_index]['logs'].extend(logs)
+            return result
         else:
-            return execute_regular_step(step, date_str, logs)
+            result = execute_regular_step(step, date_str, logs)
+            # Update logs in step
+            step_index = next((idx for idx, s in enumerate(job.get('steps', [])) if s.get('id') == step['id']), None)
+            if step_index is not None:
+                job['steps'][step_index]['logs'].extend(logs)
+            return result
             
     except Exception as e:
         return {
@@ -1159,131 +1503,298 @@ def execute_file_discovery_step(date_str, logs):
         logs.append(f"📋 Traceback: {traceback.format_exc()}")
         return {'success': False, 'error': str(e), 'logs': logs}
 
-def execute_email_processing_step(date_str, logs):
-    """Execute email processing step"""
+def execute_email_processing_step(date_str, logs, add_log_callback=None):
+    """Execute email processing step - now reads from S3 instead of processing"""
+    print(f"🔵 [DEBUG] execute_email_processing_step called for {date_str}")
+    logger.info(f"🔵 [DEBUG] execute_email_processing_step called for {date_str}")
+    
+    # Use callback if provided, otherwise just append to logs
+    def log(message):
+        logs.append(message)
+        if add_log_callback:
+            add_log_callback(message)
+        logger.info(message)
+    
     try:
-        # Note: We always run email processing to ensure latest results
-        # Even if file exists, we re-run to get fresh gpt-4.1 results
-        
         # Convert DDMMYYYY to YYYY-MM-DD format
         date_obj = datetime.strptime(date_str, '%d%m%Y')
         formatted_date = date_obj.strftime('%Y-%m-%d')
+        print(f"🔵 [DEBUG] Formatted date: {formatted_date}")
         
-        logs.append(f"📧 Processing emails for {formatted_date}...")
+        log(f"📧 Reading email data from S3 for {formatted_date}...")
         
-        # Import and use email processing
+        # Get S3 key for email data
+        year = date_obj.strftime('%Y')
+        month_names = {
+            1: "January", 2: "February", 3: "March", 4: "April",
+            5: "May", 6: "June", 7: "July", 8: "August",
+            9: "September", 10: "October", 11: "November", 12: "December"
+        }
+        month_name = month_names[date_obj.month]
+        
+        # S3 path: trade_surveillance/Email_Data/{year}/{month}/email_surveillance_{date}.json
+        s3_key = f"{S3_BASE_PREFIX}/Email_Data/{year}/{month_name}/email_surveillance_{date_str}.json"
+        
+        log(f"🔍 Looking for email data in S3: {s3_key}")
+        
+        # Check if file exists in S3
+        if not s3_file_exists(s3_key):
+            error_msg = f"Email data not found in S3: {s3_key}"
+            log(f"❌ {error_msg}")
+            log(f"💡 Please run the daily email fetch job first:")
+            log(f"   python email_fetch_daily_job.py {formatted_date}")
+            log(f"   OR")
+            log(f"   python email_fetch_daily_job.py {date_str}")
+            return {'success': False, 'error': error_msg, 'logs': logs}
+            
+        log(f"✅ Found email data in S3")
+        
+        # Download from S3 to local file (same location as before for compatibility)
+        from s3_utils import download_file_from_s3
+        expected_file = os.path.join(SURVEILLANCE_BASE_PATH, f'email_surveillance_{date_str}.json')
+        
         try:
-            # PERMANENT FIX: Add parent directory to sys.path to ensure import works
-            import sys
-            if SURVEILLANCE_BASE_PATH not in sys.path:
-                sys.path.insert(0, SURVEILLANCE_BASE_PATH)
+            # Download to temporary location first, then move to expected location
+            log(f"⬇️  Downloading email data from S3...")
+            temp_file = download_file_from_s3(s3_key)
+            import shutil
+            shutil.move(temp_file, expected_file)
+            log(f"✅ Downloaded email data from S3 to: {expected_file}")
             
-            # Set EMAIL_MODEL to gpt-4.1 (final model)
-            import os
-            os.environ['EMAIL_MODEL'] = 'gpt-4.1'
-            logs.append(f"🤖 Using gpt-4.1 model for email extraction")
-            
-            from email_processing.process_emails_by_date import process_emails_for_date
-            success = process_emails_for_date(formatted_date)
-            
-            if not success:
-                logs.append(f"❌ Email Processing failed - process_emails_for_date returned False!")
-                return {'success': False, 'error': 'Email processing failed - no emails processed', 'logs': logs}
-            
-            # PERMANENT FIX: Look for email file in SURVEILLANCE_BASE_PATH (not current working directory)
-            # The email processing script now saves files to the surveillance base directory
-            expected_file = os.path.join(SURVEILLANCE_BASE_PATH, f'email_surveillance_{date_str}.json')
-            
-            # CRITICAL: Wait for file to be created with retry mechanism
-            # Sometimes the file takes a moment to be written to disk
-            import time
-            import glob
-            
-            max_retries = 5
-            retry_delay = 1  # seconds
-            file_created = False
-            
-            for attempt in range(max_retries):
-                # Check for standardized filename (DDMMYYYY format)
-                if os.path.exists(expected_file):
-                    file_created = True
-                    logs.append(f"✅ Found email file: {expected_file}")
-                    break
-                
-                # Also check for YYYYMMDD format (in case old format still exists)
-                yyyymmdd = formatted_date.replace("-", "")
-                alt_file = os.path.join(SURVEILLANCE_BASE_PATH, f'email_surveillance_{yyyymmdd}.json')
-                if os.path.exists(alt_file):
-                    # Copy to standardized format
-                    import shutil
-                    shutil.copy2(alt_file, expected_file)
-                    file_created = True
-                    logs.append(f"✅ Found and copied email file: {alt_file} -> {expected_file}")
-                    break
-                
-                # Check for any matching file pattern in SURVEILLANCE_BASE_PATH
-                pattern = os.path.join(SURVEILLANCE_BASE_PATH, f"email_surveillance_*{yyyymmdd}*.json")
-                matching_files = glob.glob(pattern)
-                if matching_files:
-                    # Use the most recent file and copy to standardized name
-                    latest_file = max(matching_files, key=lambda x: os.path.getmtime(x))
-                    import shutil
-                    shutil.copy2(latest_file, expected_file)
-                    file_created = True
-                    logs.append(f"🔍 Found file with pattern match: {latest_file}")
-                    logs.append(f"📁 Copied to standardized name: {expected_file}")
-                    break
-                
-                if attempt < max_retries - 1:
-                    logs.append(f"⏳ Waiting for email file to be created (attempt {attempt + 1}/{max_retries})...")
-                    time.sleep(retry_delay)
-            
-            if not file_created:
-                error_msg = f"Email processing returned success but file not found after {max_retries} retries. Expected: {expected_file}"
-                logs.append(f"❌ {error_msg}")
-                logs.append(f"🔍 Final check for files matching pattern in {SURVEILLANCE_BASE_PATH}")
-                pattern = os.path.join(SURVEILLANCE_BASE_PATH, f"email_surveillance_*.json")
-                matching_files = glob.glob(pattern)
-                if matching_files:
-                    logs.append(f"📁 Found files: {matching_files}")
-                else:
-                    logs.append(f"⚠️  No matching files found - email processing may have failed silently")
+            # Verify file exists and is not empty
+            if not os.path.exists(expected_file):
+                error_msg = f"Downloaded file not found: {expected_file}"
+                log(f"❌ {error_msg}")
                 return {'success': False, 'error': error_msg, 'logs': logs}
             
-            # Verify file size (should not be empty)
+            # Verify file
             try:
                 file_size = os.path.getsize(expected_file)
                 if file_size == 0:
-                    logs.append(f"⚠️  WARNING: Email file is empty: {expected_file}")
+                    log(f"⚠️  WARNING: Email file is empty: {expected_file}")
                     return {'success': False, 'error': 'Email file is empty', 'logs': logs}
-                logs.append(f"✅ Email file verified: {expected_file} ({file_size} bytes)")
+                log(f"✅ Email file verified: {expected_file} ({file_size:,} bytes)")
                 
                 # Verify file content is valid JSON
                 try:
-                    import json
                     with open(expected_file, 'r') as f:
-                        json.load(f)
-                    logs.append(f"✅ Email file contains valid JSON")
+                        email_data = json.load(f)
+                    
+                    # FIX: Copy to comprehensive_dealing_emails_analysis.json for complete_email_surveillance_system.py
+                    # The file from S3 now has email_analyses (raw emails) which is what the system expects
+                    comprehensive_file = os.path.join(SURVEILLANCE_BASE_PATH, 'comprehensive_dealing_emails_analysis.json')
+                    shutil.copy2(expected_file, comprehensive_file)
+                    log(f"✅ Copied email data to: {comprehensive_file} (for AI analysis)")
+                    
+                    # Verify structure
+                    if 'email_analyses' in email_data:
+                        email_count = len(email_data['email_analyses'])
+                        log(f"✅ Email file contains email_analyses ({email_count} emails)")
+                    elif 'all_results' in email_data:
+                        email_count = len(email_data['all_results'])
+                        log(f"⚠️  WARNING: File contains all_results instead of email_analyses ({email_count} emails)")
+                    else:
+                        log(f"⚠️  WARNING: File structure unknown, keys: {list(email_data.keys())}")
+                        email_count = 0
+                    
+                    # CRITICAL FIX: Run complete_email_surveillance_system.py to perform AI analysis
+                    # This is what actually classifies emails as "trade_instruction" vs "other"
+                    print(f"🔵 [DEBUG] About to run AI analysis for {date_str}")
+                    log(f"🤖 Running AI analysis on {email_count} emails...")
+                    log(f"⏱️  This may take 5-15 minutes depending on email count...")
+                    logger.info(f"🤖 [Step 2] Starting AI analysis for {date_str}")
+                    # Try multiple possible paths
+                    possible_paths = [
+                        os.path.join(SURVEILLANCE_BASE_PATH, 'email_processing', 'complete_email_surveillance_system.py'),
+                        os.path.join(os.path.dirname(SURVEILLANCE_BASE_PATH), 'email_processing', 'complete_email_surveillance_system.py'),
+                        '/app/email_processing/complete_email_surveillance_system.py',  # Docker path
+                    ]
+                    email_system_script = None
+                    for path in possible_paths:
+                        if os.path.exists(path):
+                            email_system_script = path
+                            logger.info(f"✅ [Step 2] Found AI script at: {path}")
+                            break
+                    
+                    if not email_system_script:
+                        logger.warning(f"❌ [Step 2] AI script not found in any of these paths: {possible_paths}")
+                    
+                    print(f"🔵 [DEBUG] email_system_script = {email_system_script}")
+                    print(f"🔵 [DEBUG] Script exists: {os.path.exists(email_system_script) if email_system_script else False}")
+                    if email_system_script and os.path.exists(email_system_script):
+                        print(f"🔵 [DEBUG] ✅ Script found, about to execute: {email_system_script}")
+                        logger.info(f"📜 [Step 2] Executing: python3 {email_system_script}")
+                        log(f"📜 Executing: python3 {email_system_script}")
+                        log(f"📂 Working directory: {SURVEILLANCE_BASE_PATH}")
+                        import subprocess
+                        print(f"🔵 [DEBUG] Starting subprocess with real-time streaming...")
+                        logger.info(f"🚀 [Step 2] Starting subprocess for AI analysis with real-time logging...")
+                        
+                        # Use Popen for real-time output streaming
+                        process = subprocess.Popen(
+                            ['python3', email_system_script],
+                            stdout=subprocess.PIPE,
+                            stderr=subprocess.STDOUT,
+                            text=True,
+                            bufsize=1,
+                            universal_newlines=True,
+                            cwd=SURVEILLANCE_BASE_PATH
+                        )
+                        
+                        # Stream output in real-time
+                        log(f"🔄 AI analysis started, streaming output...")
+                        output_lines = []
+                        line_count = 0
+                        for line in iter(process.stdout.readline, ''):
+                            if line:
+                                line = line.strip()
+                                if line:  # Only log non-empty lines
+                                    output_lines.append(line)
+                                    line_count += 1
+                                    # Log important lines in real-time (API calls, progress, errors)
+                                    if any(keyword in line.upper() for keyword in ['API CALL', 'PROCESSING', 'EMAIL', 'ANALYZING', 'TRADE', 'INSTRUCTION', 'COMPLETE', 'ERROR', 'WARNING', 'PROGRESS', 'ANALYZED', 'TOTAL', 'SUMMARY', 'FINISHED', 'RETRYING']):
+                                        log(f"   {line}")
+                                    # Also log every 5th line to show general progress
+                                    elif line_count % 5 == 0:
+                                        log(f"   {line}")
+                        
+                        # Wait for process to complete
+                        process.wait()
+                        return_code = process.returncode
+                        
+                        logger.info(f"📊 [Step 2] Subprocess completed with return code: {return_code}")
+                        if return_code == 0:
+                            log(f"✅ AI analysis completed successfully")
+                            # Check if output file was created
+                            import glob
+                            output_files = glob.glob(os.path.join(SURVEILLANCE_BASE_PATH, 'complete_surveillance_results_*.json'))
+                            if output_files:
+                                latest_output = max(output_files, key=os.path.getctime)
+                                log(f"📄 AI analysis output: {latest_output}")
+                                
+                                # CRITICAL FIX: Save analyzed results (with all_results) back to email_surveillance file
+                                # This is what email_order_validation expects
+                                try:
+                                    with open(latest_output, 'r') as f:
+                                        analyzed_results = json.load(f)
+                                    
+                                    # Update the email_surveillance file with analyzed results (LOCALLY)
+                                    analyzed_email_file = os.path.join(SURVEILLANCE_BASE_PATH, f'email_surveillance_{date_str}.json')
+                                    with open(analyzed_email_file, 'w') as f:
+                                        json.dump(analyzed_results, f, indent=2)
+                                    log(f"✅ Updated email_surveillance_{date_str}.json with analyzed results (all_results)")
+                                    
+                                    # CRITICAL FIX: Upload analyzed results to S3 in Daily_Reports folder
+                                    # This ensures Step 7 can always find it, even if local file is lost
+                                    # We use a DIFFERENT S3 path to avoid overwriting email_analyses
+                                    from s3_utils import upload_file_to_s3
+                                    reports_s3_key = f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{date_str}/email_surveillance_{date_str}.json"
+                                    try:
+                                        upload_file_to_s3(analyzed_email_file, reports_s3_key)
+                                        log(f"✅ Uploaded analyzed results (all_results) to S3: {reports_s3_key}")
+                                        log(f"💡 Step 7 will read from this S3 location if local file is missing")
+                                    except Exception as upload_error:
+                                        log(f"⚠️  Warning: Could not upload analyzed results to S3: {upload_error}")
+                                        log(f"💡 Step 7 will try to read from local file: {analyzed_email_file}")
+                                    
+                                    log(f"💡 Note: Original email_analyses kept at: Email_Data/{year}/{month_name}/email_surveillance_{date_str}.json")
+                                    
+                                    # Log summary with detailed breakdown
+                                    trade_instructions = analyzed_results.get('trade_instructions', {}).get('total', 0)
+                                    all_results = analyzed_results.get('all_results', [])
+                                    total_emails = len(all_results) if all_results else 0
+                                    
+                                    # Count intents for debugging
+                                    intent_counts = {}
+                                    if all_results:
+                                        for email in all_results:
+                                            ai_analysis = email.get('ai_analysis', {})
+                                            intent = ai_analysis.get('ai_email_intent', 'NOT_SET') if ai_analysis else 'NO_ANALYSIS'
+                                            intent_counts[intent] = intent_counts.get(intent, 0) + 1
+                                    
+                                    log(f"📊 Analysis summary: {trade_instructions} trade instructions found out of {total_emails} total emails")
+                                    if intent_counts:
+                                        log(f"📊 Intent breakdown: {intent_counts}")
+                                    if trade_instructions == 0 and total_emails > 0:
+                                        log(f"⚠️  WARNING: {total_emails} emails analyzed but 0 classified as trade_instruction!")
+                                        log(f"⚠️  This may indicate an issue with AI classification or email content.")
+                                except Exception as e:
+                                    log(f"⚠️  Warning: Could not update email file with analyzed results: {e}")
+                        else:
+                            log(f"⚠️  AI analysis completed with warnings (return code: {return_code})")
+                            # Show last 20 lines of output
+                            if output_lines:
+                                log(f"📋 Last output lines:")
+                                for line in output_lines[-20:]:
+                                    log(f"   {line}")
+                    else:
+                        print(f"🔵 [DEBUG] ❌ Script not found! email_system_script = {email_system_script}")
+                        print(f"🔵 [DEBUG] Checked paths: {possible_paths}")
+                        log(f"⚠️  WARNING: complete_email_surveillance_system.py not found at {email_system_script}")
+                        log(f"⚠️  Emails will not be analyzed - they will remain as raw data")
+                        
                 except json.JSONDecodeError as e:
                     logs.append(f"⚠️  WARNING: Email file is not valid JSON: {e}")
-                    # Still return success as the file exists, but log the warning
+                    return {'success': False, 'error': f'Invalid JSON in email file: {e}', 'logs': logs}
+                except subprocess.TimeoutExpired as e:
+                    logs.append(f"⚠️  WARNING: AI analysis timed out after 30 minutes")
+                    logs.append(f"⚠️  Checking for partial results...")
+                    # Check if output file was created even after timeout
+                    import glob
+                    output_files = glob.glob(os.path.join(SURVEILLANCE_BASE_PATH, 'complete_surveillance_results_*.json'))
+                    if output_files:
+                        latest_output = max(output_files, key=os.path.getctime)
+                        logs.append(f"✅ Found output file despite timeout: {latest_output}")
+                        try:
+                            with open(latest_output, 'r') as f:
+                                analyzed_results = json.load(f)
+                            
+                            # Save results even if timed out
+                            analyzed_email_file = os.path.join(SURVEILLANCE_BASE_PATH, f'email_surveillance_{date_str}.json')
+                            with open(analyzed_email_file, 'w') as f:
+                                json.dump(analyzed_results, f, indent=2)
+                            logs.append(f"✅ Saved partial results to email_surveillance_{date_str}.json")
+                            
+                            # Upload to S3
+                            from s3_utils import upload_file_to_s3
+                            s3_key = f"{S3_BASE_PREFIX}/Email_Data/{year}/{month_name}/email_surveillance_{date_str}.json"
+                            upload_file_to_s3(analyzed_email_file, s3_key)
+                            logs.append(f"✅ Uploaded partial results to S3")
+                            
+                            trade_instructions = analyzed_results.get('trade_instructions', {}).get('total', 0)
+                            logs.append(f"📊 Partial analysis: {trade_instructions} trade instructions found")
+                        except Exception as save_error:
+                            logs.append(f"⚠️  Could not save partial results: {save_error}")
+                    else:
+                        logs.append(f"⚠️  No output file found - AI analysis did not produce results")
+                    # Still return success since file was loaded
                 except Exception as e:
-                    logs.append(f"⚠️  WARNING: Could not verify JSON: {e}")
+                    logs.append(f"⚠️  WARNING: Error during AI analysis: {str(e)}")
+                    import traceback
+                    logs.append(f"📋 Traceback: {traceback.format_exc()}")
+                    # Still return success since file was loaded
+                
+                log(f"✅ Email data loaded successfully from S3!")
+                return {'success': True, 'logs': logs}
                 
             except Exception as e:
                 error_msg = f"Error verifying email file: {str(e)}"
                 logs.append(f"❌ {error_msg}")
+                import traceback
+                logs.append(f"📋 Traceback: {traceback.format_exc()}")
                 return {'success': False, 'error': error_msg, 'logs': logs}
             
-            logs.append(f"✅ Email Processing completed successfully! File: {expected_file} ({file_size:,} bytes)")
-            return {'success': True, 'logs': logs}
-                
-        except ImportError:
-            logs.append(f"⚠️  Email processing module not available, skipping...")
-            return {'success': True, 'logs': logs}
+        except Exception as e:
+            error_msg = f"Error downloading email data from S3: {str(e)}"
+            logs.append(f"❌ {error_msg}")
+            import traceback
+            logs.append(f"📋 Traceback: {traceback.format_exc()}")
+            return {'success': False, 'error': error_msg, 'logs': logs}
             
     except Exception as e:
         logs.append(f"❌ Email Processing failed: {str(e)}")
+        import traceback
+        logs.append(f"📋 Traceback: {traceback.format_exc()}")
         return {'success': False, 'error': str(e), 'logs': logs}
 
 def execute_oms_surveillance_step(date_str, logs):
@@ -1309,20 +1820,24 @@ def execute_oms_surveillance_step(date_str, logs):
         logs.append(f"🔄 Running OMS surveillance for {oms_date_str}...")
         logs.append(f"   This will run all steps: fetch emails, parse, validate, and update Excel")
         
-        script_path = os.path.join(SURVEILLANCE_BASE_PATH, 'oms_surveillance', 'run_oms_surveillance.py')
+        # Try /app/ first (where scripts are in Docker), then SURVEILLANCE_BASE_PATH as fallback
+        script_path = os.path.join('/app', 'oms_surveillance', 'run_oms_surveillance.py')
+        if not os.path.exists(script_path):
+            script_path = os.path.join(SURVEILLANCE_BASE_PATH, 'oms_surveillance', 'run_oms_surveillance.py')
+        
         if not os.path.exists(script_path):
             logs.append(f"❌ OMS surveillance script not found: {script_path}")
             return {'success': False, 'error': f'OMS surveillance script not found: {script_path}', 'logs': logs}
         
-        # Execute the script with virtual environment
-        venv_python = os.path.join(SURVEILLANCE_BASE_PATH, 'august_env', 'bin', 'python')
-        logs.append(f"🔍 [PORTAL] Executing: {venv_python} {script_path} {oms_date_str}")
-        logs.append(f"🔍 [PORTAL] Working directory: {SURVEILLANCE_BASE_PATH}")
+        # Execute the script with system Python (no venv needed in Docker)
+        python_cmd = "python3"
+        logs.append(f"🔍 [PORTAL] Executing: {python_cmd} {script_path} {oms_date_str}")
+        logs.append(f"🔍 [PORTAL] Working directory: /app")
         logs.append(f"🔍 [PORTAL] Timeout: 3600 seconds (1 hour)")
         
         result = subprocess.run([
-            venv_python, script_path, oms_date_str
-        ], capture_output=True, text=True, cwd=SURVEILLANCE_BASE_PATH, timeout=3600)  # 1 hour timeout
+            python_cmd, script_path, oms_date_str
+        ], capture_output=True, text=True, cwd='/app', timeout=3600)  # 1 hour timeout
         
         logs.append(f"🔍 [PORTAL] Subprocess completed with return code: {result.returncode}")
         logs.append(f"🔍 [PORTAL] STDOUT length: {len(result.stdout)} characters")
@@ -1432,29 +1947,72 @@ def execute_oms_surveillance_step(date_str, logs):
 def execute_regular_step(step, date_str, logs):
     """Execute a regular surveillance step"""
     try:
-        script_path = os.path.join(SURVEILLANCE_BASE_PATH, step['script'])
+        # Scripts are in /app/, but SURVEILLANCE_BASE_PATH is /app/data (for data storage)
+        # Try /app/ first (where scripts are), then SURVEILLANCE_BASE_PATH as fallback
+        script_name = step['script']
+        script_path = os.path.join('/app', script_name)
         
         if not os.path.exists(script_path):
-            error_msg = f"Script not found: {script_path}"
+            # Fallback to SURVEILLANCE_BASE_PATH
+            script_path = os.path.join(SURVEILLANCE_BASE_PATH, script_name)
+        
+        if not os.path.exists(script_path):
+            error_msg = f"Script not found: {script_name} (checked /app/ and {SURVEILLANCE_BASE_PATH})"
             logs.append(f"❌ {error_msg}")
             return {'success': False, 'error': error_msg, 'logs': logs}
         
         logs.append(f"🔄 Running {step['name']}...")
+        logs.append(f"📜 Script: {script_path}")
         
-        # Execute the script with virtual environment
-        venv_python = os.path.join(SURVEILLANCE_BASE_PATH, 'august_env', 'bin', 'python')
+        # Special handling for email-order validation step - verify email file exists first
+        if step['name'] == 'Email-Order Validation & Mapping':
+            email_file = os.path.join(SURVEILLANCE_BASE_PATH, f'email_surveillance_{date_str}.json')
+            logs.append(f"🔍 Checking for email file: {email_file}")
+            if os.path.exists(email_file):
+                try:
+                    import json
+                    with open(email_file, 'r') as f:
+                        email_data = json.load(f)
+                    all_results = email_data.get('all_results', [])
+                    trade_instructions = [e for e in all_results if e.get('ai_analysis', {}).get('ai_email_intent') == 'trade_instruction']
+                    logs.append(f"📧 Email file found: {len(all_results)} total emails, {len(trade_instructions)} trade instructions")
+                    if len(trade_instructions) == 0:
+                        logs.append(f"⚠️  WARNING: No trade instructions found in email file!")
+                        logs.append(f"⚠️  Email matching will result in 0 matches.")
+                except Exception as e:
+                    logs.append(f"⚠️  Could not verify email file structure: {e}")
+            else:
+                logs.append(f"⚠️  WARNING: Email file not found at {email_file}")
+                logs.append(f"⚠️  Email-order validation may fail or produce 0 matches")
+        
+        # Execute the script - use system Python in Docker (no venv needed)
+        # Scripts are in /app/, run from /app/ directory
+        python_cmd = "python3"
         result = subprocess.run([
-            venv_python, script_path, date_str
-        ], capture_output=True, text=True, cwd=SURVEILLANCE_BASE_PATH)
+            python_cmd, script_path, date_str
+        ], capture_output=True, text=True, cwd='/app')
         
         if result.returncode == 0:
             logs.append(f"✅ {step['name']} completed successfully")
             if result.stdout.strip():
-                logs.extend(result.stdout.strip().split('\n')[-5:])  # Last 5 lines
+                # For email validation, show more output to debug matching
+                if step['name'] == 'Email-Order Validation & Mapping':
+                    stdout_lines = result.stdout.strip().split('\n')
+                    # Show lines with DEBUG, WARNING, or match counts
+                    important_lines = [line for line in stdout_lines if any(keyword in line for keyword in ['DEBUG', 'WARNING', 'Found', 'Matched', 'trade instruction'])]
+                    if important_lines:
+                        logs.append(f"📋 Key output from email validation:")
+                        logs.extend(important_lines[-20:])  # Last 20 important lines
+                    else:
+                        logs.extend(stdout_lines[-10:])  # Last 10 lines if no important lines
+                else:
+                    logs.extend(result.stdout.strip().split('\n')[-5:])  # Last 5 lines
             return {'success': True, 'logs': logs}
         else:
             error_msg = f"{step['name']} failed: {result.stderr}"
             logs.append(f"❌ {error_msg}")
+            if result.stdout.strip():
+                logs.append(f"📋 STDOUT: {result.stdout[-500:]}")
             return {'success': False, 'error': error_msg, 'logs': logs}
             
     except Exception as e:
@@ -1469,6 +2027,31 @@ def get_job_status(job_id):
             return jsonify({'error': 'Job not found'}), 404
         
         job = surveillance_jobs[job_id]
+        
+        # Check for email processing progress if email step exists (running or just completed)
+        # Also check if current_step mentions email processing
+        email_step = next((s for s in job.get('steps', []) if s.get('id') == 2), None)
+        is_email_processing = (
+            (email_step and email_step.get('status') in ['running', 'completed']) or
+            'email' in job.get('current_step', '').lower()
+        )
+        if is_email_processing:
+            # Check both /app/ (Docker) and SURVEILLANCE_BASE_PATH
+            progress_files = [
+                '/app/email_processing_progress.json',  # Docker location
+                os.path.join(SURVEILLANCE_BASE_PATH, 'email_processing_progress.json')  # Local/S3 fallback
+            ]
+            for progress_file in progress_files:
+                if os.path.exists(progress_file):
+                    try:
+                        with open(progress_file, 'r') as f:
+                            progress_data = json.load(f)
+                            job['email_progress'] = progress_data
+                            logger.info(f"Loaded email progress: {progress_data.get('processed_emails', 0)}/{progress_data.get('total_emails', 0)}")
+                            break
+                    except Exception as e:
+                        logger.warning(f"Could not read email progress file {progress_file}: {e}")
+        
         return jsonify(job)
         
     except Exception as e:
@@ -1591,26 +2174,20 @@ def get_orders_dataframe(year, month, metric_type, start_date=None, end_date=Non
             return pd.DataFrame()
         
         for date_path in date_paths:
-            final_report_path = os.path.join(date_path, f"Final_Trade_Surveillance_Report_{os.path.basename(date_path)}_with_Email_and_Trade_Analysis.xlsx")
+            logger.info(f"Processing date path: {date_path}")
+            df = read_final_surveillance_report(date_path)
+            if df is None:
+                logger.warning(f"No data found for {date_path}")
+                continue
             
-            if os.path.exists(final_report_path):
-                logger.info(f"Processing file: {final_report_path}")
-                try:
-                    df = pd.read_excel(final_report_path)
-                    logger.info(f"Loaded {len(df)} rows from {final_report_path}")
-                    
-                    # Filter orders by metric type
-                    filtered_df = filter_orders_by_metric(df, metric_type)
-                    logger.info(f"Filtered to {len(filtered_df)} orders for metric {metric_type}")
-                    
-                    if not filtered_df.empty:
-                        all_orders.append(filtered_df)
-                        
-                except Exception as e:
-                    logger.error(f"Error reading {final_report_path}: {e}")
-                    continue
-            else:
-                logger.warning(f"File not found: {final_report_path}")
+            logger.info(f"Loaded {len(df)} rows from {date_path}")
+            
+            # Filter orders by metric type
+            filtered_df = filter_orders_by_metric(df, metric_type)
+            logger.info(f"Filtered to {len(filtered_df)} orders for metric {metric_type}")
+            
+            if not filtered_df.empty:
+                all_orders.append(filtered_df)
         
         if not all_orders:
             logger.warning(f"No orders found for {metric_type}")
@@ -1701,4 +2278,5 @@ def test_endpoint():
 if __name__ == '__main__':
     # Use environment variable for debug mode, default to False for production
     debug_mode = os.environ.get('FLASK_DEBUG', 'False').lower() == 'true'
-    app.run(debug=debug_mode, port=5001)
+    port = int(os.getenv('PORT', 5001))
+    app.run(debug=debug_mode, port=port, host='0.0.0.0')

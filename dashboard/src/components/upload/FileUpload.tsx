@@ -127,7 +127,8 @@ export const FileUpload: React.FC<FileUploadProps> = ({
       formData.append('file_type', fileType.id);
       formData.append('date', selectedDate);
 
-      const response = await fetch('http://localhost:5001/api/upload/files', {
+      const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5001';
+      const response = await fetch(`${apiUrl}/api/upload/files`, {
         method: 'POST',
         body: formData,
       });
