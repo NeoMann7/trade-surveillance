@@ -122,24 +122,47 @@ export const FileUpload: React.FC<FileUploadProps> = ({
     setUploadedFiles(prev => [...prev, uploadedFile]);
 
     try {
-      const formData = new FormData();
-      formData.append('file', file);
-      formData.append('file_type', fileType.id);
-      formData.append('date', selectedDate);
-
       const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5001';
-      const response = await fetch(`${apiUrl}/api/upload/files`, {
-        method: 'POST',
-        body: formData,
-      });
+      
+      // Step 1: Get pre-signed URL from backend
+      const presignedUrlResponse = await fetch(
+        `${apiUrl}/api/upload/presigned-url?file_type=${fileType.id}&date=${selectedDate}&filename=${encodeURIComponent(file.name)}`,
+        {
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+        }
+      );
 
-      if (!response.ok) {
-        const errorData = await response.json().catch(() => ({ error: 'Unknown error' }));
-        throw new Error(errorData.error || `Upload failed: ${response.status} ${response.statusText}`);
+      if (!presignedUrlResponse.ok) {
+        const errorData = await presignedUrlResponse.json().catch(() => ({ error: 'Unknown error' }));
+        throw new Error(errorData.error || `Failed to get upload URL: ${presignedUrlResponse.statusText}`);
       }
 
-      await response.json();
+      const { url, fields, s3_key } = await presignedUrlResponse.json();
+
+      // Step 2: Upload directly to S3 using pre-signed URL
+      const s3FormData = new FormData();
       
+      // Add all fields from pre-signed POST
+      Object.keys(fields).forEach(key => {
+        s3FormData.append(key, fields[key]);
+      });
+      
+      // Add the file last (must be last field)
+      s3FormData.append('file', file);
+
+      const s3Response = await fetch(url, {
+        method: 'POST',
+        body: s3FormData,
+      });
+
+      if (!s3Response.ok) {
+        const errorText = await s3Response.text();
+        throw new Error(`S3 upload failed: ${s3Response.status} ${s3Response.statusText}. ${errorText}`);
+      }
+
       // Update file status
       setUploadedFiles(prev => 
         prev.map(f => 
