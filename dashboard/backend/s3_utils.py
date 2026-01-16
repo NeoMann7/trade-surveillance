@@ -255,5 +255,48 @@ def upload_file_to_s3(local_path, s3_key):
         logger.error(f"Error uploading {local_path} to S3: {e}")
         raise
 
+def generate_presigned_post_url(s3_key, expiration=3600, content_type=None, max_size_mb=100):
+    """
+    Generate a pre-signed POST URL for direct S3 upload from browser
+    
+    Args:
+        s3_key: S3 object key where file will be uploaded
+        expiration: URL expiration time in seconds (default 1 hour)
+        content_type: Optional content type restriction
+        max_size_mb: Maximum file size in MB
+    
+    Returns:
+        dict with 'url' and 'fields' for POST request
+    """
+    try:
+        s3_client = get_s3_client()
+        
+        # Prepare conditions for POST policy
+        conditions = []
+        fields = {}
+        
+        if content_type:
+            # For exact content type match, use 'eq' condition
+            conditions.append(['eq', '$Content-Type', content_type])
+            fields['Content-Type'] = content_type
+        
+        # Add file size limit
+        conditions.append(['content-length-range', 0, max_size_mb * 1024 * 1024])
+        
+        # Generate pre-signed POST URL
+        presigned_post = s3_client.generate_presigned_post(
+            Bucket=S3_BUCKET_NAME,
+            Key=s3_key,
+            Fields=fields,
+            Conditions=conditions,
+            ExpiresIn=expiration
+        )
+        
+        logger.info(f"Generated pre-signed POST URL for s3://{S3_BUCKET_NAME}/{s3_key}")
+        return presigned_post
+    except Exception as e:
+        logger.error(f"Error generating pre-signed POST URL for {s3_key}: {e}")
+        raise
+
 
 

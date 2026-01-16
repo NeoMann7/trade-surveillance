@@ -22,7 +22,7 @@ from dotenv import load_dotenv
 from s3_utils import (
     get_s3_key, s3_file_exists, read_excel_from_s3, read_csv_from_s3,
     read_json_from_s3, read_text_from_s3, list_s3_objects, list_s3_directories,
-    upload_file_to_s3
+    upload_file_to_s3, generate_presigned_post_url
 )
 
 # Load environment variables
@@ -908,6 +908,95 @@ def get_available_dates(year, month):
 def health_check():
     """Health check endpoint"""
     return jsonify({'status': 'healthy', 'timestamp': datetime.now().isoformat()})
+
+@app.route('/api/upload/presigned-url', methods=['GET'])
+def get_presigned_upload_url():
+    """
+    Generate pre-signed POST URL for direct S3 upload
+    This bypasses Render's WAF blocking multipart/form-data with Referer header
+    """
+    try:
+        # Get parameters from query string
+        file_type = request.args.get('file_type', 'audio')
+        date = request.args.get('date', '')
+        filename = request.args.get('filename', '')
+        
+        if not date:
+            return jsonify({'error': 'Date is required'}), 400
+        
+        if not filename:
+            return jsonify({'error': 'Filename is required'}), 400
+        
+        # Parse and validate date
+        try:
+            date_obj = datetime.strptime(date, '%Y-%m-%d')
+            formatted_date = date_obj.strftime('%Y-%m-%d')
+        except ValueError:
+            try:
+                date_obj = datetime.strptime(date, '%d%m%Y')
+                formatted_date = date_obj.strftime('%Y-%m-%d')
+            except ValueError:
+                return jsonify({'error': f'Invalid date format: "{date}". Expected YYYY-MM-DD'}), 400
+        
+        # Get S3 configuration
+        USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+        S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+        S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+        
+        if not USE_S3 or not S3_BUCKET_NAME:
+            return jsonify({'error': 'S3 is not configured'}), 500
+        
+        # Secure the filename
+        secure_name = secure_filename(filename)
+        
+        # Convert date to DDMMYYYY format for S3 path
+        month_num = date_obj.month
+        ddmmyyyy = date_obj.strftime('%d%m%Y')
+        month_names = {
+            1: "January", 2: "February", 3: "March", 4: "April",
+            5: "May", 6: "June", 7: "July", 8: "August",
+            9: "September", 10: "October", 11: "November", 12: "December"
+        }
+        month_name = month_names.get(month_num, "Unknown")
+        
+        # Determine S3 path based on file type
+        if file_type == 'audio':
+            s3_key = f"{S3_BASE_PREFIX}/{month_name}/Call Records/Call_{ddmmyyyy}/{secure_name}"
+            max_size_mb = 100
+            content_type = None  # Allow various audio formats
+        elif file_type == 'orders':
+            s3_key = f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{ddmmyyyy}/{secure_name}"
+            max_size_mb = 50
+            content_type = 'text/csv'
+        elif file_type == 'ucc':
+            # UCC files use fixed filename
+            s3_key = f"{S3_BASE_PREFIX}/{month_name}/UCC Database.xlsx"
+            max_size_mb = 20
+            content_type = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
+        else:
+            return jsonify({'error': f'Invalid file type: {file_type}. Supported types: audio, orders, ucc'}), 400
+        
+        # Generate pre-signed POST URL
+        presigned_post = generate_presigned_post_url(
+            s3_key=s3_key,
+            expiration=3600,  # 1 hour
+            content_type=content_type,
+            max_size_mb=max_size_mb
+        )
+        
+        logger.info(f"Generated pre-signed URL for {file_type} upload: {s3_key}")
+        
+        return jsonify({
+            'url': presigned_post['url'],
+            'fields': presigned_post['fields'],
+            's3_key': s3_key,
+            'file_type': file_type,
+            'date': date
+        })
+        
+    except Exception as e:
+        logger.error(f"Error generating pre-signed URL: {e}")
+        return jsonify({'error': str(e)}), 500
 
 @app.route('/api/upload/files', methods=['POST'])
 def upload_files():
