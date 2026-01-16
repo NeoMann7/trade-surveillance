@@ -151,15 +151,30 @@ export const FileUpload: React.FC<FileUploadProps> = ({
       // Add the file last (must be last field)
       s3FormData.append('file', file);
 
-      const s3Response = await fetch(url, {
-        method: 'POST',
-        body: s3FormData,
-      });
+      console.log('Uploading to S3:', url);
+      let s3Response;
+      try {
+        s3Response = await fetch(url, {
+          method: 'POST',
+          body: s3FormData,
+        });
+        console.log('S3 Response status:', s3Response.status, s3Response.statusText);
+        console.log('S3 Response headers:', Object.fromEntries(s3Response.headers.entries()));
+      } catch (fetchError) {
+        console.error('Fetch error:', fetchError);
+        throw new Error(`Network error during S3 upload: ${fetchError instanceof Error ? fetchError.message : 'Unknown error'}`);
+      }
 
-      if (!s3Response.ok) {
-        const errorText = await s3Response.text();
+      // S3 returns 204 No Content on successful upload
+      // 204 is considered "ok" by fetch API, but we should explicitly check
+      if (s3Response.status !== 204 && !s3Response.ok) {
+        const errorText = await s3Response.text().catch(() => 'Unable to read error response');
+        console.error('S3 upload failed:', s3Response.status, errorText);
         throw new Error(`S3 upload failed: ${s3Response.status} ${s3Response.statusText}. ${errorText}`);
       }
+
+      // Success - 204 No Content is expected
+      console.log('S3 upload successful');
 
       // Update file status
       setUploadedFiles(prev => 
@@ -172,14 +187,22 @@ export const FileUpload: React.FC<FileUploadProps> = ({
 
       return { ...uploadedFile, status: 'completed', progress: 100 };
     } catch (error) {
+      // Log detailed error for debugging
+      console.error('Upload error details:', {
+        error,
+        message: error instanceof Error ? error.message : String(error),
+        stack: error instanceof Error ? error.stack : undefined
+      });
+      
       // Update file status with error
+      const errorMessage = error instanceof Error ? error.message : 'Upload failed';
       setUploadedFiles(prev => 
         prev.map(f => 
           f.id === fileId 
             ? { 
                 ...f, 
                 status: 'failed', 
-                error: error instanceof Error ? error.message : 'Upload failed'
+                error: errorMessage
               }
             : f
         )
