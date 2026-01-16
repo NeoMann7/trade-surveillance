@@ -91,18 +91,6 @@ export const EvidenceViewer: React.FC<EvidenceViewerProps> = ({
     }
   };
 
-  const handleTimeUpdate = React.useCallback(() => {
-    if (audioElement) {
-      setCurrentTime(audioElement.currentTime);
-    }
-  }, [audioElement]);
-
-  const handleLoadedMetadata = React.useCallback(() => {
-    if (audioElement) {
-      setDuration(audioElement.duration);
-    }
-  }, [audioElement]);
-
   const handleSeek = (e: React.ChangeEvent<HTMLInputElement>) => {
     const newTime = parseFloat(e.target.value);
     setCurrentTime(newTime);
@@ -122,6 +110,14 @@ export const EvidenceViewer: React.FC<EvidenceViewerProps> = ({
       const audioPath = `${apiUrl}/api/surveillance/audio-file/${audioEvidence.filename}`;
       audio.src = audioPath;
       audio.volume = volume / 100;
+      
+      const handleTimeUpdate = () => {
+        setCurrentTime(audio.currentTime);
+      };
+      
+      const handleLoadedMetadata = () => {
+        setDuration(audio.duration);
+      };
       
       audio.addEventListener('timeupdate', handleTimeUpdate);
       audio.addEventListener('loadedmetadata', handleLoadedMetadata);
@@ -156,7 +152,7 @@ export const EvidenceViewer: React.FC<EvidenceViewerProps> = ({
         audio.pause();
       };
     }
-  }, [type, evidence, volume, handleTimeUpdate, handleLoadedMetadata]);
+  }, [type, evidence, volume]);
 
   const handleDownload = () => {
     if (type === 'audio') {

@@ -14,28 +14,6 @@ import {
   CheckCircle
 } from 'lucide-react';
 import { RealDiscrepancy } from '../../services/surveillanceDataService';
-  evidence: {
-    audio?: {
-      filename: string;
-      transcript: string;
-      timestamp: string;
-    };
-    email?: {
-      subject: string;
-      content: string;
-      timestamp: string;
-    };
-    order?: {
-      details: string;
-      timestamp: string;
-    };
-  };
-  status: 'OPEN' | 'INVESTIGATING' | 'RESOLVED' | 'DISMISSED';
-  createdAt: string;
-  updatedAt: string;
-  assignedTo?: string;
-  resolution?: string;
-}
 
 interface DiscrepancyDetailsProps {
   discrepancy: RealDiscrepancy;
