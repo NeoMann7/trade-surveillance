@@ -2,7 +2,6 @@ import React, { useState, useCallback, useRef } from 'react';
 import { Card } from '../ui/card';
 import { Button } from '../ui/button';
 import { Progress } from '../ui/progress';
-import { Badge } from '../ui/badge';
 import { Alert, AlertDescription } from '../ui/alert';
 import { 
   Upload, 
@@ -10,7 +9,6 @@ import {
   CheckCircle, 
   XCircle, 
   AlertCircle,
-  FolderOpen,
   Trash2
 } from 'lucide-react';
 
@@ -105,7 +103,7 @@ export const FileUpload: React.FC<FileUploadProps> = ({
     return null;
   };
 
-  const uploadFile = async (file: File, fileType: FileTypeConfig): Promise<UploadedFile> => {
+  const uploadFile = useCallback(async (file: File, fileType: FileTypeConfig): Promise<UploadedFile> => {
     const fileId = Math.random().toString(36).substr(2, 9);
     const uploadedFile: UploadedFile = {
       id: fileId,
@@ -140,7 +138,7 @@ export const FileUpload: React.FC<FileUploadProps> = ({
         throw new Error(errorData.error || `Failed to get upload URL: ${presignedUrlResponse.statusText}`);
       }
 
-      const { url, fields, s3_key } = await presignedUrlResponse.json();
+      const { url, fields } = await presignedUrlResponse.json();
 
       // Step 2: Upload directly to S3 using pre-signed URL
       const s3FormData = new FormData();
@@ -189,7 +187,7 @@ export const FileUpload: React.FC<FileUploadProps> = ({
 
       throw error;
     }
-  };
+  }, [selectedDate]);
 
   const handleFileSelect = useCallback(async (files: FileList | null) => {
     if (!files || !selectedFileType) return;
@@ -223,7 +221,7 @@ export const FileUpload: React.FC<FileUploadProps> = ({
     } catch (error) {
       console.error('Upload error:', error);
     }
-  }, [selectedFileType, onUploadComplete, selectedDate]);
+  }, [selectedFileType, onUploadComplete, selectedDate, uploadFile]);
 
   const handleDrop = useCallback((e: React.DragEvent) => {
     e.preventDefault();

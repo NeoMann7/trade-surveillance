@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Button } from '../ui/button';
-import { Calendar, Filter, X } from 'lucide-react';
+import { Filter, X } from 'lucide-react';
 import { getApiUrl } from '../../config/api';
 
 export interface DateOption {
@@ -69,7 +69,7 @@ export const DateFilter: React.FC<DateFilterProps> = ({
     setStartDate(null);
     setEndDate(null);
     onDateRangeChange(null, null);
-  }, [month, year]);
+  }, [month, year, onDateRangeChange]);
 
   const handleApplyFilter = () => {
     onDateRangeChange(startDate, endDate);

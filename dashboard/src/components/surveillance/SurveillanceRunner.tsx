@@ -5,7 +5,7 @@ import { Button } from '../ui/button';
 import { Progress } from '../ui/progress';
 import { Badge } from '../ui/badge';
 import { Alert, AlertDescription } from '../ui/alert';
-import { Calendar, Play, CheckCircle, XCircle, Clock, RefreshCw } from 'lucide-react';
+import { Calendar, Play, CheckCircle, XCircle, Clock } from 'lucide-react';
 
 interface SurveillanceStep {
   id: number;
