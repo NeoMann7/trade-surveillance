@@ -23,28 +23,6 @@ export const MetricCard: React.FC<MetricCardProps> = ({
   onClick,
   isCritical = false
 }) => {
-  const getChangeIcon = () => {
-    switch (changeType) {
-      case 'increase':
-        return <TrendingUp className="h-4 w-4 text-green-500" />;
-      case 'decrease':
-        return <TrendingDown className="h-4 w-4 text-red-500" />;
-      default:
-        return <Minus className="h-4 w-4 text-gray-500" />;
-    }
-  };
-
-  const getChangeColor = () => {
-    switch (changeType) {
-      case 'increase':
-        return 'text-green-600';
-      case 'decrease':
-        return 'text-red-600';
-      default:
-        return 'text-gray-600';
-    }
-  };
-
   return (
     <Card 
       className={`transition-all duration-200 hover:shadow-md ${

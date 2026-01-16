@@ -1,6 +1,6 @@
 import React from 'react';
 import { MetricCard } from './MetricCard';
-import { ChartLine, Mail, Mic, AlertTriangle, FileX, XCircle, Ban } from 'lucide-react';
+import { ChartLine, Mail, Mic, AlertTriangle, FileX } from 'lucide-react';
 import { MailOpen } from 'lucide-react';
 
 interface MonthSummaryProps {

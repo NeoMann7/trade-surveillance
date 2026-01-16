@@ -221,7 +221,7 @@ export const FileUpload: React.FC<FileUploadProps> = ({
     } catch (error) {
       console.error('Upload error:', error);
     }
-  }, [selectedFileType, onUploadComplete, selectedDate, uploadFile]);
+  }, [selectedFileType, onUploadComplete, uploadFile]);
 
   const handleDrop = useCallback((e: React.DragEvent) => {
     e.preventDefault();

@@ -14,15 +14,6 @@ import {
   CheckCircle
 } from 'lucide-react';
 import { RealDiscrepancy } from '../../services/surveillanceDataService';
-
-interface Discrepancy {
-  id: string;
-  orderId: string;
-  type: 'PRICE_MISMATCH' | 'QUANTITY_MISMATCH' | 'SYMBOL_MISMATCH' | 'TIMING_ISSUE' | 'AUDIO_ISSUE' | 'EMAIL_ISSUE';
-  severity: 'LOW' | 'MEDIUM' | 'HIGH' | 'CRITICAL';
-  description: string;
-  aiObservation: string;
-  recommendedAction: 'REVIEW' | 'INVESTIGATE' | 'REVERSE' | 'NONE';
   evidence: {
     audio?: {
       filename: string;

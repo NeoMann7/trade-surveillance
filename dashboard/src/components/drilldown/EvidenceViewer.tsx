@@ -91,17 +91,17 @@ export const EvidenceViewer: React.FC<EvidenceViewerProps> = ({
     }
   };
 
-  const handleTimeUpdate = () => {
+  const handleTimeUpdate = React.useCallback(() => {
     if (audioElement) {
       setCurrentTime(audioElement.currentTime);
     }
-  };
+  }, [audioElement]);
 
-  const handleLoadedMetadata = () => {
+  const handleLoadedMetadata = React.useCallback(() => {
     if (audioElement) {
       setDuration(audioElement.duration);
     }
-  };
+  }, [audioElement]);
 
   const handleSeek = (e: React.ChangeEvent<HTMLInputElement>) => {
     const newTime = parseFloat(e.target.value);
@@ -156,7 +156,7 @@ export const EvidenceViewer: React.FC<EvidenceViewerProps> = ({
         audio.pause();
       };
     }
-  }, [type, evidence, volume]);
+  }, [type, evidence, volume, handleTimeUpdate, handleLoadedMetadata]);
 
   const handleDownload = () => {
     if (type === 'audio') {
