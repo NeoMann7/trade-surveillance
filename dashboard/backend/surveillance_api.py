@@ -22,7 +22,7 @@ from dotenv import load_dotenv
 from s3_utils import (
     get_s3_key, s3_file_exists, read_excel_from_s3, read_csv_from_s3,
     read_json_from_s3, read_text_from_s3, list_s3_objects, list_s3_directories,
-    upload_file_to_s3, generate_presigned_post_url
+    upload_file_to_s3, generate_presigned_post_url, get_s3_client
 )
 
 # Load environment variables
@@ -908,6 +908,104 @@ def get_available_dates(year, month):
 def health_check():
     """Health check endpoint"""
     return jsonify({'status': 'healthy', 'timestamp': datetime.now().isoformat()})
+
+@app.route('/api/upload/verify', methods=['GET'])
+def verify_upload():
+    """
+    Verify if a file exists in S3 after upload
+    Useful for checking if upload succeeded despite CORS errors
+    """
+    try:
+        file_type = request.args.get('file_type', 'ucc')
+        date = request.args.get('date', '')
+        
+        if not date:
+            return jsonify({'error': 'Date is required'}), 400
+        
+        # Parse date
+        try:
+            date_obj = datetime.strptime(date, '%Y-%m-%d')
+        except ValueError:
+            try:
+                date_obj = datetime.strptime(date, '%d%m%Y')
+            except ValueError:
+                return jsonify({'error': f'Invalid date format: "{date}". Expected YYYY-MM-DD'}), 400
+        
+        # Get S3 configuration
+        USE_S3 = os.getenv('USE_S3', 'false').lower() == 'true'
+        S3_BUCKET_NAME = os.getenv('S3_BUCKET_NAME')
+        S3_BASE_PREFIX = os.getenv('S3_BASE_PREFIX', 'trade_surveillance')
+        
+        if not USE_S3 or not S3_BUCKET_NAME:
+            return jsonify({'error': 'S3 is not configured'}), 500
+        
+        # Convert date to DDMMYYYY format for S3 path
+        month_num = date_obj.month
+        ddmmyyyy = date_obj.strftime('%d%m%Y')
+        month_names = {
+            1: "January", 2: "February", 3: "March", 4: "April",
+            5: "May", 6: "June", 7: "July", 8: "August",
+            9: "September", 10: "October", 11: "November", 12: "December"
+        }
+        month_name = month_names.get(month_num, "Unknown")
+        
+        # Determine S3 path based on file type
+        if file_type == 'ucc':
+            s3_key = f"{S3_BASE_PREFIX}/{month_name}/UCC Database.xlsx"
+        elif file_type == 'audio':
+            # For audio, we'd need filename, but let's check if any audio files exist for this date
+            prefix = f"{S3_BASE_PREFIX}/{month_name}/Call Records/Call_{ddmmyyyy}/"
+            objects = list_s3_objects(prefix, max_keys=10)
+            return jsonify({
+                'exists': len(objects) > 0,
+                'file_count': len(objects),
+                'files': objects[:5],  # First 5 files (list_s3_objects returns list of keys)
+                's3_prefix': prefix
+            })
+        elif file_type == 'orders':
+            prefix = f"{S3_BASE_PREFIX}/{month_name}/Daily_Reports/{ddmmyyyy}/"
+            objects = list_s3_objects(prefix, max_keys=10)
+            return jsonify({
+                'exists': len(objects) > 0,
+                'file_count': len(objects),
+                'files': objects[:5],  # First 5 files
+                's3_prefix': prefix
+            })
+        else:
+            return jsonify({'error': f'Invalid file type: {file_type}'}), 400
+        
+        # Check if file exists
+        exists = s3_file_exists(s3_key)
+        
+        if exists:
+            # Get file metadata
+            try:
+                s3_client = get_s3_client()
+                response = s3_client.head_object(Bucket=S3_BUCKET_NAME, Key=s3_key)
+                return jsonify({
+                    'exists': True,
+                    's3_key': s3_key,
+                    'size': response.get('ContentLength', 0),
+                    'last_modified': response.get('LastModified', '').isoformat() if response.get('LastModified') else None,
+                    'etag': response.get('ETag', '').strip('"')
+                })
+            except Exception as e:
+                logger.error(f"Error getting file metadata: {e}")
+                return jsonify({
+                    'exists': True,
+                    's3_key': s3_key,
+                    'note': 'File exists but metadata unavailable'
+                })
+        else:
+            return jsonify({
+                'exists': False,
+                's3_key': s3_key,
+                'message': 'File not found in S3'
+            })
+        
+    except Exception as e:
+        logger.error(f"Error verifying upload: {e}")
+        return jsonify({'error': str(e)}), 500
 
 @app.route('/api/upload/presigned-url', methods=['GET'])
 def get_presigned_upload_url():

@@ -19,135 +19,44 @@ function App() {
     endDate: string | null;
   }>({ startDate: null, endDate: null });
 
-  // Fetch real data from backend
+  // Fetch real data from backend - OPTIMIZED: Use metrics endpoint (counts only, not full order lists)
   const fetchRealData = useCallback(async () => {
     try {
-        // Fetch August data
-        const [augustTotalTrades, augustEmailMatches, augustOmsMatches, augustAudioMatches, augustActualDiscrepancies, augustReportingDiscrepancies] = await Promise.all([
-          surveillanceDataService.getOrdersForMetric('totalTrades', 'August', 2025),
-          surveillanceDataService.getOrdersForMetric('emailMatches', 'August', 2025),
-          surveillanceDataService.getOrdersForMetric('omsMatches', 'August', 2025),
-          surveillanceDataService.getOrdersForMetric('audioMatches', 'August', 2025),
-          surveillanceDataService.getOrdersForMetric('discrepancies', 'August', 2025),
-          surveillanceDataService.getOrdersForMetric('reportingDiscrepancies', 'August', 2025)
-        ]);
-
-        // Fetch September data
-        const [septemberTotalTrades, septemberEmailMatches, septemberOmsMatches, septemberAudioMatches, septemberActualDiscrepancies, septemberReportingDiscrepancies, septemberUnmatchedOrders] = await Promise.all([
-          surveillanceDataService.getOrdersForMetric('totalTrades', 'September', 2025),
-          surveillanceDataService.getOrdersForMetric('emailMatches', 'September', 2025),
-          surveillanceDataService.getOrdersForMetric('omsMatches', 'September', 2025),
-          surveillanceDataService.getOrdersForMetric('audioMatches', 'September', 2025),
-          surveillanceDataService.getOrdersForMetric('discrepancies', 'September', 2025),
-          surveillanceDataService.getOrdersForMetric('reportingDiscrepancies', 'September', 2025),
-          surveillanceDataService.getOrdersForMetric('unmatchedOrders', 'September', 2025)
-        ]);
-
-        // Fetch October data
-        const [octoberTotalTrades, octoberEmailMatches, octoberOmsMatches, octoberAudioMatches, octoberActualDiscrepancies, octoberReportingDiscrepancies, octoberUnmatchedOrders] = await Promise.all([
-          surveillanceDataService.getOrdersForMetric('totalTrades', 'October', 2025),
-          surveillanceDataService.getOrdersForMetric('emailMatches', 'October', 2025),
-          surveillanceDataService.getOrdersForMetric('omsMatches', 'October', 2025),
-          surveillanceDataService.getOrdersForMetric('audioMatches', 'October', 2025),
-          surveillanceDataService.getOrdersForMetric('discrepancies', 'October', 2025),
-          surveillanceDataService.getOrdersForMetric('reportingDiscrepancies', 'October', 2025),
-          surveillanceDataService.getOrdersForMetric('unmatchedOrders', 'October', 2025)
-        ]);
-
-        // Fetch November data
-        const [novemberTotalTrades, novemberEmailMatches, novemberOmsMatches, novemberAudioMatches, novemberActualDiscrepancies, novemberReportingDiscrepancies, novemberUnmatchedOrders] = await Promise.all([
-          surveillanceDataService.getOrdersForMetric('totalTrades', 'November', 2025),
-          surveillanceDataService.getOrdersForMetric('emailMatches', 'November', 2025),
-          surveillanceDataService.getOrdersForMetric('omsMatches', 'November', 2025),
-          surveillanceDataService.getOrdersForMetric('audioMatches', 'November', 2025),
-          surveillanceDataService.getOrdersForMetric('discrepancies', 'November', 2025),
-          surveillanceDataService.getOrdersForMetric('reportingDiscrepancies', 'November', 2025),
-          surveillanceDataService.getOrdersForMetric('unmatchedOrders', 'November', 2025)
-        ]);
-
-        // Fetch December data
-        const [decemberTotalTrades, decemberEmailMatches, decemberOmsMatches, decemberAudioMatches, decemberActualDiscrepancies, decemberReportingDiscrepancies, decemberUnmatchedOrders] = await Promise.all([
-          surveillanceDataService.getOrdersForMetric('totalTrades', 'December', 2025),
-          surveillanceDataService.getOrdersForMetric('emailMatches', 'December', 2025),
-          surveillanceDataService.getOrdersForMetric('omsMatches', 'December', 2025),
-          surveillanceDataService.getOrdersForMetric('audioMatches', 'December', 2025),
-          surveillanceDataService.getOrdersForMetric('discrepancies', 'December', 2025),
-          surveillanceDataService.getOrdersForMetric('reportingDiscrepancies', 'December', 2025),
-          surveillanceDataService.getOrdersForMetric('unmatchedOrders', 'December', 2025)
-        ]);
-
-        // Fetch January 2026 data
-        const [januaryTotalTrades, januaryEmailMatches, januaryOmsMatches, januaryAudioMatches, januaryActualDiscrepancies, januaryReportingDiscrepancies, januaryUnmatchedOrders] = await Promise.all([
-          surveillanceDataService.getOrdersForMetric('totalTrades', 'January', 2026),
-          surveillanceDataService.getOrdersForMetric('emailMatches', 'January', 2026),
-          surveillanceDataService.getOrdersForMetric('omsMatches', 'January', 2026),
-          surveillanceDataService.getOrdersForMetric('audioMatches', 'January', 2026),
-          surveillanceDataService.getOrdersForMetric('discrepancies', 'January', 2026),
-          surveillanceDataService.getOrdersForMetric('reportingDiscrepancies', 'January', 2026),
-          surveillanceDataService.getOrdersForMetric('unmatchedOrders', 'January', 2026)
+        // Fetch all months in parallel using fast metrics endpoint (returns counts only)
+        const [augustMetrics, septemberMetrics, octoberMetrics, novemberMetrics, decemberMetrics, januaryMetrics] = await Promise.all([
+          surveillanceDataService.getMetricsForMonth('August', 2025),
+          surveillanceDataService.getMetricsForMonth('September', 2025),
+          surveillanceDataService.getMetricsForMonth('October', 2025),
+          surveillanceDataService.getMetricsForMonth('November', 2025),
+          surveillanceDataService.getMetricsForMonth('December', 2025),
+          surveillanceDataService.getMetricsForMonth('January', 2026)
         ]);
 
         setRealData(prev => ({
           ...prev,
           August: {
             ...prev.August,
-            totalTrades: augustTotalTrades.length,
-            emailMatches: augustEmailMatches.length,
-            omsMatches: augustOmsMatches.length,
-            audioMatches: augustAudioMatches.length,
-            actualDiscrepancies: augustActualDiscrepancies.length,
-            reportingDiscrepancies: augustReportingDiscrepancies.length,
-            unmatchedOrders: augustTotalTrades.length - augustEmailMatches.length - augustAudioMatches.length - augustOmsMatches.length
+            ...augustMetrics
           },
           September: {
             ...prev.September,
-            totalTrades: septemberTotalTrades.length,
-            emailMatches: septemberEmailMatches.length,
-            omsMatches: septemberOmsMatches.length,
-            audioMatches: septemberAudioMatches.length,
-            actualDiscrepancies: septemberActualDiscrepancies.length,
-            reportingDiscrepancies: septemberReportingDiscrepancies.length,
-            unmatchedOrders: septemberUnmatchedOrders.length
+            ...septemberMetrics
           },
           October: {
             ...prev.October,
-            totalTrades: octoberTotalTrades.length,
-            emailMatches: octoberEmailMatches.length,
-            omsMatches: octoberOmsMatches.length,
-            audioMatches: octoberAudioMatches.length,
-            actualDiscrepancies: octoberActualDiscrepancies.length,
-            reportingDiscrepancies: octoberReportingDiscrepancies.length,
-            unmatchedOrders: octoberUnmatchedOrders.length
+            ...octoberMetrics
           },
           November: {
             ...prev.November,
-            totalTrades: novemberTotalTrades.length,
-            emailMatches: novemberEmailMatches.length,
-            omsMatches: novemberOmsMatches.length,
-            audioMatches: novemberAudioMatches.length,
-            actualDiscrepancies: novemberActualDiscrepancies.length,
-            reportingDiscrepancies: novemberReportingDiscrepancies.length,
-            unmatchedOrders: novemberUnmatchedOrders.length
+            ...novemberMetrics
           },
           December: {
             ...prev.December,
-            totalTrades: decemberTotalTrades.length,
-            emailMatches: decemberEmailMatches.length,
-            omsMatches: decemberOmsMatches.length,
-            audioMatches: decemberAudioMatches.length,
-            actualDiscrepancies: decemberActualDiscrepancies.length,
-            reportingDiscrepancies: decemberReportingDiscrepancies.length,
-            unmatchedOrders: decemberUnmatchedOrders.length
+            ...decemberMetrics
           },
           January: {
             ...prev.January,
-            totalTrades: januaryTotalTrades.length,
-            emailMatches: januaryEmailMatches.length,
-            omsMatches: januaryOmsMatches.length,
-            audioMatches: januaryAudioMatches.length,
-            actualDiscrepancies: januaryActualDiscrepancies.length,
-            reportingDiscrepancies: januaryReportingDiscrepancies.length,
-            unmatchedOrders: januaryUnmatchedOrders.length
+            ...januaryMetrics
           }
         }));
       } catch (error) {
@@ -159,7 +68,7 @@ function App() {
     fetchRealData();
   }, [fetchRealData]);
 
-  // Fetch filtered data when date filter changes
+  // Fetch filtered data when date filter changes - OPTIMIZED: Use metrics endpoint
   useEffect(() => {
     const fetchFilteredData = async () => {
       if (!dateFilter.startDate && !dateFilter.endDate) {
@@ -167,28 +76,19 @@ function App() {
       }
 
       try {
-        const currentYear = 2025;
-        const [filteredTotalTrades, filteredEmailMatches, filteredOmsMatches, filteredAudioMatches, filteredActualDiscrepancies, filteredReportingDiscrepancies, filteredUnmatchedOrders] = await Promise.all([
-          surveillanceDataService.getOrdersForMetric('totalTrades', selectedMonth, currentYear, dateFilter.startDate || undefined, dateFilter.endDate || undefined),
-          surveillanceDataService.getOrdersForMetric('emailMatches', selectedMonth, currentYear, dateFilter.startDate || undefined, dateFilter.endDate || undefined),
-          surveillanceDataService.getOrdersForMetric('omsMatches', selectedMonth, currentYear, dateFilter.startDate || undefined, dateFilter.endDate || undefined),
-          surveillanceDataService.getOrdersForMetric('audioMatches', selectedMonth, currentYear, dateFilter.startDate || undefined, dateFilter.endDate || undefined),
-          surveillanceDataService.getOrdersForMetric('discrepancies', selectedMonth, currentYear, dateFilter.startDate || undefined, dateFilter.endDate || undefined),
-          surveillanceDataService.getOrdersForMetric('reportingDiscrepancies', selectedMonth, currentYear, dateFilter.startDate || undefined, dateFilter.endDate || undefined),
-          surveillanceDataService.getOrdersForMetric('unmatchedOrders', selectedMonth, currentYear, dateFilter.startDate || undefined, dateFilter.endDate || undefined)
-        ]);
+        const currentYear = selectedMonth === 'January' ? 2026 : 2025;
+        const metrics = await surveillanceDataService.getMetricsForMonth(
+          selectedMonth, 
+          currentYear, 
+          dateFilter.startDate || undefined, 
+          dateFilter.endDate || undefined
+        );
 
         setRealData(prev => ({
           ...prev,
           [selectedMonth]: {
             ...prev[selectedMonth as keyof typeof prev],
-            totalTrades: filteredTotalTrades.length,
-            emailMatches: filteredEmailMatches.length,
-            omsMatches: filteredOmsMatches.length,
-            audioMatches: filteredAudioMatches.length,
-            actualDiscrepancies: filteredActualDiscrepancies.length,
-            reportingDiscrepancies: filteredReportingDiscrepancies.length,
-            unmatchedOrders: filteredUnmatchedOrders.length
+            ...metrics
           }
         }));
       } catch (error) {

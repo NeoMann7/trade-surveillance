@@ -91,10 +91,50 @@ class SurveillanceDataService {
   private baseUrl = API_CONFIG.baseUrl;
   private apiBase = API_CONFIG.apiBase;
   
-  constructor() {
-    // Debug: Log the API URL being used
-    console.log('🔧 SurveillanceDataService initialized with API URL:', this.baseUrl);
-    console.log('🔧 Environment variable REACT_APP_API_URL:', process.env.REACT_APP_API_URL);
+  // Get metrics (counts only) for a month - FAST endpoint
+  async getMetricsForMonth(month: string, year: number, startDate?: string, endDate?: string): Promise<{
+    totalTrades: number;
+    emailMatches: number;
+    omsMatches: number;
+    audioMatches: number;
+    unmatchedOrders: number;
+    actualDiscrepancies: number;
+    reportingDiscrepancies: number;
+  }> {
+    let url = `${this.apiBase}/metrics/${year}/${month}`;
+    
+    const params = new URLSearchParams();
+    if (startDate) params.append('startDate', startDate);
+    if (endDate) params.append('endDate', endDate);
+    if (params.toString()) {
+      url += `?${params.toString()}`;
+    }
+    
+    try {
+      const response = await fetch(url, {
+        cache: 'no-store',
+        headers: {
+          'Cache-Control': 'no-cache',
+          'Pragma': 'no-cache'
+        }
+      });
+      if (!response.ok) {
+        throw new Error(`Failed to fetch metrics: ${response.statusText}`);
+      }
+      return await response.json();
+    } catch (error) {
+      console.error('Error fetching metrics:', error);
+      // Return zeros on error
+      return {
+        totalTrades: 0,
+        emailMatches: 0,
+        omsMatches: 0,
+        audioMatches: 0,
+        unmatchedOrders: 0,
+        actualDiscrepancies: 0,
+        reportingDiscrepancies: 0
+      };
+    }
   }
 
   // Get real orders for a specific metric type and date
@@ -110,9 +150,6 @@ class SurveillanceDataService {
     }
     
     try {
-      console.log(`Fetching orders from: ${url}`);
-      // This will call your backend API to read from actual Excel files
-      // Add cache-busting and ensure fresh data
       const response = await fetch(url, {
         cache: 'no-store',
         headers: {
@@ -120,20 +157,13 @@ class SurveillanceDataService {
           'Pragma': 'no-cache'
         }
       });
-      console.log('Response status:', response.status);
       if (!response.ok) {
         throw new Error(`Failed to fetch orders: ${response.statusText}`);
       }
-      const data = await response.json();
-      console.log(`Received ${data.length} orders from backend`);
-      return data;
+      return await response.json();
     } catch (error) {
       console.error('Error fetching orders:', error);
-      console.error('API URL attempted:', url);
-      console.error('Full error details:', error);
-      // Don't fallback to mock data - return empty array so user knows there's an issue
-      // This will help debug why API calls are failing
-      throw error; // Re-throw so caller knows the request failed
+      throw error;
     }
   }
 
